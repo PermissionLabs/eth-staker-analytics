@@ -18,9 +18,9 @@ def create_metric_cards(df: pd.DataFrame) -> dict:
 
     Returns dict with:
         - wallet_count: Number of wallets
-        - avg_eth_amount: Average ETH held
-        - median_eth_amount: Median ETH held
-        - avg_eth_ratio: Average ETH portfolio ratio
+        - avg_eth_amount: Average ETH group amount held
+        - median_eth_amount: Median ETH group amount held
+        - avg_eth_ratio: Average ETH group portfolio ratio
         - avg_protocol_count: Average protocols used
         - total_value: Total USD value
     """
@@ -137,7 +137,7 @@ def create_distribution_histogram(
 
 
 def create_eth_ratio_histogram(df: pd.DataFrame) -> go.Figure:
-    """Create histogram for ETH portfolio ratio distribution."""
+    """Create histogram for ETH group portfolio ratio distribution."""
     if len(df) == 0:
         return go.Figure().add_annotation(text="No data", showarrow=False)
 
@@ -149,17 +149,17 @@ def create_eth_ratio_histogram(df: pd.DataFrame) -> go.Figure:
         df_plot,
         x="eth_ratio_pct",
         nbins=20,
-        title="ETH 비율 분포",
-        labels={"eth_ratio_pct": "ETH 비율 (%)"},
+        title="ETH 그룹 자산 비율 분포",
+        labels={"eth_ratio_pct": "ETH 그룹 비율 (%)"},
         color_discrete_sequence=[CHART_COLORS[0]]
     )
 
     fig.update_traces(
-        hovertemplate="<b>ETH 비율</b>: %{x:.0f}%<br><b>지갑 수</b>: %{y}<extra></extra>"
+        hovertemplate="<b>ETH 그룹 비율</b>: %{x:.0f}%<br><b>지갑 수</b>: %{y}<extra></extra>"
     )
 
     fig.update_layout(
-        xaxis_title="ETH 비율 (%)",
+        xaxis_title="ETH 그룹 비율 (%)",
         yaxis_title="지갑 수",
         xaxis=dict(range=[0, 100], ticksuffix="%"),
         bargap=0.1,

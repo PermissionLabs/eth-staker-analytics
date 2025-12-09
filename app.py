@@ -247,7 +247,7 @@ def render_sidebar(df: pd.DataFrame, all_protocols: list):
     )
 
     # ETH ratio filter (range)
-    st.sidebar.subheader("ETH 비율 (%)")
+    st.sidebar.subheader("ETH 그룹 비율 (%)")
     eth_ratio_range = st.sidebar.slider(
         "ETH Ratio Range",
         min_value=0,
@@ -259,7 +259,7 @@ def render_sidebar(df: pd.DataFrame, all_protocols: list):
     )
 
     # USD ratio filter (range)
-    st.sidebar.subheader("USD 비율 (%)")
+    st.sidebar.subheader("USD 그룹 비율 (%)")
     usd_ratio_range = st.sidebar.slider(
         "USD Ratio Range",
         min_value=0,
@@ -271,7 +271,7 @@ def render_sidebar(df: pd.DataFrame, all_protocols: list):
     )
 
     # BTC ratio filter (range)
-    st.sidebar.subheader("BTC 비율 (%)")
+    st.sidebar.subheader("BTC 그룹 비율 (%)")
     btc_ratio_range = st.sidebar.slider(
         "BTC Ratio Range",
         min_value=0,
@@ -284,11 +284,11 @@ def render_sidebar(df: pd.DataFrame, all_protocols: list):
 
     # DeFi Ratio Filters Section
     st.sidebar.divider()
-    st.sidebar.subheader("🏦 DeFi 자산 비율 필터")
+    st.sidebar.subheader("🏦 DeFi 자산 그룹 비율 필터")
     st.sidebar.caption("DeFi 포지션 중 해당 자산 그룹의 비율")
 
     # ETH DeFi ratio filter
-    st.sidebar.markdown("**ETH DeFi 비율 (%)**")
+    st.sidebar.markdown("**ETH 그룹 DeFi 비율 (%)**")
     eth_defi_ratio_range = st.sidebar.slider(
         "ETH DeFi Ratio",
         min_value=0,
@@ -300,7 +300,7 @@ def render_sidebar(df: pd.DataFrame, all_protocols: list):
     )
 
     # USD DeFi ratio filter
-    st.sidebar.markdown("**USD DeFi 비율 (%)**")
+    st.sidebar.markdown("**USD 그룹 DeFi 비율 (%)**")
     usd_defi_ratio_range = st.sidebar.slider(
         "USD DeFi Ratio",
         min_value=0,
@@ -312,7 +312,7 @@ def render_sidebar(df: pd.DataFrame, all_protocols: list):
     )
 
     # BTC DeFi ratio filter
-    st.sidebar.markdown("**BTC DeFi 비율 (%)**")
+    st.sidebar.markdown("**BTC 그룹 DeFi 비율 (%)**")
     btc_defi_ratio_range = st.sidebar.slider(
         "BTC DeFi Ratio",
         min_value=0,
@@ -568,7 +568,7 @@ def render_overview_tab(df: pd.DataFrame, df_filtered: pd.DataFrame, eth_price: 
 
     with col4:
         st.metric(
-            "평균 ETH 비율",
+            "평균 ETH 그룹 비율",
             f"{metrics['avg_eth_ratio']:.1f}%",
             delta=f"{metrics['avg_eth_ratio'] - metrics_all['avg_eth_ratio']:.1f}%" if abs(metrics['avg_eth_ratio'] - metrics_all['avg_eth_ratio']) > 0.1 else None
         )
@@ -586,7 +586,7 @@ def render_overview_tab(df: pd.DataFrame, df_filtered: pd.DataFrame, eth_price: 
         st.metric("평균 프로토콜 수", f"{metrics['avg_protocol_count']:.1f}")
 
     with col8:
-        st.metric("평균 ETH DeFi 비율", f"{metrics['avg_eth_defi_ratio']:.1f}%")
+        st.metric("평균 ETH 그룹 DeFi 비율", f"{metrics['avg_eth_defi_ratio']:.1f}%")
 
     st.divider()
 
@@ -634,15 +634,15 @@ def render_intersection_tab(df: pd.DataFrame):
     numeric_columns = {
         "wallet_days": "지갑 나이 (일)",
         "total_usd": "총 자산 ($)",
-        "eth_ratio": "ETH 비율",
-        "usd_ratio": "USD 비율",
-        "btc_ratio": "BTC 비율",
+        "eth_ratio": "ETH 그룹 비율",
+        "usd_ratio": "USD 그룹 비율",
+        "btc_ratio": "BTC 그룹 비율",
         "eth_amount": "ETH 수량",
         "btc_amount": "BTC 수량",
         "protocol_count": "프로토콜 수",
-        "eth_defi_ratio": "ETH DeFi 비율",
-        "usd_defi_ratio": "USD DeFi 비율",
-        "btc_defi_ratio": "BTC DeFi 비율"
+        "eth_defi_ratio": "ETH 그룹 DeFi 비율",
+        "usd_defi_ratio": "USD 그룹 DeFi 비율",
+        "btc_defi_ratio": "BTC 그룹 DeFi 비율"
     }
     # Filter to only columns that exist
     numeric_columns = {k: v for k, v in numeric_columns.items() if k in df.columns}
@@ -846,16 +846,16 @@ def render_wallet_details(address: str):
     col1, col2, col3, col4 = st.columns(4)
     with col1:
         eth_ratio = (eth_value / total_value * 100) if total_value > 0 else 0
-        st.metric("ETH 비율", f"{eth_ratio:.1f}%")
+        st.metric("ETH 그룹 비율", f"{eth_ratio:.1f}%")
     with col2:
         btc_ratio = (btc_value / total_value * 100) if total_value > 0 else 0
-        st.metric("BTC 비율", f"{btc_ratio:.1f}%")
+        st.metric("BTC 그룹 비율", f"{btc_ratio:.1f}%")
     with col3:
         usd_ratio = (usd_value / total_value * 100) if total_value > 0 else 0
-        st.metric("USD 비율", f"{usd_ratio:.1f}%")
+        st.metric("USD 그룹 비율", f"{usd_ratio:.1f}%")
     with col4:
         other_ratio = 100 - eth_ratio - btc_ratio - usd_ratio
-        st.metric("기타 비율", f"{other_ratio:.1f}%")
+        st.metric("기타 그룹 비율", f"{other_ratio:.1f}%")
 
     # Top tokens and protocols summary
     col1, col2 = st.columns(2)
@@ -1113,7 +1113,7 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
     st.divider()
 
     # === Row 2: Asset Ratio Distribution ===
-    st.markdown("### 📊 자산 비율 분포")
+    st.markdown("### 📊 자산 그룹 비율 분포")
     col1, col2, col3 = st.columns(3)
 
     with col1:
@@ -1124,7 +1124,7 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
             bin_starts = bin_edges[:-1]
             bin_ends = bin_edges[1:]
 
-            hover_texts = [f"<b>ETH 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
+            hover_texts = [f"<b>ETH 그룹 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
                           for s, e, c in zip(bin_starts, bin_ends, counts)]
 
             fig = go.Figure()
@@ -1137,9 +1137,9 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
                 hoverinfo="text"
             ))
             fig.update_layout(
-                title="ETH 비율 분포",
+                title="ETH 그룹 자산 비율 분포",
                 height=300,
-                xaxis=dict(range=[0, 100], ticksuffix="%", title="ETH 비율 (%)"),
+                xaxis=dict(range=[0, 100], ticksuffix="%", title="ETH 그룹 비율 (%)"),
                 yaxis_title="지갑 수",
                 bargap=0.1
             )
@@ -1153,7 +1153,7 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
             bin_starts = bin_edges[:-1]
             bin_ends = bin_edges[1:]
 
-            hover_texts = [f"<b>USD 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
+            hover_texts = [f"<b>USD 그룹 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
                           for s, e, c in zip(bin_starts, bin_ends, counts)]
 
             fig = go.Figure()
@@ -1166,9 +1166,9 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
                 hoverinfo="text"
             ))
             fig.update_layout(
-                title="USD 비율 분포",
+                title="USD 그룹 자산 비율 분포",
                 height=300,
-                xaxis=dict(range=[0, 100], ticksuffix="%", title="USD 비율 (%)"),
+                xaxis=dict(range=[0, 100], ticksuffix="%", title="USD 그룹 비율 (%)"),
                 yaxis_title="지갑 수",
                 bargap=0.1
             )
@@ -1182,7 +1182,7 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
             bin_starts = bin_edges[:-1]
             bin_ends = bin_edges[1:]
 
-            hover_texts = [f"<b>BTC 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
+            hover_texts = [f"<b>BTC 그룹 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
                           for s, e, c in zip(bin_starts, bin_ends, counts)]
 
             fig = go.Figure()
@@ -1195,9 +1195,9 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
                 hoverinfo="text"
             ))
             fig.update_layout(
-                title="BTC 비율 분포",
+                title="BTC 그룹 자산 비율 분포",
                 height=300,
-                xaxis=dict(range=[0, 100], ticksuffix="%", title="BTC 비율 (%)"),
+                xaxis=dict(range=[0, 100], ticksuffix="%", title="BTC 그룹 비율 (%)"),
                 yaxis_title="지갑 수",
                 bargap=0.1
             )
@@ -1206,7 +1206,7 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
     st.divider()
 
     # === Row 2.5: DeFi Asset Ratio Distribution ===
-    st.markdown("### 🏦 DeFi 자산 비율 분포")
+    st.markdown("### 🏦 DeFi 자산 그룹 비율 분포")
     st.caption("DeFi 포지션 중 해당 자산 그룹의 비율 (토큰 기준)")
     col1, col2, col3 = st.columns(3)
 
@@ -1218,7 +1218,7 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
             bin_starts = bin_edges[:-1]
             bin_ends = bin_edges[1:]
 
-            hover_texts = [f"<b>ETH DeFi 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
+            hover_texts = [f"<b>ETH 그룹 DeFi 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
                           for s, e, c in zip(bin_starts, bin_ends, counts)]
 
             fig = go.Figure()
@@ -1231,9 +1231,9 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
                 hoverinfo="text"
             ))
             fig.update_layout(
-                title="ETH DeFi 비율 분포",
+                title="ETH 그룹 DeFi 비율 분포",
                 height=300,
-                xaxis=dict(range=[0, 100], ticksuffix="%", title="ETH DeFi 비율 (%)"),
+                xaxis=dict(range=[0, 100], ticksuffix="%", title="ETH 그룹 DeFi 비율 (%)"),
                 yaxis_title="지갑 수",
                 bargap=0.1
             )
@@ -1247,7 +1247,7 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
             bin_starts = bin_edges[:-1]
             bin_ends = bin_edges[1:]
 
-            hover_texts = [f"<b>USD DeFi 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
+            hover_texts = [f"<b>USD 그룹 DeFi 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
                           for s, e, c in zip(bin_starts, bin_ends, counts)]
 
             fig = go.Figure()
@@ -1260,9 +1260,9 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
                 hoverinfo="text"
             ))
             fig.update_layout(
-                title="USD DeFi 비율 분포",
+                title="USD 그룹 DeFi 비율 분포",
                 height=300,
-                xaxis=dict(range=[0, 100], ticksuffix="%", title="USD DeFi 비율 (%)"),
+                xaxis=dict(range=[0, 100], ticksuffix="%", title="USD 그룹 DeFi 비율 (%)"),
                 yaxis_title="지갑 수",
                 bargap=0.1
             )
@@ -1276,7 +1276,7 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
             bin_starts = bin_edges[:-1]
             bin_ends = bin_edges[1:]
 
-            hover_texts = [f"<b>BTC DeFi 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
+            hover_texts = [f"<b>BTC 그룹 DeFi 비율</b>: {int(s)}%~{int(e)}%<br><b>지갑 수</b>: {c}"
                           for s, e, c in zip(bin_starts, bin_ends, counts)]
 
             fig = go.Figure()
@@ -1289,9 +1289,9 @@ def render_bias_analysis_tab(df_filtered: pd.DataFrame, data_dir):
                 hoverinfo="text"
             ))
             fig.update_layout(
-                title="BTC DeFi 비율 분포",
+                title="BTC 그룹 DeFi 비율 분포",
                 height=300,
-                xaxis=dict(range=[0, 100], ticksuffix="%", title="BTC DeFi 비율 (%)"),
+                xaxis=dict(range=[0, 100], ticksuffix="%", title="BTC 그룹 DeFi 비율 (%)"),
                 yaxis_title="지갑 수",
                 bargap=0.1
             )
@@ -1472,10 +1472,10 @@ def render_table_tab(df_filtered: pd.DataFrame):
             "vault_name": st.column_config.TextColumn("볼트", width="medium"),
             "vault_share": st.column_config.NumberColumn("볼트 지분율", format="%.2f%%"),
             "total_usd": st.column_config.NumberColumn("Total USD", format="$%.2f"),
-            "eth_ratio": st.column_config.ProgressColumn("ETH Ratio", min_value=0, max_value=1),
-            "eth_defi_ratio": st.column_config.ProgressColumn("ETH DeFi Ratio", min_value=0, max_value=1),
-            "usd_defi_ratio": st.column_config.ProgressColumn("USD DeFi Ratio", min_value=0, max_value=1),
-            "btc_defi_ratio": st.column_config.ProgressColumn("BTC DeFi Ratio", min_value=0, max_value=1),
+            "eth_ratio": st.column_config.ProgressColumn("ETH 그룹 비율", min_value=0, max_value=1),
+            "eth_defi_ratio": st.column_config.ProgressColumn("ETH 그룹 DeFi 비율", min_value=0, max_value=1),
+            "usd_defi_ratio": st.column_config.ProgressColumn("USD 그룹 DeFi 비율", min_value=0, max_value=1),
+            "btc_defi_ratio": st.column_config.ProgressColumn("BTC 그룹 DeFi 비율", min_value=0, max_value=1),
         },
         selection_mode="single-row",
         on_select="rerun",

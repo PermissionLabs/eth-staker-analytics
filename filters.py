@@ -403,7 +403,7 @@ FILTER_TEMPLATES = {
         column="eth_ratio",
         filter_type="min",
         value=0.5,
-        label="ETH Ratio > 50%"
+        label="ETH 그룹 비율 > 50%"
     ),
     "whale": FilterConfig(
         name="whale",

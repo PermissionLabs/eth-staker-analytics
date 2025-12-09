@@ -162,7 +162,7 @@ VENN_PRESETS = {
                 column="eth_ratio",
                 filter_type="min",
                 value=0.5,
-                label="ETH > 50%"
+                label="ETH 그룹 > 50%"
             ),
             FilterConfig(
                 name="whale",
@@ -174,22 +174,22 @@ VENN_PRESETS = {
         ]
     },
     "eth_exposure": {
-        "name": "ETH Exposure",
-        "description": "ETH heavy vs DeFi active vs multi-protocol",
+        "name": "ETH 그룹 노출도",
+        "description": "ETH 그룹 비율 vs DeFi 활동 vs 멀티 프로토콜",
         "filters": [
             FilterConfig(
                 name="eth_heavy",
                 column="eth_ratio",
                 filter_type="min",
                 value=0.5,
-                label="ETH > 50%"
+                label="ETH 그룹 > 50%"
             ),
             FilterConfig(
                 name="high_defi",
                 column="eth_defi_ratio",
                 filter_type="min",
                 value=0.3,
-                label="ETH DeFi > 30%"
+                label="ETH 그룹 DeFi > 30%"
             ),
             FilterConfig(
                 name="multi_protocol",
