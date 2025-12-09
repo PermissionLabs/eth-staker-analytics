@@ -1,0 +1,272 @@
+{
+  "portfolio": {
+    "address": "0xcfd2223ac19a5f1b11b05f9f58cd36eb415db710",
+    "totalValue": "$13,706",
+    "walletLifetime": "1472 days",
+    "tokens": [
+      {
+        "symbol": "UBTC",
+        "chain": "hyper",
+        "price": "$90,624.6855",
+        "amount": "0.0113",
+        "usdValue": "$1,023.73"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$1.0000",
+        "amount": "239.8706",
+        "usdValue": "$239.87"
+      },
+      {
+        "symbol": "thBILL",
+        "chain": "hyper",
+        "price": "$1.0124",
+        "amount": "159.7226",
+        "usdValue": "$161.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,121.0000",
+        "amount": "0.0361",
+        "usdValue": "$112.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.5100",
+        "amount": "0.0316",
+        "usdValue": "$98.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,120.5100",
+        "amount": "0.0112",
+        "usdValue": "$34.98"
+      },
+      {
+        "symbol": "mUSD",
+        "chain": "linea",
+        "price": "$0.9999",
+        "amount": "18.4007",
+        "usdValue": "$18.40"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2680",
+        "amount": "60.6839",
+        "usdValue": "$16.26"
+      },
+      {
+        "symbol": "stHYPE",
+        "chain": "hyper",
+        "price": "$28.1766",
+        "amount": "0.4709",
+        "usdValue": "$13.27"
+      },
+      {
+        "symbol": "iBGT",
+        "chain": "bera",
+        "price": "$0.8201",
+        "amount": "12.0902",
+        "usdValue": "$9.92"
+      },
+      {
+        "symbol": "WHYPE",
+        "chain": "hyper",
+        "price": "$28.1950",
+        "amount": "0.2584",
+        "usdValue": "$7.29"
+      },
+      {
+        "symbol": "BERA",
+        "chain": "bera",
+        "price": "$0.8210",
+        "amount": "8.5032",
+        "usdValue": "$6.98"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$28.1950",
+        "amount": "0.0997",
+        "usdValue": "$2.81"
+      },
+      {
+        "symbol": "WBERA",
+        "chain": "bera",
+        "price": "$0.8210",
+        "amount": "3.1973",
+        "usdValue": "$2.63"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$10,412"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,159"
+      },
+      {
+        "protocol": "Kinetiq",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "kHYPE",
+        "usdValue": "$283"
+      },
+      {
+        "protocol": "Felix",
+        "chain": "hyper",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "feUSD",
+        "usdValue": "$54"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$30"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcfd2223ac19a5f1b11b05f9f58cd36eb415db710",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$18K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$15K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xe30b…01e1",
+        "volume": "$13K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$13K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$13K"
+      },
+      {
+        "name": "WOWMAX",
+        "volume": "$8K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x41d3…87b3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Kodiak",
+        "volume": "$4K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$4K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$4K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "Mitosis",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$61K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$17K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$14K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$4K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "HONEY",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:31:14.000Z",
+  "source": "base_aave",
+  "vaultBalance": 0.37001743492094946,
+  "vaultPct": 0.0005443253431907196
+}

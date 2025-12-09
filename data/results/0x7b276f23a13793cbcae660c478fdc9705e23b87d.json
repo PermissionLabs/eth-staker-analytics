@@ -1,0 +1,237 @@
+{
+  "portfolio": {
+    "address": "0x7b276f23a13793cbcae660c478fdc9705e23b87d",
+    "totalValue": "$4,660",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ezETH",
+        "chain": "arb",
+        "price": "$3,321.0114",
+        "amount": "0.7930",
+        "usdValue": "$2,633.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.2600",
+        "amount": "0.0171",
+        "usdValue": "$53.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.2600",
+        "amount": "0.0129",
+        "usdValue": "$40.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,120.0000",
+        "amount": "0.0019",
+        "usdValue": "$6.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,120.0000",
+        "amount": "0.0015",
+        "usdValue": "$4.75"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$962"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$952"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "bsc",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "cbETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDT0",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Karak",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KrsETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7b276f23a13793cbcae660c478fdc9705e23b87d",
+    "topProtocols": [
+      {
+        "name": "ODOS",
+        "volume": "$53K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$16K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$8K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$7K"
+      },
+      {
+        "name": "EISEN",
+        "volume": "$7K"
+      },
+      {
+        "name": "Karak",
+        "volume": "$6K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5523…b59e",
+        "volume": "$4K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$3K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Scribe",
+        "volume": "$3K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$93K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$51K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$41K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$38K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$22K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "KezETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "XEROAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:33:12.687Z",
+  "source": "moonwell",
+  "vaultBalance": 0.20409994464510087,
+  "vaultPct": 0.003702827396314318
+}

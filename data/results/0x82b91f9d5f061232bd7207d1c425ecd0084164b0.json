@@ -1,0 +1,115 @@
+{
+  "portfolio": {
+    "address": "0x82b91f9d5f061232bd7207d1c425ecd0084164b0",
+    "totalValue": "$0",
+    "walletLifetime": "468 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "55.2493",
+        "usdValue": "$55.24"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "12.4672",
+        "usdValue": "$12.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.2900",
+        "amount": "0.0010",
+        "usdValue": "$3.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,120.9900",
+        "amount": "0.0003",
+        "usdValue": "$1.04"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3177",
+        "amount": "1.5724",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "lUSD",
+        "chain": "bsc",
+        "price": "$0.0₅3958",
+        "amount": "64,942.2658",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "op",
+        "price": "$0.0101",
+        "amount": "3.2559",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$69,218"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$24,633"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$31"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$6"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x82b91f9d5f061232bd7207d1c425ecd0084164b0",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T08:10:25.869Z",
+  "source": "moonwell",
+  "vaultBalance": 3.26261774570036,
+  "vaultPct": 0.05919114967663239
+}

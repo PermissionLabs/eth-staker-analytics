@@ -1,0 +1,319 @@
+{
+  "portfolio": {
+    "address": "0xf406572fe97b99cc8291f677b10f864871a1a8fd",
+    "totalValue": "$1,469,918",
+    "walletLifetime": "1517 days",
+    "tokens": [
+      {
+        "symbol": "cbETH",
+        "chain": "arb",
+        "price": "$3,462.1600",
+        "amount": "0.9924",
+        "usdValue": "$3,435.92"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,113.4200",
+        "amount": "1.0419",
+        "usdValue": "$3,243.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.4200",
+        "amount": "0.5767",
+        "usdValue": "$1,795.61"
+      },
+      {
+        "symbol": "RLUSD",
+        "chain": "eth",
+        "price": "$0.9996",
+        "amount": "1,721.1423",
+        "usdValue": "$1,720.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.4200",
+        "amount": "0.5360",
+        "usdValue": "$1,668.75"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3155",
+        "amount": "558.0300",
+        "usdValue": "$176.06"
+      },
+      {
+        "symbol": "mooBIFI",
+        "chain": "op",
+        "price": "$143.7288",
+        "amount": "0.8554",
+        "usdValue": "$122.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,113.4200",
+        "amount": "0.0235",
+        "usdValue": "$73.20"
+      },
+      {
+        "symbol": "wstETH",
+        "chain": "base",
+        "price": "$3,800.5742",
+        "amount": "0.0164",
+        "usdValue": "$62.51"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6200",
+        "amount": "2.7351",
+        "usdValue": "$37.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,113.4200",
+        "amount": "0.0101",
+        "usdValue": "$31.52"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "19.2482",
+        "usdValue": "$19.25"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "matic",
+        "price": "$0.5963",
+        "amount": "31.7573",
+        "usdValue": "$18.94"
+      },
+      {
+        "symbol": "SD(Wormhole)",
+        "chain": "bsc",
+        "price": "$0.2409",
+        "amount": "66.0359",
+        "usdValue": "$15.91"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "op",
+        "price": "$0.5972",
+        "amount": "24.7704",
+        "usdValue": "$14.79"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$791,777"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$284,158"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$162,581"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "tBTC",
+        "usdValue": "$98,568"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "Locked",
+        "token": "PT-stETH-30DEC2027",
+        "usdValue": "$33,434"
+      },
+      {
+        "protocol": "Contango",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$26,254"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EBTC",
+        "usdValue": "$19,594"
+      },
+      {
+        "protocol": "Contango",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$18,061"
+      },
+      {
+        "protocol": "Contango",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "weETH",
+        "usdValue": "$15,587"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "crvUSD",
+        "usdValue": "$5,183"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf406572fe97b99cc8291f677b10f864871a1a8fd",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$17M"
+      },
+      {
+        "name": "0xf32e…1dd1",
+        "volume": "$12M"
+      },
+      {
+        "name": "0x9d36…97d9",
+        "volume": "$4M"
+      },
+      {
+        "name": "Silo",
+        "volume": "$3M"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$2M"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$2M"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$1M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$927K"
+      },
+      {
+        "name": "Gamma",
+        "volume": "$875K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$785K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$750K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$691K"
+      },
+      {
+        "name": "Beets",
+        "volume": "$640K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11M"
+      },
+      {
+        "name": "USDe",
+        "volume": "$7M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6M"
+      },
+      {
+        "name": "USDS",
+        "volume": "$4M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDtb",
+        "volume": "$3M"
+      },
+      {
+        "name": "MwstETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$2M"
+      },
+      {
+        "name": "rETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "MUSDC.e",
+        "volume": "$2M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1M"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$1M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:11:46.241Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 47.92375789101067,
+  "vaultPct": 0.5345219298084781
+}

@@ -1,0 +1,111 @@
+{
+  "portfolio": {
+    "address": "0xc67cff86007adfe5fbd887786b56ce1a22596a25",
+    "totalValue": "$7,757",
+    "walletLifetime": "1233 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "5,000.0001",
+        "usdValue": "$5,000.00"
+      },
+      {
+        "symbol": "SOL (Wormhole)",
+        "chain": "eth",
+        "price": "$133.0512",
+        "amount": "15.9214",
+        "usdValue": "$2,118.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.0400",
+        "amount": "0.1573",
+        "usdValue": "$491.57"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1230",
+        "amount": "1,198.0011",
+        "usdValue": "$147.31"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0268",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "PIG",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "138.5400",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xc67cff86007adfe5fbd887786b56ce1a22596a25",
+    "topProtocols": [
+      {
+        "name": "0x46d3…4348",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf1b6…0b71",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8087…3155",
+        "volume": "$227"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa090…8984",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x35a5…570c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:55:15.393Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.09764462615871061,
+  "vaultPct": 0.000018155752007763218
+}

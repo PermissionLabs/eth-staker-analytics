@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0xe6f486253dda8c33eab7a16dc64a4989f05efa3f",
+    "totalValue": "$3,491",
+    "walletLifetime": "830 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.6800",
+        "amount": "0.0279",
+        "usdValue": "$87.00"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4700",
+        "amount": "121.1490",
+        "usdValue": "$56.94"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3156",
+        "amount": "174.2223",
+        "usdValue": "$54.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.6800",
+        "amount": "0.0169",
+        "usdValue": "$52.68"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1993",
+        "amount": "17.7737",
+        "usdValue": "$21.32"
+      },
+      {
+        "symbol": "ZRC",
+        "chain": "zircuit",
+        "price": "$0.0066",
+        "amount": "1,545.7487",
+        "usdValue": "$10.20"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "600.1922",
+        "usdValue": "$6.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,112.3500",
+        "amount": "0.0005",
+        "usdValue": "$1.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3,198"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe6f486253dda8c33eab7a16dc64a4989f05efa3f",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x5300…0004",
+        "volume": "$12K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$10K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$5K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$4K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$4K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$3K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe050…aaba",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$997"
+      },
+      {
+        "name": "WOO Network",
+        "volume": "$683"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "OP",
+        "volume": "$681"
+      },
+      {
+        "name": "SCR",
+        "volume": "$123K"
+      },
+      {
+        "name": "ERNEL",
+        "volume": "$65"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$40M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$38"
+      },
+      {
+        "name": "WELL",
+        "volume": "$14"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:19:33.146Z",
+  "source": "moonwell",
+  "vaultBalance": 1.0068451063288988,
+  "vaultPct": 0.01826641183094088
+}

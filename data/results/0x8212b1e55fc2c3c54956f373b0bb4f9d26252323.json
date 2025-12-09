@@ -1,0 +1,242 @@
+{
+  "portfolio": {
+    "address": "0x8212b1e55fc2c3c54956f373b0bb4f9d26252323",
+    "totalValue": "$44,545",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "matic",
+        "price": "$90,585.0400",
+        "amount": "0.0671",
+        "usdValue": "$6,079.06"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,585.0500",
+        "amount": "0.0138",
+        "usdValue": "$1,249.92"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "matic",
+        "price": "$0.3889",
+        "amount": "1,815.0001",
+        "usdValue": "$705.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.0300",
+        "amount": "0.1689",
+        "usdValue": "$528.09"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,127.0300",
+        "amount": "0.0705",
+        "usdValue": "$220.31"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2035",
+        "amount": "170.9507",
+        "usdValue": "$205.74"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "1,462.9433",
+        "usdValue": "$180.23"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "4,079.7735",
+        "usdValue": "$41.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$31,807"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "LINK",
+        "usdValue": "$3,421"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$96"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "OP",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "QUICK",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8212b1e55fc2c3c54956f373b0bb4f9d26252323",
+    "topProtocols": [
+      {
+        "name": "Compound V3",
+        "volume": "$42K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$29K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$29K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$24K"
+      },
+      {
+        "name": "0xf6e5…6284",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xe7cb…8c71",
+        "volume": "$14K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x768b…d1fd",
+        "volume": "$13K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$9K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "squid",
+        "volume": "$6K"
+      },
+      {
+        "name": "ICHI",
+        "volume": "$5K"
+      },
+      {
+        "name": "WMATIC",
+        "volume": "$5K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x8b4a…9993",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDbC",
+        "volume": "$83K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$42K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$31K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$27K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$20K"
+      },
+      {
+        "name": "POL",
+        "volume": "$18K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$10K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$7K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "KLDO",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:21:07.604Z",
+  "source": "moonwell",
+  "vaultBalance": 2.987657779944416,
+  "vaultPct": 0.05420276373727739
+}

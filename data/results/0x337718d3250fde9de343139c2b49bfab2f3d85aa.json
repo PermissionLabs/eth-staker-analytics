@@ -1,0 +1,173 @@
+{
+  "portfolio": {
+    "address": "0x337718d3250fde9de343139c2b49bfab2f3d85aa",
+    "totalValue": "$1,252",
+    "walletLifetime": "416 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.2800",
+        "amount": "0.0276",
+        "usdValue": "$86.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.2800",
+        "amount": "0.0008",
+        "usdValue": "$2.59"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2025",
+        "amount": "0.5883",
+        "usdValue": "$0.71"
+      },
+      {
+        "symbol": "ZORA",
+        "chain": "base",
+        "price": "$0.0482",
+        "amount": "12.9708",
+        "usdValue": "$0.62"
+      },
+      {
+        "symbol": "REKT(rektcoin.com)",
+        "chain": "base",
+        "price": "$0.0₆3193",
+        "amount": "500,000.0000",
+        "usdValue": "$0.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "VIRTUAL",
+        "usdValue": "$640"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$521"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x337718d3250fde9de343139c2b49bfab2f3d85aa",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x",
+        "volume": "$3K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$806M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$548M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$542"
+      },
+      {
+        "name": "0xd0a2…572f",
+        "volume": "$394"
+      },
+      {
+        "name": "0x6081…fe80",
+        "volume": "$250M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$98"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$54"
+      },
+      {
+        "name": "Highlight",
+        "volume": "$38"
+      },
+      {
+        "name": "ENS",
+        "volume": "$25"
+      },
+      {
+        "name": "Relay",
+        "volume": "$25B"
+      },
+      {
+        "name": "asenames",
+        "volume": "$13"
+      },
+      {
+        "name": "0x31a5…8de8",
+        "volume": "$2M"
+      },
+      {
+        "name": "erkl",
+        "volume": "$1"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$4K"
+      },
+      {
+        "name": "SHEKEL",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$504"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$26"
+      },
+      {
+        "name": "WELL",
+        "volume": "$15M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:14:32.853Z",
+  "source": "moonwell",
+  "vaultBalance": 0.1589463954665408,
+  "vaultPct": 0.0028836414860489994
+}

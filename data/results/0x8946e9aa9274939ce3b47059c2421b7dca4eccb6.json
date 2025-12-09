@@ -1,0 +1,331 @@
+{
+  "portfolio": {
+    "address": "0x8946e9aa9274939ce3b47059c2421b7dca4eccb6",
+    "totalValue": "$2,247",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.6500",
+        "amount": "0.0600",
+        "usdValue": "$187.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.6500",
+        "amount": "0.0356",
+        "usdValue": "$111.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,122.0400",
+        "amount": "0.0235",
+        "usdValue": "$73.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,122.5500",
+        "amount": "0.0100",
+        "usdValue": "$31.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,121.6500",
+        "amount": "0.0028",
+        "usdValue": "$8.64"
+      },
+      {
+        "symbol": "VELO(v2)",
+        "chain": "op",
+        "price": "$0.0282",
+        "amount": "292.8625",
+        "usdValue": "$8.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,121.6500",
+        "amount": "0.0018",
+        "usdValue": "$5.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,122.5500",
+        "amount": "0.0018",
+        "usdValue": "$5.50"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0001",
+        "amount": "4.8826",
+        "usdValue": "$4.88"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3162",
+        "amount": "9.6905",
+        "usdValue": "$3.06"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6556",
+        "amount": "4.5270",
+        "usdValue": "$2.97"
+      },
+      {
+        "symbol": "MANTA",
+        "chain": "manta",
+        "price": "$0.0901",
+        "amount": "25.0000",
+        "usdValue": "$2.25"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,121.6500",
+        "amount": "0.0005",
+        "usdValue": "$1.56"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆98",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8434",
+        "amount": "0.6927",
+        "usdValue": "$0.58"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$566"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$413"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$202"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$190"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$163"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$157"
+      },
+      {
+        "protocol": "Velodrome V2",
+        "chain": "op",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "VELO(v2)",
+        "usdValue": "$53"
+      },
+      {
+        "protocol": "Cypher",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "CYPR",
+        "usdValue": "$49"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8946e9aa9274939ce3b47059c2421b7dca4eccb6",
+    "topProtocols": [
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$117K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$48K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$47K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$47K"
+      },
+      {
+        "name": "Sonne Finance",
+        "volume": "$24K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$24K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$24K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$24K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$12K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$12K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x0541…9aa4",
+        "volume": "$12K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$864"
+      },
+      {
+        "name": "Aperture",
+        "volume": "$657"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$586"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$308K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$164K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$626"
+      },
+      {
+        "name": "ZK",
+        "volume": "$336"
+      },
+      {
+        "name": "AERO",
+        "volume": "$319"
+      },
+      {
+        "name": "USDT",
+        "volume": "$214M"
+      },
+      {
+        "name": "ANTA",
+        "volume": "$196"
+      },
+      {
+        "name": "OP",
+        "volume": "$115"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$98"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:25:33.429Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09832617606519971,
+  "vaultPct": 0.0017838557435286692
+}

@@ -1,0 +1,129 @@
+{
+  "portfolio": {
+    "address": "0x2334181004ef1dc508180065620c3430c26ae55e",
+    "totalValue": "$41",
+    "walletLifetime": "1421 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9100",
+        "amount": "0.0130",
+        "usdValue": "$40.67"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.1984",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.0006",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7902",
+        "amount": "6.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x2334181004ef1dc508180065620c3430c26ae55e",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x2d3f…3e08",
+        "volume": "$577K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$550K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$468K"
+      },
+      {
+        "name": "0xa597…e9a1",
+        "volume": "$282K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$262K"
+      },
+      {
+        "name": "0x52d5…7166",
+        "volume": "$203K"
+      },
+      {
+        "name": "0x560d…4618",
+        "volume": "$136K"
+      },
+      {
+        "name": "0xac99…d014",
+        "volume": "$122K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$68K"
+      },
+      {
+        "name": "0xd2a7…038d",
+        "volume": "$47K"
+      },
+      {
+        "name": "0xba0b…c470",
+        "volume": "$38K"
+      },
+      {
+        "name": "0xc9fc…e829",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x0c15…5447",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x243e…fb2e",
+        "volume": "$24K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$1M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$972K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$366K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:47:13.610Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 44.60181612493305,
+  "vaultPct": 0.008293129325355105
+}

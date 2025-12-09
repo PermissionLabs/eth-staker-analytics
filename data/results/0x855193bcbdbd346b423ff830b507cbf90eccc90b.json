@@ -1,0 +1,238 @@
+{
+  "portfolio": {
+    "address": "0x855193bcbdbd346b423ff830b507cbf90eccc90b",
+    "totalValue": "$3,480",
+    "walletLifetime": "1140 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.2600",
+        "amount": "0.0811",
+        "usdValue": "$253.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.2600",
+        "amount": "0.0579",
+        "usdValue": "$181.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.2600",
+        "amount": "0.0386",
+        "usdValue": "$120.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,128.2600",
+        "amount": "0.0168",
+        "usdValue": "$52.71"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2035",
+        "amount": "34.3250",
+        "usdValue": "$41.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,128.2600",
+        "amount": "0.0057",
+        "usdValue": "$17.93"
+      },
+      {
+        "symbol": "WPOL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "26.2299",
+        "usdValue": "$3.23"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "239.7059",
+        "usdValue": "$2.43"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3176",
+        "amount": "4.8499",
+        "usdValue": "$1.54"
+      },
+      {
+        "symbol": "eUSD",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "1.5245",
+        "usdValue": "$1.52"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1234",
+        "amount": "6.4190",
+        "usdValue": "$0.79"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9818",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,794"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$7"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x855193bcbdbd346b423ff830b507cbf90eccc90b",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$3K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf404…122b",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$387"
+      },
+      {
+        "name": "0xe77f…dc74",
+        "volume": "$151"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$131"
+      },
+      {
+        "name": "Rainbow Swap",
+        "volume": "$128"
+      },
+      {
+        "name": "0x0592…6cf7",
+        "volume": "$115B"
+      },
+      {
+        "name": "inance",
+        "volume": "$113"
+      },
+      {
+        "name": "0x16cb…a8a2",
+        "volume": "$88"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$75"
+      },
+      {
+        "name": "0x9662…da1c",
+        "volume": "$75B"
+      },
+      {
+        "name": "0x1878…f48f",
+        "volume": "$59"
+      },
+      {
+        "name": "WMATIC",
+        "volume": "$51"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$50"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$41"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$39"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$785M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$264"
+      },
+      {
+        "name": "WELL",
+        "volume": "$170"
+      },
+      {
+        "name": "POL",
+        "volume": "$121"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$68"
+      },
+      {
+        "name": "eUSD",
+        "volume": "$17"
+      },
+      {
+        "name": "OP",
+        "volume": "$8"
+      },
+      {
+        "name": "xDai",
+        "volume": "$2"
+      },
+      {
+        "name": "NATO",
+        "volume": "$2"
+      },
+      {
+        "name": "RSR",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:20:29.768Z",
+  "source": "moonwell",
+  "vaultBalance": 0.7845571278712757,
+  "vaultPct": 0.014233613008111943
+}

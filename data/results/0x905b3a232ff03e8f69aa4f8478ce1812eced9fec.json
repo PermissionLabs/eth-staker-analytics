@@ -1,0 +1,232 @@
+{
+  "portfolio": {
+    "address": "0x905b3a232ff03e8f69aa4f8478ce1812eced9fec",
+    "totalValue": "$206,579",
+    "walletLifetime": "1610 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.0600",
+        "amount": "1.1329",
+        "usdValue": "$3,537.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.0600",
+        "amount": "0.4052",
+        "usdValue": "$1,265.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,123.0600",
+        "amount": "0.0279",
+        "usdValue": "$87.17"
+      },
+      {
+        "symbol": "BTC",
+        "chain": "b2",
+        "price": "$90,488.6300",
+        "amount": "0.0002",
+        "usdValue": "$16.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,123.0600",
+        "amount": "0.0047",
+        "usdValue": "$14.61"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$28.1930",
+        "amount": "0.4397",
+        "usdValue": "$12.40"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "cbBTC",
+        "usdValue": "$146,785"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$32,799"
+      },
+      {
+        "protocol": "Zircuit",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$19,379"
+      },
+      {
+        "protocol": "Hyperbeat",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$2,200"
+      },
+      {
+        "protocol": "BMX",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BMX",
+        "usdValue": "$431"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x905b3a232ff03e8f69aa4f8478ce1812eced9fec",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$731K"
+      },
+      {
+        "name": "BladeSwap",
+        "volume": "$408K"
+      },
+      {
+        "name": "IPOR",
+        "volume": "$321K"
+      },
+      {
+        "name": "Juice",
+        "volume": "$266K"
+      },
+      {
+        "name": "BlasterSwap",
+        "volume": "$243K"
+      },
+      {
+        "name": "BlasterSwap V3",
+        "volume": "$151K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$99K"
+      },
+      {
+        "name": "0x4300…0004",
+        "volume": "$95K"
+      },
+      {
+        "name": "Synapse",
+        "volume": "$92K"
+      },
+      {
+        "name": "Wasabi Protocol",
+        "volume": "$87K"
+      },
+      {
+        "name": "BFX Finance",
+        "volume": "$81K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$64K"
+      },
+      {
+        "name": "Blast Bridge",
+        "volume": "$53K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$50K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$47K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$47K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$46K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$40K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDB",
+        "volume": "$893K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$812K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$400K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$163K"
+      },
+      {
+        "name": "BLAST",
+        "volume": "$41K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$33K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$31K"
+      },
+      {
+        "name": "LUSD",
+        "volume": "$15K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$9K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$6K"
+      },
+      {
+        "name": "BMX",
+        "volume": "$6K"
+      },
+      {
+        "name": "OLE",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:38:22.001Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 9.638181305999646,
+  "vaultPct": 0.10750031922044417
+}

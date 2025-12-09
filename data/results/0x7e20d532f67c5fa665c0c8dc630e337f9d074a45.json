@@ -1,0 +1,162 @@
+{
+  "portfolio": {
+    "address": "0x7e20d532f67c5fa665c0c8dc630e337f9d074a45",
+    "totalValue": "$4,414",
+    "walletLifetime": "383 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.5300",
+        "amount": "0.0552",
+        "usdValue": "$172.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.5300",
+        "amount": "0.0183",
+        "usdValue": "$57.27"
+      },
+      {
+        "symbol": "AIXCB",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "2,935.2475",
+        "usdValue": "$2.13"
+      },
+      {
+        "symbol": "PH",
+        "chain": "base",
+        "price": "$0.0003",
+        "amount": "1,627.0000",
+        "usdValue": "$0.43"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,182"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7e20d532f67c5fa665c0c8dc630e337f9d074a45",
+    "topProtocols": [
+      {
+        "name": "deBridge",
+        "volume": "$44K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$35K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$35K"
+      },
+      {
+        "name": "0x05e7…cb3e",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x870b…e0a7",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x5e38…ad05",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0e2e…8d90",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$3K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf97b…07a6",
+        "volume": "$982"
+      },
+      {
+        "name": "0x6bf0…dc23",
+        "volume": "$325"
+      },
+      {
+        "name": "gaslite",
+        "volume": "$118"
+      },
+      {
+        "name": "0xeff6…a167",
+        "volume": "$100"
+      },
+      {
+        "name": "0x0d46…90c1",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa236…a34d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$96K"
+      },
+      {
+        "name": "KTA",
+        "volume": "$12K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "SEKOIA",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "SERAPH",
+        "volume": "$60"
+      },
+      {
+        "name": "PH",
+        "volume": "$30"
+      },
+      {
+        "name": "AIXCB",
+        "volume": "$28"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:27:15.684Z",
+  "source": "base_aave",
+  "vaultBalance": 1.32,
+  "vaultPct": 0.0019418259390000154
+}

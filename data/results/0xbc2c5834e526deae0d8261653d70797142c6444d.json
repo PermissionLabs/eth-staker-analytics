@@ -1,0 +1,274 @@
+{
+  "portfolio": {
+    "address": "0xbc2c5834e526deae0d8261653d70797142c6444d",
+    "totalValue": "$3,917",
+    "walletLifetime": "2849 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.6500",
+        "amount": "0.0397",
+        "usdValue": "$123.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.9600",
+        "amount": "0.0099",
+        "usdValue": "$30.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,122.9600",
+        "amount": "0.0047",
+        "usdValue": "$14.77"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,122.9600",
+        "amount": "0.0040",
+        "usdValue": "$12.49"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1111",
+        "amount": "4.0000",
+        "usdValue": "$4.44"
+      },
+      {
+        "symbol": "Daram",
+        "chain": "eth",
+        "price": "$0.0₆1857",
+        "amount": "5,000,000.0000",
+        "usdValue": "$0.93"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4740",
+        "amount": "1.4142",
+        "usdValue": "$0.67"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "0.2375",
+        "usdValue": "$0.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,351"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$711"
+      },
+      {
+        "protocol": "Karak",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$337"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$294"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$31"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Rollup Finance",
+        "chain": "era",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "mtwCARROT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbc2c5834e526deae0d8261653d70797142c6444d",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$3K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$3K"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$1K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$950"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$880B"
+      },
+      {
+        "name": "inance",
+        "volume": "$746B"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$72"
+      },
+      {
+        "name": "2xBank",
+        "volume": "$712"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$710"
+      },
+      {
+        "name": "Tarot",
+        "volume": "$674B"
+      },
+      {
+        "name": "0x0000…3fc9",
+        "volume": "$580K"
+      },
+      {
+        "name": "elp DAO",
+        "volume": "$567"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$542"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$514"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$863"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$768"
+      },
+      {
+        "name": "SWELL",
+        "volume": "$646"
+      },
+      {
+        "name": "ZK",
+        "volume": "$586"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$385"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$362"
+      },
+      {
+        "name": "Daram",
+        "volume": "$51"
+      },
+      {
+        "name": "PUFFER",
+        "volume": "$40"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$34"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:07:16.474Z",
+  "source": "moonwell",
+  "vaultBalance": 0.7377139961584582,
+  "vaultPct": 0.013383774309052087
+}

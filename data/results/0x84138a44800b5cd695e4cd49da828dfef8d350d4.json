@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "address": "0x84138a44800b5cd695e4cd49da828dfef8d350d4",
+    "totalValue": "$1,626",
+    "walletLifetime": "99 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,121.3700",
+        "amount": "0.2120",
+        "usdValue": "$661.60"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "16.1495",
+        "usdValue": "$16.15"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.2932",
+        "amount": "3.9520",
+        "usdValue": "$9.06"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.6000",
+        "amount": "0.0026",
+        "usdValue": "$2.30"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1230",
+        "amount": "10.0420",
+        "usdValue": "$1.24"
+      },
+      {
+        "symbol": "MITO",
+        "chain": "bsc",
+        "price": "$0.0811",
+        "amount": "1.6590",
+        "usdValue": "$0.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$641"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT0",
+        "usdValue": "$276"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BNB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x84138a44800b5cd695e4cd49da828dfef8d350d4",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$860B"
+      },
+      {
+        "name": "inance",
+        "volume": "$532"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$466B"
+      },
+      {
+        "name": "0x58b7…5023",
+        "volume": "$274B"
+      },
+      {
+        "name": "eefy",
+        "volume": "$271M"
+      },
+      {
+        "name": "itosis",
+        "volume": "$245B"
+      },
+      {
+        "name": "inance DEX",
+        "volume": "$112"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$112B"
+      },
+      {
+        "name": "0x8864…615a",
+        "volume": "$20"
+      },
+      {
+        "name": "Aster",
+        "volume": "$17"
+      },
+      {
+        "name": "0x8411…4689",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$930"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$542B"
+      },
+      {
+        "name": "NB",
+        "volume": "$36"
+      },
+      {
+        "name": "Cake",
+        "volume": "$8"
+      },
+      {
+        "name": "POL",
+        "volume": "$3M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:13:39.169Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.18835580763856946,
+  "vaultPct": 0.0021008433858332254
+}

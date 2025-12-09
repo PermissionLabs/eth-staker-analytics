@@ -1,0 +1,264 @@
+{
+  "portfolio": {
+    "address": "0x45385e776d96ef483efe321a5154653d1d2f3f7f",
+    "totalValue": "$300,057",
+    "walletLifetime": "1686 days",
+    "tokens": [
+      {
+        "symbol": "wstETH",
+        "chain": "arb",
+        "price": "$3,811.6665",
+        "amount": "14.3295",
+        "usdValue": "$54,619.21"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$27.9660",
+        "amount": "202.4057",
+        "usdValue": "$5,660.48"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2037",
+        "amount": "1,748.9444",
+        "usdValue": "$2,105.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.4100",
+        "amount": "0.5751",
+        "usdValue": "$1,795.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.4100",
+        "amount": "0.2774",
+        "usdValue": "$866.16"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0001",
+        "amount": "805.5666",
+        "usdValue": "$805.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.4100",
+        "amount": "0.1391",
+        "usdValue": "$434.42"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$886.8000",
+        "amount": "0.3620",
+        "usdValue": "$321.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "230.4702",
+        "usdValue": "$230.49"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "8,261.5430",
+        "usdValue": "$83.49"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$127,829"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$56,659"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$26,861"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$20,340"
+      },
+      {
+        "protocol": "Wayfinder",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "PRIME",
+        "usdValue": "$372"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$344"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$321"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x45385e776d96ef483efe321a5154653d1d2f3f7f",
+    "topProtocols": [
+      {
+        "name": "Pendle V2",
+        "volume": "$521K"
+      },
+      {
+        "name": "0xb052…2cf3",
+        "volume": "$209K"
+      },
+      {
+        "name": "0xd561…11d7",
+        "volume": "$198K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$180K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$141K"
+      },
+      {
+        "name": "0x3f5a…4408",
+        "volume": "$121K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$116K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$100K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$95K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$86K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$81K"
+      },
+      {
+        "name": "Manta Pacific Bridge",
+        "volume": "$80K"
+      },
+      {
+        "name": "Aperture",
+        "volume": "$74K"
+      },
+      {
+        "name": "Olympus",
+        "volume": "$51K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$288K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$199K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$185K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$145K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$90K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$86K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$74K"
+      },
+      {
+        "name": "YLA",
+        "volume": "$59K"
+      },
+      {
+        "name": "YFI",
+        "volume": "$56K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$49K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$45K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$39K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$34K"
+      },
+      {
+        "name": "V1",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:28:45.174Z",
+  "source": "moonwell",
+  "vaultBalance": 39.934926293650896,
+  "vaultPct": 0.7245084725870502
+}

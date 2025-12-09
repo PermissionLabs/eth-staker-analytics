@@ -1,0 +1,136 @@
+{
+  "portfolio": {
+    "address": "0x8d60d16d36f0f63b8678b57eab3b730b3c704884",
+    "totalValue": "$205,554",
+    "walletLifetime": "316 days",
+    "tokens": [
+      {
+        "symbol": "eUSD",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "3,239.6743",
+        "usdValue": "$3,239.30"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1988",
+        "amount": "126.2284",
+        "usdValue": "$151.32"
+      },
+      {
+        "symbol": "ION",
+        "chain": "base",
+        "price": "$0.0001",
+        "amount": "29,894.6756",
+        "usdValue": "$3.09"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,121.1600",
+        "amount": "0.0001",
+        "usdValue": "$0.46"
+      },
+      {
+        "symbol": "SEAM",
+        "chain": "base",
+        "price": "$0.1401",
+        "amount": "0.1080",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "400.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$202,160"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8d60d16d36f0f63b8678b57eab3b730b3c704884",
+    "topProtocols": [
+      {
+        "name": "0xce6a…317a",
+        "volume": "$254K"
+      },
+      {
+        "name": "0xf9d6…27d0",
+        "volume": "$147K"
+      },
+      {
+        "name": "0xcea8…85af",
+        "volume": "$110K"
+      },
+      {
+        "name": "0x0000…a032",
+        "volume": "$88K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$57K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$2K"
+      },
+      {
+        "name": "Merkl",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$274K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$219K"
+      },
+      {
+        "name": "eUSD",
+        "volume": "$113K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$106K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$2K"
+      },
+      {
+        "name": "SEAM",
+        "volume": "$1K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$384"
+      },
+      {
+        "name": "ION",
+        "volume": "$10"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:29:54.593Z",
+  "source": "moonwell",
+  "vaultBalance": 45.965410695940236,
+  "vaultPct": 0.8339148856885892
+}

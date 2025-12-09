@@ -1,0 +1,120 @@
+{
+  "portfolio": {
+    "address": "0x8ceeb8a57509dc17ef9eb751a7feb825c827eda3",
+    "totalValue": "$371",
+    "walletLifetime": "78 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.3500",
+        "amount": "0.0014",
+        "usdValue": "$4.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.3500",
+        "amount": "0.0000997",
+        "usdValue": "$0.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$366"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8ceeb8a57509dc17ef9eb751a7feb825c827eda3",
+    "topProtocols": [
+      {
+        "name": "Wrapped Ether",
+        "volume": "$771"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$440M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$354"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$354B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$331"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$331"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$52"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$35"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$5"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xc64c…144c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfaf8…db84",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3e33…04d0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbdfa…eb70",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4ae2…3075",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$771"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:09:09.958Z",
+  "source": "moonwell",
+  "vaultBalance": 0.11491357482136567,
+  "vaultPct": 0.0020847880865272036
+}

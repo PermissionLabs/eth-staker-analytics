@@ -1,0 +1,305 @@
+{
+  "portfolio": {
+    "address": "0xaa673f11cf92e2eefd4cb2f4192bec7013f29b5c",
+    "totalValue": "$85,690",
+    "walletLifetime": "2896 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.4500",
+        "amount": "16.3956",
+        "usdValue": "$51,210.94"
+      },
+      {
+        "symbol": "OCEAN",
+        "chain": "eth",
+        "price": "$0.2092",
+        "amount": "11,875.2200",
+        "usdValue": "$2,484.30"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.4877",
+        "amount": "247.8403",
+        "usdValue": "$1,360.06"
+      },
+      {
+        "symbol": "cbETH",
+        "chain": "base",
+        "price": "$3,471.7627",
+        "amount": "0.3193",
+        "usdValue": "$1,108.59"
+      },
+      {
+        "symbol": "DIA",
+        "chain": "eth",
+        "price": "$0.3348",
+        "amount": "2,716.1150",
+        "usdValue": "$909.38"
+      },
+      {
+        "symbol": "SUSHI",
+        "chain": "eth",
+        "price": "$0.3283",
+        "amount": "680.2670",
+        "usdValue": "$223.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.4500",
+        "amount": "0.0709",
+        "usdValue": "$221.32"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "1,659.2000",
+        "usdValue": "$203.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,123.4500",
+        "amount": "0.0339",
+        "usdValue": "$105.92"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Euler",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$11,596"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$9,465"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbETH",
+        "usdValue": "$4,991"
+      },
+      {
+        "protocol": "Alchemix",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ALCX",
+        "usdValue": "$1,209"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BAL",
+        "usdValue": "$253"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$235"
+      },
+      {
+        "protocol": "Mendi Finance",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$29"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaa673f11cf92e2eefd4cb2f4192bec7013f29b5c",
+    "topProtocols": [
+      {
+        "name": "Curve",
+        "volume": "$41K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x1132…bcf3",
+        "volume": "$33K"
+      },
+      {
+        "name": "OriginTrail",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x6e39…992a",
+        "volume": "$31K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x1188…87f4",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xd6b0…f10a",
+        "volume": "$20K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$14K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$14K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$12K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x77d5…031b",
+        "volume": "$11K"
+      },
+      {
+        "name": "Alchemix",
+        "volume": "$9K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x00e4…e01e",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x13d7…9023",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x297a…b573",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$222K"
+      },
+      {
+        "name": "TRAC",
+        "volume": "$65K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$61K"
+      },
+      {
+        "name": "ALCX",
+        "volume": "$15K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "BAL",
+        "volume": "$3K"
+      },
+      {
+        "name": "OCEAN",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$2K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$2K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "DIA",
+        "volume": "$869"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$792"
+      },
+      {
+        "name": "OOKI",
+        "volume": "$331"
+      },
+      {
+        "name": "ALT",
+        "volume": "$235M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$86"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:28:35.851Z",
+  "source": "moonwell",
+  "vaultBalance": 0.678748460858822,
+  "vaultPct": 0.012314008220063231
+}

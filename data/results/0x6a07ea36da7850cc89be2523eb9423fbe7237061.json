@@ -1,0 +1,281 @@
+{
+  "portfolio": {
+    "address": "0x6a07ea36da7850cc89be2523eb9423fbe7237061",
+    "totalValue": "$808,562",
+    "walletLifetime": "2326 days",
+    "tokens": [
+      {
+        "symbol": "WETH.e",
+        "chain": "avax",
+        "price": "$3,119.5200",
+        "amount": "11.0000",
+        "usdValue": "$34,314.72"
+      },
+      {
+        "symbol": "rETH",
+        "chain": "base",
+        "price": "$3,586.8534",
+        "amount": "9.5630",
+        "usdValue": "$34,301.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.2800",
+        "amount": "0.3953",
+        "usdValue": "$1,233.15"
+      },
+      {
+        "symbol": "SOL",
+        "chain": "avax",
+        "price": "$132.6952",
+        "amount": "3.6377",
+        "usdValue": "$482.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,119.2800",
+        "amount": "0.0859",
+        "usdValue": "$267.85"
+      },
+      {
+        "symbol": "$ZKP",
+        "chain": "eth",
+        "price": "$0.0095",
+        "amount": "22,861.4937",
+        "usdValue": "$217.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,119.2800",
+        "amount": "0.0645",
+        "usdValue": "$201.21"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "111.0000",
+        "usdValue": "$111.01"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,335.3700",
+        "amount": "0.0012",
+        "usdValue": "$105.58"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Magpie XYZ",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "rETH",
+        "usdValue": "$389,032"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH.e",
+        "usdValue": "$149,990"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$149,285"
+      },
+      {
+        "protocol": "Yearn V2",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "yCRV",
+        "usdValue": "$32,243"
+      },
+      {
+        "protocol": "DeltaPrime",
+        "chain": "avax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$8,239"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USD₮0",
+        "usdValue": "$3,670"
+      },
+      {
+        "protocol": "DeltaPrime",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3,557"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6a07ea36da7850cc89be2523eb9423fbe7237061",
+    "topProtocols": [
+      {
+        "name": "BENQI",
+        "volume": "$9M"
+      },
+      {
+        "name": "Stella",
+        "volume": "$3M"
+      },
+      {
+        "name": "Alpha Homora V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$2M"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "Instadapp",
+        "volume": "$2M"
+      },
+      {
+        "name": "0xe783…e9d0",
+        "volume": "$2M"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x49d5…0bab",
+        "volume": "$1M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x",
+        "volume": "$1M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$687K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$665K"
+      },
+      {
+        "name": "Zapper",
+        "volume": "$482K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$471K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$467K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$419K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$386K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH.e",
+        "volume": "$6M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$3M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "DAI.e",
+        "volume": "$3M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT.e",
+        "volume": "$2M"
+      },
+      {
+        "name": "CRV",
+        "volume": "$2M"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "KcvxCRV",
+        "volume": "$582K"
+      },
+      {
+        "name": "LINK.e",
+        "volume": "$525K"
+      },
+      {
+        "name": "WBTC.e",
+        "volume": "$435K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$417K"
+      },
+      {
+        "name": "rETH",
+        "volume": "$394K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:22:46.940Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 43.92190506835681,
+  "vaultPct": 0.48988690560108616
+}

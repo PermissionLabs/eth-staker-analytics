@@ -1,0 +1,253 @@
+{
+  "portfolio": {
+    "address": "0x4a2c32c829f4eae0ff9bea5e1b1564c22067c302",
+    "totalValue": "$2,626",
+    "walletLifetime": "987 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.6800",
+        "amount": "0.0353",
+        "usdValue": "$110.38"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.4000",
+        "amount": "49.8277",
+        "usdValue": "$69.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,122.6800",
+        "amount": "0.0131",
+        "usdValue": "$40.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.6800",
+        "amount": "0.0123",
+        "usdValue": "$38.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,122.6800",
+        "amount": "0.0113",
+        "usdValue": "$35.17"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "lens",
+        "price": "$1.0000",
+        "amount": "34.9391",
+        "usdValue": "$34.94"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0326",
+        "amount": "902.5373",
+        "usdValue": "$29.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.6800",
+        "amount": "0.0033",
+        "usdValue": "$10.20"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2132",
+        "amount": "34.1804",
+        "usdValue": "$7.29"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2037",
+        "amount": "4.6014",
+        "usdValue": "$5.54"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "338.3715",
+        "usdValue": "$3.42"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "1,388.0917",
+        "usdValue": "$1.30"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$886.9000",
+        "amount": "0.0011",
+        "usdValue": "$1.01"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,049"
+      },
+      {
+        "protocol": "Superform",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$973"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ZK",
+        "usdValue": "$179"
+      },
+      {
+        "protocol": "Arbswap",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Human Passport",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL (wormhole)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4a2c32c829f4eae0ff9bea5e1b1564c22067c302",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$188K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$187K"
+      },
+      {
+        "name": "0xc6a7…7af2",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x406c…2a69",
+        "volume": "$30K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xd7aa…64fc",
+        "volume": "$16K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$13K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$6K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$6K"
+      },
+      {
+        "name": "Merkly",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x2971…e8a4",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xda43…246c",
+        "volume": "$4K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$244K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$17K"
+      },
+      {
+        "name": "KaxlUSDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$9K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:27:33.078Z",
+  "source": "moonwell",
+  "vaultBalance": 0.328635250822928,
+  "vaultPct": 0.0059621751111090995
+}

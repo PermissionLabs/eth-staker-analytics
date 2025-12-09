@@ -1,0 +1,282 @@
+{
+  "portfolio": {
+    "address": "0x3d5af2a6d3e09caf0cb51fd8b9f75d1c6640a2c0",
+    "totalValue": "$5,787",
+    "walletLifetime": "1664 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.4700",
+        "amount": "0.0096",
+        "usdValue": "$30.02"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "cro",
+        "price": "$0.1034",
+        "amount": "55.8790",
+        "usdValue": "$5.78"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1229",
+        "amount": "43.2931",
+        "usdValue": "$5.32"
+      },
+      {
+        "symbol": "WPOL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "40.8463",
+        "usdValue": "$5.01"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "23.9860",
+        "usdValue": "$2.94"
+      },
+      {
+        "symbol": "ADDY",
+        "chain": "matic",
+        "price": "$0.0145",
+        "amount": "170.0297",
+        "usdValue": "$2.47"
+      },
+      {
+        "symbol": "POL",
+        "chain": "eth",
+        "price": "$0.1231",
+        "amount": "13.9871",
+        "usdValue": "$1.72"
+      },
+      {
+        "symbol": "MegaDoge",
+        "chain": "matic",
+        "price": "$0.00009184",
+        "amount": "1,000.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "LGNS",
+        "chain": "matic",
+        "price": "$7.6071",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DPEX",
+        "chain": "matic",
+        "price": "$0.00001124",
+        "amount": "100.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SMT",
+        "chain": "matic",
+        "price": "$0.0030",
+        "amount": "0.0110",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "3.6000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$5,726"
+      },
+      {
+        "protocol": "MM.Finance",
+        "chain": "cro",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "MUSD",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Polycat",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT0",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "QUICK(old)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3d5af2a6d3e09caf0cb51fd8b9f75d1c6640a2c0",
+    "topProtocols": [
+      {
+        "name": "Aave",
+        "volume": "$30K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$13K"
+      },
+      {
+        "name": "Adamant",
+        "volume": "$13K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$12K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$8K"
+      },
+      {
+        "name": "Polycat",
+        "volume": "$8K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4534…bebd",
+        "volume": "$3K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7ceb…f619",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6090…d113",
+        "volume": "$1K"
+      },
+      {
+        "name": "MMF.Stable",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x91f2…19bb",
+        "volume": "$1K"
+      },
+      {
+        "name": "Ape Bond",
+        "volume": "$941"
+      },
+      {
+        "name": "Crystl Finance",
+        "volume": "$941"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$843"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$42K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "ADDY",
+        "volume": "$19K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$10K"
+      },
+      {
+        "name": "POL",
+        "volume": "$6K"
+      },
+      {
+        "name": "TITAN",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "CRYSTL",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$1K"
+      },
+      {
+        "name": "SPADE",
+        "volume": "$1K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$1K"
+      },
+      {
+        "name": "FISH",
+        "volume": "$638K"
+      },
+      {
+        "name": "rill",
+        "volume": "$97"
+      },
+      {
+        "name": "CRO",
+        "volume": "$58"
+      },
+      {
+        "name": "LITHIUM",
+        "volume": "$44M"
+      },
+      {
+        "name": "YFRIENDS",
+        "volume": "$12"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:35:08.408Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.68413461878644,
+  "vaultPct": 0.018784146446492466
+}

@@ -1,0 +1,233 @@
+{
+  "portfolio": {
+    "address": "0x1b78d470fd222b600678f2ff93481978d8ab77b8",
+    "totalValue": "$4,344",
+    "walletLifetime": "1088 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.6000",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.6000",
+        "amount": "0.0009",
+        "usdValue": "$2.75"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "13.9747",
+        "usdValue": "$1.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.6000",
+        "amount": "0.0001",
+        "usdValue": "$0.42"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "0.0736",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001008",
+        "amount": "175.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006782",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WAZ",
+        "chain": "base",
+        "price": "$0.0₆3766",
+        "amount": "138.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "3,750.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WEFI",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "0.5000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,336"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1b78d470fd222b600678f2ff93481978d8ab77b8",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$346K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$34K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$27K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$15K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$5K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf85e…c59b",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7df6…34af",
+        "volume": "$2K"
+      },
+      {
+        "name": "Maple",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe51b…32eb",
+        "volume": "$1K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$704"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$247K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$154K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$45K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$35K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$30K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "POL",
+        "volume": "$6K"
+      },
+      {
+        "name": "SYRUP",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$858"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      },
+      {
+        "name": "SNL",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:21:45.171Z",
+  "source": "base_aave",
+  "vaultBalance": 4.868471546301199,
+  "vaultPct": 0.007161912372644836
+}

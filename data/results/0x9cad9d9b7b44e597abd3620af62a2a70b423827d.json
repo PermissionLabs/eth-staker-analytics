@@ -1,0 +1,99 @@
+{
+  "portfolio": {
+    "address": "0x9cad9d9b7b44e597abd3620af62a2a70b423827d",
+    "totalValue": "$184",
+    "walletLifetime": "76 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,112.8200",
+        "amount": "0.0578",
+        "usdValue": "$179.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.8200",
+        "amount": "0.0010",
+        "usdValue": "$3.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.8200",
+        "amount": "0.00009883",
+        "usdValue": "$0.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9cad9d9b7b44e597abd3620af62a2a70b423827d",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$352"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$340"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$243"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$200B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$138"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$138"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$35"
+      },
+      {
+        "name": "0x4ae2…3075",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$677"
+      },
+      {
+        "name": "WETH",
+        "volume": "$595"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:14:26.166Z",
+  "source": "moonwell",
+  "vaultBalance": 0.05662770755484524,
+  "vaultPct": 0.0010273526888464513
+}

@@ -1,0 +1,174 @@
+{
+  "portfolio": {
+    "address": "0x5e593a46447c18bd46cd3c825853d99e6a2e3d9a",
+    "totalValue": "$2,359,483",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,113.1200",
+        "amount": "6.7783",
+        "usdValue": "$21,101.69"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,138.0200",
+        "amount": "0.1978",
+        "usdValue": "$17,833.36"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "453.1876",
+        "usdValue": "$453.19"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "209.3955",
+        "usdValue": "$209.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,113.0600",
+        "amount": "0.0493",
+        "usdValue": "$153.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,113.1200",
+        "amount": "0.0478",
+        "usdValue": "$148.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.0600",
+        "amount": "0.0343",
+        "usdValue": "$106.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.1200",
+        "amount": "0.0273",
+        "usdValue": "$85.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,319,387"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5e593a46447c18bd46cd3c825853d99e6a2e3d9a",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$10M"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$7M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7M"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$4M"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2M"
+      },
+      {
+        "name": "0xc5d3…e2f9",
+        "volume": "$1M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x4eea…c91a",
+        "volume": "$955K"
+      },
+      {
+        "name": "0xb4d8…7feb",
+        "volume": "$615K"
+      },
+      {
+        "name": "0x9516…ac94",
+        "volume": "$429K"
+      },
+      {
+        "name": "0x05fb…1839",
+        "volume": "$421K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$19M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$403K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$21K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$11K"
+      },
+      {
+        "name": "SEAM",
+        "volume": "$5K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$1K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$93"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:13:48.515Z",
+  "source": "moonwell",
+  "vaultBalance": 57.176899986395824,
+  "vaultPct": 1.0373162622561847
+}

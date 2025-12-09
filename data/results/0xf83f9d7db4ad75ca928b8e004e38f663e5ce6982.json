@@ -1,0 +1,241 @@
+{
+  "portfolio": {
+    "address": "0xf83f9d7db4ad75ca928b8e004e38f663e5ce6982",
+    "totalValue": "$19,062",
+    "walletLifetime": "1884 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "17,377.5291",
+        "usdValue": "$17,377.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.9500",
+        "amount": "0.2715",
+        "usdValue": "$847.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,122.9500",
+        "amount": "0.1116",
+        "usdValue": "$348.62"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0078",
+        "amount": "22,193.9646",
+        "usdValue": "$174.00"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$886.2000",
+        "amount": "0.1021",
+        "usdValue": "$90.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "dbk",
+        "price": "$3,122.9500",
+        "amount": "0.0100",
+        "usdValue": "$31.22"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "26.1777",
+        "usdValue": "$26.18"
+      },
+      {
+        "symbol": "SWELL",
+        "chain": "swell",
+        "price": "$0.0022",
+        "amount": "11,505.3651",
+        "usdValue": "$25.27"
+      },
+      {
+        "symbol": "STO",
+        "chain": "bsc",
+        "price": "$0.1221",
+        "amount": "165.7000",
+        "usdValue": "$20.23"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "Swell",
+        "chain": "swell",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SWELL",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "swell",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "SWELL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wrsETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Swell",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "OP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "SWELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf83f9d7db4ad75ca928b8e004e38f663e5ce6982",
+    "topProtocols": [
+      {
+        "name": "LI.FI",
+        "volume": "$76K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$43K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$36K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$35K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$32K"
+      },
+      {
+        "name": "NILE",
+        "volume": "$26K"
+      },
+      {
+        "name": "NURI Exchange",
+        "volume": "$23K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x4aa6…61b4",
+        "volume": "$17K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$16K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$16K"
+      },
+      {
+        "name": "Gamma",
+        "volume": "$14K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$13K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$12K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$193K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$68K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$58K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$15K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$9K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:23:39.675Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 11.184816096456672,
+  "vaultPct": 0.12475084900536097
+}

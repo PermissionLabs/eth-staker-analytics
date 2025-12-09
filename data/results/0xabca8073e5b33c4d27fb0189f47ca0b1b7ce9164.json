@@ -1,0 +1,138 @@
+{
+  "portfolio": {
+    "address": "0xabca8073e5b33c4d27fb0189f47ca0b1b7ce9164",
+    "totalValue": "$367,135",
+    "walletLifetime": "1795 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7918",
+        "amount": "1,199.7713",
+        "usdValue": "$16,546.97"
+      },
+      {
+        "symbol": "LRC",
+        "chain": "eth",
+        "price": "$0.0488",
+        "amount": "9,994.7463",
+        "usdValue": "$487.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.4500",
+        "amount": "0.1209",
+        "usdValue": "$377.37"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0268",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "10.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1229",
+        "amount": "0.0100",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0012",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$349,723"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xabca8073e5b33c4d27fb0189f47ca0b1b7ce9164",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$581K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$212K"
+      },
+      {
+        "name": "0x418e…0a19",
+        "volume": "$175K"
+      },
+      {
+        "name": "0xab0c…03d8",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x6143…20a7",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x19d3…866f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x42dd…3df0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$799K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$350K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$8K"
+      },
+      {
+        "name": "LRC",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:26:48.685Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 168,
+  "vaultPct": 0.031237421426003623
+}

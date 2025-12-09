@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0xee89e391cc48042c0e428e1712f608e42a73b2e7",
+    "totalValue": "$1,120",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.9900",
+        "amount": "0.0780",
+        "usdValue": "$243.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.9900",
+        "amount": "0.0323",
+        "usdValue": "$100.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,122.9900",
+        "amount": "0.0176",
+        "usdValue": "$55.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.9900",
+        "amount": "0.0032",
+        "usdValue": "$9.98"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1231",
+        "amount": "34.4188",
+        "usdValue": "$4.24"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "0.7302",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,122.9900",
+        "amount": "0.0001",
+        "usdValue": "$0.40"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$412"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$292"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xee89e391cc48042c0e428e1712f608e42a73b2e7",
+    "topProtocols": [
+      {
+        "name": "Mendi Finance",
+        "volume": "$2K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$931"
+      },
+      {
+        "name": "Secta",
+        "volume": "$910"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$821"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$793"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$690K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$676"
+      },
+      {
+        "name": "DODO",
+        "volume": "$650"
+      },
+      {
+        "name": "OKX",
+        "volume": "$644"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$632"
+      },
+      {
+        "name": "Zebra V3",
+        "volume": "$506"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$497"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$497"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$494"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$14"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:15:14.836Z",
+  "source": "moonwell",
+  "vaultBalance": 0.12939537335927317,
+  "vaultPct": 0.002347520153737275
+}

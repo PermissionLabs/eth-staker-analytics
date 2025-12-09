@@ -1,0 +1,245 @@
+{
+  "portfolio": {
+    "address": "0x2a23d0650db1c536e71aeb63ecd3daa0b52e66e1",
+    "totalValue": "$347,029",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "wstETH",
+        "chain": "op",
+        "price": "$3,813.4025",
+        "amount": "1.2731",
+        "usdValue": "$4,854.67"
+      },
+      {
+        "symbol": "fBOMB",
+        "chain": "op",
+        "price": "$0.0194",
+        "amount": "194,345.6045",
+        "usdValue": "$3,771.17"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8445",
+        "amount": "100.0063",
+        "usdValue": "$84.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.2500",
+        "amount": "0.0033",
+        "usdValue": "$10.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "tlos",
+        "price": "$3,122.7000",
+        "amount": "0.0030",
+        "usdValue": "$9.37"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$181,982"
+      },
+      {
+        "protocol": "Dolomite",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$36,224"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$31,235"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$31,230"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$18,719"
+      },
+      {
+        "protocol": "Velodrome V2",
+        "chain": "op",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "VELO(v2)",
+        "usdValue": "$17,591"
+      },
+      {
+        "protocol": "Dolomite",
+        "chain": "bera",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "DOLO",
+        "usdValue": "$10,323"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$4,570"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "VIRTUAL",
+        "usdValue": "$4,224"
+      },
+      {
+        "protocol": "Virtuals Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "VIRTUAL",
+        "usdValue": "$1,099"
+      },
+      {
+        "protocol": "Aborean Finance",
+        "chain": "abs",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "ABX",
+        "usdValue": "$652"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2a23d0650db1c536e71aeb63ecd3daa0b52e66e1",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$121K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$109K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$102K"
+      },
+      {
+        "name": "Dolomite",
+        "volume": "$89K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$87K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$68K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$63K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$62K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$53K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$47K"
+      },
+      {
+        "name": "Velodrome V2",
+        "volume": "$47K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$47K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$34K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$386K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$166K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$129K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$90K"
+      },
+      {
+        "name": "KDOLO",
+        "volume": "$43K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$29K"
+      },
+      {
+        "name": "fBOMB",
+        "volume": "$21K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$17K"
+      },
+      {
+        "name": "DOLO",
+        "volume": "$11K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$11K"
+      },
+      {
+        "name": "CHECK",
+        "volume": "$9K"
+      },
+      {
+        "name": "AXR",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:28:08.537Z",
+  "source": "moonwell",
+  "vaultBalance": 4.899644433437337,
+  "vaultPct": 0.08889045840692344
+}

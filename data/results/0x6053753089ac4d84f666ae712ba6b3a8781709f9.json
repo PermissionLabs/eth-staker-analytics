@@ -1,0 +1,233 @@
+{
+  "portfolio": {
+    "address": "0x6053753089ac4d84f666ae712ba6b3a8781709f9",
+    "totalValue": "$795",
+    "walletLifetime": "2802 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.1900",
+        "amount": "0.1438",
+        "usdValue": "$449.38"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0326",
+        "amount": "1,332.9610",
+        "usdValue": "$43.45"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3175",
+        "amount": "121.1357",
+        "usdValue": "$38.46"
+      },
+      {
+        "symbol": "cbETH",
+        "chain": "base",
+        "price": "$3,471.1673",
+        "amount": "0.0102",
+        "usdValue": "$35.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.1900",
+        "amount": "0.0058",
+        "usdValue": "$18.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.1900",
+        "amount": "0.0033",
+        "usdValue": "$10.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.1900",
+        "amount": "0.0015",
+        "usdValue": "$4.70"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "301.3810",
+        "usdValue": "$3.05"
+      },
+      {
+        "symbol": "USDC(bridged)",
+        "chain": "era",
+        "price": "$0.9999",
+        "amount": "0.8603",
+        "usdValue": "$0.86"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$190"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "StakeStone",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6053753089ac4d84f666ae712ba6b3a8781709f9",
+    "topProtocols": [
+      {
+        "name": "EraLend",
+        "volume": "$35K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$4K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xcd62…7d3e",
+        "volume": "$3K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$2K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$898"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$668"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$495"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$422"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$401"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$297"
+      },
+      {
+        "name": "Velocore",
+        "volume": "$260"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$42K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$627"
+      },
+      {
+        "name": "USDT",
+        "volume": "$270"
+      },
+      {
+        "name": "OP",
+        "volume": "$197"
+      },
+      {
+        "name": "SCR",
+        "volume": "$97"
+      },
+      {
+        "name": "USDC",
+        "volume": "$77"
+      },
+      {
+        "name": "DAI",
+        "volume": "$75B"
+      },
+      {
+        "name": "ERA",
+        "volume": "$74"
+      },
+      {
+        "name": "INCH",
+        "volume": "$58"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$50"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:16:30.847Z",
+  "source": "moonwell",
+  "vaultBalance": 0.0596137921542487,
+  "vaultPct": 0.0010815269115862457
+}

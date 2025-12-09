@@ -1,0 +1,136 @@
+{
+  "portfolio": {
+    "address": "0x8726d6f4b524a7846e86da216a4e90233e0e85e1",
+    "totalValue": "$385",
+    "walletLifetime": "609 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.9900",
+        "amount": "0.0802",
+        "usdValue": "$250.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.9900",
+        "amount": "0.0279",
+        "usdValue": "$87.25"
+      },
+      {
+        "symbol": "BRETT",
+        "chain": "base",
+        "price": "$0.0181",
+        "amount": "1,920.8812",
+        "usdValue": "$34.83"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "10.1000",
+        "usdValue": "$10.10"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,123.9900",
+        "amount": "0.0007",
+        "usdValue": "$2.15"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x8726d6f4b524a7846e86da216a4e90233e0e85e1",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x264b…97b5",
+        "volume": "$10K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$456"
+      },
+      {
+        "name": "0x9fac…4ab4",
+        "volume": "$310"
+      },
+      {
+        "name": "Decent Bridge",
+        "volume": "$218K"
+      },
+      {
+        "name": "raken",
+        "volume": "$1751"
+      },
+      {
+        "name": "inch",
+        "volume": "$100"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$50"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x419f…8ee1",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x651a…3892",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0414…e4c7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1429…f8a8",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x224c…a272",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "RETT",
+        "volume": "$84"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:50:56.787Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.524077959041586,
+  "vaultPct": 0.0006552565972897187
+}

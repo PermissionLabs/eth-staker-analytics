@@ -1,0 +1,107 @@
+{
+  "portfolio": {
+    "address": "0x04197f4e9f04d95c1edea4ad76fa74aa961265b5",
+    "totalValue": "$975",
+    "walletLifetime": "497 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.9000",
+        "amount": "0.0133",
+        "usdValue": "$41.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.9000",
+        "amount": "0.0114",
+        "usdValue": "$35.54"
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1384",
+        "amount": "1,020.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$592"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$306"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x04197f4e9f04d95c1edea4ad76fa74aa961265b5",
+    "topProtocols": [
+      {
+        "name": "0xddf0…8f60",
+        "volume": "$551M"
+      },
+      {
+        "name": "amo",
+        "volume": "$300M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$280"
+      },
+      {
+        "name": "Relay",
+        "volume": "$187"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$187"
+      },
+      {
+        "name": "0x3950…e20c",
+        "volume": "$115"
+      },
+      {
+        "name": "0x705b…57cc",
+        "volume": "$5"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$603"
+      },
+      {
+        "name": "USDC",
+        "volume": "$600"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:34:26.970Z",
+  "source": "moonwell",
+  "vaultBalance": 0.08943953211009983,
+  "vaultPct": 0.001622632237292776
+}

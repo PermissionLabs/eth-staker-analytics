@@ -1,0 +1,151 @@
+{
+  "portfolio": {
+    "address": "0x3336c64500353f0ae2502999ba84640f1764e0a7",
+    "totalValue": "$914",
+    "walletLifetime": "597 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.4100",
+        "amount": "0.1142",
+        "usdValue": "$355.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.4100",
+        "amount": "0.0080",
+        "usdValue": "$24.78"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.7000",
+        "amount": "0.0046",
+        "usdValue": "$4.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,113.1700",
+        "amount": "0.0012",
+        "usdValue": "$3.72"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "0.4102",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BERA",
+        "chain": "bera",
+        "price": "$0.8200",
+        "amount": "0.0099",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$525"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3336c64500353f0ae2502999ba84640f1764e0a7",
+    "topProtocols": [
+      {
+        "name": "0x49c1…352a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x510c…0fa3",
+        "volume": "$1K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$685M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$678"
+      },
+      {
+        "name": "0xbd98…c13e",
+        "volume": "$417"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$335"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$122"
+      },
+      {
+        "name": "0x77a6…3c82",
+        "volume": "$6B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$4"
+      },
+      {
+        "name": "0xff72…f230",
+        "volume": "$4"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2B"
+      },
+      {
+        "name": "Sahara AI",
+        "volume": "$2"
+      },
+      {
+        "name": "0x4172…d9fc",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x130c…8eb3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BERA",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "SAHARA",
+        "volume": "$7B"
+      },
+      {
+        "name": "NB",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:17:00.275Z",
+  "source": "moonwell",
+  "vaultBalance": 0.16527656706381302,
+  "vaultPct": 0.0029984848920798445
+}

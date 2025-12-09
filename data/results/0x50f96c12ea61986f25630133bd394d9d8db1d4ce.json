@@ -1,0 +1,184 @@
+{
+  "portfolio": {
+    "address": "0x50f96c12ea61986f25630133bd394d9d8db1d4ce",
+    "totalValue": "$55,400",
+    "walletLifetime": "1351 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,116.2100",
+        "amount": "4.0112",
+        "usdValue": "$12,499.85"
+      },
+      {
+        "symbol": "feesh",
+        "chain": "base",
+        "price": "$0.00007141",
+        "amount": "28,334,854.7349",
+        "usdValue": "$2,023.47"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$40,804"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$45"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$21"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x50f96c12ea61986f25630133bd394d9d8db1d4ce",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$114K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$98K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$88K"
+      },
+      {
+        "name": "0xbe71…c11e",
+        "volume": "$86K"
+      },
+      {
+        "name": "0x5f7b…af18",
+        "volume": "$77K"
+      },
+      {
+        "name": "0x",
+        "volume": "$52K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x7fe8…1efe",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x07d8…cef1",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x4527…9f8f",
+        "volume": "$27K"
+      },
+      {
+        "name": "0x7bea…8941",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$20K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$11K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$415K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$278K"
+      },
+      {
+        "name": "feesh",
+        "volume": "$27K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$21K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$20K"
+      },
+      {
+        "name": "VVV",
+        "volume": "$11K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$8K"
+      },
+      {
+        "name": "MOR",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "BROKE",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZYN",
+        "volume": "$3K"
+      },
+      {
+        "name": "BMX",
+        "volume": "$2K"
+      },
+      {
+        "name": "FRAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "RLB",
+        "volume": "$2K"
+      },
+      {
+        "name": "Drek",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:09:50.503Z",
+  "source": "moonwell",
+  "vaultBalance": 12.830416699582777,
+  "vaultPct": 0.2327723240883506
+}

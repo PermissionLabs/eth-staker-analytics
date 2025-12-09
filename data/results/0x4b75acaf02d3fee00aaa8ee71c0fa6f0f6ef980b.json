@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0x4b75acaf02d3fee00aaa8ee71c0fa6f0f6ef980b",
+    "totalValue": "$522",
+    "walletLifetime": "1978 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.2500",
+        "amount": "0.0123",
+        "usdValue": "$38.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.2500",
+        "amount": "0.0089",
+        "usdValue": "$27.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,127.2500",
+        "amount": "0.0014",
+        "usdValue": "$4.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.2500",
+        "amount": "0.0007",
+        "usdValue": "$2.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,127.2500",
+        "amount": "0.0003",
+        "usdValue": "$0.98"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7400",
+        "amount": "0.0706",
+        "usdValue": "$0.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,127.2500",
+        "amount": "0.0002",
+        "usdValue": "$0.63"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "0.5819",
+        "usdValue": "$0.58"
+      },
+      {
+        "symbol": "BB",
+        "chain": "bb",
+        "price": "$0.0848",
+        "amount": "5.7437",
+        "usdValue": "$0.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,127.2500",
+        "amount": "0.0001",
+        "usdValue": "$0.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.2500",
+        "amount": "0.00007523",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "MEME (Memecoin)",
+        "chain": "eth",
+        "price": "$0.0012",
+        "amount": "200.0000",
+        "usdValue": "$0.23"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$408"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$37"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ArcherSwap",
+        "chain": "core",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "BOW",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4b75acaf02d3fee00aaa8ee71c0fa6f0f6ef980b",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$13K"
+      },
+      {
+        "name": "Core Bridge",
+        "volume": "$11K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$9K"
+      },
+      {
+        "name": "Basilisk",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xee73…f282",
+        "volume": "$6K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "WOO Network",
+        "volume": "$5K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "BounceBit",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$2K"
+      },
+      {
+        "name": "Elixir",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd57b…56c8",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$21K"
+      },
+      {
+        "name": "FDUSD",
+        "volume": "$6K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "deUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "wUSDM",
+        "volume": "$862"
+      },
+      {
+        "name": "WOO",
+        "volume": "$830B"
+      },
+      {
+        "name": "TC.b",
+        "volume": "$826"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:19:52.119Z",
+  "source": "moonwell",
+  "vaultBalance": 0.12788128116807643,
+  "vaultPct": 0.0023200511504709704
+}

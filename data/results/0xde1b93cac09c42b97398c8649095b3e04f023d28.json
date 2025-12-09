@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0xde1b93cac09c42b97398c8649095b3e04f023d28",
+    "totalValue": "$651",
+    "walletLifetime": "800 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.9200",
+        "amount": "0.0050",
+        "usdValue": "$15.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,116.9200",
+        "amount": "0.0048",
+        "usdValue": "$15.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.9200",
+        "amount": "0.0023",
+        "usdValue": "$7.05"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.4000",
+        "amount": "0.0053",
+        "usdValue": "$4.69"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$887.7000",
+        "amount": "0.0043",
+        "usdValue": "$3.78"
+      },
+      {
+        "symbol": "ALT",
+        "chain": "eth",
+        "price": "$0.0131",
+        "amount": "241.0000",
+        "usdValue": "$3.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,116.5800",
+        "amount": "0.0008",
+        "usdValue": "$2.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,116.9200",
+        "amount": "0.0003",
+        "usdValue": "$1.07"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "0.9292",
+        "usdValue": "$0.93"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "era",
+        "price": "$0.9993",
+        "amount": "0.6072",
+        "usdValue": "$0.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,117.4300",
+        "amount": "0.0002",
+        "usdValue": "$0.60"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1221",
+        "amount": "4.9000",
+        "usdValue": "$0.60"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6300",
+        "amount": "0.0272",
+        "usdValue": "$0.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,117.4300",
+        "amount": "0.00008568",
+        "usdValue": "$0.27"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "0.1599",
+        "usdValue": "$0.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$438"
+      },
+      {
+        "protocol": "Relay",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$157"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xde1b93cac09c42b97398c8649095b3e04f023d28",
+    "topProtocols": [
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$10K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$7K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$5K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$4K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$4K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x399e…8d8a",
+        "volume": "$3K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$3K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$2K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$2K"
+      },
+      {
+        "name": "Parallel",
+        "volume": "$2K"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$4K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$198B"
+      },
+      {
+        "name": "TC.b",
+        "volume": "$198"
+      },
+      {
+        "name": "TIA.n",
+        "volume": "$164"
+      },
+      {
+        "name": "ALT",
+        "volume": "$115"
+      },
+      {
+        "name": "HYPER",
+        "volume": "$42"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:08:55.820Z",
+  "source": "moonwell",
+  "vaultBalance": 0.13773301453433778,
+  "vaultPct": 0.0024987835272641556
+}

@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0xe9e58aa37e2fdde20f20043a66f12718a6f8a1f9",
+    "totalValue": "$1",
+    "walletLifetime": "922 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.8900",
+        "amount": "0.00008357",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,122.8900",
+        "amount": "0.00007999",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,122.3100",
+        "amount": "0.00007992",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.8900",
+        "amount": "0.00007965",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,122.8900",
+        "amount": "0.00007582",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$889.6000",
+        "amount": "0.0000647",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "era",
+        "price": "$1.0040",
+        "amount": "0.0340",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0269",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "ZPET",
+        "chain": "era",
+        "price": "$0.0₅2619",
+        "amount": "2,814.7498",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDzC",
+        "chain": "zora",
+        "price": "$0.9999",
+        "amount": "0.0068",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe9e58aa37e2fdde20f20043a66f12718a6f8a1f9",
+    "topProtocols": [
+      {
+        "name": "ZeroLend",
+        "volume": "$47K"
+      },
+      {
+        "name": "Goal3",
+        "volume": "$23K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$22K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$17K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$13K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$13K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$9K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$5K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$4K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$4K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa912…c113",
+        "volume": "$1K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$900"
+      },
+      {
+        "name": "0x72d3…2f30",
+        "volume": "$532"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$81K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$35K"
+      },
+      {
+        "name": "zkUSD",
+        "volume": "$23K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$824B"
+      },
+      {
+        "name": "NB",
+        "volume": "$451"
+      },
+      {
+        "name": "USD1",
+        "volume": "$262"
+      },
+      {
+        "name": "WETH",
+        "volume": "$204"
+      },
+      {
+        "name": "ARB",
+        "volume": "$184B"
+      },
+      {
+        "name": "ARD",
+        "volume": "$47"
+      },
+      {
+        "name": "USDzC",
+        "volume": "$31"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$28"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:26:36.291Z",
+  "source": "moonwell",
+  "vaultBalance": 0.14681814289896994,
+  "vaultPct": 0.0026636079825872
+}

@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0xf0827ca370fbf47ed88e8d8fa8534de00320f0a9",
+    "totalValue": "$251",
+    "walletLifetime": "603 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.4600",
+        "amount": "0.0099",
+        "usdValue": "$31.11"
+      },
+      {
+        "symbol": "BLEP",
+        "chain": "base",
+        "price": "$0.00002742",
+        "amount": "25.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1386",
+        "amount": "1,000.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006782",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MARA",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "13,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WW",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "166.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "NSC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "39,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$220"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf0827ca370fbf47ed88e8d8fa8534de00320f0a9",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$960"
+      },
+      {
+        "name": "0x8246…f8c4",
+        "volume": "$918K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$884"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$842"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$726M"
+      },
+      {
+        "name": "endi Finance",
+        "volume": "$678"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$617"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$396B"
+      },
+      {
+        "name": "inance",
+        "volume": "$337"
+      },
+      {
+        "name": "0xa278…86a1",
+        "volume": "$335B"
+      },
+      {
+        "name": "orpho",
+        "volume": "$290"
+      },
+      {
+        "name": "Rubic",
+        "volume": "$218B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$216"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$210"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$190"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$1K"
+      },
+      {
+        "name": "axlUSDC",
+        "volume": "$427"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$411"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$38"
+      },
+      {
+        "name": "STG",
+        "volume": "$4"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      },
+      {
+        "name": "NSC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:17:13.910Z",
+  "source": "moonwell",
+  "vaultBalance": 0.06881913108551656,
+  "vaultPct": 0.0012485322542203528
+}

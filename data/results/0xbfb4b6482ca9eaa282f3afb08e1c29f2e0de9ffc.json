@@ -1,0 +1,104 @@
+{
+  "portfolio": {
+    "address": "0xbfb4b6482ca9eaa282f3afb08e1c29f2e0de9ffc",
+    "totalValue": "$181",
+    "walletLifetime": "76 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.0600",
+        "amount": "0.0017",
+        "usdValue": "$5.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.0600",
+        "amount": "0.00009912",
+        "usdValue": "$0.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$175"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbfb4b6482ca9eaa282f3afb08e1c29f2e0de9ffc",
+    "topProtocols": [
+      {
+        "name": "Wrapped Ether",
+        "volume": "$363"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$232"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$197M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$170"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$156B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$148"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$148"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$32"
+      },
+      {
+        "name": "0x15a2…a611",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$708"
+      },
+      {
+        "name": "WETH",
+        "volume": "$402"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:18:14.829Z",
+  "source": "moonwell",
+  "vaultBalance": 0.055176463397626586,
+  "vaultPct": 0.0010010238888390117
+}
