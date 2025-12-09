@@ -1,0 +1,193 @@
+{
+  "portfolio": {
+    "address": "0x7f9efa35bd7823725540135ae85ac7b7f437b0c2",
+    "totalValue": "$2,875",
+    "walletLifetime": "582 days",
+    "tokens": [
+      {
+        "symbol": "USD1",
+        "chain": "bsc",
+        "price": "$0.9988",
+        "amount": "2,399.9888",
+        "usdValue": "$2,397.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.8900",
+        "amount": "0.0628",
+        "usdValue": "$195.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.8900",
+        "amount": "0.0327",
+        "usdValue": "$101.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,106.8900",
+        "amount": "0.0217",
+        "usdValue": "$67.51"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "50.3000",
+        "usdValue": "$50.29"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0078",
+        "amount": "2,709.3969",
+        "usdValue": "$21.24"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "linea",
+        "price": "$1.0001",
+        "amount": "15.8344",
+        "usdValue": "$15.84"
+      },
+      {
+        "symbol": "LIGHT",
+        "chain": "bsc",
+        "price": "$0.9035",
+        "amount": "14.0000",
+        "usdValue": "$12.65"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.1000",
+        "amount": "0.0038",
+        "usdValue": "$3.38"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$7"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7f9efa35bd7823725540135ae85ac7b7f437b0c2",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$43K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$37K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$27K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$22K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$21K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xfe90…a1ad",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xfe71…5830",
+        "volume": "$10K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$10K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xe574…1378",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xc0bc…0d95",
+        "volume": "$9K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$152K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$38K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "USD1",
+        "volume": "$10K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "FF",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$63"
+      },
+      {
+        "name": "Cake",
+        "volume": "$56"
+      },
+      {
+        "name": "OM",
+        "volume": "$55"
+      },
+      {
+        "name": "PRIME",
+        "volume": "$52"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:56:50.401Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11000000000000032,
+  "vaultPct": 0.00016181882825000177
+}

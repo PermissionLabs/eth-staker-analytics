@@ -1,0 +1,152 @@
+{
+  "portfolio": {
+    "address": "0x8c8285fca575206c21d4fb81a05e51535ad18143",
+    "totalValue": "$8,155",
+    "walletLifetime": "369 days",
+    "tokens": [
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8361",
+        "amount": "1,016.7453",
+        "usdValue": "$850.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,098.2000",
+        "amount": "0.0127",
+        "usdValue": "$39.43"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$7,264"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8c8285fca575206c21d4fb81a05e51535ad18143",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$171K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$88K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$72K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$31K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$29K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$26K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$18K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$11K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$11K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$9K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$172K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$118K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$92K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$80K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$55K"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$22K"
+      },
+      {
+        "name": "KwstETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZORA",
+        "volume": "$214"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:18:15.569Z",
+  "source": "base_aave",
+  "vaultBalance": 4.399306360024362,
+  "vaultPct": 0.00647173272992655
+}

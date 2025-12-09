@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0xc533dda2f3075ac33badf38b361aa04a529d783a",
+    "totalValue": "$2,280",
+    "walletLifetime": "1439 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "825.2283",
+        "usdValue": "$825.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.3300",
+        "amount": "0.0084",
+        "usdValue": "$26.22"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.3000",
+        "amount": "0.0176",
+        "usdValue": "$15.72"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "106.1540",
+        "usdValue": "$13.16"
+      },
+      {
+        "symbol": "X2Y2",
+        "chain": "eth",
+        "price": "$0.0014",
+        "amount": "2,631.9327",
+        "usdValue": "$3.68"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,396"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc533dda2f3075ac33badf38b361aa04a529d783a",
+    "topProtocols": [
+      {
+        "name": "1inch",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xb00f…64a7",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x9740…c35c",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa810…452d",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa39f…b949",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6871…c5a0",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4bdf…54eb",
+        "volume": "$2K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4fc5…9742",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0672…065f",
+        "volume": "$1K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x151b…e96d",
+        "volume": "$872"
+      },
+      {
+        "name": "0x9229…328b",
+        "volume": "$750"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$23K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$13K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$910"
+      },
+      {
+        "name": "IMX",
+        "volume": "$75"
+      },
+      {
+        "name": "X2Y2",
+        "volume": "$286"
+      },
+      {
+        "name": "POL",
+        "volume": "$72B"
+      },
+      {
+        "name": "NB",
+        "volume": "$41"
+      },
+      {
+        "name": "DAO",
+        "volume": "$189M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:55:35.838Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.43127296206098104,
+  "vaultPct": 0.000032383356198681395
+}

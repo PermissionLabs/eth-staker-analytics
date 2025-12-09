@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "address": "0x1da246b61bcac01c0815f8cd22b25b7b1a632f8b",
+    "totalValue": "$1,257",
+    "walletLifetime": "1397 days",
+    "tokens": [
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "38,021.2164",
+        "usdValue": "$304.93"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.4000",
+        "amount": "0.0616",
+        "usdValue": "$56.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.9100",
+        "amount": "0.0154",
+        "usdValue": "$48.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,158.9100",
+        "amount": "0.0132",
+        "usdValue": "$41.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,158.9100",
+        "amount": "0.0121",
+        "usdValue": "$38.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,158.9100",
+        "amount": "0.0067",
+        "usdValue": "$21.29"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.4010",
+        "amount": "15.1009",
+        "usdValue": "$21.16"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8100",
+        "amount": "0.8012",
+        "usdValue": "$11.07"
+      },
+      {
+        "symbol": "ATH",
+        "chain": "eth",
+        "price": "$0.0139",
+        "amount": "700.0000",
+        "usdValue": "$9.70"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1055",
+        "amount": "3.2550",
+        "usdValue": "$3.60"
+      },
+      {
+        "symbol": "SOLV",
+        "chain": "bsc",
+        "price": "$0.0158",
+        "amount": "178.1727",
+        "usdValue": "$2.82"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1251",
+        "amount": "20.8865",
+        "usdValue": "$2.61"
+      },
+      {
+        "symbol": "FOXY",
+        "chain": "linea",
+        "price": "$0.0006",
+        "amount": "3,781.8075",
+        "usdValue": "$2.44"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "2.3776",
+        "usdValue": "$2.38"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "ftm",
+        "price": "$0.9999",
+        "amount": "0.9990",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.9402",
+        "usdValue": "$0.94"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$381"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$288"
+      },
+      {
+        "protocol": "Human Passport",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GTC",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "AltLayer",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ALT",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "SpaceFi",
+        "chain": "era",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SPACE",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1da246b61bcac01c0815f8cd22b25b7b1a632f8b",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T09:44:52.186Z",
+  "source": "base_aave",
+  "vaultBalance": 0.09103392938720048,
+  "vaultPct": 0.00013391821622209217
+}

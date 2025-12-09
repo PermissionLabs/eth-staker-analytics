@@ -1,0 +1,285 @@
+{
+  "portfolio": {
+    "address": "0x531331bee238d9dbe676821130553bf0761fccac",
+    "totalValue": "$11,665",
+    "walletLifetime": "3606 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.4000",
+        "amount": "0.0340",
+        "usdValue": "$30.40"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,099.0800",
+        "amount": "0.0043",
+        "usdValue": "$13.24"
+      },
+      {
+        "symbol": "ALT",
+        "chain": "eth",
+        "price": "$0.0133",
+        "amount": "694.1751",
+        "usdValue": "$9.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,099.0800",
+        "amount": "0.0026",
+        "usdValue": "$8.20"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1127",
+        "amount": "5.7020",
+        "usdValue": "$6.34"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2115",
+        "amount": "20.0000",
+        "usdValue": "$4.23"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "mnt",
+        "price": "$1.0000",
+        "amount": "4.0000",
+        "usdValue": "$4.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,099.0800",
+        "amount": "0.0012",
+        "usdValue": "$3.80"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "1.0345",
+        "usdValue": "$1.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "uni",
+        "price": "$1.0000",
+        "amount": "0.8094",
+        "usdValue": "$0.81"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3780",
+        "amount": "0.3059",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "DRV",
+        "chain": "eth",
+        "price": "$0.0371",
+        "amount": "14.5405",
+        "usdValue": "$0.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,099.0800",
+        "amount": "0.00009821",
+        "usdValue": "$0.30"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,672"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$2,061"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$497"
+      },
+      {
+        "protocol": "Mantle Reward Station",
+        "chain": "mnt",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MNT",
+        "usdValue": "$167"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ENA",
+        "usdValue": "$115"
+      },
+      {
+        "protocol": "Symbiotic",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$44"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "UNI",
+        "usdValue": "$23"
+      },
+      {
+        "protocol": "Renzo",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Carbon",
+        "chain": "mnt",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "INTX",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x531331bee238d9dbe676821130553bf0761fccac",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$36K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$24K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$12K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$8K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$7K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$7K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$6K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x660b…ca4f",
+        "volume": "$6K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$4K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$4K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$51K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$13K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "NT",
+        "volume": "$676"
+      },
+      {
+        "name": "ALT",
+        "volume": "$304"
+      },
+      {
+        "name": "ENA",
+        "volume": "$136"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:16:04.003Z",
+  "source": "base_aave",
+  "vaultBalance": 4.5333226820171495,
+  "vaultPct": 0.0066688814953015305
+}

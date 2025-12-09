@@ -1,0 +1,173 @@
+{
+  "portfolio": {
+    "address": "0xfc95b934a9a4df422acf5c43f225788d17bd8f4e",
+    "totalValue": "$3,914",
+    "walletLifetime": "628 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.9000",
+        "amount": "0.0010",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9958",
+        "amount": "5,444.0000",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POV",
+        "chain": "base",
+        "price": "$0.0₇1764",
+        "amount": "20,000.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006617",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "KERMIT",
+        "chain": "base",
+        "price": "$0.00001256",
+        "amount": "0.4207",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DrumCat",
+        "chain": "base",
+        "price": "$0.0₅5132",
+        "amount": "0.4207",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,903"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$8"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfc95b934a9a4df422acf5c43f225788d17bd8f4e",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$108K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$14K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$10K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$4K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x464c…7d25",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$695B"
+      },
+      {
+        "name": "inance",
+        "volume": "$574"
+      },
+      {
+        "name": "0xb4a8…dbc2",
+        "volume": "$126"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$82K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$82K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$795"
+      },
+      {
+        "name": "RETT",
+        "volume": "$526"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:57:51.154Z",
+  "source": "base_aave",
+  "vaultBalance": 1.4548729079434775,
+  "vaultPct": 0.0021402348110553227
+}

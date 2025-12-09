@@ -1,0 +1,257 @@
+{
+  "portfolio": {
+    "address": "0x8d282e0552743c8b932660e6418912662e3e873a",
+    "totalValue": "$245",
+    "walletLifetime": "580 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,158.3200",
+        "amount": "0.0132",
+        "usdValue": "$41.67"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "10.4039",
+        "usdValue": "$10.40"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "3.7814",
+        "usdValue": "$3.78"
+      },
+      {
+        "symbol": "AIXBT",
+        "chain": "base",
+        "price": "$0.0409",
+        "amount": "83.2172",
+        "usdValue": "$3.41"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$92,148.0300",
+        "amount": "0.00003535",
+        "usdValue": "$3.26"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9899",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,158.3200",
+        "amount": "0.00006647",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.3200",
+        "amount": "0.00005618",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "DEGEN",
+        "chain": "base",
+        "price": "$0.0015",
+        "amount": "88.3480",
+        "usdValue": "$0.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$180"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "ReactorFusion",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8d282e0552743c8b932660e6418912662e3e873a",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$128K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$54K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$41K"
+      },
+      {
+        "name": "0x0a97…19cf",
+        "volume": "$29K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$24K"
+      },
+      {
+        "name": "0xdf2f…cc2b",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x35d9…6e60",
+        "volume": "$21K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x20a5…624d",
+        "volume": "$259"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$77"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$77B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$63"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$32"
+      },
+      {
+        "name": "0x8582…a166",
+        "volume": "$3"
+      },
+      {
+        "name": "0xcfe1…910a",
+        "volume": "$1"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x079c…74a3",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6a0d…47a5",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$99K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$38K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$29K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$26K"
+      },
+      {
+        "name": "rETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$22K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$16K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$285"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$146"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$15"
+      },
+      {
+        "name": "DAI",
+        "volume": "$15"
+      },
+      {
+        "name": "WELL",
+        "volume": "$10"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$7"
+      },
+      {
+        "name": "CRV",
+        "volume": "$4M"
+      },
+      {
+        "name": "AV",
+        "volume": "$3B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:42:43.039Z",
+  "source": "base_aave",
+  "vaultBalance": 0.05831123405773227,
+  "vaultPct": 0.00008578050517303457
+}

@@ -1,0 +1,193 @@
+{
+  "portfolio": {
+    "address": "0xb9bb9adacc918f8b11785fce6f29ac437b232ed1",
+    "totalValue": "$4,046",
+    "walletLifetime": "1197 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.2900",
+        "amount": "0.4294",
+        "usdValue": "$1,343.36"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "35.6608",
+        "usdValue": "$35.66"
+      },
+      {
+        "symbol": "GALA(old)",
+        "chain": "eth",
+        "price": "$0.0039",
+        "amount": "3,324.1213",
+        "usdValue": "$13.03"
+      },
+      {
+        "symbol": "HDRN",
+        "chain": "eth",
+        "price": "$0.0₇1112",
+        "amount": "22,631,018.1026",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6200",
+        "amount": "0.0002",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7896",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0963",
+        "amount": "0.00006508",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OOMER",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,653"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb9bb9adacc918f8b11785fce6f29ac437b232ed1",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x6786…f80b",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x186b…b13f",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "OmniBridge",
+        "volume": "$750"
+      },
+      {
+        "name": "0xc05e…9e82",
+        "volume": "$403"
+      },
+      {
+        "name": "0x8331…ce77",
+        "volume": "$342"
+      },
+      {
+        "name": "0x9c24…bac4",
+        "volume": "$196"
+      },
+      {
+        "name": "0xfbee…8737",
+        "volume": "$145"
+      },
+      {
+        "name": "0x2b59…eb39",
+        "volume": "$115"
+      },
+      {
+        "name": "0xd1d2…7cae",
+        "volume": "$99K"
+      },
+      {
+        "name": "raken",
+        "volume": "$75"
+      },
+      {
+        "name": "0x4bf2…6104",
+        "volume": "$74"
+      },
+      {
+        "name": "0xdcb6…2dea",
+        "volume": "$47"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "HEX",
+        "volume": "$5K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "ILV",
+        "volume": "$985"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$586"
+      },
+      {
+        "name": "GALA",
+        "volume": "$244"
+      },
+      {
+        "name": "LQTY",
+        "volume": "$134"
+      },
+      {
+        "name": "FTM",
+        "volume": "$121"
+      },
+      {
+        "name": "HDRN",
+        "volume": "$49"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:54:43.677Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.6569319490256738,
+  "vaultPct": 0.0003080850093209793
+}

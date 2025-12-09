@@ -1,0 +1,299 @@
+{
+  "portfolio": {
+    "address": "0xb950b4541777c1a7d7f7454e679cbc45f00fc613",
+    "totalValue": "$270,715",
+    "walletLifetime": "1682 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.1200",
+        "amount": "0.3507",
+        "usdValue": "$1,095.95"
+      },
+      {
+        "symbol": "mPendleOFT",
+        "chain": "arb",
+        "price": "$1.5140",
+        "amount": "239.4320",
+        "usdValue": "$362.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.1200",
+        "amount": "0.0081",
+        "usdValue": "$25.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.1200",
+        "amount": "0.0039",
+        "usdValue": "$12.34"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2126",
+        "amount": "45.3018",
+        "usdValue": "$9.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.1200",
+        "amount": "0.0028",
+        "usdValue": "$8.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.1200",
+        "amount": "0.0026",
+        "usdValue": "$8.02"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,125.0000",
+        "amount": "0.0020",
+        "usdValue": "$6.33"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.3000",
+        "amount": "0.0044",
+        "usdValue": "$3.97"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,123.8900",
+        "amount": "0.0006",
+        "usdValue": "$1.89"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "1.6105",
+        "usdValue": "$1.61"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$269,116"
+      },
+      {
+        "protocol": "Magpie XYZ",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "mPendle",
+        "usdValue": "$24"
+      },
+      {
+        "protocol": "Radiant Capital V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "RDNT",
+        "usdValue": "$20"
+      },
+      {
+        "protocol": "Fraxlend",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "Legacy Frax Dollar",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Camelot",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GRAIL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Radiant Capital V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "RDNT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "TrustSwap",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SWAP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "DESK",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "DESK",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Phiat.io",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "SHIB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb950b4541777c1a7d7f7454e679cbc45f00fc613",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$1M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$769K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$642K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$534K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$509K"
+      },
+      {
+        "name": "Fraxlend",
+        "volume": "$486K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$465K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$407K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$353K"
+      },
+      {
+        "name": "0x0000…1004",
+        "volume": "$341K"
+      },
+      {
+        "name": "Frax",
+        "volume": "$338K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$299K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$280K"
+      },
+      {
+        "name": "Bunny",
+        "volume": "$196K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "GHO",
+        "volume": "$1M"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1M"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$1M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$842K"
+      },
+      {
+        "name": "Legacy Frax Dollar",
+        "volume": "$749K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$557K"
+      },
+      {
+        "name": "frxETH",
+        "volume": "$386K"
+      },
+      {
+        "name": "BUNNY",
+        "volume": "$207K"
+      },
+      {
+        "name": "msETH",
+        "volume": "$140K"
+      },
+      {
+        "name": "cvxPrisma",
+        "volume": "$121K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$105K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:17:23.669Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 115.04370755421526,
+  "vaultPct": 0.021390885567148445
+}

@@ -1,0 +1,143 @@
+{
+  "portfolio": {
+    "address": "0x96ff01d75b6a7ff17957d772e2f24544decf6d58",
+    "totalValue": "$1,112",
+    "walletLifetime": "1059 days",
+    "tokens": [
+      {
+        "symbol": "PAXG",
+        "chain": "eth",
+        "price": "$4,203.2774",
+        "amount": "0.0370",
+        "usdValue": "$155.39"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "50.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$957"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x96ff01d75b6a7ff17957d772e2f24544decf6d58",
+    "topProtocols": [
+      {
+        "name": "0x556c…0ef7",
+        "volume": "$47K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$19K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$17K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "CoinW",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x3c45…72cd",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x43a2…ebe5",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x2758…de8c",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x9218…3d4c",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x9b3e…edcf",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$540"
+      },
+      {
+        "name": "0x85aa…a94b",
+        "volume": "$503"
+      },
+      {
+        "name": "0x48c0…a7ff",
+        "volume": "$410"
+      },
+      {
+        "name": "0xa1af…d152",
+        "volume": "$406"
+      },
+      {
+        "name": "0x077d…c4a4",
+        "volume": "$396"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$231"
+      },
+      {
+        "name": "0x4d46…58cc",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$91K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$37K"
+      },
+      {
+        "name": "HBTC",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$1K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$70"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:54:27.228Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.29,
+  "vaultPct": 0.00005392173936631577
+}

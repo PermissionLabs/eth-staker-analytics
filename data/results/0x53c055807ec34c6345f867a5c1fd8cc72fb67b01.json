@@ -1,0 +1,255 @@
+{
+  "portfolio": {
+    "address": "0x53c055807ec34c6345f867a5c1fd8cc72fb67b01",
+    "totalValue": "$578,637",
+    "walletLifetime": "1334 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.0500",
+        "amount": "2.0513",
+        "usdValue": "$6,408.25"
+      },
+      {
+        "symbol": "USDC.e",
+        "chain": "avax",
+        "price": "$0.9999",
+        "amount": "977.7800",
+        "usdValue": "$977.68"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7400",
+        "amount": "59.5974",
+        "usdValue": "$818.87"
+      },
+      {
+        "symbol": "WETH.e",
+        "chain": "avax",
+        "price": "$3,126.5400",
+        "amount": "0.0929",
+        "usdValue": "$290.38"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "120.9494",
+        "usdValue": "$120.94"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "28.9977",
+        "usdValue": "$29.00"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0276",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "Boe",
+        "chain": "base",
+        "price": "$0.00002695",
+        "amount": "0.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.0168",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Blue",
+        "chain": "base",
+        "price": "$0.00001274",
+        "amount": "0.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004658",
+        "amount": "0.0690",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Spark",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$415,531"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$153,375"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$696"
+      },
+      {
+        "protocol": "Swell",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SWELL",
+        "usdValue": "$390"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x53c055807ec34c6345f867a5c1fd8cc72fb67b01",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x13f9…9beb",
+        "volume": "$920K"
+      },
+      {
+        "name": "Spark",
+        "volume": "$884K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$579K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$521K"
+      },
+      {
+        "name": "0x083d…3ca8",
+        "volume": "$266K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$259K"
+      },
+      {
+        "name": "0xbad3…bf69",
+        "volume": "$222K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$203K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$200K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$196K"
+      },
+      {
+        "name": "0x0611…7b65",
+        "volume": "$163K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$163K"
+      },
+      {
+        "name": "0xe783…e9d0",
+        "volume": "$163K"
+      },
+      {
+        "name": "0x49d5…0bab",
+        "volume": "$163K"
+      },
+      {
+        "name": "0x95ae…4550",
+        "volume": "$27K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xd2bb…e07a",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7945…dd31",
+        "volume": "$782"
+      },
+      {
+        "name": "0xbbe2…51a4",
+        "volume": "$212"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "KDAI",
+        "volume": "$400K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$357K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$327K"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$326K"
+      },
+      {
+        "name": "KSPK",
+        "volume": "$14K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$978"
+      },
+      {
+        "name": "SWELL",
+        "volume": "$334B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:09:50.950Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 58.26150745595314,
+  "vaultPct": 0.010832971793546788
+}

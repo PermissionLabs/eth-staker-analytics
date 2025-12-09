@@ -1,0 +1,203 @@
+{
+  "portfolio": {
+    "address": "0x8ac238fecc35c879fb5a9c1ac54d279c44d2ccb0",
+    "totalValue": "$456",
+    "walletLifetime": "1411 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,150.1600",
+        "amount": "0.0101",
+        "usdValue": "$31.79"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.4215",
+        "amount": "1.8072",
+        "usdValue": "$4.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,150.1600",
+        "amount": "0.0008",
+        "usdValue": "$2.52"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2132",
+        "amount": "3.7456",
+        "usdValue": "$0.80"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "0.9716",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "0.1125",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "OX",
+        "chain": "arb",
+        "price": "$0.0000525",
+        "amount": "5.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$411"
+      },
+      {
+        "protocol": "Polygon Staking",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$5"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8ac238fecc35c879fb5a9c1ac54d279c44d2ccb0",
+    "topProtocols": [
+      {
+        "name": "Pendle V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$860"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$738"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$668"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$538"
+      },
+      {
+        "name": "x",
+        "volume": "$235"
+      },
+      {
+        "name": "0x8a6a…5114",
+        "volume": "$193"
+      },
+      {
+        "name": "0x07d4…1b82",
+        "volume": "$185"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$185"
+      },
+      {
+        "name": "Adamant",
+        "volume": "$129"
+      },
+      {
+        "name": "OKX",
+        "volume": "$102"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$62"
+      },
+      {
+        "name": "0x2789…0fd6",
+        "volume": "$52"
+      },
+      {
+        "name": "0xf924…8c9c",
+        "volume": "$52"
+      },
+      {
+        "name": "0x4c9a…03a8",
+        "volume": "$52"
+      },
+      {
+        "name": "0x151b…e96d",
+        "volume": "$49"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "MAGIC",
+        "volume": "$539"
+      },
+      {
+        "name": "POL",
+        "volume": "$448"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$371"
+      },
+      {
+        "name": "ARBY",
+        "volume": "$194"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$95"
+      },
+      {
+        "name": "USDC",
+        "volume": "$89"
+      },
+      {
+        "name": "ARB",
+        "volume": "$59"
+      },
+      {
+        "name": "WETH",
+        "volume": "$36"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$14"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$8"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$8"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:13:03.875Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.12803259202642758,
+  "vaultPct": 0.000009613691089788297
+}

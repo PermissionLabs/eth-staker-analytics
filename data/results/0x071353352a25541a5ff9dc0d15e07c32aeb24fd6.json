@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "address": "0x071353352a25541a5ff9dc0d15e07c32aeb24fd6",
+    "totalValue": "$121,058",
+    "walletLifetime": "1274 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.7600",
+        "amount": "0.2978",
+        "usdValue": "$925.50"
+      },
+      {
+        "symbol": "NPC (Non-Playable Coin)",
+        "chain": "eth",
+        "price": "$0.0128",
+        "amount": "49,268.5210",
+        "usdValue": "$632.14"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0288",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "NCASH",
+        "chain": "arb",
+        "price": "$0.0055",
+        "amount": "1.0500",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅981",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$119,500"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x071353352a25541a5ff9dc0d15e07c32aeb24fd6",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$74K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$65K"
+      },
+      {
+        "name": "0x690c…20be",
+        "volume": "$42K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$861B"
+      },
+      {
+        "name": "inance",
+        "volume": "$12"
+      },
+      {
+        "name": "0x2555…ad74",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$184K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:07:24.262Z",
+  "source": "lido_steth",
+  "vaultBalance": 35.5,
+  "vaultPct": 0.0026656184045468568
+}

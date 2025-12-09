@@ -1,0 +1,79 @@
+{
+  "portfolio": {
+    "address": "0xcb91a67360512000f48d1d40ff2e8b687c75d057",
+    "totalValue": "$3,289",
+    "walletLifetime": "1090 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.5500",
+        "amount": "0.0123",
+        "usdValue": "$38.39"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9904",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,251"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcb91a67360512000f48d1d40ff2e8b687c75d057",
+    "topProtocols": [
+      {
+        "name": "0x1c0e…04eb",
+        "volume": "$6K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$6K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x6bfa…a019",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x7b1a…7665",
+        "volume": "$924"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$18K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:13:13.644Z",
+  "source": "lido_steth",
+  "vaultBalance": 1,
+  "vaultPct": 0.0000750878423816016
+}

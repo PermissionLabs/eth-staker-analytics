@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0xa75b15b6bbc609a1ecd5304556ab2b1cae2c6664",
+    "totalValue": "$32,449",
+    "walletLifetime": "1902 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,146.2900",
+        "amount": "0.8845",
+        "usdValue": "$2,782.78"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.4230",
+        "amount": "679.3038",
+        "usdValue": "$1,645.95"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3218",
+        "amount": "271.8338",
+        "usdValue": "$87.48"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "71.5663",
+        "usdValue": "$71.57"
+      },
+      {
+        "symbol": "MUTE",
+        "chain": "eth",
+        "price": "$0.0198",
+        "amount": "552.2148",
+        "usdValue": "$10.91"
+      },
+      {
+        "symbol": "HND",
+        "chain": "eth",
+        "price": "$0.0017",
+        "amount": "5,072.0215",
+        "usdValue": "$8.69"
+      },
+      {
+        "symbol": "RUNE",
+        "chain": "eth",
+        "price": "$0.0612",
+        "amount": "136.7072",
+        "usdValue": "$8.36"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$27,723"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SUSHI",
+        "usdValue": "$109"
+      },
+      {
+        "protocol": "TokenSets",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "wDGLD",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa75b15b6bbc609a1ecd5304556ab2b1cae2c6664",
+    "topProtocols": [
+      {
+        "name": "Uniswap V2",
+        "volume": "$71K"
+      },
+      {
+        "name": "0x",
+        "volume": "$29K"
+      },
+      {
+        "name": "0xc7be…3f7b",
+        "volume": "$13K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$11K"
+      },
+      {
+        "name": "Balancer",
+        "volume": "$10K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$7K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x47ce…26a0",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xe96f…cc45",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x3620…c35d",
+        "volume": "$4K"
+      },
+      {
+        "name": "Rarible",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x2791…4174",
+        "volume": "$4K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa61f…5f9c",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x2659…2448",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7313…8d72",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$115K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$32K"
+      },
+      {
+        "name": "VISR",
+        "volume": "$18K"
+      },
+      {
+        "name": "ROPE",
+        "volume": "$14K"
+      },
+      {
+        "name": "KDAI",
+        "volume": "$11K"
+      },
+      {
+        "name": "MPH",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "GYSR",
+        "volume": "$6K"
+      },
+      {
+        "name": "PCT",
+        "volume": "$6K"
+      },
+      {
+        "name": "YFI",
+        "volume": "$4K"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$4K"
+      },
+      {
+        "name": "NFTX",
+        "volume": "$4K"
+      },
+      {
+        "name": "ROOK",
+        "volume": "$4K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$4K"
+      },
+      {
+        "name": "HND",
+        "volume": "$3K"
+      },
+      {
+        "name": "KARCH",
+        "volume": "$3K"
+      },
+      {
+        "name": "YAMv3",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:04:56.719Z",
+  "source": "lido_steth",
+  "vaultBalance": 8,
+  "vaultPct": 0.0006007027390528128
+}

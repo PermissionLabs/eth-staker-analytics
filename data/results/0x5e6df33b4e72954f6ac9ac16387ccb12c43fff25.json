@@ -1,0 +1,110 @@
+{
+  "portfolio": {
+    "address": "0x5e6df33b4e72954f6ac9ac16387ccb12c43fff25",
+    "totalValue": "$216",
+    "walletLifetime": "43 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.4700",
+        "amount": "0.0687",
+        "usdValue": "$213.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.4700",
+        "amount": "0.0008",
+        "usdValue": "$2.49"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x5e6df33b4e72954f6ac9ac16387ccb12c43fff25",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$109K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$59K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$59K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$42K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$38K"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$12K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$12K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$3K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$613"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$9"
+      },
+      {
+        "name": "0xfffc…3825",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcba3…2d32",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$207K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$69K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$66K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$18M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:38:24.361Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 12.700989350273039,
+  "vaultPct": 0.0023615842670337076
+}

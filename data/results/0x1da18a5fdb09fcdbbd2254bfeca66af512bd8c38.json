@@ -1,0 +1,196 @@
+{
+  "portfolio": {
+    "address": "0x1da18a5fdb09fcdbbd2254bfeca66af512bd8c38",
+    "totalValue": "$11,338",
+    "walletLifetime": "1445 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7109",
+        "amount": "79.7989",
+        "usdValue": "$1,094.11"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "235.7236",
+        "usdValue": "$235.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.8600",
+        "amount": "0.0194",
+        "usdValue": "$60.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "boba",
+        "price": "$3,107.7500",
+        "amount": "0.0018",
+        "usdValue": "$5.58"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "5.0000",
+        "usdValue": "$5.00"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5800",
+        "amount": "0.1535",
+        "usdValue": "$2.08"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$9,895"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$36"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1da18a5fdb09fcdbbd2254bfeca66af512bd8c38",
+    "topProtocols": [
+      {
+        "name": "LFJ",
+        "volume": "$9K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$8K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$7K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$7K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$2K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$2K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe783…e9d0",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xc719…5118",
+        "volume": "$997"
+      },
+      {
+        "name": "0xf391…28ce",
+        "volume": "$899"
+      },
+      {
+        "name": "Convex",
+        "volume": "$767"
+      },
+      {
+        "name": "OKX",
+        "volume": "$636"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "AVAX",
+        "volume": "$16K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$8K"
+      },
+      {
+        "name": "pAVAX",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT.e",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "cvxCRV",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$1K"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$1K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$1K"
+      },
+      {
+        "name": "ATLAS",
+        "volume": "$135"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$41"
+      },
+      {
+        "name": "POL",
+        "volume": "$10"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$9"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:07:58.779Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.783764496051871,
+  "vaultPct": 0.0002090268697070415
+}

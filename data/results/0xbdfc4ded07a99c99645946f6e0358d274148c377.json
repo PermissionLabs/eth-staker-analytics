@@ -1,0 +1,181 @@
+{
+  "portfolio": {
+    "address": "0xbdfc4ded07a99c99645946f6e0358d274148c377",
+    "totalValue": "$11,553",
+    "walletLifetime": "1984 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.1500",
+        "amount": "2.0810",
+        "usdValue": "$6,524.11"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$5,003"
+      },
+      {
+        "protocol": "KyberSwap",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$22"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbdfc4ded07a99c99645946f6e0358d274148c377",
+    "topProtocols": [
+      {
+        "name": "KyberSwap",
+        "volume": "$451K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$260K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$128K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$116K"
+      },
+      {
+        "name": "Kyber",
+        "volume": "$88K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$53K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$32K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "0xdab5…2ab7",
+        "volume": "$20K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x1111…a48b",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xd779…52db",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xecf0…aea3",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xd5ac…fb7a",
+        "volume": "$12K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$12K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KWETH",
+        "volume": "$272K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$164K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$105K"
+      },
+      {
+        "name": "stMATIC",
+        "volume": "$85K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$73K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$73K"
+      },
+      {
+        "name": "KKNC",
+        "volume": "$70K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$63K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$49K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$36K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$35K"
+      },
+      {
+        "name": "REN",
+        "volume": "$20K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$16K"
+      },
+      {
+        "name": "jGBP",
+        "volume": "$15K"
+      },
+      {
+        "name": "OMG",
+        "volume": "$11K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:45:49.765Z",
+  "source": "base_aave",
+  "vaultBalance": 0.05010555097101938,
+  "vaultPct": 0.00007370928679046428
+}

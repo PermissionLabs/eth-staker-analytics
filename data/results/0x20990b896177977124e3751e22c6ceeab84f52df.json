@@ -1,0 +1,136 @@
+{
+  "portfolio": {
+    "address": "0x20990b896177977124e3751e22c6ceeab84f52df",
+    "totalValue": "$131,651",
+    "walletLifetime": "612 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.7900",
+        "amount": "0.4285",
+        "usdValue": "$1,330.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,103.7900",
+        "amount": "0.0013",
+        "usdValue": "$3.95"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.5388",
+        "usdValue": "$0.54"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$74,115"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$56,201"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x20990b896177977124e3751e22c6ceeab84f52df",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$195K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$167K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$64K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x5af5…1b9c",
+        "volume": "$21K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x0e8d…9737",
+        "volume": "$20K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xb6e6…394a",
+        "volume": "$5"
+      },
+      {
+        "name": "0xb615…39de",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x202f…da70",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$401K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$148K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$59K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:10:31.428Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 30.05675059978232,
+  "vaultPct": 0.005588663007033854
+}

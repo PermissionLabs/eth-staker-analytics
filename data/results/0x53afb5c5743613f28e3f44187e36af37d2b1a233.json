@@ -1,0 +1,237 @@
+{
+  "portfolio": {
+    "address": "0x53afb5c5743613f28e3f44187e36af37d2b1a233",
+    "totalValue": "$1,876",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "LBTC",
+        "chain": "eth",
+        "price": "$90,620.8764",
+        "amount": "0.0065",
+        "usdValue": "$588.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.9600",
+        "amount": "0.0354",
+        "usdValue": "$110.66"
+      },
+      {
+        "symbol": "IMX",
+        "chain": "eth",
+        "price": "$0.2914",
+        "amount": "156.9649",
+        "usdValue": "$45.74"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3217",
+        "amount": "70.6081",
+        "usdValue": "$22.71"
+      },
+      {
+        "symbol": "USDC.e",
+        "chain": "abs",
+        "price": "$1.0000",
+        "amount": "13.3000",
+        "usdValue": "$13.30"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.1000",
+        "amount": "0.0138",
+        "usdValue": "$12.37"
+      },
+      {
+        "symbol": "MORE",
+        "chain": "bsc",
+        "price": "$0.0047",
+        "amount": "1,105.6600",
+        "usdValue": "$5.16"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1246",
+        "amount": "34.7147",
+        "usdValue": "$4.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.1500",
+        "amount": "0.0008",
+        "usdValue": "$2.62"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$843"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$173"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$44"
+      },
+      {
+        "protocol": "mellow",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BARD",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Dinero",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x53afb5c5743613f28e3f44187e36af37d2b1a233",
+    "topProtocols": [
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$2K"
+      },
+      {
+        "name": "SatLayer",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "ybit",
+        "volume": "$887"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$810"
+      },
+      {
+        "name": "Relay",
+        "volume": "$723"
+      },
+      {
+        "name": "Lombard",
+        "volume": "$627B"
+      },
+      {
+        "name": "0x5d1f…84c7",
+        "volume": "$399"
+      },
+      {
+        "name": "Yala",
+        "volume": "$397"
+      },
+      {
+        "name": "Ostium",
+        "volume": "$224"
+      },
+      {
+        "name": "0x08b0…1e65",
+        "volume": "$221"
+      },
+      {
+        "name": "Gelato",
+        "volume": "$219"
+      },
+      {
+        "name": "Superposition Bridge",
+        "volume": "$152"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$140"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "YU",
+        "volume": "$694"
+      },
+      {
+        "name": "USDT",
+        "volume": "$441"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$385"
+      },
+      {
+        "name": "IMX",
+        "volume": "$110"
+      },
+      {
+        "name": "SLAY",
+        "volume": "$77"
+      },
+      {
+        "name": "OP",
+        "volume": "$77"
+      },
+      {
+        "name": "YALA",
+        "volume": "$70"
+      },
+      {
+        "name": "POL",
+        "volume": "$62"
+      },
+      {
+        "name": "ORE",
+        "volume": "$28"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:12:27.092Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.0507954055570324,
+  "vaultPct": 0.0005665511094830516
+}

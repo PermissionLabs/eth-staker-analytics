@@ -1,0 +1,166 @@
+{
+  "portfolio": {
+    "address": "0x87ecc21ecd8b7d169870fcf1685027e85fd9b9a9",
+    "totalValue": "$17,845",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1231",
+        "amount": "848.7382",
+        "usdValue": "$104.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9100",
+        "amount": "0.0309",
+        "usdValue": "$96.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.9100",
+        "amount": "0.0034",
+        "usdValue": "$10.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "dbk",
+        "price": "$3,125.9100",
+        "amount": "0.0020",
+        "usdValue": "$6.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.9100",
+        "amount": "0.0004",
+        "usdValue": "$1.15"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.4000",
+        "amount": "0.0002",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0947",
+        "amount": "1.0686",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$12,673"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3,962"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "op",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "wstETH",
+        "usdValue": "$866"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "eUSD",
+        "usdValue": "$124"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x87ecc21ecd8b7d169870fcf1685027e85fd9b9a9",
+    "topProtocols": [
+      {
+        "name": "0xebcd…528f",
+        "volume": "$2K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd47b…bc76",
+        "volume": "$209"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$50B"
+      },
+      {
+        "name": "eefy",
+        "volume": "$50"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$50K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3fbd…c0f0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "CRV",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "POL",
+        "volume": "$211"
+      },
+      {
+        "name": "ETH",
+        "volume": "$140"
+      },
+      {
+        "name": "USDT",
+        "volume": "$101"
+      },
+      {
+        "name": "SBNBMONETH",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:20:59.977Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.1631415874875928,
+  "vaultPct": 0.012973203966982422
+}

@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0x0268cf8598651f0743ecbb7a80c489b26e356266",
+    "totalValue": "$1,425",
+    "walletLifetime": "901 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.4900",
+        "amount": "0.0321",
+        "usdValue": "$100.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.3000",
+        "amount": "0.0300",
+        "usdValue": "$93.67"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.3000",
+        "amount": "0.0105",
+        "usdValue": "$9.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.3000",
+        "amount": "0.0018",
+        "usdValue": "$5.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,125.3000",
+        "amount": "0.0004",
+        "usdValue": "$1.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,125.3000",
+        "amount": "0.0001",
+        "usdValue": "$0.35"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1228",
+        "amount": "2.7840",
+        "usdValue": "$0.34"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Symbiotic",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MANTA",
+        "usdValue": "$503"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$439"
+      },
+      {
+        "protocol": "Spark",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$273"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0268cf8598651f0743ecbb7a80c489b26e356266",
+    "topProtocols": [
+      {
+        "name": "Gate.io",
+        "volume": "$3K"
+      },
+      {
+        "name": "Symbiotic",
+        "volume": "$2K"
+      },
+      {
+        "name": "Manta Pacific Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$879"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$815"
+      },
+      {
+        "name": "0x41d3…87b3",
+        "volume": "$779"
+      },
+      {
+        "name": "Derivio",
+        "volume": "$776"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$675B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$615"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$594"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$398B"
+      },
+      {
+        "name": "Hyphen",
+        "volume": "$397"
+      },
+      {
+        "name": "Velora",
+        "volume": "$390"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$379B"
+      },
+      {
+        "name": "Spark",
+        "volume": "$271"
+      },
+      {
+        "name": "inch",
+        "volume": "$248"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "MANTA",
+        "volume": "$5K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$877"
+      },
+      {
+        "name": "ZK",
+        "volume": "$832B"
+      },
+      {
+        "name": "NB",
+        "volume": "$800"
+      },
+      {
+        "name": "USDT",
+        "volume": "$796"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$795"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$199"
+      },
+      {
+        "name": "WETH",
+        "volume": "$125"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:26:22.825Z",
+  "source": "base_aave",
+  "vaultBalance": 0.14,
+  "vaultPct": 0.0002059512359545471
+}

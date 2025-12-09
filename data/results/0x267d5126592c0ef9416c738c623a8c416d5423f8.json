@@ -1,0 +1,116 @@
+{
+  "portfolio": {
+    "address": "0x267d5126592c0ef9416c738c623a8c416d5423f8",
+    "totalValue": "$7,321",
+    "walletLifetime": "1514 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,148.6900",
+        "amount": "0.0136",
+        "usdValue": "$42.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,149.1200",
+        "amount": "0.0010",
+        "usdValue": "$3.05"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7700",
+        "amount": "0.0022",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "RCN",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "2,922.6690",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$7,190"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVAX",
+        "usdValue": "$85"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x267d5126592c0ef9416c738c623a8c416d5423f8",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$5K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x978b…240b",
+        "volume": "$131B"
+      },
+      {
+        "name": "ENQI",
+        "volume": "$131B"
+      },
+      {
+        "name": "inance",
+        "volume": "$57B"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$262"
+      },
+      {
+        "name": "RCN",
+        "volume": "$57"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:17:42.877Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.1209736263001258,
+  "vaultPct": 0.00015925933334715782
+}

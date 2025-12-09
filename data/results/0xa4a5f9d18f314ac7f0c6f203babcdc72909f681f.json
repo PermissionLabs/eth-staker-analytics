@@ -1,0 +1,234 @@
+{
+  "portfolio": {
+    "address": "0xa4a5f9d18f314ac7f0c6f203babcdc72909f681f",
+    "totalValue": "$5,579",
+    "walletLifetime": "1267 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "2,822.1991",
+        "usdValue": "$2,821.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.9100",
+        "amount": "0.0129",
+        "usdValue": "$39.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,104.9100",
+        "amount": "0.0076",
+        "usdValue": "$23.64"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.5000",
+        "amount": "0.0213",
+        "usdValue": "$19.01"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "5,150.6933",
+        "usdValue": "$13.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "dbk",
+        "price": "$3,104.9100",
+        "amount": "0.0024",
+        "usdValue": "$7.32"
+      },
+      {
+        "symbol": "STO",
+        "chain": "bsc",
+        "price": "$0.1205",
+        "amount": "50.0000",
+        "usdValue": "$6.02"
+      },
+      {
+        "symbol": "HOODIE",
+        "chain": "eth",
+        "price": "$12.8956",
+        "amount": "0.3393",
+        "usdValue": "$4.38"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,380"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,153"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$65"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "ICHI",
+        "chain": "linea",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "LYNX",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Velodrome V2",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "VELO(v2)",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa4a5f9d18f314ac7f0c6f203babcdc72909f681f",
+    "topProtocols": [
+      {
+        "name": "ReactorFusion",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x2735…aaa1",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xe7da…11ea",
+        "volume": "$20K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$20K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$10K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "DeFi Saver",
+        "volume": "$9K"
+      },
+      {
+        "name": "Puffer Finance",
+        "volume": "$9K"
+      },
+      {
+        "name": "Yield Protocol",
+        "volume": "$8K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$7K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$7K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$7K"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$7K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$57K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$18K"
+      },
+      {
+        "name": "KZK",
+        "volume": "$9K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$8K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:25:34.417Z",
+  "source": "base_aave",
+  "vaultBalance": 0.44325369437958373,
+  "vaultPct": 0.0006520617585635311
+}

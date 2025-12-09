@@ -1,0 +1,124 @@
+{
+  "portfolio": {
+    "address": "0x27c146d898dc2e89d6b9f835e560718efd0c1e3f",
+    "totalValue": "$13,698,400",
+    "walletLifetime": "399 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$92,007.0800",
+        "amount": "40.7995",
+        "usdValue": "$3,753,845"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.6600",
+        "amount": "0.3992",
+        "usdValue": "$1,261.76"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0294",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "Hawk",
+        "chain": "bsc",
+        "price": "$0.00004277",
+        "amount": "99.9999",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7995",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$9,943,292"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x27c146d898dc2e89d6b9f835e560718efd0c1e3f",
+    "topProtocols": [
+      {
+        "name": "0x0681…8d23",
+        "volume": "$5M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x9df1…a405",
+        "volume": "$461K"
+      },
+      {
+        "name": "0x3276…351a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbaef…c2b6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1a6a…887a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1a66…887a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$6M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$461K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$983"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:16:28.457Z",
+  "source": "lido_steth",
+  "vaultBalance": 258.64665281748603,
+  "vaultPct": 0.019421219099288223
+}

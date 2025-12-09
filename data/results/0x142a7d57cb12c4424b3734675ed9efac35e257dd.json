@@ -1,0 +1,175 @@
+{
+  "portfolio": {
+    "address": "0x142a7d57cb12c4424b3734675ed9efac35e257dd",
+    "totalValue": "$57,499",
+    "walletLifetime": "1723 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.6900",
+        "amount": "0.1843",
+        "usdValue": "$571.72"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MAXI",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "3,319.4410",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$56,927"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x142a7d57cb12c4424b3734675ed9efac35e257dd",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$126K"
+      },
+      {
+        "name": "0xa45b…33c9",
+        "volume": "$45K"
+      },
+      {
+        "name": "0xfb47…be53",
+        "volume": "$27K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$24K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x1188…87f4",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xf3dd…7021",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x2dd5…ce78",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x199e…2374",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x6970…eabc",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xdcc0…8041",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x50cf…5bc3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x8734…a022",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x721e…4631",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x53e4…cc7b",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x73de…6b2c",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x247b…006b",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xc280…e5e4",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x70ef…474d",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$221K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$41K"
+      },
+      {
+        "name": "CEL",
+        "volume": "$39K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20K"
+      },
+      {
+        "name": "HEX",
+        "volume": "$18K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$9K"
+      },
+      {
+        "name": "DECI",
+        "volume": "$7K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$4K"
+      },
+      {
+        "name": "HDRN",
+        "volume": "$1K"
+      },
+      {
+        "name": "MAXI",
+        "volume": "$700M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:54:06.402Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 30.57100666646867,
+  "vaultPct": 0.005684282253914571
+}

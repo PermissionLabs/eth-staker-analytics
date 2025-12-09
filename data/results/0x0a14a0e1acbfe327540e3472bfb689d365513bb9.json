@@ -1,0 +1,154 @@
+{
+  "portfolio": {
+    "address": "0x0a14a0e1acbfe327540e3472bfb689d365513bb9",
+    "totalValue": "$33,183",
+    "walletLifetime": "1456 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.6800",
+        "amount": "0.0497",
+        "usdValue": "$155.45"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "cro",
+        "price": "$0.1038",
+        "amount": "0.0212",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7897",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CGS",
+        "chain": "cro",
+        "price": "$0.0000",
+        "amount": "2.9912",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$33,027"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0a14a0e1acbfe327540e3472bfb689d365513bb9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$47K"
+      },
+      {
+        "name": "VVS Finance",
+        "volume": "$27K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$17K"
+      },
+      {
+        "name": "0xb81e…01a6",
+        "volume": "$10K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xed9d…063b",
+        "volume": "$10K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$10K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xc921…92c5",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x2337…f2e3",
+        "volume": "$472"
+      },
+      {
+        "name": "VVS V3",
+        "volume": "$49"
+      },
+      {
+        "name": "0x5c7f…ae23",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfa4d…2ada",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3feb…ae43",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$42K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$33K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "CRO",
+        "volume": "$23K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "ATOM",
+        "volume": "$954"
+      },
+      {
+        "name": "VVS",
+        "volume": "$532"
+      },
+      {
+        "name": "WCRO",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:13:49.911Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 8.087886352409962,
+  "vaultPct": 0.0015038375859276977
+}

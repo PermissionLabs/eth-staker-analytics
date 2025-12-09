@@ -1,0 +1,152 @@
+{
+  "portfolio": {
+    "address": "0xb3004f7d51bdc415dfa9a0be791ab2bbcdf02621",
+    "totalValue": "$64,157",
+    "walletLifetime": "1342 days",
+    "tokens": [
+      {
+        "symbol": "RAIL",
+        "chain": "eth",
+        "price": "$2.7277",
+        "amount": "8,433.9922",
+        "usdValue": "$23,005.11"
+      },
+      {
+        "symbol": "CVX",
+        "chain": "eth",
+        "price": "$1.8365",
+        "amount": "2,652.6039",
+        "usdValue": "$4,871.38"
+      },
+      {
+        "symbol": "FLOKI",
+        "chain": "eth",
+        "price": "$0.00004708",
+        "amount": "87,193,773.7488",
+        "usdValue": "$4,105.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,139.3000",
+        "amount": "1.0824",
+        "usdValue": "$3,398.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,137.7000",
+        "amount": "1.0010",
+        "usdValue": "$3,140.83"
+      },
+      {
+        "symbol": "FRAX",
+        "chain": "eth",
+        "price": "$0.7891",
+        "amount": "2,379.3988",
+        "usdValue": "$1,877.50"
+      },
+      {
+        "symbol": "FROK",
+        "chain": "base",
+        "price": "$0.0175",
+        "amount": "105,172.1225",
+        "usdValue": "$1,842.42"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,139.3000",
+        "amount": "0.0604",
+        "usdValue": "$189.63"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "157.3892",
+        "usdValue": "$157.37"
+      },
+      {
+        "symbol": "RWA (realworldabs.io)",
+        "chain": "frax",
+        "price": "$0.0₅8548",
+        "amount": "15,050,251.5310",
+        "usdValue": "$128.65"
+      },
+      {
+        "symbol": "frxETH",
+        "chain": "frax",
+        "price": "$3,065.0841",
+        "amount": "0.0200",
+        "usdValue": "$61.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,139.3000",
+        "amount": "0.0151",
+        "usdValue": "$47.30"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$20,834"
+      },
+      {
+        "protocol": "The LLamas",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "crvUSD",
+        "usdValue": "$274"
+      },
+      {
+        "protocol": "Open Stablecoin Index",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "SQUILL",
+        "usdValue": "$41"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Fraxlend",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Frax",
+        "chain": "frax",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WFRAX",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb3004f7d51bdc415dfa9a0be791ab2bbcdf02621",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T13:10:49.488Z",
+  "source": "base_aave",
+  "vaultBalance": 2.8925491461894333,
+  "vaultPct": 0.004255171940835598
+}

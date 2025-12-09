@@ -1,0 +1,87 @@
+{
+  "portfolio": {
+    "address": "0x3aeb19dd2df68eb21b9cb4ec2b5c89c723eaf063",
+    "totalValue": "$4,920",
+    "walletLifetime": "150 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "6.6449",
+        "usdValue": "$6.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.6100",
+        "amount": "0.00004258",
+        "usdValue": "$0.13"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "0.0014",
+        "usdValue": "$0.02"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$4,839"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVAX",
+        "usdValue": "$75"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3aeb19dd2df68eb21b9cb4ec2b5c89c723eaf063",
+    "topProtocols": [
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$7K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$7K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$112B"
+      },
+      {
+        "name": "ENQI",
+        "volume": "$112"
+      },
+      {
+        "name": "0x5594…ed53",
+        "volume": "$7"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$223"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:30:42.788Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.4316886837221676,
+  "vaultPct": 0.01596846807899592
+}

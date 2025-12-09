@@ -1,0 +1,242 @@
+{
+  "portfolio": {
+    "address": "0xe4374958f97edc6563fc03be265785e181c01240",
+    "totalValue": "$64,796",
+    "walletLifetime": "971 days",
+    "tokens": [
+      {
+        "symbol": "MON",
+        "chain": "eth",
+        "price": "$0.0107",
+        "amount": "84,355.0000",
+        "usdValue": "$898.50"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "652.4304",
+        "usdValue": "$652.55"
+      },
+      {
+        "symbol": "CRS",
+        "chain": "bsc",
+        "price": "$0.0₅8691",
+        "amount": "13,168,761.5800",
+        "usdValue": "$114.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.0100",
+        "amount": "0.0264",
+        "usdValue": "$82.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.0100",
+        "amount": "0.0237",
+        "usdValue": "$74.22"
+      },
+      {
+        "symbol": "NOOB",
+        "chain": "eth",
+        "price": "$0.00005369",
+        "amount": "531,915.0000",
+        "usdValue": "$28.56"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$903.8000",
+        "amount": "0.0179",
+        "usdValue": "$16.18"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "3.2143",
+        "usdValue": "$3.21"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "CeranosFinance",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "CRS",
+        "usdValue": "$29,225"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$25,021"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,605"
+      },
+      {
+        "protocol": "BLOCKLORDS",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "LRDS",
+        "usdValue": "$71"
+      },
+      {
+        "protocol": "SynFutures V3",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "LRDS",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Hedgey",
+        "chain": "bsc",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SBX",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe4374958f97edc6563fc03be265785e181c01240",
+    "topProtocols": [
+      {
+        "name": "KuCoin",
+        "volume": "$904K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$853K"
+      },
+      {
+        "name": "0xbf89…3e2a",
+        "volume": "$702K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$391K"
+      },
+      {
+        "name": "CeranosFinance",
+        "volume": "$385K"
+      },
+      {
+        "name": "0x9838…f679",
+        "volume": "$372K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$260K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$167K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$164K"
+      },
+      {
+        "name": "0x6105…50f2",
+        "volume": "$144K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$125K"
+      },
+      {
+        "name": "0xc0d9…4271",
+        "volume": "$100K"
+      },
+      {
+        "name": "0x2b11…4146",
+        "volume": "$100K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$77K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$77K"
+      },
+      {
+        "name": "0x2e0f…12cb",
+        "volume": "$68K"
+      },
+      {
+        "name": "0xc6cd…49ea",
+        "volume": "$51K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "CRS",
+        "volume": "$466K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$384K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$119K"
+      },
+      {
+        "name": "LRDS",
+        "volume": "$95K"
+      },
+      {
+        "name": "KAP",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "NOOB",
+        "volume": "$2K"
+      },
+      {
+        "name": "RIZ",
+        "volume": "$2K"
+      },
+      {
+        "name": "MON",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$18"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:57:31.622Z",
+  "source": "base_aave",
+  "vaultBalance": 4.3423535440709635,
+  "vaultPct": 0.006387950566807305
+}

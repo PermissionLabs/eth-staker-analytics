@@ -1,0 +1,170 @@
+{
+  "portfolio": {
+    "address": "0x58b8af340bbad6a144ca0396ed7e5de0454d5e04",
+    "totalValue": "$18,927",
+    "walletLifetime": "703 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.8100",
+        "amount": "0.0041",
+        "usdValue": "$12.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.8100",
+        "amount": "0.0020",
+        "usdValue": "$6.22"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "1.6064",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6300",
+        "amount": "0.0025",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "tBTC",
+        "usdValue": "$18,487"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$248"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$169"
+      },
+      {
+        "protocol": "Folks Finance",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AVAX",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x58b8af340bbad6a144ca0396ed7e5de0454d5e04",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$68K"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x5534…c48d",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xad7c…aaa5",
+        "volume": "$6K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x23dd…9cc7",
+        "volume": "$415"
+      },
+      {
+        "name": "0x0ca3…fca1",
+        "volume": "$299"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$253"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$252"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$172"
+      },
+      {
+        "name": "Velora",
+        "volume": "$151"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$122M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$100"
+      },
+      {
+        "name": "0x69c9…6f15",
+        "volume": "$24"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$21"
+      },
+      {
+        "name": "Folks Finance",
+        "volume": "$5"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "tBTC",
+        "volume": "$90K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$45K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$699"
+      },
+      {
+        "name": "WETH",
+        "volume": "$106"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$11M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:53:34.349Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.35900099199179636,
+  "vaultPct": 0.00006675157904286365
+}

@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0x6282d419781b0259b261c4cd1a600b136417ee20",
+    "totalValue": "$813,647",
+    "walletLifetime": "725 days",
+    "tokens": [
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.4060",
+        "amount": "43,443.5306",
+        "usdValue": "$104,525.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.7700",
+        "amount": "1.0595",
+        "usdValue": "$3,321.44"
+      },
+      {
+        "symbol": "FF",
+        "chain": "eth",
+        "price": "$0.1145",
+        "amount": "1,420.7146",
+        "usdValue": "$162.66"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "PENDLE",
+        "usdValue": "$382,556"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$320,563"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$2,391"
+      },
+      {
+        "protocol": "Firebot",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT0",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "MantleETH",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6282d419781b0259b261c4cd1a600b136417ee20",
+    "topProtocols": [
+      {
+        "name": "Pendle V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "MantleETH",
+        "volume": "$479K"
+      },
+      {
+        "name": "0x2564…1380",
+        "volume": "$389K"
+      },
+      {
+        "name": "0x4090…fcfd",
+        "volume": "$371K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$342K"
+      },
+      {
+        "name": "0xe682…e8fa",
+        "volume": "$300K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$179K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$178K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$78K"
+      },
+      {
+        "name": "0x1fdc…290f",
+        "volume": "$59K"
+      },
+      {
+        "name": "0x1712…d7dd",
+        "volume": "$59K"
+      },
+      {
+        "name": "0x15e5…f9be",
+        "volume": "$50K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$9K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$7K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$5K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "PENDLE",
+        "volume": "$3M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "cmETH",
+        "volume": "$967K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$45K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$859"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$783"
+      },
+      {
+        "name": "SPK",
+        "volume": "$466"
+      },
+      {
+        "name": "USUAL",
+        "volume": "$328K"
+      },
+      {
+        "name": "ERNEL",
+        "volume": "$266"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$263"
+      },
+      {
+        "name": "FF",
+        "volume": "$241"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$206"
+      },
+      {
+        "name": "RESOLV",
+        "volume": "$78"
+      },
+      {
+        "name": "SYRUP",
+        "volume": "$56"
+      },
+      {
+        "name": "EDEN",
+        "volume": "$48"
+      },
+      {
+        "name": "PUFFER",
+        "volume": "$32M"
+      },
+      {
+        "name": "NT",
+        "volume": "$24"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:14:12.657Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 101.5,
+  "vaultPct": 0.018872608778210523
+}

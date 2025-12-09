@@ -1,0 +1,136 @@
+{
+  "portfolio": {
+    "address": "0x5fd6003684136252b4fa4a66d4714a833b33604e",
+    "totalValue": "$1,390",
+    "walletLifetime": "773 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "97.4100",
+        "usdValue": "$97.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.5100",
+        "amount": "0.0039",
+        "usdValue": "$12.19"
+      },
+      {
+        "symbol": "DOVA",
+        "chain": "eth",
+        "price": "$0.00006612",
+        "amount": "13,133.6144",
+        "usdValue": "$0.87"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "1.2295",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "0.0099",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1240",
+        "amount": "0.0041",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,279"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5fd6003684136252b4fa4a66d4714a833b33604e",
+    "topProtocols": [
+      {
+        "name": "0xb04f…22a5",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0425…1478",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xced9…1ce0",
+        "volume": "$957"
+      },
+      {
+        "name": "0xcdd3…2af2",
+        "volume": "$636M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$405"
+      },
+      {
+        "name": "0x98db…ef8b",
+        "volume": "$399"
+      },
+      {
+        "name": "0x50b3…6b68",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x64cc…a27a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$846"
+      },
+      {
+        "name": "LINK",
+        "volume": "$837"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:09:16.837Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.4,
+  "vaultPct": 0.00007437481291905625
+}

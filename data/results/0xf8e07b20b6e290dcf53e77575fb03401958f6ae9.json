@@ -1,0 +1,185 @@
+{
+  "portfolio": {
+    "address": "0xf8e07b20b6e290dcf53e77575fb03401958f6ae9",
+    "totalValue": "$6,608",
+    "walletLifetime": "456 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,160.4700",
+        "amount": "0.0058",
+        "usdValue": "$18.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.4700",
+        "amount": "0.0005",
+        "usdValue": "$1.52"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8200",
+        "amount": "0.0194",
+        "usdValue": "$0.27"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1249",
+        "amount": "0.1938",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006648",
+        "amount": "0.0033",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,555"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$33"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf8e07b20b6e290dcf53e77575fb03401958f6ae9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x2e7a…5ab2",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xace6…c3b1",
+        "volume": "$11K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x3930…df97",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf3d9…ae69",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xd364…5c83",
+        "volume": "$6K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1887…3cdd",
+        "volume": "$490"
+      },
+      {
+        "name": "0xffbd…dd9a",
+        "volume": "$450"
+      },
+      {
+        "name": "0x2f78…e22e",
+        "volume": "$321"
+      },
+      {
+        "name": "0x6081…fe80",
+        "volume": "$292"
+      },
+      {
+        "name": "0xb3de…6652",
+        "volume": "$150"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$50K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$41K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$11K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$584"
+      },
+      {
+        "name": "POL",
+        "volume": "$253"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T11:00:07.660Z",
+  "source": "base_aave",
+  "vaultBalance": 3.680091174107022,
+  "vaultPct": 0.005413709469519725
+}

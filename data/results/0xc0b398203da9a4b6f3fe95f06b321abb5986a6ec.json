@@ -1,0 +1,301 @@
+{
+  "portfolio": {
+    "address": "0xc0b398203da9a4b6f3fe95f06b321abb5986a6ec",
+    "totalValue": "$4,950",
+    "walletLifetime": "1289 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,101.4300",
+        "amount": "0.1000",
+        "usdValue": "$310.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.4300",
+        "amount": "0.0585",
+        "usdValue": "$181.54"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "172.2732",
+        "usdValue": "$172.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,101.4300",
+        "amount": "0.0526",
+        "usdValue": "$163.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,101.4300",
+        "amount": "0.0500",
+        "usdValue": "$155.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,101.4300",
+        "amount": "0.0300",
+        "usdValue": "$93.04"
+      },
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅848",
+        "amount": "8,768,187.4136",
+        "usdValue": "$74.35"
+      },
+      {
+        "symbol": "PEPE",
+        "chain": "eth",
+        "price": "$0.0₅4669",
+        "amount": "6,925,661.6748",
+        "usdValue": "$32.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,101.4300",
+        "amount": "0.0101",
+        "usdValue": "$31.43"
+      },
+      {
+        "symbol": "ankrMATIC",
+        "chain": "matic",
+        "price": "$0.1537",
+        "amount": "119.9542",
+        "usdValue": "$18.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.4300",
+        "amount": "0.0055",
+        "usdValue": "$17.14"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1231",
+        "amount": "107.4712",
+        "usdValue": "$13.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.4500",
+        "amount": "0.0008",
+        "usdValue": "$2.41"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Swell",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,245"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDe",
+        "usdValue": "$986"
+      },
+      {
+        "protocol": "Zircuit",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "rswETH",
+        "usdValue": "$963"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$285"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$167"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc0b398203da9a4b6f3fe95f06b321abb5986a6ec",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$7K"
+      },
+      {
+        "name": "Zircuit",
+        "volume": "$6K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xdd65…f269",
+        "volume": "$2K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$2K"
+      },
+      {
+        "name": "Gas.zip",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x7d6e…420f",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf23f…47c1",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$850"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$850"
+      },
+      {
+        "name": "0x3f5e…3c74",
+        "volume": "$7991"
+      },
+      {
+        "name": "inch",
+        "volume": "$332"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$3320"
+      },
+      {
+        "name": "x",
+        "volume": "$275B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$245"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$242"
+      },
+      {
+        "name": "0x3eb9…5272",
+        "volume": "$230"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$166"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$370"
+      },
+      {
+        "name": "stickbug",
+        "volume": "$255"
+      },
+      {
+        "name": "USDC",
+        "volume": "$172"
+      },
+      {
+        "name": "ankrMATIC",
+        "volume": "$124"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$101"
+      },
+      {
+        "name": "PEPE",
+        "volume": "$93"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$10"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:03:56.740Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.09067938817342425,
+  "vaultPct": 0.000016860656327532275
+}

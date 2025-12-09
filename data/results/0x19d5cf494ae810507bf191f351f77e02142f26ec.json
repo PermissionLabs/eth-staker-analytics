@@ -1,0 +1,237 @@
+{
+  "portfolio": {
+    "address": "0x19d5cf494ae810507bf191f351f77e02142f26ec",
+    "totalValue": "$259",
+    "walletLifetime": "673 days",
+    "tokens": [
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2065",
+        "amount": "90.2775",
+        "usdValue": "$108.92"
+      },
+      {
+        "symbol": "AIOZ",
+        "chain": "eth",
+        "price": "$0.1184",
+        "amount": "250.1646",
+        "usdValue": "$29.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,119.5600",
+        "amount": "0.0089",
+        "usdValue": "$27.76"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.6000",
+        "amount": "0.0290",
+        "usdValue": "$26.01"
+      },
+      {
+        "symbol": "EXTRA",
+        "chain": "base",
+        "price": "$0.0122",
+        "amount": "1,227.3629",
+        "usdValue": "$14.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.5600",
+        "amount": "0.0047",
+        "usdValue": "$14.68"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "1,371.4311",
+        "usdValue": "$13.84"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "matic",
+        "price": "$5.5802",
+        "amount": "1.5324",
+        "usdValue": "$8.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,119.5700",
+        "amount": "0.0017",
+        "usdValue": "$5.44"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$896.1300",
+        "amount": "0.0050",
+        "usdValue": "$4.46"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.3819",
+        "amount": "1.2171",
+        "usdValue": "$2.90"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2120",
+        "amount": "2.9882",
+        "usdValue": "$0.63"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$0.9998",
+        "amount": "0.2916",
+        "usdValue": "$0.29"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x19d5cf494ae810507bf191f351f77e02142f26ec",
+    "topProtocols": [
+      {
+        "name": "rhino.fi",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x9624…cb9e",
+        "volume": "$26K"
+      },
+      {
+        "name": "Kinza Finance",
+        "volume": "$23K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xd95f…78c5",
+        "volume": "$5K"
+      },
+      {
+        "name": "squid",
+        "volume": "$5K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$5K"
+      },
+      {
+        "name": "Solv",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xc8ba…d5ca",
+        "volume": "$3K"
+      },
+      {
+        "name": "Lombard",
+        "volume": "$3K"
+      },
+      {
+        "name": "Avalon Finance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "Rango",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$66K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$22K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$15K"
+      },
+      {
+        "name": "BCH",
+        "volume": "$10K"
+      },
+      {
+        "name": "KSolvBTC",
+        "volume": "$6K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KSYRUP",
+        "volume": "$821"
+      },
+      {
+        "name": "USDC",
+        "volume": "$628"
+      },
+      {
+        "name": "USDe",
+        "volume": "$565M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:00:41.167Z",
+  "source": "moonwell",
+  "vaultBalance": 2.9832671379723643,
+  "vaultPct": 0.05412310771674397
+}

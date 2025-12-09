@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0x00cea1a93e13634f85d23546d970fb3c7c1a0b4e",
+    "totalValue": "$645,754",
+    "walletLifetime": "1724 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.8300",
+        "amount": "0.1900",
+        "usdValue": "$594.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.9200",
+        "amount": "0.1810",
+        "usdValue": "$566.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.9200",
+        "amount": "0.1000",
+        "usdValue": "$313.01"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.1000",
+        "amount": "0.2620",
+        "usdValue": "$235.81"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3184",
+        "amount": "19.1099",
+        "usdValue": "$6.08"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$430,512"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$210,398"
+      },
+      {
+        "protocol": "Lista DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$2,420"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "XVS",
+        "usdValue": "$364"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$319"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$24"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "mobm",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "GLMR",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x00cea1a93e13634f85d23546d970fb3c7c1a0b4e",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$1M"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$476K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$294K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$200K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$198K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$170K"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$162K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$154K"
+      },
+      {
+        "name": "squid",
+        "volume": "$137K"
+      },
+      {
+        "name": "StellaSwap",
+        "volume": "$91K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$81K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$72K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "wstETH",
+        "volume": "$928K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$842K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$414K"
+      },
+      {
+        "name": "KBTCB",
+        "volume": "$289K"
+      },
+      {
+        "name": "UST",
+        "volume": "$143K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$100K"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$88K"
+      },
+      {
+        "name": "KMORPHO",
+        "volume": "$49K"
+      },
+      {
+        "name": "KaxlUSDC",
+        "volume": "$22K"
+      },
+      {
+        "name": "BETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$6K"
+      },
+      {
+        "name": "xcUSDC",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:17:16.444Z",
+  "source": "moonwell",
+  "vaultBalance": 124.29045087098258,
+  "vaultPct": 2.254905494391961
+}

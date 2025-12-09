@@ -1,0 +1,138 @@
+{
+  "portfolio": {
+    "address": "0x994d6526ada703c720f08c54a142f4409b50f13c",
+    "totalValue": "$55,283",
+    "walletLifetime": "1430 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,173.3600",
+        "amount": "0.0096",
+        "usdValue": "$30.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,172.1900",
+        "amount": "0.0071",
+        "usdValue": "$22.47"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "0.9422",
+        "usdValue": "$0.94"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6920",
+        "amount": "0.6716",
+        "usdValue": "$0.46"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$55,229"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x994d6526ada703c720f08c54a142f4409b50f13c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$757K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$385K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$266K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$185K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$88K"
+      },
+      {
+        "name": "Rubic",
+        "volume": "$47K"
+      },
+      {
+        "name": "Router Protocol",
+        "volume": "$47K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$37K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$37K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xfb39…5032",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x6000…344b",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x7cc0…5f43",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7904…5d83",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$946K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$917K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$303K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$113K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:07:58.287Z",
+  "source": "base_aave",
+  "vaultBalance": 24.61888739710073,
+  "vaultPct": 0.036216359194705124
+}

@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0xf38d88290d18b36e77dfb0ebc2c9891b48c61ea6",
+    "totalValue": "$31,736",
+    "walletLifetime": "1362 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.4600",
+        "amount": "3.0465",
+        "usdValue": "$9,506.49"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "1,388.3736",
+        "usdValue": "$1,388.44"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,477.3600",
+        "amount": "0.0003",
+        "usdValue": "$29.61"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "12.6755",
+        "usdValue": "$12.68"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.4000",
+        "amount": "0.0077",
+        "usdValue": "$6.89"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "25.5202",
+        "usdValue": "$3.16"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "1.9819",
+        "usdValue": "$1.98"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9987",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDtb",
+        "chain": "eth",
+        "price": "$1.0003",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7876",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "yRise",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "0.0001",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$20,787"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf38d88290d18b36e77dfb0ebc2c9891b48c61ea6",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$81K"
+      },
+      {
+        "name": "0x0c48…7b3d",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x5637…80f6",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xdf67…4ad6",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xdbbb…3ea2",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xeba8…4cb1",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x3c17…3130",
+        "volume": "$8K"
+      },
+      {
+        "name": "WhiteBIT",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xfefa…7f12",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xb0df…b67c",
+        "volume": "$6K"
+      },
+      {
+        "name": "BitMart",
+        "volume": "$5K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x394f…ed41",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xbca3…1dbc",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x3eef…1669",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x6d78…ab50",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xe052…0480",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xaff0…102f",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$132K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$59K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$25K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "CHP",
+        "volume": "$816"
+      },
+      {
+        "name": "POL",
+        "volume": "$8B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:07:18.849Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5.005146657197695,
+  "vaultPct": 0.0009306421156537958
+}

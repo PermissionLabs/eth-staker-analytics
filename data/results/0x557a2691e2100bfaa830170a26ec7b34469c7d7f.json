@@ -1,0 +1,91 @@
+{
+  "portfolio": {
+    "address": "0x557a2691e2100bfaa830170a26ec7b34469c7d7f",
+    "totalValue": "$92,445",
+    "walletLifetime": "726 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.4700",
+        "amount": "0.4332",
+        "usdValue": "$1,345.79"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.3000",
+        "amount": "0.0254",
+        "usdValue": "$22.63"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$91,077"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x557a2691e2100bfaa830170a26ec7b34469c7d7f",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$72K"
+      },
+      {
+        "name": "0x93cd…22c2",
+        "volume": "$68K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$66K"
+      },
+      {
+        "name": "Grapes",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1afd…166b",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1429…a22c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6a76…a22c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$142K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$6M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:59:56.497Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 29.00000004937018,
+  "vaultPct": 0.005392173945811323
+}

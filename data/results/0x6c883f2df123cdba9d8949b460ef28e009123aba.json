@@ -1,0 +1,263 @@
+{
+  "portfolio": {
+    "address": "0x6c883f2df123cdba9d8949b460ef28e009123aba",
+    "totalValue": "$744",
+    "walletLifetime": "921 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,151.7500",
+        "amount": "0.0303",
+        "usdValue": "$95.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,151.9600",
+        "amount": "0.0250",
+        "usdValue": "$78.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,151.7500",
+        "amount": "0.00007997",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,151.5600",
+        "amount": "0.00007991",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,151.9600",
+        "amount": "0.00007965",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,151.7500",
+        "amount": "0.00006721",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2283",
+        "amount": "0.0468",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$911.4000",
+        "amount": "0.00006295",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "ZPET",
+        "chain": "era",
+        "price": "$0.0₅2643",
+        "amount": "2,814.7498",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ZKPEPE",
+        "chain": "era",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$360"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$176"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "mtwCARROT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6c883f2df123cdba9d8949b460ef28e009123aba",
+    "topProtocols": [
+      {
+        "name": "Aboard",
+        "volume": "$45K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$38K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$7K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$6K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$6K"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$6K"
+      },
+      {
+        "name": "Goal3",
+        "volume": "$5K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$929"
+      },
+      {
+        "name": "0x45a3…642a",
+        "volume": "$744"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$434"
+      },
+      {
+        "name": "Zora Bridge",
+        "volume": "$384"
+      },
+      {
+        "name": "orpho",
+        "volume": "$335"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$100K"
+      },
+      {
+        "name": "KzkUSD",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$658"
+      },
+      {
+        "name": "ZK",
+        "volume": "$376"
+      },
+      {
+        "name": "NB",
+        "volume": "$247"
+      },
+      {
+        "name": "USD1",
+        "volume": "$244"
+      },
+      {
+        "name": "WETH",
+        "volume": "$102"
+      },
+      {
+        "name": "ARD",
+        "volume": "$43"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$33"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:19:25.668Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1139557807715987,
+  "vaultPct": 0.00016763809924340116
+}

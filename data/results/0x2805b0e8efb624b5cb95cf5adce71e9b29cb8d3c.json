@@ -1,0 +1,184 @@
+{
+  "portfolio": {
+    "address": "0x2805b0e8efb624b5cb95cf5adce71e9b29cb8d3c",
+    "totalValue": "$20,486",
+    "walletLifetime": "345 days",
+    "tokens": [
+      {
+        "symbol": "UNI",
+        "chain": "bsc",
+        "price": "$5.4950",
+        "amount": "547.1387",
+        "usdValue": "$3,006.53"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.3621",
+        "amount": "1,118.1830",
+        "usdValue": "$2,641.28"
+      },
+      {
+        "symbol": "ILV",
+        "chain": "bsc",
+        "price": "$6.9900",
+        "amount": "70.2835",
+        "usdValue": "$491.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.0500",
+        "amount": "0.0132",
+        "usdValue": "$41.23"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.8000",
+        "amount": "0.0227",
+        "usdValue": "$20.35"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7600",
+        "amount": "0.9000",
+        "usdValue": "$12.38"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$13,010"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBNB",
+        "usdValue": "$1,250"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2805b0e8efb624b5cb95cf5adce71e9b29cb8d3c",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$32K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$28K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$5K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$502"
+      },
+      {
+        "name": "0xf924…8c9c",
+        "volume": "$65"
+      },
+      {
+        "name": "0x5b7b…3131",
+        "volume": "$39"
+      },
+      {
+        "name": "0xea34…c72d",
+        "volume": "$28B"
+      },
+      {
+        "name": "inance",
+        "volume": "$20B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$16"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$15M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$3"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "AAVE",
+        "volume": "$22K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$16K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$7K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "ILV",
+        "volume": "$3K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$39"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$28"
+      },
+      {
+        "name": "POL",
+        "volume": "$20"
+      },
+      {
+        "name": "SYNTH",
+        "volume": "$2M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:18:32.706Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.2433339417517115,
+  "vaultPct": 0.00023118182328424078
+}

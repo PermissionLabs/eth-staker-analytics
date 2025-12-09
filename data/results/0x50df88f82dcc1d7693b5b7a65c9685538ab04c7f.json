@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "address": "0x50df88f82dcc1d7693b5b7a65c9685538ab04c7f",
+    "totalValue": "$5,810",
+    "walletLifetime": "1472 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.3200",
+        "amount": "0.5435",
+        "usdValue": "$1,697.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.3200",
+        "amount": "0.0677",
+        "usdValue": "$211.51"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6575",
+        "amount": "123.2926",
+        "usdValue": "$81.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.3200",
+        "amount": "0.0111",
+        "usdValue": "$34.70"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,252.0100",
+        "amount": "0.00007261",
+        "usdValue": "$6.55"
+      },
+      {
+        "symbol": "CPI",
+        "chain": "arb",
+        "price": "$1.0649",
+        "amount": "5.3731",
+        "usdValue": "$5.72"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "4.8728",
+        "usdValue": "$4.87"
+      },
+      {
+        "symbol": "SPEC",
+        "chain": "base",
+        "price": "$0.1564",
+        "amount": "14.2651",
+        "usdValue": "$2.23"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,723"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,561"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$176"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$157"
+      },
+      {
+        "protocol": "NOYA.ai",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$98"
+      },
+      {
+        "protocol": "Human Passport",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GTC",
+        "usdValue": "$19"
+      },
+      {
+        "protocol": "Theo",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$8"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x50df88f82dcc1d7693b5b7a65c9685538ab04c7f",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T07:25:48.758Z",
+  "source": "moonwell",
+  "vaultBalance": 0.5407723552472163,
+  "vaultPct": 0.009810814479448591
+}

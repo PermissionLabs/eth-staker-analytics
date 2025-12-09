@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0x5905b3bb039bca9edfb48d486174838504cfbd77",
+    "totalValue": "$1,567",
+    "walletLifetime": "1606 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,138.0000",
+        "amount": "0.1738",
+        "usdValue": "$545.45"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3890",
+        "amount": "50.0000",
+        "usdValue": "$69.45"
+      },
+      {
+        "symbol": "W",
+        "chain": "arb",
+        "price": "$0.0411",
+        "amount": "299.7342",
+        "usdValue": "$12.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,138.0000",
+        "amount": "0.0038",
+        "usdValue": "$11.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zircuit",
+        "price": "$3,137.2900",
+        "amount": "0.0010",
+        "usdValue": "$3.05"
+      },
+      {
+        "symbol": "RBF",
+        "chain": "base",
+        "price": "$0.0001",
+        "amount": "6,641.3584",
+        "usdValue": "$0.74"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0342",
+        "amount": "20.7576",
+        "usdValue": "$0.71"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$733"
+      },
+      {
+        "protocol": "Hemi",
+        "chain": "hemi",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$185"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5905b3bb039bca9edfb48d486174838504cfbd77",
+    "topProtocols": [
+      {
+        "name": "0x18aa…2a8b",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xff54…e78f",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xd7aa…64fc",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x9d1b…b447",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$4K"
+      },
+      {
+        "name": "AutoFarm",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$3K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9ec5…3631",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$2K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "PROPC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:12:58.736Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.4,
+  "vaultPct": 0.00007437481291905625
+}

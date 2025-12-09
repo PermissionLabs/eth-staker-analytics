@@ -1,0 +1,142 @@
+{
+  "portfolio": {
+    "address": "0xb2610365ee6227e84ba3251d4f35530d4579e6a5",
+    "totalValue": "$430",
+    "walletLifetime": "642 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.5300",
+        "amount": "0.0141",
+        "usdValue": "$43.58"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.4000",
+        "amount": "0.0075",
+        "usdValue": "$6.69"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7836",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "REFI",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1,413,250.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$380"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb2610365ee6227e84ba3251d4f35530d4579e6a5",
+    "topProtocols": [
+      {
+        "name": "MEXC",
+        "volume": "$54K"
+      },
+      {
+        "name": "0x4777…b70c",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x0214…030f",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x30a9…0aff",
+        "volume": "$705M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$498"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$437K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$4"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ZIG",
+        "volume": "$20K"
+      },
+      {
+        "name": "KTET",
+        "volume": "$11K"
+      },
+      {
+        "name": "PLANET",
+        "volume": "$11K"
+      },
+      {
+        "name": "CREO",
+        "volume": "$9K"
+      },
+      {
+        "name": "PROPC",
+        "volume": "$9K"
+      },
+      {
+        "name": "NXRA",
+        "volume": "$8K"
+      },
+      {
+        "name": "SDEX",
+        "volume": "$5K"
+      },
+      {
+        "name": "RVF",
+        "volume": "$5K"
+      },
+      {
+        "name": "WAS",
+        "volume": "$4K"
+      },
+      {
+        "name": "VRD",
+        "volume": "$3K"
+      },
+      {
+        "name": "REFI",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$994"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:14:00.161Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.12,
+  "vaultPct": 0.000022312443875716872
+}

@@ -1,0 +1,208 @@
+{
+  "portfolio": {
+    "address": "0x7521180cfe5e3c0e804ec37671de84e1d99735e9",
+    "totalValue": "$12,883",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6869",
+        "amount": "2,770.6926",
+        "usdValue": "$1,903.20"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,163.5000",
+        "amount": "0.0077",
+        "usdValue": "$24.28"
+      },
+      {
+        "symbol": "wTAO",
+        "chain": "eth",
+        "price": "$305.0750",
+        "amount": "0.0754",
+        "usdValue": "$22.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,163.5000",
+        "amount": "0.0034",
+        "usdValue": "$10.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,163.5000",
+        "amount": "0.0029",
+        "usdValue": "$9.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,163.5000",
+        "amount": "0.0010",
+        "usdValue": "$3.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,861"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "sonic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "S",
+        "usdValue": "$1,139"
+      },
+      {
+        "protocol": "Usual",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "USUAL",
+        "usdValue": "$801"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$99"
+      },
+      {
+        "protocol": "Sonic Airdrop",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "S",
+        "usdValue": "$9"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7521180cfe5e3c0e804ec37671de84e1d99735e9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x0095…d461",
+        "volume": "$10K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$4K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$2K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$1K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$793"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$762B"
+      },
+      {
+        "name": "inance",
+        "volume": "$731"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$9K"
+      },
+      {
+        "name": "USUAL",
+        "volume": "$7K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$3K"
+      },
+      {
+        "name": "wTAO",
+        "volume": "$1K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$402"
+      },
+      {
+        "name": "COMP",
+        "volume": "$23"
+      },
+      {
+        "name": "S",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:38:47.960Z",
+  "source": "base_aave",
+  "vaultBalance": 2.2342299800258565,
+  "vaultPct": 0.003286731612807344
+}

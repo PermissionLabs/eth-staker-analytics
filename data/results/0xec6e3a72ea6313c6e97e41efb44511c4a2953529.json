@@ -1,0 +1,71 @@
+{
+  "portfolio": {
+    "address": "0xec6e3a72ea6313c6e97e41efb44511c4a2953529",
+    "totalValue": "$75",
+    "walletLifetime": "1481 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.5500",
+        "amount": "0.0242",
+        "usdValue": "$75.19"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0276",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xec6e3a72ea6313c6e97e41efb44511c4a2953529",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0e80…82da",
+        "volume": "$304"
+      },
+      {
+        "name": "0xa4ca…b84e",
+        "volume": "$274"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$194"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$138"
+      },
+      {
+        "name": "0x7c4d…7547",
+        "volume": "$128"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "BAT",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:41:54.541Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.088,
+  "vaultPct": 0.000016362458842192374
+}

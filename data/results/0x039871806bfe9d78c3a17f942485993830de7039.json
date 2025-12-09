@@ -1,0 +1,100 @@
+{
+  "portfolio": {
+    "address": "0x039871806bfe9d78c3a17f942485993830de7039",
+    "totalValue": "$77",
+    "walletLifetime": "185 days",
+    "tokens": [
+      {
+        "symbol": "wBETH",
+        "chain": "bsc",
+        "price": "$3,420.0168",
+        "amount": "0.0101",
+        "usdValue": "$34.64"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.3000",
+        "amount": "0.0256",
+        "usdValue": "$23.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,155.4400",
+        "amount": "0.0060",
+        "usdValue": "$18.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,155.4400",
+        "amount": "0.0000776",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "PTB",
+        "chain": "bsc",
+        "price": "$0.0024",
+        "amount": "0.0010",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x039871806bfe9d78c3a17f942485993830de7039",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$537B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$295B"
+      },
+      {
+        "name": "inance",
+        "volume": "$140B"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$30B"
+      },
+      {
+        "name": "0x34aa…bf67",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x82ac…e198",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x55a5…ef51",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8c73…3b1e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "wBETH",
+        "volume": "$90"
+      },
+      {
+        "name": "NB",
+        "volume": "$17"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:32:21.327Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07477418425040316,
+  "vaultPct": 0.00010999882617045402
+}

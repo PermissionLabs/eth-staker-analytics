@@ -1,0 +1,232 @@
+{
+  "portfolio": {
+    "address": "0x3917eee7dc7907ee2eb5e3656b8c30d612da51fe",
+    "totalValue": "$12,697",
+    "walletLifetime": "1306 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,881.9300",
+        "amount": "0.0173",
+        "usdValue": "$1,569.00"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,131.4200",
+        "amount": "0.1129",
+        "usdValue": "$353.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.2000",
+        "amount": "0.0811",
+        "usdValue": "$253.82"
+      },
+      {
+        "symbol": "uSOL",
+        "chain": "base",
+        "price": "$136.9181",
+        "amount": "1.3904",
+        "usdValue": "$190.37"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "op",
+        "price": "$90,820.0200",
+        "amount": "0.0020",
+        "usdValue": "$185.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,129.2000",
+        "amount": "0.0302",
+        "usdValue": "$94.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.2000",
+        "amount": "0.0227",
+        "usdValue": "$70.94"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "70.3546",
+        "usdValue": "$70.35"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.9030",
+        "amount": "2.2064",
+        "usdValue": "$65.98"
+      },
+      {
+        "symbol": "uSUI",
+        "chain": "base",
+        "price": "$1.6095",
+        "amount": "33.3928",
+        "usdValue": "$53.74"
+      },
+      {
+        "symbol": "USOL",
+        "chain": "hyper",
+        "price": "$137.9159",
+        "amount": "0.2411",
+        "usdValue": "$33.25"
+      },
+      {
+        "symbol": "EURC",
+        "chain": "base",
+        "price": "$1.1633",
+        "amount": "21.7228",
+        "usdValue": "$25.27"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$0.9999",
+        "amount": "25.2429",
+        "usdValue": "$25.24"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "op",
+        "price": "$3,129.2000",
+        "amount": "0.0043",
+        "usdValue": "$13.37"
+      },
+      {
+        "symbol": "WHYPE",
+        "chain": "hyper",
+        "price": "$29.9030",
+        "amount": "0.2185",
+        "usdValue": "$6.53"
+      },
+      {
+        "symbol": "KITTEN",
+        "chain": "hyper",
+        "price": "$0.0016",
+        "amount": "3,380.1124",
+        "usdValue": "$5.47"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "5.3425",
+        "usdValue": "$5.34"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "3.4736",
+        "usdValue": "$3.47"
+      },
+      {
+        "symbol": "VELO(v2)",
+        "chain": "op",
+        "price": "$0.0291",
+        "amount": "106.0266",
+        "usdValue": "$3.08"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6820",
+        "amount": "4.4680",
+        "usdValue": "$3.05"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$5,061"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,606"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$1,273"
+      },
+      {
+        "protocol": "Etherex",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$447"
+      },
+      {
+        "protocol": "Velodrome V3",
+        "chain": "op",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$222"
+      },
+      {
+        "protocol": "KittenSwap",
+        "chain": "hyper",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USOL",
+        "usdValue": "$41"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "HYPE",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3917eee7dc7907ee2eb5e3656b8c30d612da51fe",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T15:02:28.099Z",
+  "source": "base_aave",
+  "vaultBalance": 0.5844446100262956,
+  "vaultPct": 0.0008597649270134919
+}

@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0x835cf67f4630d6125a46eba8c87565cdd075c5bd",
+    "totalValue": "$84,487",
+    "walletLifetime": "2375 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "11,063.0025",
+        "usdValue": "$11,062.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.7900",
+        "amount": "0.2679",
+        "usdValue": "$837.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.7900",
+        "amount": "0.0293",
+        "usdValue": "$91.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.7900",
+        "amount": "0.0170",
+        "usdValue": "$53.10"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$72,405"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x835cf67f4630d6125a46eba8c87565cdd075c5bd",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$116K"
+      },
+      {
+        "name": "0x835c…c5bd",
+        "volume": "$85K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$71K"
+      },
+      {
+        "name": "0xfb86…fe69",
+        "volume": "$70K"
+      },
+      {
+        "name": "aori",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x0438…8e4e",
+        "volume": "$33K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x743e…88d9",
+        "volume": "$22K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$17K"
+      },
+      {
+        "name": "0xeb1d…5dd1",
+        "volume": "$17K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$417"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$416"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$161K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$120K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$85K"
+      },
+      {
+        "name": "TAC",
+        "volume": "$842"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$22"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:35:21.393Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 18.31000000048515,
+  "vaultPct": 0.0034045070614600065
+}

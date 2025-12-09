@@ -1,0 +1,246 @@
+{
+  "portfolio": {
+    "address": "0x264a57600cd3665ad84cecb71475449e0bda9adb",
+    "totalValue": "$152,547",
+    "walletLifetime": "163 days",
+    "tokens": [
+      {
+        "symbol": "SPX(Wormhole)",
+        "chain": "base",
+        "price": "$0.6537",
+        "amount": "4,569.9157",
+        "usdValue": "$2,987.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,134.2300",
+        "amount": "0.1092",
+        "usdValue": "$342.29"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "141.1033",
+        "usdValue": "$141.08"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,134.2300",
+        "amount": "0.0319",
+        "usdValue": "$100.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.2300",
+        "amount": "0.0114",
+        "usdValue": "$35.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,134.2300",
+        "amount": "0.0092",
+        "usdValue": "$28.71"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "15.3680",
+        "usdValue": "$15.37"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$90,731.7500",
+        "amount": "0.0000703",
+        "usdValue": "$6.38"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$52,038"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$43,731"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$41,657"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$11,300"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$85"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$69"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x264a57600cd3665ad84cecb71475449e0bda9adb",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$223K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$201K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$192K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$142K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$111K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$45K"
+      },
+      {
+        "name": "0x51b8…90b2",
+        "volume": "$24K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$21K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x9efd…5ab7",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xc819…7fd9",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x555c…c35b",
+        "volume": "$4K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$448K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$89K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$51K"
+      },
+      {
+        "name": "NEXO",
+        "volume": "$7K"
+      },
+      {
+        "name": "cbADA",
+        "volume": "$4K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$925"
+      },
+      {
+        "name": "WELL",
+        "volume": "$146"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$92"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:31:18.018Z",
+  "source": "moonwell",
+  "vaultBalance": 3.532864841328368,
+  "vaultPct": 0.06409403365930957
+}

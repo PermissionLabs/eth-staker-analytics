@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0x0e7e4fa3f6a2a4a1fc83e5b6cb366fe6d7eb965e",
+    "totalValue": "$538",
+    "walletLifetime": "1479 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.7400",
+        "amount": "0.0904",
+        "usdValue": "$280.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.7400",
+        "amount": "0.0108",
+        "usdValue": "$33.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,106.7400",
+        "amount": "0.0045",
+        "usdValue": "$14.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.7400",
+        "amount": "0.0037",
+        "usdValue": "$11.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,106.7400",
+        "amount": "0.0032",
+        "usdValue": "$9.96"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1296",
+        "amount": "295,774,647.0000",
+        "usdValue": "$3.83"
+      },
+      {
+        "symbol": "AIDOGE",
+        "chain": "arb",
+        "price": "$0.0₁₀1768",
+        "amount": "188,763,238,786.7790",
+        "usdValue": "$3.34"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1220",
+        "amount": "21.3237",
+        "usdValue": "$2.60"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "1,685.6663",
+        "usdValue": "$1.56"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$174"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0e7e4fa3f6a2a4a1fc83e5b6cb366fe6d7eb965e",
+    "topProtocols": [
+      {
+        "name": "Symbiosis",
+        "volume": "$27K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$19K"
+      },
+      {
+        "name": "Rubic",
+        "volume": "$17K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$16K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$10K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$6K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$5K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$4K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$12K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$10K"
+      },
+      {
+        "name": "POL",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "hUSDC",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:20:06.488Z",
+  "source": "base_aave",
+  "vaultBalance": 0.05593291982786275,
+  "vaultPct": 0.00008228181406496376
+}

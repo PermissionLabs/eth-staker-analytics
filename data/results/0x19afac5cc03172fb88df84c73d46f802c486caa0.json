@@ -1,0 +1,146 @@
+{
+  "portfolio": {
+    "address": "0x19afac5cc03172fb88df84c73d46f802c486caa0",
+    "totalValue": "$121,181",
+    "walletLifetime": "1089 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.0100",
+        "amount": "0.0408",
+        "usdValue": "$127.93"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9881",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7915",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$121,053"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x19afac5cc03172fb88df84c73d46f802c486caa0",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$226K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$221K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$120K"
+      },
+      {
+        "name": "0x360b…c796",
+        "volume": "$51K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x86cf…0962",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x5145…bdf4",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xb506…9e9d",
+        "volume": "$7K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$520"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$234"
+      },
+      {
+        "name": "0xfa3b…c2c9",
+        "volume": "$210"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$170"
+      },
+      {
+        "name": "0x6081…fe80",
+        "volume": "$146"
+      },
+      {
+        "name": "0x3907…648d",
+        "volume": "$51"
+      },
+      {
+        "name": "0xa1d9…1e4d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb0e1…14a7",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$257K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$233K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$173K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$159K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$922B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:05:33.821Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 42.40368935825202,
+  "vaultPct": 0.007884416157744425
+}

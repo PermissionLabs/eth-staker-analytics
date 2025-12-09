@@ -1,0 +1,246 @@
+{
+  "portfolio": {
+    "address": "0x563003db7bc2f2bc7070a22a15e1741149961586",
+    "totalValue": "$989,231",
+    "walletLifetime": "883 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,137.2000",
+        "amount": "0.3911",
+        "usdValue": "$1,227.11"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "1,116.1364",
+        "usdValue": "$1,115.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,136.6100",
+        "amount": "0.1930",
+        "usdValue": "$605.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,136.6100",
+        "amount": "0.1867",
+        "usdValue": "$585.71"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3184",
+        "amount": "121.8668",
+        "usdValue": "$38.80"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.4000",
+        "amount": "0.0099",
+        "usdValue": "$8.94"
+      },
+      {
+        "symbol": "EXTRA",
+        "chain": "op",
+        "price": "$0.0123",
+        "amount": "623.7661",
+        "usdValue": "$7.65"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.0964",
+        "amount": "3.9898",
+        "usdValue": "$4.37"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Extra Finance",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$413,726"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$313,689"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$156,918"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$100,037"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$1,242"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$20"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x563003db7bc2f2bc7070a22a15e1741149961586",
+    "topProtocols": [
+      {
+        "name": "Extra Finance",
+        "volume": "$2M"
+      },
+      {
+        "name": "0xb86a…6a97",
+        "volume": "$1M"
+      },
+      {
+        "name": "Stader",
+        "volume": "$678K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$608K"
+      },
+      {
+        "name": "StakeWise",
+        "volume": "$566K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$415K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$390K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$388K"
+      },
+      {
+        "name": "0xfe2e…7fee",
+        "volume": "$380K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$314K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$302K"
+      },
+      {
+        "name": "0x2cff…2680",
+        "volume": "$298K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$221K"
+      },
+      {
+        "name": "ChainFlip",
+        "volume": "$201K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$190K"
+      },
+      {
+        "name": "0xd551…6449",
+        "volume": "$173K"
+      },
+      {
+        "name": "0xe8c0…4d75",
+        "volume": "$124K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$761K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$247K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$201K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$132K"
+      },
+      {
+        "name": "POL",
+        "volume": "$42K"
+      },
+      {
+        "name": "KEURS",
+        "volume": "$19K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$9K"
+      },
+      {
+        "name": "EXTRA",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:30:02.653Z",
+  "source": "moonwell",
+  "vaultBalance": 97.99638739386951,
+  "vaultPct": 1.777872642801626
+}

@@ -1,0 +1,204 @@
+{
+  "portfolio": {
+    "address": "0x5bbd0f628c70c03aec5716a6e9f158d4b1ec6f74",
+    "totalValue": "$738",
+    "walletLifetime": "1109 days",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3860",
+        "amount": "52.6717",
+        "usdValue": "$73.00"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2114",
+        "amount": "154.8874",
+        "usdValue": "$32.74"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0321",
+        "amount": "1,002.2169",
+        "usdValue": "$32.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,109.2100",
+        "amount": "0.0010",
+        "usdValue": "$3.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.2100",
+        "amount": "0.0010",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0880",
+        "amount": "31.5759",
+        "usdValue": "$2.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,109.2100",
+        "amount": "0.0009",
+        "usdValue": "$2.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.2100",
+        "amount": "0.0009",
+        "usdValue": "$2.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,108.9700",
+        "amount": "0.00007996",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0941",
+        "amount": "2.0010",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$479"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$105"
+      },
+      {
+        "protocol": "Uniswap V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5bbd0f628c70c03aec5716a6e9f158d4b1ec6f74",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$7K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$7K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$705"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$680"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$675"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$658"
+      },
+      {
+        "name": "Relay",
+        "volume": "$507"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$450"
+      },
+      {
+        "name": "Rage Trade",
+        "volume": "$359"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KUSDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$4K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$507"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:35:22.186Z",
+  "source": "base_aave",
+  "vaultBalance": 0.15361333919243478,
+  "vaultPct": 0.0002259775504699072
+}

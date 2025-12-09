@@ -1,0 +1,269 @@
+{
+  "portfolio": {
+    "address": "0xfb8ab4b8e44020b30b0f0d44a3e0953320a3d2ad",
+    "totalValue": "$58,641",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.9787",
+        "amount": "129.3514",
+        "usdValue": "$1,808.17"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2122",
+        "amount": "8,263.0609",
+        "usdValue": "$1,753.42"
+      },
+      {
+        "symbol": "SOL (Wormhole)",
+        "chain": "eth",
+        "price": "$138.0523",
+        "amount": "8.6352",
+        "usdValue": "$1,192.11"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6809",
+        "amount": "1,635.6433",
+        "usdValue": "$1,113.71"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2763",
+        "amount": "3,215.5974",
+        "usdValue": "$888.47"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0330",
+        "amount": "18,762.3587",
+        "usdValue": "$618.41"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5999",
+        "amount": "889.8044",
+        "usdValue": "$533.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.1400",
+        "amount": "0.1240",
+        "usdValue": "$389.55"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.4060",
+        "amount": "273.9308",
+        "usdValue": "$385.15"
+      },
+      {
+        "symbol": "SHX",
+        "chain": "eth",
+        "price": "$0.0105",
+        "amount": "21,544.3935",
+        "usdValue": "$225.28"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8607",
+        "amount": "100.2193",
+        "usdValue": "$86.26"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.4302",
+        "amount": "34.8346",
+        "usdValue": "$84.65"
+      },
+      {
+        "symbol": "MOVE",
+        "chain": "eth",
+        "price": "$0.0447",
+        "amount": "1,635.2254",
+        "usdValue": "$73.09"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "op",
+        "price": "$3,140.7600",
+        "amount": "0.0218",
+        "usdValue": "$68.55"
+      },
+      {
+        "symbol": "RPL",
+        "chain": "arb",
+        "price": "$2.4438",
+        "amount": "12.6704",
+        "usdValue": "$30.96"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "92.4168",
+        "usdValue": "$11.51"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "9.9482",
+        "usdValue": "$9.95"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$49,190"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$109"
+      },
+      {
+        "protocol": "Shadow Exchange",
+        "chain": "sonic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$24"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BVM",
+        "usdValue": "$12"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfb8ab4b8e44020b30b0f0d44a3e0953320a3d2ad",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$720K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$645K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$119K"
+      },
+      {
+        "name": "Aperture",
+        "volume": "$107K"
+      },
+      {
+        "name": "0x3b52…bc8c",
+        "volume": "$77K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$50K"
+      },
+      {
+        "name": "0x05b4…657d",
+        "volume": "$48K"
+      },
+      {
+        "name": "0x2a38…fbcf",
+        "volume": "$44K"
+      },
+      {
+        "name": "0x68df…a6a8",
+        "volume": "$40K"
+      },
+      {
+        "name": "Rubic",
+        "volume": "$39K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$32K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$29K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$27K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$564K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$534K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$174K"
+      },
+      {
+        "name": "KLDO",
+        "volume": "$143K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$115K"
+      },
+      {
+        "name": "OP",
+        "volume": "$97K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$85K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$67K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$56K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$46K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$43K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:20:09.995Z",
+  "source": "base_aave",
+  "vaultBalance": 27.07014749673693,
+  "vaultPct": 0.039822359531606136
+}

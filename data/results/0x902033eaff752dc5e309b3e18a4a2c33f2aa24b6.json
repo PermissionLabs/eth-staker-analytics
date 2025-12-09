@@ -1,0 +1,141 @@
+{
+  "portfolio": {
+    "address": "0x902033eaff752dc5e309b3e18a4a2c33f2aa24b6",
+    "totalValue": "$985",
+    "walletLifetime": "974 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.9800",
+        "amount": "0.3155",
+        "usdValue": "$982.59"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Terminal",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x902033eaff752dc5e309b3e18a4a2c33f2aa24b6",
+    "topProtocols": [
+      {
+        "name": "LI.FI",
+        "volume": "$98K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$50K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$27K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$19K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$13K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xca78…048b",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xb99d…70a9",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x240e…2cd1",
+        "volume": "$8K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$7K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ARB",
+        "volume": "$120K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$66K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$58K"
+      },
+      {
+        "name": "KOP",
+        "volume": "$42K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$39K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$29K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$24K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$18K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$14K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:03:48.838Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.31403965616323465,
+  "vaultPct": 0.000058391601690763305
+}

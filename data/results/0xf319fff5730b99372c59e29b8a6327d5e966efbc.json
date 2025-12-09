@@ -1,0 +1,229 @@
+{
+  "portfolio": {
+    "address": "0xf319fff5730b99372c59e29b8a6327d5e966efbc",
+    "totalValue": "$220",
+    "walletLifetime": "1094 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,157.3400",
+        "amount": "0.0318",
+        "usdValue": "$100.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.3500",
+        "amount": "0.0110",
+        "usdValue": "$34.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.3400",
+        "amount": "0.0052",
+        "usdValue": "$16.49"
+      },
+      {
+        "symbol": "OBT",
+        "chain": "arb",
+        "price": "$0.0025",
+        "amount": "1,125.5083",
+        "usdValue": "$2.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,157.3500",
+        "amount": "0.0002",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,157.2600",
+        "amount": "0.0002",
+        "usdValue": "$0.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,157.3500",
+        "amount": "0.0001",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.8000",
+        "amount": "0.0004",
+        "usdValue": "$0.38"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1251",
+        "amount": "2.5475",
+        "usdValue": "$0.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,157.2600",
+        "amount": "0.00009891",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,157.2600",
+        "amount": "0.00008932",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,157.3500",
+        "amount": "0.00008208",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "cbETH",
+        "chain": "base",
+        "price": "$3,509.9125",
+        "amount": "0.00006543",
+        "usdValue": "$0.23"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$59"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf319fff5730b99372c59e29b8a6327d5e966efbc",
+    "topProtocols": [
+      {
+        "name": "zkSync Lite",
+        "volume": "$26K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x99f5…9c57",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x7eb6…1ef2",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x077d…c4a4",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$380"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$378"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$327"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$307"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$282"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$206"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$74K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "TC.b",
+        "volume": "$563"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$379B"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$265"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$262"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:58:04.292Z",
+  "source": "base_aave",
+  "vaultBalance": 0.0522,
+  "vaultPct": 0.0000767903894059097
+}

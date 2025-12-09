@@ -1,0 +1,116 @@
+{
+  "portfolio": {
+    "address": "0x87b6837209a9a18dc1d2f2da042d3d0251ebf1ea",
+    "totalValue": "$3,179",
+    "walletLifetime": "1672 days",
+    "tokens": [
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1232",
+        "amount": "330.6024",
+        "usdValue": "$40.72"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1238",
+        "amount": "225.7304",
+        "usdValue": "$27.95"
+      },
+      {
+        "symbol": "SUSHI",
+        "chain": "eth",
+        "price": "$0.3332",
+        "amount": "37.3651",
+        "usdValue": "$12.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.7900",
+        "amount": "0.0007",
+        "usdValue": "$2.28"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9884",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,096"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x87b6837209a9a18dc1d2f2da042d3d0251ebf1ea",
+    "topProtocols": [
+      {
+        "name": "Coinex",
+        "volume": "$4K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x48c0…a7ff",
+        "volume": "$793"
+      },
+      {
+        "name": "0xe37d…7017",
+        "volume": "$527"
+      },
+      {
+        "name": "0xbadf…b451",
+        "volume": "$188"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$595"
+      },
+      {
+        "name": "POL",
+        "volume": "$527"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$485M"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$307B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:53:15.942Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.922366442,
+  "vaultPct": 0.00006925850601497468
+}

@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "address": "0xd577528eceaa947f5f5b66730cc995766f7fbfa5",
+    "totalValue": "$172,966",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.7600",
+        "amount": "0.0220",
+        "usdValue": "$68.35"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.4000",
+        "amount": "0.0010",
+        "usdValue": "$0.87"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4840",
+        "amount": "0.4261",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.000038",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "3.6000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$172,323"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$574"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd577528eceaa947f5f5b66730cc995766f7fbfa5",
+    "topProtocols": [
+      {
+        "name": "Stader",
+        "volume": "$91K"
+      },
+      {
+        "name": "0xec14…617c",
+        "volume": "$86K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$456K"
+      },
+      {
+        "name": "ernel DAO",
+        "volume": "$456"
+      },
+      {
+        "name": "0x9bf8…82a2",
+        "volume": "$415"
+      },
+      {
+        "name": "0xcc5c…0f0e",
+        "volume": "$249"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$25"
+      },
+      {
+        "name": "0x8a40…58d5",
+        "volume": "$25K"
+      },
+      {
+        "name": "0xa182…0e84",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xd2e9…5632",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$187K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$912B"
+      },
+      {
+        "name": "NB",
+        "volume": "$499"
+      },
+      {
+        "name": "GUSD",
+        "volume": "$51"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:53:14.464Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 50.922768452805606,
+  "vaultPct": 0.5679716629586267
+}

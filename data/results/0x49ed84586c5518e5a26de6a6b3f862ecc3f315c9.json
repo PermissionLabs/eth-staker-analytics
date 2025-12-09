@@ -1,0 +1,270 @@
+{
+  "portfolio": {
+    "address": "0x49ed84586c5518e5a26de6a6b3f862ecc3f315c9",
+    "totalValue": "$1,296",
+    "walletLifetime": "1593 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.4800",
+        "amount": "0.0214",
+        "usdValue": "$66.76"
+      },
+      {
+        "symbol": "DEGEN",
+        "chain": "base",
+        "price": "$0.0015",
+        "amount": "31,196.8038",
+        "usdValue": "$46.02"
+      },
+      {
+        "symbol": "KING",
+        "chain": "swell",
+        "price": "$426.3959",
+        "amount": "0.0545",
+        "usdValue": "$23.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,115.4800",
+        "amount": "0.0054",
+        "usdValue": "$16.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "lens",
+        "price": "$3,115.1300",
+        "amount": "0.0048",
+        "usdValue": "$14.94"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "base",
+        "price": "$2.3518",
+        "amount": "4.6533",
+        "usdValue": "$10.94"
+      },
+      {
+        "symbol": "GAIB",
+        "chain": "eth",
+        "price": "$0.0465",
+        "amount": "130.3893",
+        "usdValue": "$6.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "swell",
+        "price": "$3,115.5800",
+        "amount": "0.0008",
+        "usdValue": "$2.54"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,115.4800",
+        "amount": "0.0007",
+        "usdValue": "$2.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,115.4800",
+        "amount": "0.0005",
+        "usdValue": "$1.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,115.4800",
+        "amount": "0.0004",
+        "usdValue": "$1.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,115.5800",
+        "amount": "0.0004",
+        "usdValue": "$1.21"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "lens",
+        "price": "$0.9998",
+        "amount": "1.0524",
+        "usdValue": "$1.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,113.2200",
+        "amount": "0.0003",
+        "usdValue": "$0.87"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3153",
+        "amount": "2.6400",
+        "usdValue": "$0.83"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "1.7791",
+        "usdValue": "$0.22"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$786"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "YT-sUSDE-5FEB2026",
+        "usdValue": "$301"
+      },
+      {
+        "protocol": "Strata",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Resolv",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RESOLV",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "swell",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "KING",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x49ed84586c5518e5a26de6a6b3f862ecc3f315c9",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xea67…8ec8",
+        "volume": "$16K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x1494…7585",
+        "volume": "$12K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x0000…e67c",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$5K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$80K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "KwstETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "KBNB",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:35:42.852Z",
+  "source": "base_aave",
+  "vaultBalance": 0.24553322505931313,
+  "vaultPct": 0.00036119907977765365
+}

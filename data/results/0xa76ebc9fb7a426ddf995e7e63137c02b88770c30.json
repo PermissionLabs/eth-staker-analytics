@@ -1,0 +1,173 @@
+{
+  "portfolio": {
+    "address": "0xa76ebc9fb7a426ddf995e7e63137c02b88770c30",
+    "totalValue": "$1,308",
+    "walletLifetime": "85 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,108.2700",
+        "amount": "0.1783",
+        "usdValue": "$554.25"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "156.8414",
+        "usdValue": "$156.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.0400",
+        "amount": "0.0200",
+        "usdValue": "$62.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.2700",
+        "amount": "0.0066",
+        "usdValue": "$20.63"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "9.8901",
+        "usdValue": "$9.89"
+      },
+      {
+        "symbol": "USDbC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "3.4195",
+        "usdValue": "$3.42"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,108.2700",
+        "amount": "0.0001",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0271",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USI",
+        "chain": "base",
+        "price": "$0.0₆7114",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$500"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa76ebc9fb7a426ddf995e7e63137c02b88770c30",
+    "topProtocols": [
+      {
+        "name": "0x0000…a032",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x7ae7…dcbd",
+        "volume": "$7K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xd86c…2805",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5523…b59e",
+        "volume": "$3K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x00cd…0000",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$760"
+      },
+      {
+        "name": "Synapse",
+        "volume": "$589"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$500"
+      },
+      {
+        "name": "0xa083…ba22",
+        "volume": "$69"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$62"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$10"
+      },
+      {
+        "name": "0x3c7d…928c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfaf8…db84",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:52:39.622Z",
+  "source": "base_aave",
+  "vaultBalance": 1.9074053271992089,
+  "vaultPct": 0.0028059463185926025
+}

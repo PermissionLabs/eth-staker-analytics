@@ -1,0 +1,280 @@
+{
+  "portfolio": {
+    "address": "0xfe9a131a285a5f12d6a0d4861898271f9dc48fc3",
+    "totalValue": "$3,242",
+    "walletLifetime": "1753 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "238.5548",
+        "usdValue": "$238.51"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,104.8200",
+        "amount": "0.0277",
+        "usdValue": "$85.93"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.0889",
+        "amount": "52.3257",
+        "usdValue": "$56.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.8200",
+        "amount": "0.0125",
+        "usdValue": "$38.80"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0325",
+        "amount": "854.9748",
+        "usdValue": "$27.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.8200",
+        "amount": "0.0051",
+        "usdValue": "$15.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.8200",
+        "amount": "0.0016",
+        "usdValue": "$5.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,105.4900",
+        "amount": "0.0014",
+        "usdValue": "$4.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,104.8200",
+        "amount": "0.0013",
+        "usdValue": "$4.09"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5500",
+        "amount": "0.2855",
+        "usdValue": "$3.87"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "31.0292",
+        "usdValue": "$3.81"
+      },
+      {
+        "symbol": "wstETH",
+        "chain": "base",
+        "price": "$3,795.2151",
+        "amount": "0.0006",
+        "usdValue": "$2.26"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.5000",
+        "amount": "0.0018",
+        "usdValue": "$1.63"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "era",
+        "price": "$3,104.8200",
+        "amount": "0.0002",
+        "usdValue": "$0.76"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,126"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "cbETH",
+        "usdValue": "$278"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDbC",
+        "usdValue": "$254"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ZK",
+        "usdValue": "$84"
+      },
+      {
+        "protocol": "Merchant Moe",
+        "chain": "mnt",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MOE",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfe9a131a285a5f12d6a0d4861898271f9dc48fc3",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$5K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$4K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$3K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x77b0…5767",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa1a1…82bc",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$1K"
+      },
+      {
+        "name": "zkSwap Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$1K"
+      },
+      {
+        "name": "Alpaca Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "KwstETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$3K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "JOE",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$890"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:35:16.702Z",
+  "source": "moonwell",
+  "vaultBalance": 0.24904949257514977,
+  "vaultPct": 0.004518312269750925
+}

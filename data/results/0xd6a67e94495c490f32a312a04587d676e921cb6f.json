@@ -1,0 +1,153 @@
+{
+  "portfolio": {
+    "address": "0xd6a67e94495c490f32a312a04587d676e921cb6f",
+    "totalValue": "$2,935",
+    "walletLifetime": "11 days",
+    "tokens": [
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2750",
+        "amount": "951.5229",
+        "usdValue": "$261.67"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "210.4351",
+        "usdValue": "$210.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.1800",
+        "amount": "0.0366",
+        "usdValue": "$114.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.1800",
+        "amount": "0.0234",
+        "usdValue": "$73.21"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6789",
+        "amount": "0.5613",
+        "usdValue": "$0.38"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$912"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$869"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$494"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd6a67e94495c490f32a312a04587d676e921cb6f",
+    "topProtocols": [
+      {
+        "name": "0x9ec8…8fb8",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$965"
+      },
+      {
+        "name": "0xcd82…3e13",
+        "volume": "$964"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$912"
+      },
+      {
+        "name": "0x18be…63dd",
+        "volume": "$539"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$3741"
+      },
+      {
+        "name": "inch",
+        "volume": "$241"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$27"
+      },
+      {
+        "name": "0x9390…e49e",
+        "volume": "$26"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$12"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$12"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$481"
+      },
+      {
+        "name": "ENA",
+        "volume": "$231"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:51:47.848Z",
+  "source": "base_aave",
+  "vaultBalance": 0.3470148028526133,
+  "vaultPct": 0.0005104866253001372
+}

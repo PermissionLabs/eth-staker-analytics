@@ -1,0 +1,100 @@
+{
+  "portfolio": {
+    "address": "0xb861578284947b999edc9abb0c077ba4c0c54189",
+    "totalValue": "$64",
+    "walletLifetime": "1931 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.2500",
+        "amount": "0.0101",
+        "usdValue": "$31.76"
+      },
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅851",
+        "amount": "3,355,763.6291",
+        "usdValue": "$28.56"
+      },
+      {
+        "symbol": "BAT",
+        "chain": "eth",
+        "price": "$0.2567",
+        "amount": "10.8478",
+        "usdValue": "$2.78"
+      },
+      {
+        "symbol": "LRC",
+        "chain": "eth",
+        "price": "$0.0497",
+        "amount": "10.0990",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "SHIB",
+        "chain": "bsc",
+        "price": "$0.0₅851",
+        "amount": "25,101.0324",
+        "usdValue": "$0.21"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xb861578284947b999edc9abb0c077ba4c0c54189",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$375"
+      },
+      {
+        "name": "0xb7f8…bfbc",
+        "volume": "$115"
+      },
+      {
+        "name": "0xea67…8ec8",
+        "volume": "$86"
+      },
+      {
+        "name": "0x9842…dce6",
+        "volume": "$7"
+      },
+      {
+        "name": "0xf987…09be",
+        "volume": "$4"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x130c…f0b3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$468"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$115B"
+      },
+      {
+        "name": "AT",
+        "volume": "$2"
+      },
+      {
+        "name": "LRC",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:29:50.820Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.13323393039314868,
+  "vaultPct": 0.000010004248365242028
+}

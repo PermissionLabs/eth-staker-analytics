@@ -1,0 +1,221 @@
+{
+  "portfolio": {
+    "address": "0x29a2a8b34206f82c4f2b32def655b4a603d343b9",
+    "totalValue": "$36,598",
+    "walletLifetime": "1262 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,101.3900",
+        "amount": "3.0000",
+        "usdValue": "$9,304.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.6600",
+        "amount": "0.0400",
+        "usdValue": "$124.12"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "10.0000",
+        "usdValue": "$10.00"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "14.8667",
+        "usdValue": "$1.84"
+      },
+      {
+        "symbol": "DUCKIES",
+        "chain": "matic",
+        "price": "$0.0019",
+        "amount": "120.0000",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9796",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GOT",
+        "chain": "bsc",
+        "price": "$16.5164",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "wkeyDAO",
+        "chain": "bsc",
+        "price": "$10.3199",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LGNS",
+        "chain": "matic",
+        "price": "$7.7472",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "VOXEL",
+        "chain": "matic",
+        "price": "$0.0247",
+        "amount": "0.0035",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "PIG",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "318.4600",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$12,787"
+      },
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$11,707"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,663"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x29a2a8b34206f82c4f2b32def655b4a603d343b9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$181K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$22K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x033a…eb59",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xa127…4447",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xf6cc…6224",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x7ceb…f619",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x5306…d511",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x5dc5…0471",
+        "volume": "$7K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$6K"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$6K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x2791…4174",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$145K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$37K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$37K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$19K"
+      },
+      {
+        "name": "POL",
+        "volume": "$10"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:19:30.612Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.75,
+  "vaultPct": 0.00028157940893100604
+}

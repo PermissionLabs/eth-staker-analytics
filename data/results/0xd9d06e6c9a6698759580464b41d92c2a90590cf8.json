@@ -1,0 +1,206 @@
+{
+  "portfolio": {
+    "address": "0xd9d06e6c9a6698759580464b41d92c2a90590cf8",
+    "totalValue": "$889",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.5200",
+        "amount": "0.0837",
+        "usdValue": "$260.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,111.5200",
+        "amount": "0.0174",
+        "usdValue": "$54.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,111.5200",
+        "amount": "0.0112",
+        "usdValue": "$34.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,111.5200",
+        "amount": "0.0108",
+        "usdValue": "$33.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,111.5200",
+        "amount": "0.0100",
+        "usdValue": "$30.99"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.6000",
+        "amount": "0.0080",
+        "usdValue": "$7.08"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "1,416.8269",
+        "usdValue": "$3.74"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6300",
+        "amount": "0.1161",
+        "usdValue": "$1.58"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$461"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd9d06e6c9a6698759580464b41d92c2a90590cf8",
+    "topProtocols": [
+      {
+        "name": "ZeroLend",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xc45e…4ba1",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8838…7dce",
+        "volume": "$1K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$850"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$771"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$766"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$639"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$552M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$539"
+      },
+      {
+        "name": "Fuel",
+        "volume": "$467"
+      },
+      {
+        "name": "zkSwap Finance",
+        "volume": "$458B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$412M"
+      },
+      {
+        "name": "endi Finance",
+        "volume": "$403"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$397"
+      },
+      {
+        "name": "zkBridge",
+        "volume": "$396"
+      },
+      {
+        "name": "Relay",
+        "volume": "$361"
+      },
+      {
+        "name": "Eclipse Bridge",
+        "volume": "$334"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$713"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$658"
+      },
+      {
+        "name": "ZK",
+        "volume": "$625"
+      },
+      {
+        "name": "WETH",
+        "volume": "$543"
+      },
+      {
+        "name": "USDC",
+        "volume": "$345"
+      },
+      {
+        "name": "LIBERTAS",
+        "volume": "$322"
+      },
+      {
+        "name": "USDT",
+        "volume": "$115"
+      },
+      {
+        "name": "SCR",
+        "volume": "$74M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:17:49.737Z",
+  "source": "moonwell",
+  "vaultBalance": 0.14422430163830058,
+  "vaultPct": 0.0026165499272878816
+}

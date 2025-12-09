@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "address": "0x35993b258e3369c8f2755d554ede3bf69bfd72ff",
+    "totalValue": "$8",
+    "walletLifetime": "346 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.5100",
+        "amount": "0.0011",
+        "usdValue": "$3.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.5100",
+        "amount": "0.0006",
+        "usdValue": "$1.72"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "1.6124",
+        "usdValue": "$1.61"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.6613",
+        "usdValue": "$0.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.5100",
+        "amount": "0.00007996",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x35993b258e3369c8f2755d554ede3bf69bfd72ff",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$600K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$124K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$96K"
+      },
+      {
+        "name": "Avantis",
+        "volume": "$89K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$72K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$43K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$39K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$38K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$21K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x88b6…c28d",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$904K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$200K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$39K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$39K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$691"
+      },
+      {
+        "name": "UNI",
+        "volume": "$406"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$30"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:55:37.611Z",
+  "source": "base_aave",
+  "vaultBalance": 8.164557723949665,
+  "vaultPct": 0.012010719673354838
+}

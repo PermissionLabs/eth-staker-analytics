@@ -1,0 +1,269 @@
+{
+  "portfolio": {
+    "address": "0xbed2331cbae435b24bb72144d501a2ba9c68e8db",
+    "totalValue": "$23,628",
+    "walletLifetime": "642 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.5600",
+        "amount": "0.0457",
+        "usdValue": "$144.40"
+      },
+      {
+        "symbol": "RAIN",
+        "chain": "arb",
+        "price": "$0.0077",
+        "amount": "5,000.0000",
+        "usdValue": "$38.39"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3240",
+        "amount": "46.5940",
+        "usdValue": "$15.10"
+      },
+      {
+        "symbol": "MEME",
+        "chain": "eth",
+        "price": "$0.1276",
+        "amount": "100.0000",
+        "usdValue": "$12.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.5600",
+        "amount": "0.0040",
+        "usdValue": "$12.76"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,157.5600",
+        "amount": "0.0014",
+        "usdValue": "$4.38"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0910",
+        "amount": "45.8402",
+        "usdValue": "$4.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,157.5600",
+        "amount": "0.0009",
+        "usdValue": "$2.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,157.9200",
+        "amount": "0.0005",
+        "usdValue": "$1.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,157.9200",
+        "amount": "0.0004",
+        "usdValue": "$1.26"
+      },
+      {
+        "symbol": "GEMS",
+        "chain": "eth",
+        "price": "$0.1023",
+        "amount": "10.0000",
+        "usdValue": "$1.02"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1249",
+        "amount": "8.0098",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "AYAZ",
+        "chain": "base",
+        "price": "$0.0001",
+        "amount": "7,816.0000",
+        "usdValue": "$1.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wrsETH",
+        "usdValue": "$18,547"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$4,589"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$252"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "GHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbed2331cbae435b24bb72144d501a2ba9c68e8db",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Yearn V3",
+        "volume": "$305K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$206K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$171K"
+      },
+      {
+        "name": "0x",
+        "volume": "$151K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$97K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$91K"
+      },
+      {
+        "name": "0x845a…0067",
+        "volume": "$86K"
+      },
+      {
+        "name": "CryptoPunks",
+        "volume": "$68K"
+      },
+      {
+        "name": "0x9ef8…022f",
+        "volume": "$63K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$884K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$735K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$437K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$344K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$299K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$228K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$224K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$200K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$115K"
+      },
+      {
+        "name": "KGHO",
+        "volume": "$72K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$67K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$53K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:12:15.642Z",
+  "source": "base_aave",
+  "vaultBalance": 0.08139925803719272,
+  "vaultPct": 0.00011974484141816386
+}

@@ -1,0 +1,256 @@
+{
+  "portfolio": {
+    "address": "0xefb97a7617cd2268a4de1d157eb2763097bac86d",
+    "totalValue": "$744",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "95.9964",
+        "usdValue": "$95.99"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.3000",
+        "amount": "0.0519",
+        "usdValue": "$46.22"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "44.5420",
+        "usdValue": "$44.55"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "7.4700",
+        "usdValue": "$7.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.0000",
+        "amount": "0.0022",
+        "usdValue": "$6.72"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6800",
+        "amount": "0.4000",
+        "usdValue": "$5.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,111.2200",
+        "amount": "0.0015",
+        "usdValue": "$4.65"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6586",
+        "amount": "6.5611",
+        "usdValue": "$4.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,111.0000",
+        "amount": "0.0009",
+        "usdValue": "$2.92"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1223",
+        "amount": "5.8857",
+        "usdValue": "$0.72"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$273"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$155"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$70"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$21"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "OP",
+        "usdValue": "$6"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xefb97a7617cd2268a4de1d157eb2763097bac86d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xbeda…ec5f",
+        "volume": "$847"
+      },
+      {
+        "name": "0xa73f…e397",
+        "volume": "$520"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$469"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$436"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$2301"
+      },
+      {
+        "name": "inch",
+        "volume": "$208B"
+      },
+      {
+        "name": "IoFin",
+        "volume": "$205"
+      },
+      {
+        "name": "Fly",
+        "volume": "$181"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$173K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$152M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$118"
+      },
+      {
+        "name": "0x51fd…a4e5",
+        "volume": "$107"
+      },
+      {
+        "name": "0xe30c…4cbb",
+        "volume": "$100"
+      },
+      {
+        "name": "0xdb3d…fd7c",
+        "volume": "$97M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$861"
+      },
+      {
+        "name": "0x283e…4310",
+        "volume": "$730"
+      },
+      {
+        "name": "x",
+        "volume": "$72"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$619"
+      },
+      {
+        "name": "USDT",
+        "volume": "$403"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$291B"
+      },
+      {
+        "name": "TCB",
+        "volume": "$200"
+      },
+      {
+        "name": "POL",
+        "volume": "$179"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$140"
+      },
+      {
+        "name": "WETH",
+        "volume": "$89"
+      },
+      {
+        "name": "AERO",
+        "volume": "$87B"
+      },
+      {
+        "name": "NB",
+        "volume": "$79"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$73"
+      },
+      {
+        "name": "OP",
+        "volume": "$19"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:35:29.594Z",
+  "source": "base_aave",
+  "vaultBalance": 0.14262850419790618,
+  "vaultPct": 0.0002098179765850506
+}

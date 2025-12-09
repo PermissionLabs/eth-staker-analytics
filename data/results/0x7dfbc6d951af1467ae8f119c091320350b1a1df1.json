@@ -1,0 +1,193 @@
+{
+  "portfolio": {
+    "address": "0x7dfbc6d951af1467ae8f119c091320350b1a1df1",
+    "totalValue": "$6,914",
+    "walletLifetime": "607 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.3300",
+        "amount": "0.0897",
+        "usdValue": "$279.98"
+      },
+      {
+        "symbol": "rETH",
+        "chain": "base",
+        "price": "$3,597.0428",
+        "amount": "0.0198",
+        "usdValue": "$71.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.5000",
+        "amount": "0.0203",
+        "usdValue": "$63.54"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,583.3200",
+        "amount": "0.00001334",
+        "usdValue": "$1.21"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.8538",
+        "usdValue": "$0.85"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,411"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbETH",
+        "usdValue": "$3,077"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$9"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7dfbc6d951af1467ae8f119c091320350b1a1df1",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$28K"
+      },
+      {
+        "name": "0xbcdd…e7cb",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x48ec…6b0c",
+        "volume": "$8K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x9330…f276",
+        "volume": "$4K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$4K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd984…9540",
+        "volume": "$2K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x406c…2a69",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$989"
+      },
+      {
+        "name": "0xbdc1…5d86",
+        "volume": "$5991"
+      },
+      {
+        "name": "inch",
+        "volume": "$4001"
+      },
+      {
+        "name": "ingX",
+        "volume": "$36"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$65K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "rETH",
+        "volume": "$475M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$204"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$200"
+      },
+      {
+        "name": "WELL",
+        "volume": "$113"
+      },
+      {
+        "name": "POL",
+        "volume": "$2"
+      },
+      {
+        "name": "NATO",
+        "volume": "$2"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:41:18.148Z",
+  "source": "moonwell",
+  "vaultBalance": 1.0376199489897862,
+  "vaultPct": 0.018824735992763388
+}

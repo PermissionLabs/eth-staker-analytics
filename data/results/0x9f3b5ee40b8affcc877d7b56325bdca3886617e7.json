@@ -1,0 +1,237 @@
+{
+  "portfolio": {
+    "address": "0x9f3b5ee40b8affcc877d7b56325bdca3886617e7",
+    "totalValue": "$102,673",
+    "walletLifetime": "1214 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7328",
+        "amount": "2,448.3311",
+        "usdValue": "$33,622.47"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$89,856.0500",
+        "amount": "0.0954",
+        "usdValue": "$8,575.11"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6027",
+        "amount": "868.6004",
+        "usdValue": "$4,866.49"
+      },
+      {
+        "symbol": "SYRUP",
+        "chain": "eth",
+        "price": "$0.2595",
+        "amount": "18,712.1702",
+        "usdValue": "$4,855.81"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,104.3500",
+        "amount": "0.0580",
+        "usdValue": "$179.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.3500",
+        "amount": "0.0245",
+        "usdValue": "$76.19"
+      },
+      {
+        "symbol": "UDS",
+        "chain": "eth",
+        "price": "$2.4024",
+        "amount": "21.9013",
+        "usdValue": "$52.62"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9811",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7846",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MAMA",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "32,103.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "320.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$33,214"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$17,230"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9f3b5ee40b8affcc877d7b56325bdca3886617e7",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$75K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$63K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$47K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$17K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$13K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xf571…12a0",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x398c…9af8",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x9615…23dc",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x9a8e…b627",
+        "volume": "$500K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$311"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$149"
+      },
+      {
+        "name": "0xc683…be3c",
+        "volume": "$50"
+      },
+      {
+        "name": "0xaf4a…a0a9",
+        "volume": "$35"
+      },
+      {
+        "name": "0xe347…1964",
+        "volume": "$24"
+      },
+      {
+        "name": "0xc066…8b8c",
+        "volume": "$17"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$101K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$77K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$76K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$47K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$46K"
+      },
+      {
+        "name": "FLUID",
+        "volume": "$34K"
+      },
+      {
+        "name": "SYRUP",
+        "volume": "$17K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$10K"
+      },
+      {
+        "name": "UDS",
+        "volume": "$35"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:57:23.257Z",
+  "source": "lido_steth",
+  "vaultBalance": 10.028761017448634,
+  "vaultPct": 0.0007530380265609336
+}

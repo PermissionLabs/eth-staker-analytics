@@ -1,0 +1,137 @@
+{
+  "portfolio": {
+    "address": "0xa4f3e1cdd49822052d3a483768bf9e70fe1ac8e0",
+    "totalValue": "$648,498",
+    "walletLifetime": "453 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,713.9600",
+        "amount": "2.0774",
+        "usdValue": "$188,448.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.7100",
+        "amount": "38.3926",
+        "usdValue": "$120,234.48"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9895",
+        "amount": "670.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅792",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$339,815"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa4f3e1cdd49822052d3a483768bf9e70fe1ac8e0",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x49db…8d5d",
+        "volume": "$493K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$115K"
+      },
+      {
+        "name": "0xbeef…c555",
+        "volume": "$106K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$78K"
+      },
+      {
+        "name": "0xee2e…0b8a",
+        "volume": "$61K"
+      },
+      {
+        "name": "THORChain",
+        "volume": "$56K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$53K"
+      },
+      {
+        "name": "ChainFlip",
+        "volume": "$40K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xeff6…a167",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x4488…6b58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$780K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$585K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$210K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:53:10.163Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 151.39609830267133,
+  "vaultPct": 0.02815014121984057
+}

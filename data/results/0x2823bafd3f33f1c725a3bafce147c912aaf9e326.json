@@ -1,0 +1,204 @@
+{
+  "portfolio": {
+    "address": "0x2823bafd3f33f1c725a3bafce147c912aaf9e326",
+    "totalValue": "$30,872",
+    "walletLifetime": "1236 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,150.8800",
+        "amount": "0.1430",
+        "usdValue": "$450.65"
+      },
+      {
+        "symbol": "APE",
+        "chain": "ape",
+        "price": "$0.2400",
+        "amount": "560.2739",
+        "usdValue": "$134.47"
+      },
+      {
+        "symbol": "BLAST",
+        "chain": "blast",
+        "price": "$0.0009",
+        "amount": "2,068.2279",
+        "usdValue": "$1.82"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "80,222.0000",
+        "usdValue": "$0.80"
+      },
+      {
+        "symbol": "J3FF",
+        "chain": "base",
+        "price": "$0.0001",
+        "amount": "6,738.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,150.8800",
+        "amount": "0.0002",
+        "usdValue": "$0.70"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$28,340"
+      },
+      {
+        "protocol": "ApeChainStake",
+        "chain": "ape",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "APE",
+        "usdValue": "$1,942"
+      },
+      {
+        "protocol": "Bend DAO",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "BEND",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Blur",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BLUR",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2823bafd3f33f1c725a3bafce147c912aaf9e326",
+    "topProtocols": [
+      {
+        "name": "ApeStake",
+        "volume": "$83K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$60K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$56K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x6691…b2e2",
+        "volume": "$45K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$39K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$30K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$24K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "Anime",
+        "volume": "$17K"
+      },
+      {
+        "name": "0xea3b…c34c",
+        "volume": "$14K"
+      },
+      {
+        "name": "Bend DAO",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x4205…5ada",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1851…8094",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$335K"
+      },
+      {
+        "name": "APE",
+        "volume": "$127K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$60K"
+      },
+      {
+        "name": "ANIME",
+        "volume": "$33K"
+      },
+      {
+        "name": "LOTTY",
+        "volume": "$3K"
+      },
+      {
+        "name": "BLUR",
+        "volume": "$156"
+      },
+      {
+        "name": "LAST",
+        "volume": "$51M"
+      },
+      {
+        "name": "ONKY",
+        "volume": "$17"
+      },
+      {
+        "name": "J3FF",
+        "volume": "$16B"
+      },
+      {
+        "name": "ASED",
+        "volume": "$2M"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:17:43.687Z",
+  "source": "lido_steth",
+  "vaultBalance": 8.5427,
+  "vaultPct": 0.000641452911113308
+}

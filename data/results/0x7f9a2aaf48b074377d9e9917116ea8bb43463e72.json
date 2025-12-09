@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x7f9a2aaf48b074377d9e9917116ea8bb43463e72",
+    "totalValue": "$1,122",
+    "walletLifetime": "1855 days",
+    "tokens": [
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1313",
+        "amount": "295,774,647.0000",
+        "usdValue": "$3.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.8200",
+        "amount": "0.0003",
+        "usdValue": "$1.06"
+      },
+      {
+        "symbol": "MYRIA",
+        "chain": "eth",
+        "price": "$0.0001",
+        "amount": "3,041.7997",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.3227",
+        "usdValue": "$0.32"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "141.5078",
+        "usdValue": "$0.13"
+      },
+      {
+        "symbol": "BENTO",
+        "chain": "base",
+        "price": "$0.0₈1725",
+        "amount": "8,880,888.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.0168",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbETH",
+        "usdValue": "$1,113"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7f9a2aaf48b074377d9e9917116ea8bb43463e72",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x04a7…4765",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4d7f…9abb",
+        "volume": "$3081"
+      },
+      {
+        "name": "inch",
+        "volume": "$302"
+      },
+      {
+        "name": "0xe4ea…f28d",
+        "volume": "$277"
+      },
+      {
+        "name": "0xe4d5…35fb",
+        "volume": "$272"
+      },
+      {
+        "name": "0xfb5b…d7c7",
+        "volume": "$215"
+      },
+      {
+        "name": "0xe185…1bd7",
+        "volume": "$198"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$85"
+      },
+      {
+        "name": "0xf715…cc2d",
+        "volume": "$85"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$850"
+      },
+      {
+        "name": "x",
+        "volume": "$82"
+      },
+      {
+        "name": "0x03ba…75b7",
+        "volume": "$75"
+      },
+      {
+        "name": "0x39cf…d52d",
+        "volume": "$22"
+      },
+      {
+        "name": "0xb0c5…cbfc",
+        "volume": "$8"
+      },
+      {
+        "name": "Compound",
+        "volume": "$3"
+      },
+      {
+        "name": "0x15cb…e7cd",
+        "volume": "$3"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "NEXO",
+        "volume": "$561"
+      },
+      {
+        "name": "WETH",
+        "volume": "$171M"
+      },
+      {
+        "name": "YRIA",
+        "volume": "$31B"
+      },
+      {
+        "name": "RM",
+        "volume": "$18"
+      },
+      {
+        "name": "toby",
+        "volume": "$12"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:56:19.789Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.26213537696196965,
+  "vaultPct": 0.00004874067405253194
+}

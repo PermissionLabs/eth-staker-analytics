@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0xc5f670cc55ed46815118428261025919cb4e1a63",
+    "totalValue": "$545,929",
+    "walletLifetime": "2093 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "198,498.4685",
+        "usdValue": "$198,478.62"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "192,341.5950",
+        "usdValue": "$192,353.14"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "46,894.6158",
+        "usdValue": "$46,889.93"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "16,219.9045",
+        "usdValue": "$16,220.88"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "9,842.7054",
+        "usdValue": "$9,841.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,110.4000",
+        "amount": "0.6199",
+        "usdValue": "$1,928.13"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "avax",
+        "price": "$0.9999",
+        "amount": "1,159.2791",
+        "usdValue": "$1,159.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.5900",
+        "amount": "0.3171",
+        "usdValue": "$986.76"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$76,967"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc5f670cc55ed46815118428261025919cb4e1a63",
+    "topProtocols": [
+      {
+        "name": "CoW Swap",
+        "volume": "$992K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$546K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$535K"
+      },
+      {
+        "name": "Merchant Moe",
+        "volume": "$527K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$370K"
+      },
+      {
+        "name": "INIT Capital",
+        "volume": "$273K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$219K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$218K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$203K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$179K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$175K"
+      },
+      {
+        "name": "Mantle",
+        "volume": "$152K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$130K"
+      },
+      {
+        "name": "0x1f49…6d86",
+        "volume": "$119K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$105K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$105K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$804K"
+      },
+      {
+        "name": "MNT",
+        "volume": "$674K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$410K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$342K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$302K"
+      },
+      {
+        "name": "ANIME",
+        "volume": "$242K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$225K"
+      },
+      {
+        "name": "JOE",
+        "volume": "$187K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$168K"
+      },
+      {
+        "name": "PEPE",
+        "volume": "$165K"
+      },
+      {
+        "name": "mETH",
+        "volume": "$141K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:30:30.256Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 50.53545014057418,
+  "vaultPct": 0.009396411624963748
+}

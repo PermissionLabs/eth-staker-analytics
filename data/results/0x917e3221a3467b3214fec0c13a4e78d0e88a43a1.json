@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0x917e3221a3467b3214fec0c13a4e78d0e88a43a1",
+    "totalValue": "$2,556",
+    "walletLifetime": "564 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.5000",
+        "amount": "0.0451",
+        "usdValue": "$141.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.5000",
+        "amount": "0.0383",
+        "usdValue": "$120.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "50.0918",
+        "usdValue": "$50.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,131.5000",
+        "amount": "0.0010",
+        "usdValue": "$3.00"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9823",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,917"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$321"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x917e3221a3467b3214fec0c13a4e78d0e88a43a1",
+    "topProtocols": [
+      {
+        "name": "EigenLayer",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xc93e…e3c8",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x12d7…0144",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$2K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$509"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$355"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$271B"
+      },
+      {
+        "name": "inance",
+        "volume": "$108"
+      },
+      {
+        "name": "0x0000…f24f",
+        "volume": "$701"
+      },
+      {
+        "name": "inch",
+        "volume": "$58"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$53"
+      },
+      {
+        "name": "0xfb33…417f",
+        "volume": "$52"
+      },
+      {
+        "name": "Relay",
+        "volume": "$18"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$10"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$6M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$5"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "EIGEN",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "ANON",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$640"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$509"
+      },
+      {
+        "name": "CHAMP",
+        "volume": "$345"
+      },
+      {
+        "name": "weETH",
+        "volume": "$105"
+      },
+      {
+        "name": "AERO",
+        "volume": "$11"
+      },
+      {
+        "name": "WETH",
+        "volume": "$51"
+      },
+      {
+        "name": "INCH",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:25:26.989Z",
+  "source": "base_aave",
+  "vaultBalance": 0.6,
+  "vaultPct": 0.0008826481540909161
+}

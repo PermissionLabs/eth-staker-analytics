@@ -1,0 +1,293 @@
+{
+  "portfolio": {
+    "address": "0xfdc54e8e4395b8a5a7a55da875d708151c798b61",
+    "totalValue": "$160,277",
+    "walletLifetime": "1217 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.5400",
+        "amount": "0.9391",
+        "usdValue": "$2,941.91"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7200",
+        "amount": "53.8447",
+        "usdValue": "$738.75"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6800",
+        "amount": "366.6342",
+        "usdValue": "$249.30"
+      },
+      {
+        "symbol": "WAVAX",
+        "chain": "avax",
+        "price": "$13.7200",
+        "amount": "13.8585",
+        "usdValue": "$190.14"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "60,446.5612",
+        "usdValue": "$159.36"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$906.2000",
+        "amount": "0.1382",
+        "usdValue": "$125.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,132.9900",
+        "amount": "0.0081",
+        "usdValue": "$25.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,132.9900",
+        "amount": "0.0070",
+        "usdValue": "$21.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.1600",
+        "amount": "0.0067",
+        "usdValue": "$20.88"
+      },
+      {
+        "symbol": "BTC.b",
+        "chain": "avax",
+        "price": "$91,798.8500",
+        "amount": "0.0002",
+        "usdValue": "$19.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.9900",
+        "amount": "0.0058",
+        "usdValue": "$18.02"
+      },
+      {
+        "symbol": "TRUMP",
+        "chain": "base",
+        "price": "$5.6605",
+        "amount": "2.4384",
+        "usdValue": "$13.80"
+      },
+      {
+        "symbol": "EXTRA",
+        "chain": "op",
+        "price": "$0.0119",
+        "amount": "1,060.6291",
+        "usdValue": "$12.66"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$107,781"
+      },
+      {
+        "protocol": "AUTO Finance",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$29,750"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$11,509"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$3,336"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,457"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "op",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "EXTRA",
+        "usdValue": "$389"
+      },
+      {
+        "protocol": "AUTO Finance",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "TOKE",
+        "usdValue": "$158"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfdc54e8e4395b8a5a7a55da875d708151c798b61",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$2M"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$827K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$592K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$586K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$488K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$294K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$280K"
+      },
+      {
+        "name": "ionic",
+        "volume": "$259K"
+      },
+      {
+        "name": "0xfdc5…8b61",
+        "volume": "$176K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$175K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$142K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$138K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$112K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$83K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$80K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$77K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$64K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$4M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$923K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$484K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$461K"
+      },
+      {
+        "name": "USDz",
+        "volume": "$168K"
+      },
+      {
+        "name": "WELS",
+        "volume": "$156K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$141K"
+      },
+      {
+        "name": "OVN",
+        "volume": "$131K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$108K"
+      },
+      {
+        "name": "TKN",
+        "volume": "$103K"
+      },
+      {
+        "name": "DOLA",
+        "volume": "$97K"
+      },
+      {
+        "name": "BAVA",
+        "volume": "$83K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$79K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$75K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:50:03.204Z",
+  "source": "base_aave",
+  "vaultBalance": 9.114319020843524,
+  "vaultPct": 0.013407894765905438
+}

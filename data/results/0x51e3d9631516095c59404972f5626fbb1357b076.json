@@ -1,0 +1,147 @@
+{
+  "portfolio": {
+    "address": "0x51e3d9631516095c59404972f5626fbb1357b076",
+    "totalValue": "$454",
+    "walletLifetime": "336 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.5500",
+        "amount": "0.0028",
+        "usdValue": "$8.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.3500",
+        "amount": "0.0011",
+        "usdValue": "$3.35"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.7022",
+        "usdValue": "$0.70"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$335"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$84"
+      },
+      {
+        "protocol": "Almanak",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$22"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x51e3d9631516095c59404972f5626fbb1357b076",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$657"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$559"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$302"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$181"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$89"
+      },
+      {
+        "name": "0x1051…0e63",
+        "volume": "$82K"
+      },
+      {
+        "name": "rystal",
+        "volume": "$66B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$48"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$48"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$441"
+      },
+      {
+        "name": "inch",
+        "volume": "$440"
+      },
+      {
+        "name": "x",
+        "volume": "$26"
+      },
+      {
+        "name": "Almanak",
+        "volume": "$22"
+      },
+      {
+        "name": "0xb135…2cf1",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc477…de5b",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc067…89a8",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$178"
+      },
+      {
+        "name": "USDC",
+        "volume": "$71"
+      },
+      {
+        "name": "RAI",
+        "volume": "$58"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:22:53.426Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1413030008892906,
+  "vaultPct": 0.00020786805483739902
+}

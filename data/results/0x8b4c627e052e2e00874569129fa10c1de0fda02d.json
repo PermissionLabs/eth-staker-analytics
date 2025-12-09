@@ -1,0 +1,175 @@
+{
+  "portfolio": {
+    "address": "0x8b4c627e052e2e00874569129fa10c1de0fda02d",
+    "totalValue": "$9,605",
+    "walletLifetime": "1349 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.4000",
+        "amount": "0.1398",
+        "usdValue": "$437.52"
+      },
+      {
+        "symbol": "ALPACA",
+        "chain": "bsc",
+        "price": "$0.0062",
+        "amount": "38.5662",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0283",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9863",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "0.0002",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "CKIE",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "0.00001903",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$7,998"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$1,169"
+      },
+      {
+        "protocol": "Alpaca Finance",
+        "chain": "bsc",
+        "category": "Deposit",
+        "label": "Locked",
+        "token": "ALPACA",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8b4c627e052e2e00874569129fa10c1de0fda02d",
+    "topProtocols": [
+      {
+        "name": "Alpaca Finance",
+        "volume": "$15K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$15K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$8K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x260e…1093",
+        "volume": "$4K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x625b…a76a",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$846"
+      },
+      {
+        "name": "0x98db…ef8b",
+        "volume": "$432B"
+      },
+      {
+        "name": "inance",
+        "volume": "$336"
+      },
+      {
+        "name": "0xe5b1…18ad",
+        "volume": "$334B"
+      },
+      {
+        "name": "eefy",
+        "volume": "$308"
+      },
+      {
+        "name": "0x151b…e96d",
+        "volume": "$276B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$22K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$11K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$7K"
+      },
+      {
+        "name": "POL",
+        "volume": "$487"
+      },
+      {
+        "name": "ALPACA",
+        "volume": "$12B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:20:56.277Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05,
+  "vaultPct": 0.000009296851614882031
+}

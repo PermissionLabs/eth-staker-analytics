@@ -1,0 +1,274 @@
+{
+  "portfolio": {
+    "address": "0x008bf5ef7e1b1170f0f7471b93f62b5cac55316f",
+    "totalValue": "$66,556",
+    "walletLifetime": "1966 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.5200",
+        "amount": "2.7587",
+        "usdValue": "$8,666.39"
+      },
+      {
+        "symbol": "AURA",
+        "chain": "eth",
+        "price": "$0.0901",
+        "amount": "588.5641",
+        "usdValue": "$53.02"
+      },
+      {
+        "symbol": "BAL",
+        "chain": "eth",
+        "price": "$0.6710",
+        "amount": "74.0379",
+        "usdValue": "$49.68"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,141.5200",
+        "amount": "0.0033",
+        "usdValue": "$10.34"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$19,843"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$19,124"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$18,780"
+      },
+      {
+        "protocol": "Harvest",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "FARM",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "Aura Finance",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "auraBAL",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "CRV",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Akropolis",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AKRO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Synthetix",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "SNX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aArbARB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x008bf5ef7e1b1170f0f7471b93f62b5cac55316f",
+    "topProtocols": [
+      {
+        "name": "Zapper",
+        "volume": "$240K"
+      },
+      {
+        "name": "0x2f74…e7a5",
+        "volume": "$90K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$70K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$70K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$56K"
+      },
+      {
+        "name": "Balancer",
+        "volume": "$52K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$50K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$49K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$46K"
+      },
+      {
+        "name": "0x",
+        "volume": "$40K"
+      },
+      {
+        "name": "Big Data Protocol",
+        "volume": "$38K"
+      },
+      {
+        "name": "0xfa0b…81b9",
+        "volume": "$33K"
+      },
+      {
+        "name": "BoringDAO",
+        "volume": "$32K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$32K"
+      },
+      {
+        "name": "Alchemix",
+        "volume": "$29K"
+      },
+      {
+        "name": "Synthetix",
+        "volume": "$24K"
+      },
+      {
+        "name": "Across V1",
+        "volume": "$23K"
+      },
+      {
+        "name": "Aura Finance",
+        "volume": "$20K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$20K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$370K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$241K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$181K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$141K"
+      },
+      {
+        "name": "KALCX",
+        "volume": "$70K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$59K"
+      },
+      {
+        "name": "auraBAL",
+        "volume": "$40K"
+      },
+      {
+        "name": "KBTC",
+        "volume": "$27K"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$24K"
+      },
+      {
+        "name": "SNX",
+        "volume": "$24K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$22K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$19K"
+      },
+      {
+        "name": "POL",
+        "volume": "$18K"
+      },
+      {
+        "name": "CC10",
+        "volume": "$16K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:09:22.844Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6.087151901421173,
+  "vaultPct": 0.0011318269596951932
+}

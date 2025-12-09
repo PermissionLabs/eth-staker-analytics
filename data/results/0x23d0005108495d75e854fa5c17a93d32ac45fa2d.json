@@ -1,0 +1,222 @@
+{
+  "portfolio": {
+    "address": "0x23d0005108495d75e854fa5c17a93d32ac45fa2d",
+    "totalValue": "$1",
+    "walletLifetime": "1339 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,109.0100",
+        "amount": "0.00007999",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.0100",
+        "amount": "0.00002695",
+        "usdValue": "$0.08"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.2000",
+        "amount": "0.000084",
+        "usdValue": "$0.08"
+      },
+      {
+        "symbol": "ZAT",
+        "chain": "era",
+        "price": "$0.0₉831",
+        "amount": "41,975,012.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "STG",
+        "chain": "linea",
+        "price": "$0.1206",
+        "amount": "0.1289",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5800",
+        "amount": "0.000063",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1243",
+        "amount": "0.0059",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "vooi",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x23d0005108495d75e854fa5c17a93d32ac45fa2d",
+    "topProtocols": [
+      {
+        "name": "ZeroLend",
+        "volume": "$132K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$116K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$101K"
+      },
+      {
+        "name": "Basilisk",
+        "volume": "$65K"
+      },
+      {
+        "name": "zkDX",
+        "volume": "$65K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$59K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$36K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x1d49…52c2",
+        "volume": "$17K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$14K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$10K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xf441…189c",
+        "volume": "$8K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$500K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$3K"
+      },
+      {
+        "name": "zkUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$2K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$970"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$457"
+      },
+      {
+        "name": "ALT",
+        "volume": "$436"
+      },
+      {
+        "name": "OMNI",
+        "volume": "$423"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:20:51.771Z",
+  "source": "base_aave",
+  "vaultBalance": 0.2,
+  "vaultPct": 0.0002942160513636387
+}

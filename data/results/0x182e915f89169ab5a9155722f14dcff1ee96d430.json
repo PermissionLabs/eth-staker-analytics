@@ -1,0 +1,222 @@
+{
+  "portfolio": {
+    "address": "0x182e915f89169ab5a9155722f14dcff1ee96d430",
+    "totalValue": "$22,350",
+    "walletLifetime": "1301 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.4300",
+        "amount": "0.0064",
+        "usdValue": "$19.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.8800",
+        "amount": "0.0008",
+        "usdValue": "$2.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,107.4300",
+        "amount": "0.0005",
+        "usdValue": "$1.46"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "1.1068",
+        "usdValue": "$1.11"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,165.2500",
+        "amount": "0.00001116",
+        "usdValue": "$1.01"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.2874",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9964",
+        "amount": "555.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CATX",
+        "chain": "uni",
+        "price": "$0.0005",
+        "amount": "10.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SALUKI",
+        "chain": "base",
+        "price": "$0.0₅5289",
+        "amount": "33.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "HAIR",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "12.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "Mog",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "25.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "cbXRP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$20,663"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$1,495"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$165"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x182e915f89169ab5a9155722f14dcff1ee96d430",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$427K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$278K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$101K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$83K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$28K"
+      },
+      {
+        "name": "0x182e…d430",
+        "volume": "$27K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$23K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$17K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x0555…2b9c",
+        "volume": "$15K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$13K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$391K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$171K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$77K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$29K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$14K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$1K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$746"
+      },
+      {
+        "name": "FLUID",
+        "volume": "$194"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:14:01.126Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.8744644096571657,
+  "vaultPct": 0.0005344693817768429
+}

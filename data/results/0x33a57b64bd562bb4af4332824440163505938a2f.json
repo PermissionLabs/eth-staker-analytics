@@ -1,0 +1,94 @@
+{
+  "portfolio": {
+    "address": "0x33a57b64bd562bb4af4332824440163505938a2f",
+    "totalValue": "$9,243",
+    "walletLifetime": "300 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.3000",
+        "amount": "7.5011",
+        "usdValue": "$6,738.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.8300",
+        "amount": "0.7188",
+        "usdValue": "$2,245.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.8300",
+        "amount": "0.0829",
+        "usdValue": "$258.95"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x33a57b64bd562bb4af4332824440163505938a2f",
+    "topProtocols": [
+      {
+        "name": "0xfe92…88e8",
+        "volume": "$578K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$488K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$293K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$59K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$23K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$20K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$11K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$145K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$42K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$13K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:43:08.365Z",
+  "source": "base_aave",
+  "vaultBalance": 10,
+  "vaultPct": 0.014710802568181934
+}

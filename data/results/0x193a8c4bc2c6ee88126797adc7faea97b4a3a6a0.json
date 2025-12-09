@@ -1,0 +1,242 @@
+{
+  "portfolio": {
+    "address": "0x193a8c4bc2c6ee88126797adc7faea97b4a3a6a0",
+    "totalValue": "$11,580",
+    "walletLifetime": "1182 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.6300",
+        "amount": "0.0779",
+        "usdValue": "$243.75"
+      },
+      {
+        "symbol": "POOL",
+        "chain": "eth",
+        "price": "$0.1008",
+        "amount": "273.1217",
+        "usdValue": "$27.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.6300",
+        "amount": "0.0050",
+        "usdValue": "$15.64"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1334",
+        "amount": "591,549,294.0000",
+        "usdValue": "$7.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.6300",
+        "amount": "0.0022",
+        "usdValue": "$6.93"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,127.6300",
+        "amount": "0.0017",
+        "usdValue": "$5.39"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "4,946.9577",
+        "usdValue": "$4.61"
+      },
+      {
+        "symbol": "DUDE",
+        "chain": "base",
+        "price": "$0.0₅337",
+        "amount": "871,762.0000",
+        "usdValue": "$2.94"
+      },
+      {
+        "symbol": "BANK",
+        "chain": "op",
+        "price": "$0.0003",
+        "amount": "9,500.0000",
+        "usdValue": "$2.87"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9949",
+        "amount": "130,260.0000",
+        "usdValue": "$1.30"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆98",
+        "amount": "742,000.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,127.6300",
+        "amount": "0.0002",
+        "usdValue": "$0.53"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$8,186"
+      },
+      {
+        "protocol": "PoolTogether",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,782"
+      },
+      {
+        "protocol": "PoolTogether",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$811"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$481"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x193a8c4bc2c6ee88126797adc7faea97b4a3a6a0",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$5K"
+      },
+      {
+        "name": "PoolTogether",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$760"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$556"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$501"
+      },
+      {
+        "name": "0xba5e…ac83",
+        "volume": "$130M"
+      },
+      {
+        "name": "ultiSender",
+        "volume": "$128"
+      },
+      {
+        "name": "0xcdce…47ba",
+        "volume": "$38"
+      },
+      {
+        "name": "0x34e8…35a7",
+        "volume": "$25"
+      },
+      {
+        "name": "gaslite",
+        "volume": "$20"
+      },
+      {
+        "name": "0x9756…45fc",
+        "volume": "$20"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$15"
+      },
+      {
+        "name": "0x5ffe…1e87",
+        "volume": "$10"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$507"
+      },
+      {
+        "name": "POOL",
+        "volume": "$143"
+      },
+      {
+        "name": "DUDE",
+        "volume": "$128"
+      },
+      {
+        "name": "BANK",
+        "volume": "$6"
+      },
+      {
+        "name": "toby",
+        "volume": "$4B"
+      },
+      {
+        "name": "ASED",
+        "volume": "$4"
+      },
+      {
+        "name": "NATO",
+        "volume": "$2B"
+      },
+      {
+        "name": "ENTO",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:03:03.243Z",
+  "source": "base_aave",
+  "vaultBalance": 0.15,
+  "vaultPct": 0.00022066203852272903
+}

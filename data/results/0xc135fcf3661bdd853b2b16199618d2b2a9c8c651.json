@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0xc135fcf3661bdd853b2b16199618d2b2a9c8c651",
+    "totalValue": "$19,446",
+    "walletLifetime": "1180 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.8800",
+        "amount": "0.0245",
+        "usdValue": "$76.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.8800",
+        "amount": "0.0100",
+        "usdValue": "$31.19"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.0072",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$15,072"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$4,261"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$5"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc135fcf3661bdd853b2b16199618d2b2a9c8c651",
+    "topProtocols": [
+      {
+        "name": "squid",
+        "volume": "$54K"
+      },
+      {
+        "name": "0x2b76…de77",
+        "volume": "$48K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$35K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$30K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$27K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$21K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$21K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$21K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$45"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$45"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9894…66d7",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$142K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$83K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$56K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:13:39.331Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.5000001,
+  "vaultPct": 0.0004648425993378047
+}

@@ -1,0 +1,263 @@
+{
+  "portfolio": {
+    "address": "0xf3ae5e28e326f271e228dce52ca1393dbab97482",
+    "totalValue": "$999",
+    "walletLifetime": "1114 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.0700",
+        "amount": "0.1251",
+        "usdValue": "$388.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,104.0700",
+        "amount": "0.0798",
+        "usdValue": "$247.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.0700",
+        "amount": "0.0159",
+        "usdValue": "$49.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.0700",
+        "amount": "0.0083",
+        "usdValue": "$25.81"
+      },
+      {
+        "symbol": "cbETH",
+        "chain": "arb",
+        "price": "$3,441.1100",
+        "amount": "0.0039",
+        "usdValue": "$13.37"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.2000",
+        "amount": "0.0105",
+        "usdValue": "$9.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,104.0700",
+        "amount": "0.0009",
+        "usdValue": "$2.93"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$217"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$44"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Holdstation DeFutures",
+        "chain": "era",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "manta",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "era",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "ZK",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Shell V2",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "wstETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf3ae5e28e326f271e228dce52ca1393dbab97482",
+    "topProtocols": [
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$2K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$856"
+      },
+      {
+        "name": "Shell V2",
+        "volume": "$768"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$740"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$714B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$619"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$594"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$577"
+      },
+      {
+        "name": "endi Finance",
+        "volume": "$554"
+      },
+      {
+        "name": "Goal3",
+        "volume": "$552"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$545"
+      },
+      {
+        "name": "Synapse",
+        "volume": "$541"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$514"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$5K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$853"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$852"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$826"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:09:43.872Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07000000727745437,
+  "vaultPct": 0.00010297562868299298
+}

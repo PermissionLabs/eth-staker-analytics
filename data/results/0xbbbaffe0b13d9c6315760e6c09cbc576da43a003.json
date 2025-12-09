@@ -1,0 +1,209 @@
+{
+  "portfolio": {
+    "address": "0xbbbaffe0b13d9c6315760e6c09cbc576da43a003",
+    "totalValue": "$90,969",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "BRETT",
+        "chain": "base",
+        "price": "$0.0190",
+        "amount": "55,171.1751",
+        "usdValue": "$1,045.91"
+      },
+      {
+        "symbol": "TONCOIN",
+        "chain": "eth",
+        "price": "$1.6436",
+        "amount": "264.0925",
+        "usdValue": "$434.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.1200",
+        "amount": "0.0825",
+        "usdValue": "$258.38"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,778.0300",
+        "amount": "0.0018",
+        "usdValue": "$168.76"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2397",
+        "amount": "554.8901",
+        "usdValue": "$133.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.1200",
+        "amount": "0.0215",
+        "usdValue": "$67.39"
+      },
+      {
+        "symbol": "MYRIA",
+        "chain": "eth",
+        "price": "$0.0001",
+        "amount": "293,261.9524",
+        "usdValue": "$37.83"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "16.2993",
+        "usdValue": "$16.30"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "5.6073",
+        "usdValue": "$5.61"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$88,683"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$114"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbbbaffe0b13d9c6315760e6c09cbc576da43a003",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$204K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$113K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$105K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$42K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$32K"
+      },
+      {
+        "name": "0xaf4d…71a1",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$8K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$6K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$219K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$199K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$128K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$51K"
+      },
+      {
+        "name": "BRETT",
+        "volume": "$36K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$9K"
+      },
+      {
+        "name": "KMYRIA",
+        "volume": "$2K"
+      },
+      {
+        "name": "TONCOIN",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$1K"
+      },
+      {
+        "name": "FET",
+        "volume": "$717"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$252"
+      },
+      {
+        "name": "Cake",
+        "volume": "$51"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$44M"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$38"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:59:04.609Z",
+  "source": "base_aave",
+  "vaultBalance": 8.466738274466818,
+  "vaultPct": 0.012455251515215076
+}

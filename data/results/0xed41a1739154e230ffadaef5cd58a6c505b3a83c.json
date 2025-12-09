@@ -1,0 +1,105 @@
+{
+  "portfolio": {
+    "address": "0xed41a1739154e230ffadaef5cd58a6c505b3a83c",
+    "totalValue": "$426",
+    "walletLifetime": "342 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.0000",
+        "amount": "0.0147",
+        "usdValue": "$46.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.7800",
+        "amount": "0.0010",
+        "usdValue": "$3.05"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1389",
+        "amount": "1,007.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$377"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xed41a1739154e230ffadaef5cd58a6c505b3a83c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x6f37…e24e",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa209…9315",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x10fa…2942",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:52:38.901Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1200000000000001,
+  "vaultPct": 0.00017652963081818336
+}

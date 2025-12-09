@@ -1,0 +1,182 @@
+{
+  "portfolio": {
+    "address": "0x78f516fa34973293a30dab2d53033ff858821c9a",
+    "totalValue": "$158,257",
+    "walletLifetime": "201 days",
+    "tokens": [
+      {
+        "symbol": "tBTC",
+        "chain": "eth",
+        "price": "$90,663.2020",
+        "amount": "0.1000",
+        "usdValue": "$9,066.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.4500",
+        "amount": "0.0094",
+        "usdValue": "$29.60"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "149.9714",
+        "usdValue": "$18.60"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "eth",
+        "price": "$31.8400",
+        "amount": "0.1069",
+        "usdValue": "$3.40"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "1.0440",
+        "usdValue": "$1.04"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "0.0005",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7915",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$130,991"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$18,147"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x78f516fa34973293a30dab2d53033ff858821c9a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$131K"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$77K"
+      },
+      {
+        "name": "0xd119…a32e",
+        "volume": "$55K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$54K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$45K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$44K"
+      },
+      {
+        "name": "0x91d4…debe",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x5594…ed53",
+        "volume": "$10K"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x93f1…7f47",
+        "volume": "$35"
+      },
+      {
+        "name": "0xe347…1964",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc066…8b8c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xd111…a32e",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$181K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$154K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$48K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$40K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$9K"
+      },
+      {
+        "name": "POL",
+        "volume": "$35"
+      },
+      {
+        "name": "COMP",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:59:43.863Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 24.57363620481444,
+  "vaultPct": 0.004569148988685053
+}

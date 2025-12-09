@@ -1,0 +1,98 @@
+{
+  "portfolio": {
+    "address": "0xa298af35a4e22fc7af7e5ab7a75699376ad18b66",
+    "totalValue": "$7,875",
+    "walletLifetime": "357 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,102.8400",
+        "amount": "1.0207",
+        "usdValue": "$3,166.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,102.8400",
+        "amount": "0.0744",
+        "usdValue": "$230.74"
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1379",
+        "amount": "1,262.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,469"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$8"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa298af35a4e22fc7af7e5ab7a75699376ad18b66",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$14K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$10K"
+      },
+      {
+        "name": "Spectra",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x5a2c…5b4c",
+        "volume": "$10"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:34:40.045Z",
+  "source": "moonwell",
+  "vaultBalance": 0.1986038518438763,
+  "vaultPct": 0.003603116036605486
+}

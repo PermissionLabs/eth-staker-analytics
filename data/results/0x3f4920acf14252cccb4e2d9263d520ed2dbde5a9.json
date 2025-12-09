@@ -1,0 +1,82 @@
+{
+  "portfolio": {
+    "address": "0x3f4920acf14252cccb4e2d9263d520ed2dbde5a9",
+    "totalValue": "$394,135",
+    "walletLifetime": "726 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.6200",
+        "amount": "0.0280",
+        "usdValue": "$86.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.7500",
+        "amount": "0.0022",
+        "usdValue": "$6.75"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9811",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7846",
+        "amount": "2.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$394,042"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3f4920acf14252cccb4e2d9263d520ed2dbde5a9",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$64"
+      },
+      {
+        "name": "OKX",
+        "volume": "$19"
+      },
+      {
+        "name": "0xef3d…3c14",
+        "volume": "$19"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$64"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:59:06.200Z",
+  "source": "lido_steth",
+  "vaultBalance": 120,
+  "vaultPct": 0.009010541085792193
+}

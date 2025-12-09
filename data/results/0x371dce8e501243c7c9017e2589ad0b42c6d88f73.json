@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "address": "0x371dce8e501243c7c9017e2589ad0b42c6d88f73",
+    "totalValue": "$28,271",
+    "walletLifetime": "633 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$90,881.9300",
+        "amount": "0.0931",
+        "usdValue": "$8,463.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.9900",
+        "amount": "0.0054",
+        "usdValue": "$16.86"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9949",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$19,791"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x371dce8e501243c7c9017e2589ad0b42c6d88f73",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$39K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$33K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf527…59c0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$79K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:59:22.004Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.846707439922212,
+  "vaultPct": 0.0004390166467002165
+}

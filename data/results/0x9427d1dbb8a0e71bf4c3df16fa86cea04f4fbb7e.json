@@ -1,0 +1,165 @@
+{
+  "portfolio": {
+    "address": "0x9427d1dbb8a0e71bf4c3df16fa86cea04f4fbb7e",
+    "totalValue": "$315,557",
+    "walletLifetime": "529 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "13,974.0308",
+        "usdValue": "$13,974.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.9700",
+        "amount": "0.2722",
+        "usdValue": "$850.11"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.7000",
+        "amount": "0.6947",
+        "usdValue": "$623.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.9700",
+        "amount": "0.0245",
+        "usdValue": "$76.51"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9487",
+        "amount": "30.0000",
+        "usdValue": "$28.46"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$300,003"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9427d1dbb8a0e71bf4c3df16fa86cea04f4fbb7e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$3M"
+      },
+      {
+        "name": "0x388d…3472",
+        "volume": "$2M"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$828K"
+      },
+      {
+        "name": "0xf96d…0001",
+        "volume": "$784K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$754K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$627K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$572K"
+      },
+      {
+        "name": "0xc678…2d55",
+        "volume": "$449K"
+      },
+      {
+        "name": "0x0521…9ad6",
+        "volume": "$257K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$250K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$244K"
+      },
+      {
+        "name": "0xaa8b…3efb",
+        "volume": "$194K"
+      },
+      {
+        "name": "0xff6e…c102",
+        "volume": "$174K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$147K"
+      },
+      {
+        "name": "0x7aec…82d2",
+        "volume": "$140K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$123K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$117K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$5M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$347K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$100K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$46K"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$35"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:45:57.839Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 26.939764688832717,
+  "vaultPct": 0.005009099897038327
+}

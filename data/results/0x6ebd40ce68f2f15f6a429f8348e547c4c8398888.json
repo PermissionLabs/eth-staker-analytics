@@ -1,0 +1,191 @@
+{
+  "portfolio": {
+    "address": "0x6ebd40ce68f2f15f6a429f8348e547c4c8398888",
+    "totalValue": "$68,600",
+    "walletLifetime": "187 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.0600",
+        "amount": "8.6261",
+        "usdValue": "$26,948.43"
+      },
+      {
+        "symbol": "APE",
+        "chain": "eth",
+        "price": "$0.2340",
+        "amount": "5,194.0103",
+        "usdValue": "$1,215.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.0600",
+        "amount": "0.0656",
+        "usdValue": "$204.95"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.5060",
+        "amount": "2.6335",
+        "usdValue": "$14.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.0600",
+        "amount": "0.0008",
+        "usdValue": "$2.52"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "2.2574",
+        "usdValue": "$2.26"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.7544",
+        "usdValue": "$0.75"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001007",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.00001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "566.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$40,211"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6ebd40ce68f2f15f6a429f8348e547c4c8398888",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$387K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$181K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$140K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$127K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$68K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$46K"
+      },
+      {
+        "name": "0x32ce…1f5c",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x18b0…1e9f",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$18K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$14K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xd7db…674a",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xa644…32d2",
+        "volume": "$11K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$534K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$451K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$44K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$42K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$10K"
+      },
+      {
+        "name": "APE",
+        "volume": "$3K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$23"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:10:25.337Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 25.77316417283968,
+  "vaultPct": 0.004792185659217686
+}

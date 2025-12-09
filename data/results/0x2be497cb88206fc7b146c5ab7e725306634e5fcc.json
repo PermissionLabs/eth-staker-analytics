@@ -1,0 +1,238 @@
+{
+  "portfolio": {
+    "address": "0x2be497cb88206fc7b146c5ab7e725306634e5fcc",
+    "totalValue": "$6,551",
+    "walletLifetime": "878 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.9900",
+        "amount": "0.0349",
+        "usdValue": "$108.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,101.9900",
+        "amount": "0.0020",
+        "usdValue": "$6.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.9900",
+        "amount": "0.0009",
+        "usdValue": "$2.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,101.4900",
+        "amount": "0.0009",
+        "usdValue": "$2.87"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1230",
+        "amount": "11.4318",
+        "usdValue": "$1.41"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "0.9987",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6000",
+        "amount": "0.0598",
+        "usdValue": "$0.81"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "POV",
+        "chain": "base",
+        "price": "$0.0₇1748",
+        "amount": "17,420.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ADA",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "12.1442",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,227"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MATIC",
+        "usdValue": "$134"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$65"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2be497cb88206fc7b146c5ab7e725306634e5fcc",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x4d0d…40da",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe0fa…a080",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xee92…8ee4",
+        "volume": "$1K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$938"
+      },
+      {
+        "name": "0x978b…240b",
+        "volume": "$930B"
+      },
+      {
+        "name": "inance",
+        "volume": "$851B"
+      },
+      {
+        "name": "ENQI",
+        "volume": "$610B"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$456"
+      },
+      {
+        "name": "0xc3c9…550f",
+        "volume": "$456"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$447"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "POL",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KAVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "ATOM",
+        "volume": "$850"
+      },
+      {
+        "name": "OP",
+        "volume": "$768"
+      },
+      {
+        "name": "GRT",
+        "volume": "$709"
+      },
+      {
+        "name": "ARB",
+        "volume": "$452"
+      },
+      {
+        "name": "ADAPOV",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:08:04.999Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.9862362721984361,
+  "vaultPct": 0.00036931487789450593
+}

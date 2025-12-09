@@ -1,0 +1,256 @@
+{
+  "portfolio": {
+    "address": "0x290fcff02cee5b8c281b0b8d0f55de2b9a3b51c7",
+    "totalValue": "$35,280",
+    "walletLifetime": "1656 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "1,105.7886",
+        "usdValue": "$1,105.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.1400",
+        "amount": "0.2048",
+        "usdValue": "$640.60"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2073",
+        "amount": "209.7454",
+        "usdValue": "$253.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.1400",
+        "amount": "0.0778",
+        "usdValue": "$243.32"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "122.3497",
+        "usdValue": "$122.33"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "7,045.0260",
+        "usdValue": "$71.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.7700",
+        "amount": "0.0207",
+        "usdValue": "$64.74"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "eth",
+        "price": "$0.8370",
+        "amount": "51.4474",
+        "usdValue": "$43.06"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,851.4600",
+        "amount": "0.0002",
+        "usdValue": "$18.17"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1321",
+        "amount": "295,774,647.0000",
+        "usdValue": "$3.91"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$15,741"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$11,611"
+      },
+      {
+        "protocol": "Lombard",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$5,278"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$35"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$30"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$16"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x290fcff02cee5b8c281b0b8d0f55de2b9a3b51c7",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$50K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$45K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$24K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$16K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$15K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x4b34…a8b6",
+        "volume": "$12K"
+      },
+      {
+        "name": "Yearn V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "Lombard",
+        "volume": "$9K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6081…fe80",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xd7ef…17e4",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2bea…07fa",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$98K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$56K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$23K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$4K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$747"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$579"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$110"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$12"
+      },
+      {
+        "name": "toby",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:16:04.462Z",
+  "source": "moonwell",
+  "vaultBalance": 3.636886175426667,
+  "vaultPct": 0.06598121224904464
+}

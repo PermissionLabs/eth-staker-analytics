@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x057d243513f8e20ee15bd66db777615f39f0cdea",
+    "totalValue": "$122,091",
+    "walletLifetime": "575 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,116.4100",
+        "amount": "10.9069",
+        "usdValue": "$33,990.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.4100",
+        "amount": "1.4397",
+        "usdValue": "$4,486.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.4100",
+        "amount": "0.0994",
+        "usdValue": "$309.86"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$33,867"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$15,915"
+      },
+      {
+        "protocol": "Instadapp Lite",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$15,846"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$12,934"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,703"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x057d243513f8e20ee15bd66db777615f39f0cdea",
+    "topProtocols": [
+      {
+        "name": "Fluid",
+        "volume": "$134K"
+      },
+      {
+        "name": "0x0f92…6f05",
+        "volume": "$89K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$81K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$76K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$75K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$67K"
+      },
+      {
+        "name": "Maple",
+        "volume": "$64K"
+      },
+      {
+        "name": "Instadapp Lite",
+        "volume": "$52K"
+      },
+      {
+        "name": "0x0223…f9ca",
+        "volume": "$50K"
+      },
+      {
+        "name": "0x25fd…d9ad",
+        "volume": "$50K"
+      },
+      {
+        "name": "Fraxlend",
+        "volume": "$43K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$42K"
+      },
+      {
+        "name": "0x98b8…e5b5",
+        "volume": "$41K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$39K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$29K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$25K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$532K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$194K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$150K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$91K"
+      },
+      {
+        "name": "sfrxETH",
+        "volume": "$70K"
+      },
+      {
+        "name": "Legacy Frax Dollar",
+        "volume": "$35K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$68"
+      },
+      {
+        "name": "ARB",
+        "volume": "$28"
+      },
+      {
+        "name": "rETH",
+        "volume": "$18"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:16:59.006Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 9.973844423154134,
+  "vaultPct": 0.11124416788846779
+}

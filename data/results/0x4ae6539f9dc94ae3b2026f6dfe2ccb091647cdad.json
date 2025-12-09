@@ -1,0 +1,262 @@
+{
+  "portfolio": {
+    "address": "0x4ae6539f9dc94ae3b2026f6dfe2ccb091647cdad",
+    "totalValue": "$42,560",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.8100",
+        "amount": "0.0038",
+        "usdValue": "$11.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,101.6100",
+        "amount": "0.0008",
+        "usdValue": "$2.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.6100",
+        "amount": "0.0006",
+        "usdValue": "$1.77"
+      },
+      {
+        "symbol": "FXS",
+        "chain": "op",
+        "price": "$0.7799",
+        "amount": "0.3498",
+        "usdValue": "$0.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,100.8100",
+        "amount": "0.00005349",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9811",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FARTWARS",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$16,858"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$15,804"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,687"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$673"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$520"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "ARB",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Frax",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "frxETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "uniETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4ae6539f9dc94ae3b2026f6dfe2ccb091647cdad",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$224K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$108K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$61K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$54K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$27K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$25K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$23K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$19K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$9K"
+      },
+      {
+        "name": "Beets V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Velodrome V2",
+        "volume": "$8K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$5K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x6952…db4f",
+        "volume": "$3K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$257K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$254K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$91K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "sfrxETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "pxETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "msETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "uniETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$479"
+      },
+      {
+        "name": "OP",
+        "volume": "$109"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:53:49.963Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 4.989719862760367,
+  "vaultPct": 0.05565328779750494
+}

@@ -1,0 +1,152 @@
+{
+  "portfolio": {
+    "address": "0xe0ddea5ca147eaecd2bb3d0157deaf16e6dc9aa0",
+    "totalValue": "$798,235",
+    "walletLifetime": "1452 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.6700",
+        "amount": "1.3866",
+        "usdValue": "$4,360.40"
+      },
+      {
+        "symbol": "MIMO",
+        "chain": "eth",
+        "price": "$0.0027",
+        "amount": "154,634.9641",
+        "usdValue": "$424.98"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7949",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$793,449"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe0ddea5ca147eaecd2bb3d0157deaf16e6dc9aa0",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$1M"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$823K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$440K"
+      },
+      {
+        "name": "0x9123…1175",
+        "volume": "$244K"
+      },
+      {
+        "name": "0xa47c…1acd",
+        "volume": "$232K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$23K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$21K"
+      },
+      {
+        "name": "Bittrex",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "UST",
+        "volume": "$952K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$924K"
+      },
+      {
+        "name": "MIMO",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:59:44.051Z",
+  "source": "lido_steth",
+  "vaultBalance": 225.84653853430586,
+  "vaultPct": 0.016958329287894272
+}

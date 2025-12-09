@@ -1,0 +1,310 @@
+{
+  "portfolio": {
+    "address": "0x49b198af8825bed9c1496a56b8bcf0e5343da1e8",
+    "totalValue": "$52,307",
+    "walletLifetime": "2652 days",
+    "tokens": [
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$192.5393",
+        "amount": "13.2265",
+        "usdValue": "$2,546.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.8000",
+        "amount": "0.1169",
+        "usdValue": "$365.99"
+      },
+      {
+        "symbol": "DBR",
+        "chain": "eth",
+        "price": "$0.0552",
+        "amount": "3,656.1683",
+        "usdValue": "$201.98"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,129.8000",
+        "amount": "0.0491",
+        "usdValue": "$153.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.8000",
+        "amount": "0.0475",
+        "usdValue": "$148.58"
+      },
+      {
+        "symbol": "CHP",
+        "chain": "matic",
+        "price": "$0.0481",
+        "amount": "1,438.4670",
+        "usdValue": "$69.23"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "51.2406",
+        "usdValue": "$51.24"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,766.2900",
+        "amount": "0.0004",
+        "usdValue": "$40.35"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "36.4910",
+        "usdValue": "$36.49"
+      },
+      {
+        "symbol": "BAL",
+        "chain": "eth",
+        "price": "$0.6688",
+        "amount": "34.1578",
+        "usdValue": "$22.85"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "6.0730",
+        "usdValue": "$6.07"
+      },
+      {
+        "symbol": "SUSHI",
+        "chain": "matic",
+        "price": "$0.3327",
+        "amount": "16.8889",
+        "usdValue": "$5.62"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$38,132"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "USDC",
+        "usdValue": "$5,144"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$4,106"
+      },
+      {
+        "protocol": "Inverse",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DOLA",
+        "usdValue": "$699"
+      },
+      {
+        "protocol": "Balancer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "AAVE",
+        "usdValue": "$198"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "SUSHI",
+        "usdValue": "$191"
+      },
+      {
+        "protocol": "Yearn V2",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$115"
+      },
+      {
+        "protocol": "Polygon Staking",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$19"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "BAL",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "avax",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "AVAX",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x49b198af8825bed9c1496a56b8bcf0e5343da1e8",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$359K"
+      },
+      {
+        "name": "Inverse",
+        "volume": "$204K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$196K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$180K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$91K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$58K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$27K"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$22K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$16K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$13K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$11K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$633K"
+      },
+      {
+        "name": "INV",
+        "volume": "$281K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$265K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$257K"
+      },
+      {
+        "name": "DOLA",
+        "volume": "$129K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "BAL",
+        "volume": "$20K"
+      },
+      {
+        "name": "NEXO",
+        "volume": "$14K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$14K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$11K"
+      },
+      {
+        "name": "KSUSHI",
+        "volume": "$7K"
+      },
+      {
+        "name": "CVX",
+        "volume": "$4K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:02:11.117Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 35.570709007456486,
+  "vaultPct": 0.006613912069569412
+}

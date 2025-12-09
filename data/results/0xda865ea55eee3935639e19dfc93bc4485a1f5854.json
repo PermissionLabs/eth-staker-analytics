@@ -1,0 +1,230 @@
+{
+  "portfolio": {
+    "address": "0xda865ea55eee3935639e19dfc93bc4485a1f5854",
+    "totalValue": "$6,736",
+    "walletLifetime": "544 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,143.9100",
+        "amount": "0.0046",
+        "usdValue": "$14.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,143.7400",
+        "amount": "0.0001",
+        "usdValue": "$0.43"
+      },
+      {
+        "symbol": "MYEVA",
+        "chain": "base",
+        "price": "$0.0021",
+        "amount": "7.7700",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "USI",
+        "chain": "base",
+        "price": "$0.0₆7229",
+        "amount": "1,000.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Bonk",
+        "chain": "base",
+        "price": "$0.00004962",
+        "amount": "7.9000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SkiLaika",
+        "chain": "base",
+        "price": "$0.0₅6171",
+        "amount": "6.9000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "EDOG",
+        "chain": "base",
+        "price": "$0.0₅5662",
+        "amount": "6.6600",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Replicandy",
+        "chain": "base",
+        "price": "$0.0₅287",
+        "amount": "10.6942",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BABY SATO",
+        "chain": "base",
+        "price": "$0.00001677",
+        "amount": "1.1110",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006811",
+        "amount": "0.0298",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$4,798"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,923"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xda865ea55eee3935639e19dfc93bc4485a1f5854",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$159K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$8K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x5a0e…37a2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7ae7…dcbd",
+        "volume": "$862"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$525"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$486"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$457"
+      },
+      {
+        "name": "OmniBridge",
+        "volume": "$401"
+      },
+      {
+        "name": "Superbridge",
+        "volume": "$367"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$344"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$281"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$212"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$205"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$152K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$80K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$10K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "OP",
+        "volume": "$3K"
+      },
+      {
+        "name": "msUSD",
+        "volume": "$377"
+      },
+      {
+        "name": "AERO",
+        "volume": "$1"
+      },
+      {
+        "name": "SATO",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:01:33.070Z",
+  "source": "base_aave",
+  "vaultBalance": 0.7545076995089312,
+  "vaultPct": 0.0011099413803649027
+}

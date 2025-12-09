@@ -1,0 +1,223 @@
+{
+  "portfolio": {
+    "address": "0xc25d2cf35860edae86e519d3cc346d7c58ed7f40",
+    "totalValue": "$1,319,297",
+    "walletLifetime": "1048 days",
+    "tokens": [
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4829",
+        "amount": "64,364.5725",
+        "usdValue": "$31,082.87"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "30,000.0237",
+        "usdValue": "$30,001.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.1000",
+        "amount": "0.1999",
+        "usdValue": "$625.81"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$891,248"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$366,327"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "ENQAI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc25d2cf35860edae86e519d3cc346d7c58ed7f40",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5M"
+      },
+      {
+        "name": "0x26e7…9480",
+        "volume": "$4M"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x2880…0617",
+        "volume": "$1M"
+      },
+      {
+        "name": "Maker",
+        "volume": "$1M"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xfb0a…fabd",
+        "volume": "$753K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$751K"
+      },
+      {
+        "name": "Spark",
+        "volume": "$665K"
+      },
+      {
+        "name": "0x32a7…9ef8",
+        "volume": "$500K"
+      },
+      {
+        "name": "0x809e…0ca7",
+        "volume": "$500K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$403K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$374K"
+      },
+      {
+        "name": "0x5867…90c3",
+        "volume": "$271K"
+      },
+      {
+        "name": "0x13cf…35be",
+        "volume": "$260K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$238K"
+      },
+      {
+        "name": "Aperture",
+        "volume": "$235K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$190K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3M"
+      },
+      {
+        "name": "wUSDM",
+        "volume": "$2M"
+      },
+      {
+        "name": "LINK",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$350K"
+      },
+      {
+        "name": "MANTA",
+        "volume": "$146K"
+      },
+      {
+        "name": "MAVIA",
+        "volume": "$134K"
+      },
+      {
+        "name": "PRIME",
+        "volume": "$132K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$124K"
+      },
+      {
+        "name": "TONCOIN",
+        "volume": "$96K"
+      },
+      {
+        "name": "BEAM",
+        "volume": "$71K"
+      },
+      {
+        "name": "APE",
+        "volume": "$69K"
+      },
+      {
+        "name": "xcMANTA",
+        "volume": "$64K"
+      },
+      {
+        "name": "AXL",
+        "volume": "$59K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$54K"
+      },
+      {
+        "name": "PORTAL",
+        "volume": "$54K"
+      },
+      {
+        "name": "ZETA",
+        "volume": "$53K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$49K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:52:02.175Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 299.9994367427329,
+  "vaultPct": 0.05578100495890752
+}

@@ -1,0 +1,171 @@
+{
+  "portfolio": {
+    "address": "0x67c0aecaca295e1572c3ddc3f4187a38536b84cb",
+    "totalValue": "$696",
+    "walletLifetime": "1609 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.7700",
+        "amount": "0.0094",
+        "usdValue": "$29.25"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "1.7544",
+        "usdValue": "$0.22"
+      },
+      {
+        "symbol": "MegaDoge",
+        "chain": "matic",
+        "price": "$0.00009137",
+        "amount": "1,000.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9833",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LGNS",
+        "chain": "matic",
+        "price": "$7.7341",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SMT",
+        "chain": "matic",
+        "price": "$0.0031",
+        "amount": "0.0220",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$506"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$161"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x67c0aecaca295e1572c3ddc3f4187a38536b84cb",
+    "topProtocols": [
+      {
+        "name": "Aave",
+        "volume": "$10K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$3K"
+      },
+      {
+        "name": "Firebird Finance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2b40…6312",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xbbd0…c56c",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$725"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$725"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$475"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$251"
+      },
+      {
+        "name": "0x91ad…4daa",
+        "volume": "$246"
+      },
+      {
+        "name": "0x3890…0f28",
+        "volume": "$120"
+      },
+      {
+        "name": "WMATIC",
+        "volume": "$27"
+      },
+      {
+        "name": "0x295d…90b2",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4220…d21d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$8K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "POL",
+        "volume": "$2K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$55"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:55:19.402Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.13845045354403873,
+  "vaultPct": 0.000010395945833376035
+}

@@ -1,0 +1,294 @@
+{
+  "portfolio": {
+    "address": "0xb582ce4e3065cb318ca2ebd2addccb1a2ef5f919",
+    "totalValue": "$435,500",
+    "walletLifetime": "1700 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9200",
+        "amount": "0.6299",
+        "usdValue": "$1,969.17"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.8000",
+        "amount": "0.2322",
+        "usdValue": "$208.24"
+      },
+      {
+        "symbol": "BOBA",
+        "chain": "eth",
+        "price": "$0.0454",
+        "amount": "1,486.5889",
+        "usdValue": "$67.49"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0960",
+        "amount": "129.0904",
+        "usdValue": "$12.39"
+      },
+      {
+        "symbol": "WXPL",
+        "chain": "plasma",
+        "price": "$0.1637",
+        "amount": "70.3552",
+        "usdValue": "$11.52"
+      },
+      {
+        "symbol": "WMTX",
+        "chain": "eth",
+        "price": "$0.0936",
+        "amount": "110.6455",
+        "usdValue": "$10.36"
+      },
+      {
+        "symbol": "TITAN",
+        "chain": "matic",
+        "price": "$0.0₈423",
+        "amount": "2,418,853,358.7776",
+        "usdValue": "$10.23"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "0.4349",
+        "usdValue": "$5.90"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$268,342"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$163,905"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-sENA-24APR2025",
+        "usdValue": "$948"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "XVS",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "plasma",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WXPL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "QI (BENQI)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Penguin Finance",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "PEFI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "QUICK(old)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "King Protocol",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb582ce4e3065cb318ca2ebd2addccb1a2ef5f919",
+    "topProtocols": [
+      {
+        "name": "Aave",
+        "volume": "$5M"
+      },
+      {
+        "name": "Geist",
+        "volume": "$5M"
+      },
+      {
+        "name": "BENQI",
+        "volume": "$4M"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$3M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2M"
+      },
+      {
+        "name": "Venus",
+        "volume": "$2M"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$2M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$2M"
+      },
+      {
+        "name": "0xc564…afbe",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "SCREAM V1",
+        "volume": "$1M"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$1M"
+      },
+      {
+        "name": "Platypus",
+        "volume": "$827K"
+      },
+      {
+        "name": "BXH",
+        "volume": "$739K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$734K"
+      },
+      {
+        "name": "0x50b7…b218",
+        "volume": "$724K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$703K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC.e",
+        "volume": "$10M"
+      },
+      {
+        "name": "METH",
+        "volume": "$7M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT.e",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$959K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$938K"
+      },
+      {
+        "name": "KWETH.e",
+        "volume": "$589K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$487K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$356K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$353K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:16:20.006Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 83.19405258902057,
+  "vaultPct": 0.015468855243216329
+}

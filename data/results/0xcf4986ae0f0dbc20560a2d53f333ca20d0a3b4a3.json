@@ -1,0 +1,118 @@
+{
+  "portfolio": {
+    "address": "0xcf4986ae0f0dbc20560a2d53f333ca20d0a3b4a3",
+    "totalValue": "$549",
+    "walletLifetime": "7 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$89,910.5000",
+        "amount": "0.0046",
+        "usdValue": "$415.18"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,107.0700",
+        "amount": "0.0226",
+        "usdValue": "$70.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.0700",
+        "amount": "0.0206",
+        "usdValue": "$64.13"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xcf4986ae0f0dbc20560a2d53f333ca20d0a3b4a3",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "Spark",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0653…0724",
+        "volume": "$869"
+      },
+      {
+        "name": "0x2cff…2680",
+        "volume": "$750"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$599"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$298"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$238"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$21"
+      },
+      {
+        "name": "0x3980…a54d",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$527"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$283"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:37:25.059Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.31526964925964296,
+  "vaultPct": 0.00005862030295685606
+}

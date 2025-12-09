@@ -1,0 +1,107 @@
+{
+  "portfolio": {
+    "address": "0x8bac82846c8f220dde7ac50d675f27c6a9148b91",
+    "totalValue": "$4,870",
+    "walletLifetime": "2296 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.4800",
+        "amount": "0.0010",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,112.4800",
+        "amount": "0.0010",
+        "usdValue": "$3.09"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "0.0011",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SALUKI",
+        "chain": "base",
+        "price": "$0.0₅5285",
+        "amount": "33.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "HAIR",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "12.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BB",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "100.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "Mog",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "25.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "cbXRP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,098"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$763"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8bac82846c8f220dde7ac50d675f27c6a9148b91",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T16:21:27.880Z",
+  "source": "base_aave",
+  "vaultBalance": 0.23372413948108328,
+  "vaultPct": 0.0003438269671324433
+}

@@ -1,0 +1,260 @@
+{
+  "portfolio": {
+    "address": "0xc839f562935baef7cc4fa1305073715d5ce404a3",
+    "totalValue": "$34,280",
+    "walletLifetime": "376 days",
+    "tokens": [
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3199",
+        "amount": "1,514.9533",
+        "usdValue": "$484.63"
+      },
+      {
+        "symbol": "IOTA",
+        "chain": "bsc",
+        "price": "$0.1036",
+        "amount": "1,108.2897",
+        "usdValue": "$114.82"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5977",
+        "amount": "175.0400",
+        "usdValue": "$104.62"
+      },
+      {
+        "symbol": "DOT",
+        "chain": "bsc",
+        "price": "$2.1400",
+        "amount": "26.4517",
+        "usdValue": "$56.61"
+      },
+      {
+        "symbol": "FIL",
+        "chain": "bsc",
+        "price": "$1.5080",
+        "amount": "21.6298",
+        "usdValue": "$32.62"
+      },
+      {
+        "symbol": "ATOM",
+        "chain": "bsc",
+        "price": "$2.2520",
+        "amount": "13.2728",
+        "usdValue": "$29.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.7900",
+        "amount": "0.0083",
+        "usdValue": "$25.99"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6200",
+        "amount": "0.4337",
+        "usdValue": "$5.91"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2125",
+        "amount": "5.9354",
+        "usdValue": "$1.26"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.4000",
+        "amount": "0.0013",
+        "usdValue": "$1.14"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$24,863"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$4,836"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$3,723"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc839f562935baef7cc4fa1305073715d5ce404a3",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$135K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$112K"
+      },
+      {
+        "name": "0x93ee…8d15",
+        "volume": "$82K"
+      },
+      {
+        "name": "0x8f2a…3111",
+        "volume": "$35K"
+      },
+      {
+        "name": "0xfa9f…6d25",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xc06e…ba1f",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xeba8…4cb1",
+        "volume": "$7K"
+      },
+      {
+        "name": "LBank",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xc9e3…346f",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd90b…94ea",
+        "volume": "$3K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x615c…a43c",
+        "volume": "$3K"
+      },
+      {
+        "name": "Rango",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa1a4…f12d",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1e36…20ae",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4502…3095",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xfd64…6407",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$320K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$89K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$29K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$12K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "OP",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$999"
+      },
+      {
+        "name": "IOTA",
+        "volume": "$222"
+      },
+      {
+        "name": "LDO",
+        "volume": "$206"
+      },
+      {
+        "name": "DOT",
+        "volume": "$101"
+      },
+      {
+        "name": "ATOM",
+        "volume": "$61"
+      },
+      {
+        "name": "FIL",
+        "volume": "$56B"
+      },
+      {
+        "name": "NB",
+        "volume": "$1"
+      },
+      {
+        "name": "POL",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:03:12.717Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 20.30686591668082,
+  "vaultPct": 0.0037757983838137385
+}

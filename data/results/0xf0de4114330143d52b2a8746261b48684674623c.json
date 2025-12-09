@@ -1,0 +1,93 @@
+{
+  "portfolio": {
+    "address": "0xf0de4114330143d52b2a8746261b48684674623c",
+    "totalValue": "$326",
+    "walletLifetime": "290 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "197.1705",
+        "usdValue": "$197.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.5300",
+        "amount": "0.0407",
+        "usdValue": "$126.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,110.5300",
+        "amount": "0.0008",
+        "usdValue": "$2.46"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0275",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xf0de4114330143d52b2a8746261b48684674623c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$101K"
+      },
+      {
+        "name": "0xf9ad…f7c2",
+        "volume": "$90K"
+      },
+      {
+        "name": "0xb944…e0d6",
+        "volume": "$80K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$33K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$32K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$31K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xe01b…6ca8",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$303K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$63K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:21:43.064Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 21.9,
+  "vaultPct": 0.004072021007318329
+}

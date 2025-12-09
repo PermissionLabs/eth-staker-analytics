@@ -1,0 +1,196 @@
+{
+  "portfolio": {
+    "address": "0x02e429a32e2353af1067fc16e4224ba2e9ce2d83",
+    "totalValue": "$13,876",
+    "walletLifetime": "2347 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.1300",
+        "amount": "0.1039",
+        "usdValue": "$322.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.1300",
+        "amount": "0.0116",
+        "usdValue": "$36.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.1300",
+        "amount": "0.0096",
+        "usdValue": "$29.74"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.4584",
+        "amount": "3.0389",
+        "usdValue": "$16.59"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0319",
+        "amount": "99.7996",
+        "usdValue": "$3.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,104.1300",
+        "amount": "0.0009",
+        "usdValue": "$2.95"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$9,725"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3,740"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "era",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "XVS",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x02e429a32e2353af1067fc16e4224ba2e9ce2d83",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$469K"
+      },
+      {
+        "name": "0xa91a…f92c",
+        "volume": "$353K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$276K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$245K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$203K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$154K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$143K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$111K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$98K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$96K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$64K"
+      },
+      {
+        "name": "0x",
+        "volume": "$58K"
+      },
+      {
+        "name": "0xd416…9eca",
+        "volume": "$37K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$36K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$3M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "KETH",
+        "volume": "$166K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$60K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$37K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$18K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$79"
+      },
+      {
+        "name": "UNI",
+        "volume": "$20"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:28:36.545Z",
+  "source": "base_aave",
+  "vaultBalance": 2.006878000369687,
+  "vaultPct": 0.0029522786041866218
+}

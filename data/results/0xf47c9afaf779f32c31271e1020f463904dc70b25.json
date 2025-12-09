@@ -1,0 +1,43 @@
+{
+  "portfolio": {
+    "address": "0xf47c9afaf779f32c31271e1020f463904dc70b25",
+    "totalValue": "$0",
+    "walletLifetime": "1635 days",
+    "tokens": [
+      {
+        "symbol": "FLUID",
+        "chain": "eth",
+        "price": "$3.2587",
+        "amount": "63.9691",
+        "usdValue": "$208.45"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$59,224"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "AAVE",
+        "usdValue": "$11"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf47c9afaf779f32c31271e1020f463904dc70b25",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T23:19:41.348Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.2111442432368666,
+  "vaultPct": 0.0004111335985694754
+}

@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0xd44ef8332d81c7d3a72e2a03984fb19cc86f09d9",
+    "totalValue": "$636",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,114.4000",
+        "amount": "0.1838",
+        "usdValue": "$572.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,115.2700",
+        "amount": "0.0140",
+        "usdValue": "$43.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.1100",
+        "amount": "0.0034",
+        "usdValue": "$10.47"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "hyper",
+        "price": "$1.0001",
+        "amount": "5.0820",
+        "usdValue": "$5.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,115.2700",
+        "amount": "0.0009",
+        "usdValue": "$2.87"
+      },
+      {
+        "symbol": "SWAP",
+        "chain": "hyper",
+        "price": "$0.0209",
+        "amount": "39.0000",
+        "usdValue": "$0.82"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$28.1880",
+        "amount": "0.0033",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "xSWAP",
+        "chain": "hyper",
+        "price": "$0.0209",
+        "amount": "0.4491",
+        "usdValue": ""
+      },
+      {
+        "symbol": "KEVIN",
+        "chain": "base",
+        "price": "$0.00001742",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "hyper",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd44ef8332d81c7d3a72e2a03984fb19cc86f09d9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$2K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$961K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$603"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$4001"
+      },
+      {
+        "name": "inch",
+        "volume": "$345"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$332"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$299"
+      },
+      {
+        "name": "0x9f7b…12ce",
+        "volume": "$200"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$200"
+      },
+      {
+        "name": "Fly",
+        "volume": "$173"
+      },
+      {
+        "name": "0xb3ec…cfbe",
+        "volume": "$163"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$1450"
+      },
+      {
+        "name": "x",
+        "volume": "$86"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3c7d…928c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$605"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:45:46.190Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11696609306938885,
+  "vaultPct": 0.00017206651023153727
+}

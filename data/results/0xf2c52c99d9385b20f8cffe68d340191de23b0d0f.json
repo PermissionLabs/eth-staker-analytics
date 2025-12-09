@@ -1,0 +1,114 @@
+{
+  "portfolio": {
+    "address": "0xf2c52c99d9385b20f8cffe68d340191de23b0d0f",
+    "totalValue": "$46,660",
+    "walletLifetime": "85 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.7600",
+        "amount": "9.4181",
+        "usdValue": "$29,269.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.7600",
+        "amount": "2.5378",
+        "usdValue": "$7,886.74"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "1,930.0007",
+        "usdValue": "$1,930.00"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$7,574"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf2c52c99d9385b20f8cffe68d340191de23b0d0f",
+    "topProtocols": [
+      {
+        "name": "0xdc7d…0a8e",
+        "volume": "$210K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$105K"
+      },
+      {
+        "name": "0x3bb6…f3c0",
+        "volume": "$32K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x2134…ce04",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$10K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$10K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$22"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$6"
+      },
+      {
+        "name": "0xdc7e…0a8e",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdc7d…9a8e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$482K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$30K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:21:06.898Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 2.2367911359879296,
+  "vaultPct": 0.0249482504545211
+}

@@ -1,0 +1,75 @@
+{
+  "portfolio": {
+    "address": "0xef6a83b9fd1929116baa173e85d414bfccb5afa1",
+    "totalValue": "$3",
+    "walletLifetime": "168 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.1200",
+        "amount": "0.0011",
+        "usdValue": "$3.34"
+      },
+      {
+        "symbol": "ZIK",
+        "chain": "eth",
+        "price": "$0.0002",
+        "amount": "333.3333",
+        "usdValue": "$0.05"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xef6a83b9fd1929116baa173e85d414bfccb5afa1",
+    "topProtocols": [
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$487"
+      },
+      {
+        "name": "0x8300…c7ca",
+        "volume": "$239"
+      },
+      {
+        "name": "0x7cba…4e75",
+        "volume": "$195"
+      },
+      {
+        "name": "disperse",
+        "volume": "$127B"
+      },
+      {
+        "name": "eefy",
+        "volume": "$22"
+      },
+      {
+        "name": "0xb42f…ead6",
+        "volume": "$2"
+      },
+      {
+        "name": "0x2d95…f0e5",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "JPYC",
+        "volume": "$51"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:33:56.000Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.0547379895665093,
+  "vaultPct": 0.000004110157532855804
+}

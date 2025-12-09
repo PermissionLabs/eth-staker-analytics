@@ -1,0 +1,101 @@
+{
+  "portfolio": {
+    "address": "0x05f95afc9b9a3a2439adbdf1a65ff60fa8884e83",
+    "totalValue": "$249,669",
+    "walletLifetime": "1079 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.2400",
+        "amount": "0.0956",
+        "usdValue": "$298.92"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.0000",
+        "amount": "0.3081",
+        "usdValue": "$276.66"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3184",
+        "amount": "687.5102",
+        "usdValue": "$218.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.6200",
+        "amount": "0.0587",
+        "usdValue": "$183.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.2400",
+        "amount": "0.0092",
+        "usdValue": "$28.78"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,127.2400",
+        "amount": "0.0022",
+        "usdValue": "$7.01"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "30.5000",
+        "usdValue": "$3.77"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$240,357"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "MORPHO",
+        "usdValue": "$6,056"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$1,748"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$489"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x05f95afc9b9a3a2439adbdf1a65ff60fa8884e83",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T20:30:50.499Z",
+  "source": "moonwell",
+  "vaultBalance": 74.78924757628252,
+  "vaultPct": 1.3568434590060063
+}

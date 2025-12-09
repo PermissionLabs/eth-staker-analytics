@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0xa6770eadf1a89f3ecec8686f351d8e980571b80b",
+    "totalValue": "$3,644",
+    "walletLifetime": "1095 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.6000",
+        "amount": "0.0300",
+        "usdValue": "$94.07"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1239",
+        "amount": "45.5820",
+        "usdValue": "$5.65"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6900",
+        "amount": "0.1573",
+        "usdValue": "$2.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.6000",
+        "amount": "0.0007",
+        "usdValue": "$2.06"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "0.0002",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7914",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DeFAI",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "640.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$2,499"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$551"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$478"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$13"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "avax",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "AVAX",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa6770eadf1a89f3ecec8686f351d8e980571b80b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x7c99…3661",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x9be3…af63",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xbc8d…9fda",
+        "volume": "$7K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x242e…c36e",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4da9…4d47",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x059f…9ae1",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x71d4…5f53",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xac55…196c",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$798"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$38K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$14K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "POL",
+        "volume": "$1K"
+      },
+      {
+        "name": "KDAI",
+        "volume": "$522"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$506"
+      },
+      {
+        "name": "USDt",
+        "volume": "$378B"
+      },
+      {
+        "name": "TC.b",
+        "volume": "$192"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:18:26.278Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.6390893987892687,
+  "vaultPct": 0.00011883038618375998
+}

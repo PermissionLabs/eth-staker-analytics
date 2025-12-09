@@ -1,0 +1,211 @@
+{
+  "portfolio": {
+    "address": "0x695ea3fbe49621edc7d5a1c29ac0ec79efcd417f",
+    "totalValue": "$7,681",
+    "walletLifetime": "140 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.5400",
+        "amount": "0.0421",
+        "usdValue": "$131.69"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "arb",
+        "price": "$191.4870",
+        "amount": "0.6834",
+        "usdValue": "$130.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.5400",
+        "amount": "0.0167",
+        "usdValue": "$52.24"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "7.3258",
+        "usdValue": "$7.32"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,130.5400",
+        "amount": "0.0017",
+        "usdValue": "$5.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.5400",
+        "amount": "0.0007",
+        "usdValue": "$2.09"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2119",
+        "amount": "3.9229",
+        "usdValue": "$0.83"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3,906"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,151"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$1,156"
+      },
+      {
+        "protocol": "Revert",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$104"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$14"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x695ea3fbe49621edc7d5a1c29ac0ec79efcd417f",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$8K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$481"
+      },
+      {
+        "name": "Revert",
+        "volume": "$357M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$114B"
+      },
+      {
+        "name": "itget",
+        "volume": "$113M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$112"
+      },
+      {
+        "name": "0x695e…417f",
+        "volume": "$50B"
+      },
+      {
+        "name": "itstamp",
+        "volume": "$33"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$6K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$993"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$942"
+      },
+      {
+        "name": "UNI",
+        "volume": "$270"
+      },
+      {
+        "name": "USDT",
+        "volume": "$227"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:52:02.669Z",
+  "source": "base_aave",
+  "vaultBalance": 0.24288181778035697,
+  "vaultPct": 0.0003572986468767972
+}

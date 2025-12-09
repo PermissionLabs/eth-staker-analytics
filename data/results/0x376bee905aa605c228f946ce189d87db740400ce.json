@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0x376bee905aa605c228f946ce189d87db740400ce",
+    "totalValue": "$325",
+    "walletLifetime": "1458 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,116.4200",
+        "amount": "0.0081",
+        "usdValue": "$25.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.4200",
+        "amount": "0.0010",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.4200",
+        "amount": "0.0009",
+        "usdValue": "$2.89"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.6000",
+        "amount": "0.0028",
+        "usdValue": "$2.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,116.4200",
+        "amount": "0.0004",
+        "usdValue": "$1.38"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6800",
+        "amount": "0.0637",
+        "usdValue": "$0.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,116.4200",
+        "amount": "0.0001",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1224",
+        "amount": "0.4398",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "EURA",
+        "chain": "xdai",
+        "price": "$1.1629",
+        "amount": "0.0352",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "41.7493",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,116.4200",
+        "amount": "0.0000121",
+        "usdValue": "$0.04"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$287"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x376bee905aa605c228f946ce189d87db740400ce",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$5K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x11cf…dc40",
+        "volume": "$5K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$677"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$577"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$411M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$289B"
+      },
+      {
+        "name": "itget",
+        "volume": "$255"
+      },
+      {
+        "name": "zkSwap Finance",
+        "volume": "$163"
+      },
+      {
+        "name": "0x9336…7852",
+        "volume": "$138"
+      },
+      {
+        "name": "0x0b66…419b",
+        "volume": "$138"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$797"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$379"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$375"
+      },
+      {
+        "name": "USDT",
+        "volume": "$126"
+      },
+      {
+        "name": "WETH",
+        "volume": "$124"
+      },
+      {
+        "name": "SCR",
+        "volume": "$81"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:38:00.703Z",
+  "source": "moonwell",
+  "vaultBalance": 0.0895756385744526,
+  "vaultPct": 0.0016251015115784564
+}

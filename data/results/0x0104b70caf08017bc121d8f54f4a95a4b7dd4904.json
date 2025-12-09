@@ -1,0 +1,79 @@
+{
+  "portfolio": {
+    "address": "0x0104b70caf08017bc121d8f54f4a95a4b7dd4904",
+    "totalValue": "$4,028",
+    "walletLifetime": "323 days",
+    "tokens": [
+      {
+        "symbol": "kVCM",
+        "chain": "base",
+        "price": "$0.0910",
+        "amount": "4,229.4442",
+        "usdValue": "$384.67"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7483",
+        "amount": "19.9988",
+        "usdValue": "$274.95"
+      },
+      {
+        "symbol": "BTT",
+        "chain": "eth",
+        "price": "$0.0₆4126",
+        "amount": "45,582,925.1339",
+        "usdValue": "$18.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,118.3800",
+        "amount": "0.0059",
+        "usdValue": "$18.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.3800",
+        "amount": "0.0007",
+        "usdValue": "$2.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LINK",
+        "usdValue": "$3,324"
+      },
+      {
+        "protocol": "ionic",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "KLIMA",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Klima Protocol",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "unknown",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0104b70caf08017bc121d8f54f4a95a4b7dd4904",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T01:00:53.270Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.49091692996852443,
+  "vaultPct": 0.0000912796370630161
+}

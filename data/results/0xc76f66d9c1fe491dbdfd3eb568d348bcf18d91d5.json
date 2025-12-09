@@ -1,0 +1,109 @@
+{
+  "portfolio": {
+    "address": "0xc76f66d9c1fe491dbdfd3eb568d348bcf18d91d5",
+    "totalValue": "$22,278",
+    "walletLifetime": "414 days",
+    "tokens": [
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3630",
+        "amount": "1,564.9995",
+        "usdValue": "$3,698.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.1600",
+        "amount": "0.4533",
+        "usdValue": "$1,408.34"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7856",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "yRise",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "0.0001",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$17,171"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc76f66d9c1fe491dbdfd3eb568d348bcf18d91d5",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$60K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$38K"
+      },
+      {
+        "name": "0x807c…bd38",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x96fc…1a67",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$38K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$34K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$8K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:56:24.901Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5.2,
+  "vaultPct": 0.0009668725679477312
+}

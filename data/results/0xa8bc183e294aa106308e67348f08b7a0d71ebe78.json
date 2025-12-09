@@ -1,0 +1,122 @@
+{
+  "portfolio": {
+    "address": "0xa8bc183e294aa106308e67348f08b7a0d71ebe78",
+    "totalValue": "$11,272",
+    "walletLifetime": "499 days",
+    "tokens": [
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0002",
+        "amount": "170.8652",
+        "usdValue": "$170.89"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "abs",
+        "price": "$1.0002",
+        "amount": "15.0000",
+        "usdValue": "$15.00"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1243",
+        "amount": "61.3697",
+        "usdValue": "$7.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.6400",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "ZBT",
+        "chain": "eth",
+        "price": "$0.1102",
+        "amount": "11.9543",
+        "usdValue": "$1.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.3000",
+        "amount": "0.0004",
+        "usdValue": "$1.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.6400",
+        "amount": "0.0003",
+        "usdValue": "$0.98"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0970",
+        "amount": "1.9953",
+        "usdValue": "$0.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "abs",
+        "price": "$3,131.3000",
+        "amount": "0.00003249",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0283",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,471"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$3,865"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$2,382"
+      },
+      {
+        "protocol": "Magic Alchemy",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RUSK",
+        "usdValue": "$354"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa8bc183e294aa106308e67348f08b7a0d71ebe78",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T13:00:53.651Z",
+  "source": "base_aave",
+  "vaultBalance": 0.30213540692222735,
+  "vaultPct": 0.0004444654320090196
+}

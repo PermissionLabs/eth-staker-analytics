@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0x90344a88f141def30be9e86e009a8856832e7f8e",
+    "totalValue": "$1,897",
+    "walletLifetime": "1113 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.8900",
+        "amount": "0.1041",
+        "usdValue": "$322.92"
+      },
+      {
+        "symbol": "DOGE",
+        "chain": "bsc",
+        "price": "$0.1423",
+        "amount": "1,121.1671",
+        "usdValue": "$159.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,102.8900",
+        "amount": "0.0133",
+        "usdValue": "$41.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,102.8900",
+        "amount": "0.0130",
+        "usdValue": "$40.23"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$0.9998",
+        "amount": "10.3413",
+        "usdValue": "$10.34"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,102.8900",
+        "amount": "0.0020",
+        "usdValue": "$6.35"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.8509",
+        "usdValue": "$0.85"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,143"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "crvUSD",
+        "usdValue": "$127"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$30"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$14"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EUL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x90344a88f141def30be9e86e009a8856832e7f8e",
+    "topProtocols": [
+      {
+        "name": "0xacba…28a6",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x04d1…372c",
+        "volume": "$397"
+      },
+      {
+        "name": "0x92b1…7963",
+        "volume": "$267"
+      },
+      {
+        "name": "0x9aa2…0c50",
+        "volume": "$267B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$241B"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$238"
+      },
+      {
+        "name": "inch",
+        "volume": "$235"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$205K"
+      },
+      {
+        "name": "elp DAO",
+        "volume": "$188"
+      },
+      {
+        "name": "Curve",
+        "volume": "$1571"
+      },
+      {
+        "name": "inance",
+        "volume": "$89B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$453"
+      },
+      {
+        "name": "POL",
+        "volume": "$114"
+      },
+      {
+        "name": "DOGE",
+        "volume": "$86"
+      },
+      {
+        "name": "LIT",
+        "volume": "$71"
+      },
+      {
+        "name": "NB",
+        "volume": "$57"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:14:07.343Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.33800080570895075,
+  "vaultPct": 0.0037699222868801336
+}

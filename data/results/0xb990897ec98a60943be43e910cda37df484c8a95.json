@@ -1,0 +1,245 @@
+{
+  "portfolio": {
+    "address": "0xb990897ec98a60943be43e910cda37df484c8a95",
+    "totalValue": "$571",
+    "walletLifetime": "1723 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.0500",
+        "amount": "0.0868",
+        "usdValue": "$271.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.0500",
+        "amount": "0.0156",
+        "usdValue": "$48.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.0500",
+        "amount": "0.0116",
+        "usdValue": "$36.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,128.0500",
+        "amount": "0.0036",
+        "usdValue": "$11.31"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3175",
+        "amount": "32.7026",
+        "usdValue": "$10.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.5000",
+        "amount": "0.0030",
+        "usdValue": "$9.51"
+      },
+      {
+        "symbol": "AIDOGE",
+        "chain": "arb",
+        "price": "$0.0₁₀1779",
+        "amount": "188,759,848,534.7314",
+        "usdValue": "$3.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,127.5000",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1233",
+        "amount": "25.2856",
+        "usdValue": "$3.12"
+      },
+      {
+        "symbol": "STG",
+        "chain": "arb",
+        "price": "$0.1213",
+        "amount": "12.0000",
+        "usdValue": "$1.46"
+      },
+      {
+        "symbol": "REZ",
+        "chain": "eth",
+        "price": "$0.0057",
+        "amount": "198.0000",
+        "usdValue": "$1.13"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.8000",
+        "amount": "0.0010",
+        "usdValue": "$0.89"
+      },
+      {
+        "symbol": "PSP",
+        "chain": "matic",
+        "price": "$0.0061",
+        "amount": "101.0000",
+        "usdValue": "$0.61"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$163"
+      },
+      {
+        "protocol": "Beta",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb990897ec98a60943be43e910cda37df484c8a95",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$22K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$17K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$10K"
+      },
+      {
+        "name": "zkSync Bridge",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xe95b…d223",
+        "volume": "$10K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$9K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$9K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$9K"
+      },
+      {
+        "name": "Rubic",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x60e9…6a48",
+        "volume": "$7K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KUSDC",
+        "volume": "$22K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$18K"
+      },
+      {
+        "name": "POL",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:18:27.099Z",
+  "source": "base_aave",
+  "vaultBalance": 0.0519644808791974,
+  "vaultPct": 0.00007644392187719382
+}

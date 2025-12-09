@@ -1,0 +1,337 @@
+{
+  "portfolio": {
+    "address": "0x8ba78384872b48e72a0b7ec8ae869dfca9568518",
+    "totalValue": "$9,209",
+    "walletLifetime": "1810 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.5100",
+        "amount": "2.0640",
+        "usdValue": "$6,450.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,125.5100",
+        "amount": "0.2459",
+        "usdValue": "$768.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,125.4500",
+        "amount": "0.1359",
+        "usdValue": "$424.61"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.7000",
+        "amount": "0.3864",
+        "usdValue": "$345.30"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4760",
+        "amount": "216.6728",
+        "usdValue": "$103.14"
+      },
+      {
+        "symbol": "FIAS",
+        "chain": "eth",
+        "price": "$0.0153",
+        "amount": "4,748.0487",
+        "usdValue": "$72.77"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "scrl",
+        "price": "$0.9998",
+        "amount": "36.7702",
+        "usdValue": "$36.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,125.5100",
+        "amount": "0.0078",
+        "usdValue": "$24.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.5100",
+        "amount": "0.0062",
+        "usdValue": "$19.39"
+      },
+      {
+        "symbol": "ETH.ETH",
+        "chain": "zeta",
+        "price": "$3,125.4500",
+        "amount": "0.0061",
+        "usdValue": "$19.09"
+      },
+      {
+        "symbol": "PLSPAD",
+        "chain": "eth",
+        "price": "$0.0003",
+        "amount": "67,937.8982",
+        "usdValue": "$18.05"
+      },
+      {
+        "symbol": "BPAD",
+        "chain": "bsc",
+        "price": "$0.0003",
+        "amount": "65,806.2468",
+        "usdValue": "$16.73"
+      },
+      {
+        "symbol": "ADAPAD",
+        "chain": "eth",
+        "price": "$0.0020",
+        "amount": "8,281.8010",
+        "usdValue": "$16.38"
+      },
+      {
+        "symbol": "GULL",
+        "chain": "bsc",
+        "price": "$0.0038",
+        "amount": "2,664.1547",
+        "usdValue": "$10.00"
+      },
+      {
+        "symbol": "NFTPAD",
+        "chain": "bsc",
+        "price": "$1.76",
+        "amount": "2,041.55",
+        "usdValue": ""
+      },
+      {
+        "symbol": "PLUT",
+        "chain": "bsc",
+        "price": "$0.00",
+        "amount": "77.69",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ZERO",
+        "chain": "linea",
+        "price": "$0.01",
+        "amount": "1,071.60",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$386"
+      },
+      {
+        "protocol": "NFTLaunchPad",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "NFTL",
+        "usdValue": "$381"
+      },
+      {
+        "protocol": "Bloktopia",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "MV",
+        "usdValue": "$28"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "TrustPad",
+        "chain": "bsc",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "NFTPAD",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Silo",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DPX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Mendi Finance",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Claimable",
+        "token": "ZERO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8ba78384872b48e72a0b7ec8ae869dfca9568518",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap",
+        "volume": "$349K"
+      },
+      {
+        "name": "KCCPad",
+        "volume": "$104K"
+      },
+      {
+        "name": "Bunny",
+        "volume": "$100K"
+      },
+      {
+        "name": "ETHPad",
+        "volume": "$85K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$46K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$19K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$18K"
+      },
+      {
+        "name": "Gamezone",
+        "volume": "$17K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$14K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$12K"
+      },
+      {
+        "name": "NFTLaunchPad",
+        "volume": "$10K"
+      },
+      {
+        "name": "Bloktopia",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "Cake",
+        "volume": "$218K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$175K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$154K"
+      },
+      {
+        "name": "ETHPAD",
+        "volume": "$100K"
+      },
+      {
+        "name": "GZONE",
+        "volume": "$45K"
+      },
+      {
+        "name": "VLXPAD",
+        "volume": "$45K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$41K"
+      },
+      {
+        "name": "TWT",
+        "volume": "$41K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$36K"
+      },
+      {
+        "name": "PLSPAD",
+        "volume": "$25K"
+      },
+      {
+        "name": "JGN",
+        "volume": "$20K"
+      },
+      {
+        "name": "NFTL",
+        "volume": "$19K"
+      },
+      {
+        "name": "OMG",
+        "volume": "$18K"
+      },
+      {
+        "name": "ADAPAD",
+        "volume": "$18K"
+      },
+      {
+        "name": "BLOK",
+        "volume": "$16K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:23:47.993Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.12,
+  "vaultPct": 0.000022312443875716872
+}

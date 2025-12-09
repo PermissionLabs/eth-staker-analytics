@@ -1,0 +1,290 @@
+{
+  "portfolio": {
+    "address": "0x6b529bef3511db0341ac342606f46e295a082daa",
+    "totalValue": "$598",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.4090",
+        "amount": "93.1241",
+        "usdValue": "$131.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "rari",
+        "price": "$3,149.4100",
+        "amount": "0.0178",
+        "usdValue": "$56.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,148.0500",
+        "amount": "0.0167",
+        "usdValue": "$52.67"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "ape",
+        "price": "$3,148.0500",
+        "amount": "0.0150",
+        "usdValue": "$47.22"
+      },
+      {
+        "symbol": "ApeETH",
+        "chain": "ape",
+        "price": "$3,144.4269",
+        "amount": "0.0100",
+        "usdValue": "$31.49"
+      },
+      {
+        "symbol": "wstETH",
+        "chain": "base",
+        "price": "$3,844.3497",
+        "amount": "0.0080",
+        "usdValue": "$30.75"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "29.2401",
+        "usdValue": "$29.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,148.0500",
+        "amount": "0.0072",
+        "usdValue": "$22.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,148.0500",
+        "amount": "0.0009",
+        "usdValue": "$2.71"
+      },
+      {
+        "symbol": "APE",
+        "chain": "ape",
+        "price": "$0.2403",
+        "amount": "8.4088",
+        "usdValue": "$2.02"
+      },
+      {
+        "symbol": "atETH",
+        "chain": "gravity",
+        "price": "$3,291.4911",
+        "amount": "0.0004",
+        "usdValue": "$1.28"
+      },
+      {
+        "symbol": "RARI",
+        "chain": "rari",
+        "price": "$0.3741",
+        "amount": "2.7533",
+        "usdValue": "$1.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "ape",
+        "price": "$1.0002",
+        "amount": "0.9407",
+        "usdValue": "$0.94"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.2000",
+        "amount": "0.0010",
+        "usdValue": "$0.88"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9869",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "USDC.e",
+        "chain": "ape",
+        "price": "$0.9999",
+        "amount": "0.6784",
+        "usdValue": "$0.68"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$142"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$23"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "Camelot V3",
+        "chain": "ape",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ApeETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Camelot V3",
+        "chain": "rari",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Human Passport",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GTC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Nucleus",
+        "chain": "rari",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6b529bef3511db0341ac342606f46e295a082daa",
+    "topProtocols": [
+      {
+        "name": "ReactorFusion",
+        "volume": "$16K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$16K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$14K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$12K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$11K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xa27a…5b3e",
+        "volume": "$8K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$7K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$6K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$5K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$71K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$23K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:52:19.403Z",
+  "source": "base_aave",
+  "vaultBalance": 0.06800350217094896,
+  "vaultPct": 0.00010003860943817617
+}

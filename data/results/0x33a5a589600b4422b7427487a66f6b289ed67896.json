@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "address": "0x33a5a589600b4422b7427487a66f6b289ed67896",
+    "totalValue": "$6,442",
+    "walletLifetime": "1101 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,147.4700",
+        "amount": "0.0663",
+        "usdValue": "$208.60"
+      },
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅853",
+        "amount": "759,062.2051",
+        "usdValue": "$6.47"
+      },
+      {
+        "symbol": "Coval",
+        "chain": "eth",
+        "price": "$0.0002",
+        "amount": "444.5258",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001002",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.0168",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6,227"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x33a5a589600b4422b7427487a66f6b289ed67896",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4fad…c8b8",
+        "volume": "$735"
+      },
+      {
+        "name": "0x8c8d…7465",
+        "volume": "$674"
+      },
+      {
+        "name": "0x2a18…2b49",
+        "volume": "$551"
+      },
+      {
+        "name": "0x98db…ef8b",
+        "volume": "$2571"
+      },
+      {
+        "name": "inch",
+        "volume": "$211"
+      },
+      {
+        "name": "0x151b…e96d",
+        "volume": "$78"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$42B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$41"
+      },
+      {
+        "name": "0xebed…fb2a",
+        "volume": "$41"
+      },
+      {
+        "name": "Velora",
+        "volume": "$32"
+      },
+      {
+        "name": "0xf1d3…09d2",
+        "volume": "$24"
+      },
+      {
+        "name": "0x253d…492d",
+        "volume": "$18"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$82"
+      },
+      {
+        "name": "APE",
+        "volume": "$63"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$7"
+      },
+      {
+        "name": "Coval",
+        "volume": "$4B"
+      },
+      {
+        "name": "SNLBOND",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:53:16.424Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.7758762576199638,
+  "vaultPct": 0.00013334671652139637
+}

@@ -1,0 +1,175 @@
+{
+  "portfolio": {
+    "address": "0x6df9370d7f48b4717b603d041b5d22972a74e3a1",
+    "totalValue": "$85",
+    "walletLifetime": "844 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.6700",
+        "amount": "0.0010",
+        "usdValue": "$3.18"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0910",
+        "amount": "31.4971",
+        "usdValue": "$2.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,159.1600",
+        "amount": "0.0000833",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,159.1500",
+        "amount": "0.00008",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,159.6700",
+        "amount": "0.00007974",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,159.6700",
+        "amount": "0.00007345",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1246",
+        "amount": "0.7174",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.6700",
+        "amount": "0.00002175",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.0000",
+        "amount": "0.00006778",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8200",
+        "amount": "0.0004",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "0.00002",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$77"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6df9370d7f48b4717b603d041b5d22972a74e3a1",
+    "topProtocols": [
+      {
+        "name": "SyncSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$774"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$586"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$553"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$502"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$446"
+      },
+      {
+        "name": "Relay",
+        "volume": "$422"
+      },
+      {
+        "name": "Router Protocol",
+        "volume": "$285"
+      },
+      {
+        "name": "OKX",
+        "volume": "$224"
+      },
+      {
+        "name": "0x3236…4253",
+        "volume": "$218"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$216"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$203"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$834"
+      },
+      {
+        "name": "USDC",
+        "volume": "$554"
+      },
+      {
+        "name": "USDT",
+        "volume": "$402"
+      },
+      {
+        "name": "USDV",
+        "volume": "$145"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T11:12:00.238Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11789614032702776,
+  "vaultPct": 0.00017343468439015778
+}

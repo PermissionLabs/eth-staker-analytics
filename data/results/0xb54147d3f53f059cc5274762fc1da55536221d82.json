@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0xb54147d3f53f059cc5274762fc1da55536221d82",
+    "totalValue": "$17,838",
+    "walletLifetime": "363 days",
+    "tokens": [
+      {
+        "symbol": "USDai",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "481.7133",
+        "usdValue": "$481.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.5400",
+        "amount": "0.0016",
+        "usdValue": "$4.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.1400",
+        "amount": "0.0012",
+        "usdValue": "$3.78"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.1980",
+        "amount": "0.0672",
+        "usdValue": "$1.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.5400",
+        "amount": "0.0005",
+        "usdValue": "$1.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.5400",
+        "amount": "0.0005",
+        "usdValue": "$1.66"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,126.5400",
+        "amount": "0.0002",
+        "usdValue": "$0.60"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "cbBTC",
+        "usdValue": "$12,730"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AERO",
+        "usdValue": "$1,711"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,014"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "hyper",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$977"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$872"
+      },
+      {
+        "protocol": "Arcadia Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$26"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$10"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb54147d3f53f059cc5274762fc1da55536221d82",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$56K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$49K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x040e…45bb",
+        "volume": "$16K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x",
+        "volume": "$15K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$11K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$10K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$10K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$8K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Definitive",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$998"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$115K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$66K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$18K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$9K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$2K"
+      },
+      {
+        "name": "MAMO",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDai",
+        "volume": "$496"
+      },
+      {
+        "name": "SEAM",
+        "volume": "$45"
+      },
+      {
+        "name": "COMP",
+        "volume": "$15"
+      },
+      {
+        "name": "TOSHI",
+        "volume": "$11"
+      },
+      {
+        "name": "Cake",
+        "volume": "$11M"
+      },
+      {
+        "name": "IGGLES",
+        "volume": "$9"
+      },
+      {
+        "name": "OP",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:36:15.144Z",
+  "source": "moonwell",
+  "vaultBalance": 1.5947143446159189,
+  "vaultPct": 0.028931668623463278
+}

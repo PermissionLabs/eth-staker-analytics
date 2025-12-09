@@ -1,0 +1,212 @@
+{
+  "portfolio": {
+    "address": "0x93fc97b7d2769f67776bcb4a398192b1a50bf333",
+    "totalValue": "$98,628",
+    "walletLifetime": "397 days",
+    "tokens": [
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "205.1231",
+        "usdValue": "$205.08"
+      },
+      {
+        "symbol": "RAIL",
+        "chain": "eth",
+        "price": "$2.7263",
+        "amount": "71.8125",
+        "usdValue": "$195.79"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,138.9900",
+        "amount": "0.0232",
+        "usdValue": "$72.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,138.9900",
+        "amount": "0.0174",
+        "usdValue": "$54.71"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "8.3666",
+        "usdValue": "$8.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,138.9900",
+        "amount": "0.0010",
+        "usdValue": "$3.04"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,138.0000",
+        "amount": "0.00001397",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "3,750.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "50.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "RAILGUN",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RAIL",
+        "usdValue": "$58,409"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$39,679"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x93fc97b7d2769f67776bcb4a398192b1a50bf333",
+    "topProtocols": [
+      {
+        "name": "Abracadabra",
+        "volume": "$95K"
+      },
+      {
+        "name": "RAILGUN",
+        "volume": "$90K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$67K"
+      },
+      {
+        "name": "Usual",
+        "volume": "$41K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$38K"
+      },
+      {
+        "name": "0xa50d…0444",
+        "volume": "$38K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$38K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$34K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$27K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x4c0b…77be",
+        "volume": "$20K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x913e…9c9a",
+        "volume": "$398"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$324"
+      },
+      {
+        "name": "0x2523…32b2",
+        "volume": "$157M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$3B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$213K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$154K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$77K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$77K"
+      },
+      {
+        "name": "ETH0",
+        "volume": "$68K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$30K"
+      },
+      {
+        "name": "RAIL",
+        "volume": "$20K"
+      },
+      {
+        "name": "USUAL",
+        "volume": "$309"
+      },
+      {
+        "name": "DAI",
+        "volume": "$104"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:13:34.868Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 9.0451028874669,
+  "vaultPct": 0.0016818195877224154
+}

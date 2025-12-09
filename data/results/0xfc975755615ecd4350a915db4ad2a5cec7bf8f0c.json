@@ -1,0 +1,99 @@
+{
+  "portfolio": {
+    "address": "0xfc975755615ecd4350a915db4ad2a5cec7bf8f0c",
+    "totalValue": "$324",
+    "walletLifetime": "1551 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.1200",
+        "amount": "0.0003",
+        "usdValue": "$0.86"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9873",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "0.0001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$323"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfc975755615ecd4350a915db4ad2a5cec7bf8f0c",
+    "topProtocols": [
+      {
+        "name": "0xcdf4…277d",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf83f…efbe",
+        "volume": "$1K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$864"
+      },
+      {
+        "name": "0x2356…7f43",
+        "volume": "$455"
+      },
+      {
+        "name": "0x38f6…6336",
+        "volume": "$415"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$370"
+      },
+      {
+        "name": "0xdc6e…29bf",
+        "volume": "$331"
+      },
+      {
+        "name": "0x657b…979f",
+        "volume": "$313"
+      },
+      {
+        "name": "0xcdf9…277d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:15:06.312Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.10082031,
+  "vaultPct": 0.000007570379546144212
+}

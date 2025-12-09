@@ -1,0 +1,77 @@
+{
+  "portfolio": {
+    "address": "0x6911c211075181892195ab8d5b62c1a95caaed28",
+    "totalValue": "$17,164",
+    "walletLifetime": "2821 days",
+    "tokens": [
+      {
+        "symbol": "ALICE",
+        "chain": "eth",
+        "price": "$0.2310",
+        "amount": "312.8834",
+        "usdValue": "$72.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.9200",
+        "amount": "0.0127",
+        "usdValue": "$39.60"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2832",
+        "amount": "33.0000",
+        "usdValue": "$9.35"
+      },
+      {
+        "symbol": "FLR",
+        "chain": "flr",
+        "price": "$0.0132",
+        "amount": "532.1168",
+        "usdValue": "$7.01"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9819",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DAX",
+        "chain": "flr",
+        "price": "$0.0₅5438",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FXRP",
+        "chain": "flr",
+        "price": "$0.0000",
+        "amount": "18,197.5581",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$17,036"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6911c211075181892195ab8d5b62c1a95caaed28",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T17:02:32.732Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.022322732189241,
+  "vaultPct": 0.00037711537770416045
+}

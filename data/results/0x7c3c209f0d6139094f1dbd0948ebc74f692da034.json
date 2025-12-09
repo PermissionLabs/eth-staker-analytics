@@ -1,0 +1,304 @@
+{
+  "portfolio": {
+    "address": "0x7c3c209f0d6139094f1dbd0948ebc74f692da034",
+    "totalValue": "$269,957",
+    "walletLifetime": "1966 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,098.3800",
+        "amount": "1.3068",
+        "usdValue": "$4,048.89"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.7000",
+        "amount": "0.3891",
+        "usdValue": "$346.57"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0942",
+        "amount": "2,846.8940",
+        "usdValue": "$268.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,098.3800",
+        "amount": "0.0850",
+        "usdValue": "$263.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,098.3800",
+        "amount": "0.0164",
+        "usdValue": "$50.92"
+      },
+      {
+        "symbol": "wS",
+        "chain": "sonic",
+        "price": "$0.0942",
+        "amount": "240.0386",
+        "usdValue": "$22.61"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "13.9398",
+        "usdValue": "$13.94"
+      },
+      {
+        "symbol": "BERA",
+        "chain": "bera",
+        "price": "$0.8360",
+        "amount": "13.7034",
+        "usdValue": "$11.46"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "arb",
+        "price": "$0.8240",
+        "amount": "7.9294",
+        "usdValue": "$6.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,098.3800",
+        "amount": "0.0018",
+        "usdValue": "$5.56"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$264,030"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "sonic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wS",
+        "usdValue": "$458"
+      },
+      {
+        "protocol": "Sonic Airdrop",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "S",
+        "usdValue": "$207"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETHFI",
+        "usdValue": "$137"
+      },
+      {
+        "protocol": "BeraHub",
+        "chain": "bera",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WBERA",
+        "usdValue": "$56"
+      },
+      {
+        "protocol": "Lynx",
+        "chain": "sonic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "wS",
+        "usdValue": "$20"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "AAVE",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Silo",
+        "chain": "sonic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SILO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "sonic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "wS",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "PantherSwap",
+        "chain": "bsc",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "PANTHER",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7c3c209f0d6139094f1dbd0948ebc74f692da034",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Silo",
+        "volume": "$1M"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$921K"
+      },
+      {
+        "name": "Shadow Exchange",
+        "volume": "$879K"
+      },
+      {
+        "name": "Sonic Gateway",
+        "volume": "$579K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$559K"
+      },
+      {
+        "name": "0x4299…52ca",
+        "volume": "$467K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$330K"
+      },
+      {
+        "name": "MachFi",
+        "volume": "$328K"
+      },
+      {
+        "name": "Sui Bridge",
+        "volume": "$307K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$260K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$217K"
+      },
+      {
+        "name": "Fly",
+        "volume": "$144K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$120K"
+      },
+      {
+        "name": "0x9bb6…af37",
+        "volume": "$103K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "Cake",
+        "volume": "$936K"
+      },
+      {
+        "name": "S",
+        "volume": "$791K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$554K"
+      },
+      {
+        "name": "FDUSD",
+        "volume": "$438K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$375K"
+      },
+      {
+        "name": "wS",
+        "volume": "$331K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$49K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$40K"
+      },
+      {
+        "name": "POL",
+        "volume": "$35K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:19:16.925Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 85.10937248226908,
+  "vaultPct": 0.01582498414006759
+}

@@ -1,0 +1,164 @@
+{
+  "portfolio": {
+    "address": "0x234decbc6b820056dfb8438ecbce6c000f8183e4",
+    "totalValue": "$94,525",
+    "walletLifetime": "329 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.3800",
+        "amount": "17.6048",
+        "usdValue": "$55,303.39"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8605",
+        "amount": "2,098.1856",
+        "usdValue": "$29,081.96"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,919"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BTC.b",
+        "usdValue": "$1,156"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x234decbc6b820056dfb8438ecbce6c000f8183e4",
+    "topProtocols": [
+      {
+        "name": "XSwap",
+        "volume": "$160K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$78K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xf517…5d82",
+        "volume": "$11K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4bc7…dc37",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x59f9…8905",
+        "volume": "$2K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$2K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$2K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$2K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8a7b…371d",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x5b14…fb53",
+        "volume": "$485"
+      },
+      {
+        "name": "squid",
+        "volume": "$430"
+      },
+      {
+        "name": "0x6081…fe80",
+        "volume": "$401"
+      },
+      {
+        "name": "0x1887…3cdd",
+        "volume": "$255M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$244"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$178K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$172K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$83K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$8K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "XSWAP",
+        "volume": "$157"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$125"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$24"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:07:04.696Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.745962404426934,
+  "vaultPct": 0.0008824501648753189
+}

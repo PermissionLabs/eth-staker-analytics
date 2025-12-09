@@ -1,0 +1,216 @@
+{
+  "portfolio": {
+    "address": "0x2af86db4a3117914dc7cf59a2080e51f14a9d4dc",
+    "totalValue": "$348",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,117.7600",
+        "amount": "0.0070",
+        "usdValue": "$21.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.7600",
+        "amount": "0.0012",
+        "usdValue": "$3.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,117.7600",
+        "amount": "0.0005",
+        "usdValue": "$1.68"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,117.7600",
+        "amount": "0.0002",
+        "usdValue": "$0.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,117.7600",
+        "amount": "0.0002",
+        "usdValue": "$0.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,117.7600",
+        "amount": "0.00007998",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "1.2884",
+        "usdValue": "$0.16"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "56.3084",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "BENTO",
+        "chain": "base",
+        "price": "$0.0₈173",
+        "amount": "26,642,664.0000",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,117.7600",
+        "amount": "0.00001225",
+        "usdValue": "$0.04"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$288"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$29"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "ftm",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2af86db4a3117914dc7cf59a2080e51f14a9d4dc",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$13K"
+      },
+      {
+        "name": "Core Bridge",
+        "volume": "$12K"
+      },
+      {
+        "name": "Basilisk",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xee73…f282",
+        "volume": "$6K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "Router Protocol",
+        "volume": "$4K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$4K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$677"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$525"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$498"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$437"
+      },
+      {
+        "name": "0x2297…42e3",
+        "volume": "$405"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$24K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$842B"
+      },
+      {
+        "name": "TC.b",
+        "volume": "$806"
+      },
+      {
+        "name": "WOO",
+        "volume": "$801"
+      },
+      {
+        "name": "WETH",
+        "volume": "$469"
+      },
+      {
+        "name": "ZK",
+        "volume": "$342"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:26:25.052Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09016642094646658,
+  "vaultPct": 0.0016358196191024776
+}

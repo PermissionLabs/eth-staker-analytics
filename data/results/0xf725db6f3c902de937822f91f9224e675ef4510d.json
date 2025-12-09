@@ -1,0 +1,126 @@
+{
+  "portfolio": {
+    "address": "0xf725db6f3c902de937822f91f9224e675ef4510d",
+    "totalValue": "$4,548",
+    "walletLifetime": "1519 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.9988",
+        "amount": "39.8000",
+        "usdValue": "$557.15"
+      },
+      {
+        "symbol": "RLC (iExec RLC)",
+        "chain": "eth",
+        "price": "$0.7517",
+        "amount": "277.5902",
+        "usdValue": "$208.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.7300",
+        "amount": "0.0091",
+        "usdValue": "$28.36"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6705",
+        "amount": "3.6922",
+        "usdValue": "$20.94"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1239",
+        "amount": "135.3973",
+        "usdValue": "$16.78"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9879",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ECLD",
+        "chain": "matic",
+        "price": "$0.0003",
+        "amount": "0.1000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,716"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf725db6f3c902de937822f91f9224e675ef4510d",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$1K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2b82…4c35",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x36d8…36bd",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KLINK",
+        "volume": "$1K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$177"
+      },
+      {
+        "name": "UNI",
+        "volume": "$89B"
+      },
+      {
+        "name": "RLC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:19:53.314Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.048069409879685,
+  "vaultPct": 0.000078697270654024
+}

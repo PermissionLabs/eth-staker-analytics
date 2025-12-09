@@ -1,0 +1,222 @@
+{
+  "portfolio": {
+    "address": "0x53e584781fa4fb44353dae22884b7cbfa7468933",
+    "totalValue": "$16,393",
+    "walletLifetime": "634 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,138.0400",
+        "amount": "0.3740",
+        "usdValue": "$1,173.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zircuit",
+        "price": "$3,136.1600",
+        "amount": "0.0100",
+        "usdValue": "$31.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,138.0400",
+        "amount": "0.0099",
+        "usdValue": "$31.03"
+      },
+      {
+        "symbol": "USDD",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "5.0080",
+        "usdValue": "$5.01"
+      },
+      {
+        "symbol": "REZ",
+        "chain": "eth",
+        "price": "$0.0058",
+        "amount": "763.0000",
+        "usdValue": "$4.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,137.6300",
+        "amount": "0.0008",
+        "usdValue": "$2.46"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1393",
+        "amount": "169,631.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "10.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "BETS",
+        "chain": "base",
+        "price": "$0.00001268",
+        "amount": "4.2000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7939",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WAZ",
+        "chain": "base",
+        "price": "$0.0₆3787",
+        "amount": "6.9000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$15,138"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$7"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x53e584781fa4fb44353dae22884b7cbfa7468933",
+    "topProtocols": [
+      {
+        "name": "USDD",
+        "volume": "$49K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$47K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$27K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xee3a…93a2",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xd247…b67a",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xc435…5a4e",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xac0a…63c3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$768"
+      },
+      {
+        "name": "OKX",
+        "volume": "$530M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$217"
+      },
+      {
+        "name": "Zircuit Bridge",
+        "volume": "$199"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$175"
+      },
+      {
+        "name": "Liquifi",
+        "volume": "$140"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$131M"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$117"
+      },
+      {
+        "name": "Hyperlane",
+        "volume": "$112"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$37"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$89K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$49K"
+      },
+      {
+        "name": "USDD",
+        "volume": "$49K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$172"
+      },
+      {
+        "name": "REZ",
+        "volume": "$140"
+      },
+      {
+        "name": "ZRC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:09:10.622Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.828361417062332,
+  "vaultPct": 0.0005258971281537194
+}

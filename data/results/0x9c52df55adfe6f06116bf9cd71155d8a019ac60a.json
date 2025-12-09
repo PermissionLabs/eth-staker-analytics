@@ -1,0 +1,275 @@
+{
+  "portfolio": {
+    "address": "0x9c52df55adfe6f06116bf9cd71155d8a019ac60a",
+    "totalValue": "$42,545",
+    "walletLifetime": "1759 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.6500",
+        "amount": "0.0386",
+        "usdValue": "$120.73"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "sonic",
+        "price": "$1.0000",
+        "amount": "50.8520",
+        "usdValue": "$50.85"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.4000",
+        "amount": "0.0249",
+        "usdValue": "$22.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.9100",
+        "amount": "0.0029",
+        "usdValue": "$9.18"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0958",
+        "amount": "52.1706",
+        "usdValue": "$5.00"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2113",
+        "amount": "17.8613",
+        "usdValue": "$3.77"
+      },
+      {
+        "symbol": "EQB",
+        "chain": "eth",
+        "price": "$0.2817",
+        "amount": "12.1893",
+        "usdValue": "$3.43"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "sonic",
+        "price": "$5.6211",
+        "amount": "0.4071",
+        "usdValue": "$2.29"
+      },
+      {
+        "symbol": "wS",
+        "chain": "sonic",
+        "price": "$0.0958",
+        "amount": "10.0200",
+        "usdValue": "$0.96"
+      },
+      {
+        "symbol": "ABR",
+        "chain": "matic",
+        "price": "$0.0702",
+        "amount": "11.8901",
+        "usdValue": "$0.83"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.8100",
+        "usdValue": "$0.81"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$23,137"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$7,033"
+      },
+      {
+        "protocol": "Stability",
+        "chain": "sonic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$6,999"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$5,080"
+      },
+      {
+        "protocol": "Sonic Airdrop",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "S",
+        "usdValue": "$48"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9c52df55adfe6f06116bf9cd71155d8a019ac60a",
+    "topProtocols": [
+      {
+        "name": "Shadow Exchange",
+        "volume": "$131K"
+      },
+      {
+        "name": "Stability",
+        "volume": "$90K"
+      },
+      {
+        "name": "MachFi",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x9b35…5e15",
+        "volume": "$43K"
+      },
+      {
+        "name": "ICHI",
+        "volume": "$36K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$34K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$30K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$21K"
+      },
+      {
+        "name": "Fly",
+        "volume": "$19K"
+      },
+      {
+        "name": "Silo",
+        "volume": "$18K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$18K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$16K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$14K"
+      },
+      {
+        "name": "SwapX",
+        "volume": "$11K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$11K"
+      },
+      {
+        "name": "Green Planet",
+        "volume": "$10K"
+      },
+      {
+        "name": "Sonic Gateway",
+        "volume": "$9K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$365K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$139K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$70K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$29K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$13K"
+      },
+      {
+        "name": "UST",
+        "volume": "$12K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$12K"
+      },
+      {
+        "name": "xUSD",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$8K"
+      },
+      {
+        "name": "POL",
+        "volume": "$8K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$7K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$6K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "MDX",
+        "volume": "$4K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "xSHADOW",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:03:38.287Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.0000202839200307,
+  "vaultPct": 0.01115381588447642
+}

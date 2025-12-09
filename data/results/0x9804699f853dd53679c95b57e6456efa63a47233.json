@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0x9804699f853dd53679c95b57e6456efa63a47233",
+    "totalValue": "$6,120",
+    "walletLifetime": "1328 days",
+    "tokens": [
+      {
+        "symbol": "TWT",
+        "chain": "bsc",
+        "price": "$1.0026",
+        "amount": "3,577.8395",
+        "usdValue": "$3,587.28"
+      },
+      {
+        "symbol": "TORN",
+        "chain": "eth",
+        "price": "$12.4256",
+        "amount": "143.6850",
+        "usdValue": "$1,785.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,136.1600",
+        "amount": "0.1186",
+        "usdValue": "$371.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,136.1600",
+        "amount": "0.0344",
+        "usdValue": "$107.84"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$902.2000",
+        "amount": "0.0792",
+        "usdValue": "$71.45"
+      },
+      {
+        "symbol": "KROM",
+        "chain": "eth",
+        "price": "$0.0073",
+        "amount": "2,121.0460",
+        "usdValue": "$15.54"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "9.1760",
+        "usdValue": "$9.18"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$163"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9804699f853dd53679c95b57e6456efa63a47233",
+    "topProtocols": [
+      {
+        "name": "0xaa49…cfcf",
+        "volume": "$73K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x92db…a6d5",
+        "volume": "$11K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xf2ef…7c38",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4459…f95c",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5cbb…565c",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8971…a57d",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x194e…6fec",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x44be…8edb",
+        "volume": "$2K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$990"
+      },
+      {
+        "name": "0xfcce…432e",
+        "volume": "$816"
+      },
+      {
+        "name": "0x0052…1c84",
+        "volume": "$688"
+      },
+      {
+        "name": "0x8fed…a2d7",
+        "volume": "$400"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$384M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$301"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$94K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$64K"
+      },
+      {
+        "name": "TWT",
+        "volume": "$21K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "TORN",
+        "volume": "$264"
+      },
+      {
+        "name": "USDC",
+        "volume": "$231"
+      },
+      {
+        "name": "SFP",
+        "volume": "$210K"
+      },
+      {
+        "name": "ROM",
+        "volume": "$133M"
+      },
+      {
+        "name": "SIM",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:08:29.665Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05,
+  "vaultPct": 0.000009296851614882031
+}

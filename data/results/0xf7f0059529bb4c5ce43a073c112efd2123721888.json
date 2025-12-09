@@ -1,0 +1,314 @@
+{
+  "portfolio": {
+    "address": "0xf7f0059529bb4c5ce43a073c112efd2123721888",
+    "totalValue": "$7,546",
+    "walletLifetime": "1739 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "matic",
+        "price": "$92,000.0100",
+        "amount": "0.0250",
+        "usdValue": "$2,301.63"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0002",
+        "amount": "1,318.9695",
+        "usdValue": "$1,319.25"
+      },
+      {
+        "symbol": "BTCB",
+        "chain": "bsc",
+        "price": "$92,026.3900",
+        "amount": "0.0072",
+        "usdValue": "$663.83"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "matic",
+        "price": "$13.7800",
+        "amount": "40.3650",
+        "usdValue": "$556.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,155.9300",
+        "amount": "0.1518",
+        "usdValue": "$478.98"
+      },
+      {
+        "symbol": "wTAO",
+        "chain": "eth",
+        "price": "$304.4181",
+        "amount": "1.1014",
+        "usdValue": "$335.27"
+      },
+      {
+        "symbol": "stMATIC",
+        "chain": "matic",
+        "price": "$0.1434",
+        "amount": "1,161.6181",
+        "usdValue": "$166.61"
+      },
+      {
+        "symbol": "WPOL",
+        "chain": "matic",
+        "price": "$0.1246",
+        "amount": "654.6913",
+        "usdValue": "$81.57"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "66.3345",
+        "usdValue": "$66.32"
+      },
+      {
+        "symbol": "1INCH",
+        "chain": "bsc",
+        "price": "$0.1820",
+        "amount": "229.2122",
+        "usdValue": "$41.72"
+      },
+      {
+        "symbol": "HERO",
+        "chain": "bsc",
+        "price": "$0.0008",
+        "amount": "50,146.9255",
+        "usdValue": "$38.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,155.9300",
+        "amount": "0.0022",
+        "usdValue": "$6.96"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$991"
+      },
+      {
+        "protocol": "PancakeSwap",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "Cake",
+        "usdValue": "$302"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$58"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$52"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "stMATIC",
+        "usdValue": "$42"
+      },
+      {
+        "protocol": "1inch",
+        "chain": "bsc",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "1INCH",
+        "usdValue": "$23"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "mobm",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "STELLA",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Everdome",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "DOME",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "StellaSwap",
+        "chain": "mobm",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "STELLA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf7f0059529bb4c5ce43a073c112efd2123721888",
+    "topProtocols": [
+      {
+        "name": "1inch",
+        "volume": "$9K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$5K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xd18d…c554",
+        "volume": "$2K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$2K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Everdome",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb34e…e4e9",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6b5c…5856",
+        "volume": "$1K"
+      },
+      {
+        "name": "StellaSwap",
+        "volume": "$827"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$775"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BUSD",
+        "volume": "$9K"
+      },
+      {
+        "name": "POL",
+        "volume": "$9K"
+      },
+      {
+        "name": "stMATIC",
+        "volume": "$7K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "HERO",
+        "volume": "$6K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$5K"
+      },
+      {
+        "name": "DOME",
+        "volume": "$4K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$4K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$3K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$1K"
+      },
+      {
+        "name": "KROM",
+        "volume": "$1K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$1K"
+      },
+      {
+        "name": "JPYC",
+        "volume": "$1K"
+      },
+      {
+        "name": "jJPY",
+        "volume": "$913B"
+      },
+      {
+        "name": "NB",
+        "volume": "$889"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:28:37.034Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.27599547717322126,
+  "vaultPct": 0.000020723904888017762
+}

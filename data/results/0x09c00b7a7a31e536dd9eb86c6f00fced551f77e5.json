@@ -1,0 +1,50 @@
+{
+  "portfolio": {
+    "address": "0x09c00b7a7a31e536dd9eb86c6f00fced551f77e5",
+    "totalValue": "$620",
+    "walletLifetime": "314 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.5000",
+        "amount": "0.0157",
+        "usdValue": "$49.30"
+      },
+      {
+        "symbol": "NPC (Non-Playable Coin)",
+        "chain": "base",
+        "price": "$0.0129",
+        "amount": "1,602.4277",
+        "usdValue": "$20.67"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$549"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x09c00b7a7a31e536dd9eb86c6f00fced551f77e5",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T07:50:47.081Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11659513822602371,
+  "vaultPct": 0.00017152080588529175
+}

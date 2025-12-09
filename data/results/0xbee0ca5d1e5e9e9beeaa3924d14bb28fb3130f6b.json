@@ -1,0 +1,252 @@
+{
+  "portfolio": {
+    "address": "0xbee0ca5d1e5e9e9beeaa3924d14bb28fb3130f6b",
+    "totalValue": "$1,120,999",
+    "walletLifetime": "1964 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,120.2400",
+        "amount": "27.2092",
+        "usdValue": "$84,899.13"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "eth",
+        "price": "$1.0933",
+        "amount": "10,079.9000",
+        "usdValue": "$11,020.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.2400",
+        "amount": "2.8984",
+        "usdValue": "$9,043.74"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3217",
+        "amount": "7,699.6160",
+        "usdValue": "$2,476.97"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "op",
+        "price": "$3,120.2400",
+        "amount": "0.6000",
+        "usdValue": "$1,872.14"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0325",
+        "amount": "3,637.6169",
+        "usdValue": "$118.15"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$871,560"
+      },
+      {
+        "protocol": "Frax",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "frxETH",
+        "usdValue": "$75,328"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$47,345"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$17,072"
+      },
+      {
+        "protocol": "Fraxlend",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "frxETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Sommelier",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbee0ca5d1e5e9e9beeaa3924d14bb28fb3130f6b",
+    "topProtocols": [
+      {
+        "name": "Liquity",
+        "volume": "$1M"
+      },
+      {
+        "name": "1inch",
+        "volume": "$427K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$349K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$325K"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$311K"
+      },
+      {
+        "name": "0x97fc…bec3",
+        "volume": "$294K"
+      },
+      {
+        "name": "0xfc5a…cc90",
+        "volume": "$281K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$271K"
+      },
+      {
+        "name": "Sommelier",
+        "volume": "$219K"
+      },
+      {
+        "name": "Derive V1",
+        "volume": "$199K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$166K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$163K"
+      },
+      {
+        "name": "Ooki",
+        "volume": "$147K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$130K"
+      },
+      {
+        "name": "0x2ad0…e796",
+        "volume": "$119K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$119K"
+      },
+      {
+        "name": "Contango",
+        "volume": "$80K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$78K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$960K"
+      },
+      {
+        "name": "LUSD",
+        "volume": "$693K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$559K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$426K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$332K"
+      },
+      {
+        "name": "KAELIN",
+        "volume": "$130K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$121K"
+      },
+      {
+        "name": "DYDX",
+        "volume": "$112K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$95K"
+      },
+      {
+        "name": "VELO",
+        "volume": "$55K"
+      },
+      {
+        "name": "sBTC",
+        "volume": "$32K"
+      },
+      {
+        "name": "KDAI",
+        "volume": "$15K"
+      },
+      {
+        "name": "VSP",
+        "volume": "$15K"
+      },
+      {
+        "name": "OP",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:05:54.750Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 13.925861966240092,
+  "vaultPct": 0.15532334983766774
+}

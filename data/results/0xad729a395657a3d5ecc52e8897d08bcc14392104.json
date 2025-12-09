@@ -1,0 +1,42 @@
+{
+  "portfolio": {
+    "address": "0xad729a395657a3d5ecc52e8897d08bcc14392104",
+    "totalValue": "$0",
+    "walletLifetime": "3248 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,135.8600",
+        "amount": "0.0496",
+        "usdValue": "$155.66"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$184"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xad729a395657a3d5ecc52e8897d08bcc14392104",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T22:17:42.945Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05806304861018806,
+  "vaultPct": 0.000010796070944732014
+}

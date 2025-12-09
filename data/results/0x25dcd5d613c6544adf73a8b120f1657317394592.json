@@ -1,0 +1,196 @@
+{
+  "portfolio": {
+    "address": "0x25dcd5d613c6544adf73a8b120f1657317394592",
+    "totalValue": "$123,918",
+    "walletLifetime": "790 days",
+    "tokens": [
+      {
+        "symbol": "HOT",
+        "chain": "eth",
+        "price": "$0.0005",
+        "amount": "47,369,146.2781",
+        "usdValue": "$24,584.59"
+      },
+      {
+        "symbol": "FLUID",
+        "chain": "eth",
+        "price": "$3.2692",
+        "amount": "840.8957",
+        "usdValue": "$2,749.03"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "eth",
+        "price": "$0.3947",
+        "amount": "6,410.8875",
+        "usdValue": "$2,530.38"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.4020",
+        "amount": "1,028.9206",
+        "usdValue": "$2,471.47"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.6006",
+        "amount": "4,107.2019",
+        "usdValue": "$2,466.82"
+      },
+      {
+        "symbol": "POL",
+        "chain": "eth",
+        "price": "$0.1245",
+        "amount": "16,973.7001",
+        "usdValue": "$2,112.80"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2750",
+        "amount": "7,470.6098",
+        "usdValue": "$2,054.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.5600",
+        "amount": "0.1674",
+        "usdValue": "$524.67"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9886",
+        "amount": "777.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$84,423"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x25dcd5d613c6544adf73a8b120f1657317394592",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$155K"
+      },
+      {
+        "name": "0x9580…a695",
+        "volume": "$63K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$48K"
+      },
+      {
+        "name": "0xb233…c460",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x2b3f…5dbb",
+        "volume": "$27K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x5079…cacf",
+        "volume": "$12K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$7K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7119…06e7",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xd33f…6299",
+        "volume": "$103"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$217K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$95K"
+      },
+      {
+        "name": "HOT",
+        "volume": "$66K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$8K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$5K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$5K"
+      },
+      {
+        "name": "FLUID",
+        "volume": "$5K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$5K"
+      },
+      {
+        "name": "POL",
+        "volume": "$5K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:20:36.974Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 41.98280961480987,
+  "vaultPct": 0.007806159027294598
+}

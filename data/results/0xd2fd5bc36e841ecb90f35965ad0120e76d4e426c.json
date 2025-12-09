@@ -1,0 +1,154 @@
+{
+  "portfolio": {
+    "address": "0xd2fd5bc36e841ecb90f35965ad0120e76d4e426c",
+    "totalValue": "$949",
+    "walletLifetime": "313 days",
+    "tokens": [
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅857",
+        "amount": "40,352,872.0000",
+        "usdValue": "$345.82"
+      },
+      {
+        "symbol": "JASMY",
+        "chain": "eth",
+        "price": "$0.0070",
+        "amount": "36,048.3117",
+        "usdValue": "$250.90"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.8000",
+        "amount": "0.0894",
+        "usdValue": "$80.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.5700",
+        "amount": "0.0127",
+        "usdValue": "$39.66"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2414",
+        "amount": "120.1200",
+        "usdValue": "$29.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.5700",
+        "amount": "0.0063",
+        "usdValue": "$19.59"
+      },
+      {
+        "symbol": "MARCO",
+        "chain": "bsc",
+        "price": "$0.0015",
+        "amount": "3.2038",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.00001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$183"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd2fd5bc36e841ecb90f35965ad0120e76d4e426c",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$598B"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$164"
+      },
+      {
+        "name": "0xd377…07e2",
+        "volume": "$156"
+      },
+      {
+        "name": "0x8c8d…7465",
+        "volume": "$95M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$44"
+      },
+      {
+        "name": "0x7725…fc03",
+        "volume": "$38"
+      },
+      {
+        "name": "0x7d7e…5270",
+        "volume": "$31"
+      },
+      {
+        "name": "0x3ae8…e552",
+        "volume": "$20"
+      },
+      {
+        "name": "0x9390…e49e",
+        "volume": "$20"
+      },
+      {
+        "name": "0x542d…b216",
+        "volume": "$16B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "JASMY",
+        "volume": "$2K"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$388B"
+      },
+      {
+        "name": "NB",
+        "volume": "$73"
+      },
+      {
+        "name": "FET",
+        "volume": "$44"
+      },
+      {
+        "name": "USDC",
+        "volume": "$39"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:16:13.032Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05850744184669443,
+  "vaultPct": 0.000010878700104301152
+}

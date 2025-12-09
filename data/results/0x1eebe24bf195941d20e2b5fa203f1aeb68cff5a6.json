@@ -1,0 +1,208 @@
+{
+  "portfolio": {
+    "address": "0x1eebe24bf195941d20e2b5fa203f1aeb68cff5a6",
+    "totalValue": "$49,875",
+    "walletLifetime": "1746 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.9400",
+        "amount": "8.9923",
+        "usdValue": "$27,920.64"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "20,183.9000",
+        "usdValue": "$20,184.51"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "811.0583",
+        "usdValue": "$810.98"
+      },
+      {
+        "symbol": "XAMP",
+        "chain": "eth",
+        "price": "$0.0017",
+        "amount": "175,447.5494",
+        "usdValue": "$296.11"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.3000",
+        "amount": "0.1011",
+        "usdValue": "$90.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.5700",
+        "amount": "0.0198",
+        "usdValue": "$61.52"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$324"
+      },
+      {
+        "protocol": "Stader.Fantom",
+        "chain": "ftm",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "FTM",
+        "usdValue": "$15"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1eebe24bf195941d20e2b5fa203f1aeb68cff5a6",
+    "topProtocols": [
+      {
+        "name": "Uniswap V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x292f…78c8",
+        "volume": "$346K"
+      },
+      {
+        "name": "0x58c4…93d1",
+        "volume": "$260K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$256K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$106K"
+      },
+      {
+        "name": "0x9636…2e9c",
+        "volume": "$100K"
+      },
+      {
+        "name": "0x3447…05b9",
+        "volume": "$91K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$89K"
+      },
+      {
+        "name": "0xdce9…2f81",
+        "volume": "$68K"
+      },
+      {
+        "name": "0x11f3…a952",
+        "volume": "$57K"
+      },
+      {
+        "name": "0x2f1d…eeca",
+        "volume": "$50K"
+      },
+      {
+        "name": "0xbca3…4885",
+        "volume": "$48K"
+      },
+      {
+        "name": "0x4fe3…94f1",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x0cc5…f5e3",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x2e7f…ea04",
+        "volume": "$37K"
+      },
+      {
+        "name": "0xa128…4ea8",
+        "volume": "$31K"
+      },
+      {
+        "name": "0x6dfc…c0d7",
+        "volume": "$31K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$441K"
+      },
+      {
+        "name": "PERP",
+        "volume": "$32K"
+      },
+      {
+        "name": "SUPERBID",
+        "volume": "$29K"
+      },
+      {
+        "name": "sGOAT",
+        "volume": "$25K"
+      },
+      {
+        "name": "KISHU",
+        "volume": "$24K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$21K"
+      },
+      {
+        "name": "KPKF",
+        "volume": "$9K"
+      },
+      {
+        "name": "HEX",
+        "volume": "$7K"
+      },
+      {
+        "name": "DOE",
+        "volume": "$6K"
+      },
+      {
+        "name": "SHIBAKEN",
+        "volume": "$6K"
+      },
+      {
+        "name": "SAKE",
+        "volume": "$5K"
+      },
+      {
+        "name": "HYVE",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:59:21.597Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.1,
+  "vaultPct": 0.000018593703229764063
+}

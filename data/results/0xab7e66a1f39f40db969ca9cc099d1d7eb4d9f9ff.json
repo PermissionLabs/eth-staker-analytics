@@ -1,0 +1,200 @@
+{
+  "portfolio": {
+    "address": "0xab7e66a1f39f40db969ca9cc099d1d7eb4d9f9ff",
+    "totalValue": "$123",
+    "walletLifetime": "143 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.4900",
+        "amount": "0.0215",
+        "usdValue": "$66.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,105.4900",
+        "amount": "0.0108",
+        "usdValue": "$33.51"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.5000",
+        "amount": "0.0117",
+        "usdValue": "$10.45"
+      },
+      {
+        "symbol": "CELO",
+        "chain": "celo",
+        "price": "$0.1670",
+        "amount": "59.2253",
+        "usdValue": "$9.89"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5600",
+        "amount": "0.0807",
+        "usdValue": "$1.09"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "7.3048",
+        "usdValue": "$0.90"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xab7e66a1f39f40db969ca9cc099d1d7eb4d9f9ff",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5M"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xbeef…c555",
+        "volume": "$598K"
+      },
+      {
+        "name": "0xa034…7687",
+        "volume": "$567K"
+      },
+      {
+        "name": "0x0000…0d95",
+        "volume": "$534K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$290K"
+      },
+      {
+        "name": "HTX",
+        "volume": "$194K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$154K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$110K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$98K"
+      },
+      {
+        "name": "0x5b93…f995",
+        "volume": "$95K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$80K"
+      },
+      {
+        "name": "0xc3cf…8449",
+        "volume": "$55K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$55K"
+      },
+      {
+        "name": "0xb01a…8bc0",
+        "volume": "$37K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "PYUSD",
+        "volume": "$3M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDtb",
+        "volume": "$764K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$659K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$592K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$450K"
+      },
+      {
+        "name": "FBTC",
+        "volume": "$430K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$237K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$191K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$127K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$64K"
+      },
+      {
+        "name": "EUROC",
+        "volume": "$37K"
+      },
+      {
+        "name": "axlUSDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$10K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:35:08.976Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 170.96405659195116,
+  "vaultPct": 0.03178854931227328
+}

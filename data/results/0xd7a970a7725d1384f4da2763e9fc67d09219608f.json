@@ -1,0 +1,330 @@
+{
+  "portfolio": {
+    "address": "0xd7a970a7725d1384f4da2763e9fc67d09219608f",
+    "totalValue": "$1,283",
+    "walletLifetime": "1076 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.7300",
+        "amount": "0.1198",
+        "usdValue": "$371.83"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.7000",
+        "amount": "0.0558",
+        "usdValue": "$49.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.1700",
+        "amount": "0.0082",
+        "usdValue": "$25.36"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,104.7300",
+        "amount": "0.0023",
+        "usdValue": "$7.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,104.7300",
+        "amount": "0.0013",
+        "usdValue": "$4.01"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "2.7511",
+        "usdValue": "$2.75"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6300",
+        "amount": "0.1872",
+        "usdValue": "$2.55"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$890.5400",
+        "amount": "0.0026",
+        "usdValue": "$2.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.7300",
+        "amount": "0.0007",
+        "usdValue": "$2.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,104.7300",
+        "amount": "0.0005",
+        "usdValue": "$1.69"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "1.0949",
+        "usdValue": "$1.09"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "0.9265",
+        "usdValue": "$0.93"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$776"
+      },
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$30"
+      },
+      {
+        "protocol": "Balmy",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC(Bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Umami Finance",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "UMAMI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Vesta Finance",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "VST",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd7a970a7725d1384f4da2763e9fc67d09219608f",
+    "topProtocols": [
+      {
+        "name": "Mendi Finance",
+        "volume": "$65K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$38K"
+      },
+      {
+        "name": "0x406b…04ec",
+        "volume": "$25K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$22K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xb630…43de",
+        "volume": "$16K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xb402…ad6d",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$16K"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x7421…a971",
+        "volume": "$15K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$11K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$11K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x1d49…52c2",
+        "volume": "$5K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x94dd…f42c",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$2K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$98K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$60K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$2K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$1K"
+      },
+      {
+        "name": "OMNI",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZKJ",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$705"
+      },
+      {
+        "name": "ZETA",
+        "volume": "$252"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:10:10.945Z",
+  "source": "moonwell",
+  "vaultBalance": 0.2448680327886224,
+  "vaultPct": 0.004442451279778276
+}

@@ -1,0 +1,186 @@
+{
+  "portfolio": {
+    "address": "0xcc66c2df78159baf97c01938f56a7b767dd2a166",
+    "totalValue": "$16,322",
+    "walletLifetime": "1313 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.5000",
+        "amount": "4.9129",
+        "usdValue": "$15,310.94"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1243",
+        "amount": "1,459.8483",
+        "usdValue": "$181.46"
+      },
+      {
+        "symbol": "BAT",
+        "chain": "eth",
+        "price": "$0.2542",
+        "amount": "592.4000",
+        "usdValue": "$150.56"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6900",
+        "amount": "7.6833",
+        "usdValue": "$105.18"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0972",
+        "amount": "828.9900",
+        "usdValue": "$80.58"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.8000",
+        "amount": "0.0007",
+        "usdValue": "$0.59"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅984",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$376"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "avax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$117"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcc66c2df78159baf97c01938f56a7b767dd2a166",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x264b…97b5",
+        "volume": "$2K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd5c0…d821",
+        "volume": "$562"
+      },
+      {
+        "name": "0x6081…fe80",
+        "volume": "$524"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$357"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$319"
+      },
+      {
+        "name": "0xad78…eb3c",
+        "volume": "$207"
+      },
+      {
+        "name": "0x4bb2…3bcf",
+        "volume": "$143B"
+      },
+      {
+        "name": "eefy",
+        "volume": "$1291"
+      },
+      {
+        "name": "inch",
+        "volume": "$113"
+      },
+      {
+        "name": "0x211e…c46b",
+        "volume": "$98K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$48"
+      },
+      {
+        "name": "0x3a15…e6a4",
+        "volume": "$7"
+      },
+      {
+        "name": "0x9c06…b1a5",
+        "volume": "$3"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$1K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$371"
+      },
+      {
+        "name": "FTM",
+        "volume": "$207B"
+      },
+      {
+        "name": "AT",
+        "volume": "$129B"
+      },
+      {
+        "name": "NB",
+        "volume": "$4B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:11:12.833Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.10611463198542705,
+  "vaultPct": 0.000007967918760903406
+}

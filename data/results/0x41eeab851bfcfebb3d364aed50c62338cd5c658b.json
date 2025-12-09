@@ -1,0 +1,143 @@
+{
+  "portfolio": {
+    "address": "0x41eeab851bfcfebb3d364aed50c62338cd5c658b",
+    "totalValue": "$2,815",
+    "walletLifetime": "46 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.4000",
+        "amount": "0.1177",
+        "usdValue": "$105.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.2500",
+        "amount": "0.0011",
+        "usdValue": "$3.52"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.00001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,706"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x41eeab851bfcfebb3d364aed50c62338cd5c658b",
+    "topProtocols": [
+      {
+        "name": "0xfcc4…526e",
+        "volume": "$107K"
+      },
+      {
+        "name": "0xb25e…24ae",
+        "volume": "$63K"
+      },
+      {
+        "name": "0x8896…e23b",
+        "volume": "$60K"
+      },
+      {
+        "name": "0x41ee…658b",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x29bf…af64",
+        "volume": "$17K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xe606…6ae3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Transit Swap",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xe82e…26ce",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x625b…a76a",
+        "volume": "$4K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x50a7…f63f",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd123…4597",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x270e…8a7a",
+        "volume": "$941"
+      },
+      {
+        "name": "THORSwap",
+        "volume": "$500"
+      },
+      {
+        "name": "THORChain",
+        "volume": "$498"
+      },
+      {
+        "name": "0x81a0…1c71",
+        "volume": "$1"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$264K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$43K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:02:52.199Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.2762708467444104,
+  "vaultPct": 0.00042324304594929316
+}

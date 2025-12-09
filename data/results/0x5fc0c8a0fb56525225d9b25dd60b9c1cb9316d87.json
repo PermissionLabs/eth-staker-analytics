@@ -1,0 +1,197 @@
+{
+  "portfolio": {
+    "address": "0x5fc0c8a0fb56525225d9b25dd60b9c1cb9316d87",
+    "totalValue": "$2,586",
+    "walletLifetime": "1647 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,166.4500",
+        "amount": "0.1215",
+        "usdValue": "$384.74"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,201"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "CRV",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "DarkCrypto",
+        "chain": "cro",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SKY (DarkCrypto)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5fc0c8a0fb56525225d9b25dd60b9c1cb9316d87",
+    "topProtocols": [
+      {
+        "name": "VVS Finance",
+        "volume": "$9K"
+      },
+      {
+        "name": "MM.Finance",
+        "volume": "$6K"
+      },
+      {
+        "name": "Crodex",
+        "volume": "$2K"
+      },
+      {
+        "name": "Fulcrom",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6b1b…ea4f",
+        "volume": "$2K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xc921…92c5",
+        "volume": "$2K"
+      },
+      {
+        "name": "Savanna",
+        "volume": "$1K"
+      },
+      {
+        "name": "DarkCrypto",
+        "volume": "$1K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$1K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x5c7f…ae23",
+        "volume": "$861"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$592B"
+      },
+      {
+        "name": "alancer V2",
+        "volume": "$477"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$460"
+      },
+      {
+        "name": "CronaSwap",
+        "volume": "$286"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$242"
+      },
+      {
+        "name": "0xfa0b…81b9",
+        "volume": "$199"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "CRO",
+        "volume": "$11K"
+      },
+      {
+        "name": "VVS",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "MSHARE",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "BIFI",
+        "volume": "$2K"
+      },
+      {
+        "name": "WCRO",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KCRX",
+        "volume": "$2K"
+      },
+      {
+        "name": "MMF",
+        "volume": "$2K"
+      },
+      {
+        "name": "SVN",
+        "volume": "$893"
+      },
+      {
+        "name": "POL",
+        "volume": "$824"
+      },
+      {
+        "name": "WETH",
+        "volume": "$744"
+      },
+      {
+        "name": "stMATIC",
+        "volume": "$367"
+      },
+      {
+        "name": "DARK",
+        "volume": "$366"
+      },
+      {
+        "name": "CRV",
+        "volume": "$229"
+      },
+      {
+        "name": "VSHARE",
+        "volume": "$219"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:15:21.761Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.6595355498726303,
+  "vaultPct": 0.00004952310141389901
+}

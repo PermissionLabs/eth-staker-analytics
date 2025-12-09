@@ -1,0 +1,203 @@
+{
+  "portfolio": {
+    "address": "0xfd2759829b07ac2723ac0f0c9fbcf9338e86665e",
+    "totalValue": "$8,196",
+    "walletLifetime": "358 days",
+    "tokens": [
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1219",
+        "amount": "50.5208",
+        "usdValue": "$6.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.4000",
+        "amount": "0.0014",
+        "usdValue": "$4.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.4000",
+        "amount": "0.0010",
+        "usdValue": "$3.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,103.4000",
+        "amount": "0.00009795",
+        "usdValue": "$0.30"
+      },
+      {
+        "symbol": "TRADE",
+        "chain": "matic",
+        "price": "$0.0625",
+        "amount": "1.0045",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MIGGLES",
+        "chain": "base",
+        "price": "$0.0088",
+        "amount": "2.0766",
+        "usdValue": "$0.02"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$7,881"
+      },
+      {
+        "protocol": "Krystal",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$195"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$90"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$17"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfd2759829b07ac2723ac0f0c9fbcf9338e86665e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$35K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$7K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$2K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$582M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$581"
+      },
+      {
+        "name": "rystal",
+        "volume": "$570"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$223"
+      },
+      {
+        "name": "0x9e21…2aa8",
+        "volume": "$102B"
+      },
+      {
+        "name": "inance",
+        "volume": "$50"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$23K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$18K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$7K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$783"
+      },
+      {
+        "name": "WETH",
+        "volume": "$781"
+      },
+      {
+        "name": "TRADE",
+        "volume": "$293"
+      },
+      {
+        "name": "VOXEL",
+        "volume": "$111"
+      },
+      {
+        "name": "ARB",
+        "volume": "$71"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$70"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$60"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$59"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:24:57.654Z",
+  "source": "base_aave",
+  "vaultBalance": 2.534406045335608,
+  "vaultPct": 0.003728314696053888
+}

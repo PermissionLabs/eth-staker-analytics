@@ -1,0 +1,287 @@
+{
+  "portfolio": {
+    "address": "0x6b961bff1cfba584e632484aaf6d30342c84167b",
+    "totalValue": "$292,536",
+    "walletLifetime": "2124 days",
+    "tokens": [
+      {
+        "symbol": "COMP",
+        "chain": "eth",
+        "price": "$31.9100",
+        "amount": "53.2616",
+        "usdValue": "$1,699.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.8300",
+        "amount": "0.5053",
+        "usdValue": "$1,580.58"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "1,231.2973",
+        "usdValue": "$1,231.30"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2123",
+        "amount": "3,844.6847",
+        "usdValue": "$816.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.8300",
+        "amount": "0.0387",
+        "usdValue": "$120.91"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.6000",
+        "amount": "0.1163",
+        "usdValue": "$104.65"
+      },
+      {
+        "symbol": "USD₮",
+        "chain": "celo",
+        "price": "$1.0000",
+        "amount": "35.0016",
+        "usdValue": "$35.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.8300",
+        "amount": "0.0034",
+        "usdValue": "$10.72"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "9.7035",
+        "usdValue": "$9.70"
+      },
+      {
+        "symbol": "CELO",
+        "chain": "celo",
+        "price": "$0.1680",
+        "amount": "39.2937",
+        "usdValue": "$6.60"
+      },
+      {
+        "symbol": "EUL",
+        "chain": "arb",
+        "price": "$2.24",
+        "amount": "0.15",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$181,134"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$75,876"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "Claimable",
+        "token": "USDC",
+        "usdValue": "$28,120"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BNB",
+        "usdValue": "$1,278"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "celo",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cUSD",
+        "usdValue": "$502"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Resolv",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RESOLV",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Lista DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Falcon Finance",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDf",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6b961bff1cfba584e632484aaf6d30342c84167b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$991K"
+      },
+      {
+        "name": "0x6b96…167b",
+        "volume": "$229K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$179K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$174K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$110K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$93K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$77K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$68K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$65K"
+      },
+      {
+        "name": "aori",
+        "volume": "$60K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$60K"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$60K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$60K"
+      },
+      {
+        "name": "0xc5c5…aedc",
+        "volume": "$51K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "RLUSD",
+        "volume": "$721K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$681K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$347K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$239K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$158K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$136K"
+      },
+      {
+        "name": "wstUSR",
+        "volume": "$120K"
+      },
+      {
+        "name": "USDf",
+        "volume": "$60K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$59K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "COMP",
+        "volume": "$3K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$1K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$220"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:18:30.423Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 19.728103160816733,
+  "vaultPct": 0.0036681849545839667
+}

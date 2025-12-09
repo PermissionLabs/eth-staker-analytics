@@ -1,0 +1,95 @@
+{
+  "portfolio": {
+    "address": "0xf3481217ebcbeda26917a01850e1107599e3dc5b",
+    "totalValue": "$26,300",
+    "walletLifetime": "70 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.7000",
+        "amount": "0.0580",
+        "usdValue": "$52.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.0000",
+        "amount": "0.0061",
+        "usdValue": "$19.28"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0294",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "BNB Chain Staking",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$16,210"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$10,018"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf3481217ebcbeda26917a01850e1107599e3dc5b",
+    "topProtocols": [
+      {
+        "name": "0xbc07…2397",
+        "volume": "$29K"
+      },
+      {
+        "name": "BNB Chain Staking",
+        "volume": "$18K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$13K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x5d66…4544",
+        "volume": "$410"
+      },
+      {
+        "name": "0xbc06…2397",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BNB",
+        "volume": "$35K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:18:45.494Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.1550000000000002,
+  "vaultPct": 0.00023690214271395308
+}

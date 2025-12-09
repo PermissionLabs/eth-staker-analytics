@@ -1,0 +1,150 @@
+{
+  "portfolio": {
+    "address": "0xf5b5397900f2c6ada97a6285f500f66914da8fe7",
+    "totalValue": "$7,169",
+    "walletLifetime": "418 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,124.6000",
+        "amount": "2.0000",
+        "usdValue": "$6,249.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.6000",
+        "amount": "0.0800",
+        "usdValue": "$249.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.6000",
+        "amount": "0.0663",
+        "usdValue": "$207.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,124.6000",
+        "amount": "0.0300",
+        "usdValue": "$93.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,124.6000",
+        "amount": "0.0099",
+        "usdValue": "$31.06"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "ink",
+        "price": "$1.0000",
+        "amount": "20.0316",
+        "usdValue": "$20.03"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$317"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf5b5397900f2c6ada97a6285f500f66914da8fe7",
+    "topProtocols": [
+      {
+        "name": "Fuel",
+        "volume": "$11K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$8K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$6K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$60"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$40"
+      },
+      {
+        "name": "Relay",
+        "volume": "$40"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$40"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:20:16.012Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09916750878451674,
+  "vaultPct": 0.001799119392168652
+}

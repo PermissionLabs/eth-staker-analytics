@@ -1,0 +1,200 @@
+{
+  "portfolio": {
+    "address": "0x2c5fbd3f89bc53a18497e45447f485af4c8ecbfe",
+    "totalValue": "$90,388",
+    "walletLifetime": "516 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,988.9700",
+        "amount": "0.0095",
+        "usdValue": "$863.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.1600",
+        "amount": "0.1996",
+        "usdValue": "$625.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,133.1600",
+        "amount": "0.0400",
+        "usdValue": "$125.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.3700",
+        "amount": "0.0250",
+        "usdValue": "$78.19"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3201",
+        "amount": "21.9717",
+        "usdValue": "$7.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9886",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.00007",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7922",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LARRY",
+        "chain": "op",
+        "price": "$0.0000",
+        "amount": "1,000,000,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$58,861"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$26,684"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,144"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2c5fbd3f89bc53a18497e45447f485af4c8ecbfe",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$78K"
+      },
+      {
+        "name": "0x343d…4aca",
+        "volume": "$58K"
+      },
+      {
+        "name": "0x713c…23f6",
+        "volume": "$35K"
+      },
+      {
+        "name": "0x3f3a…1390",
+        "volume": "$10K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x3a7a…258a",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x3890…0f28",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xbbd0…c56c",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x2db1…f652",
+        "volume": "$4K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$4K"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$802"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$79K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$63K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$47K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$17K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$14K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "OP",
+        "volume": "$37B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:15:57.547Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.3909484358718505,
+  "vaultPct": 0.0008164399211379788
+}

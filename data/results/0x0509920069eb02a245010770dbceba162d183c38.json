@@ -1,0 +1,281 @@
+{
+  "portfolio": {
+    "address": "0x0509920069eb02a245010770dbceba162d183c38",
+    "totalValue": "$1,704",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.1000",
+        "amount": "0.1416",
+        "usdValue": "$441.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,117.6100",
+        "amount": "0.0171",
+        "usdValue": "$53.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,119.1000",
+        "amount": "0.0016",
+        "usdValue": "$5.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,119.1000",
+        "amount": "0.0008",
+        "usdValue": "$2.40"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "zora",
+        "price": "$3,119.1000",
+        "amount": "0.0002",
+        "usdValue": "$0.66"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,120"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$41"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$35"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "SushiSwap V3",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Koi",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Arbswap",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "iZUMi Finance",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SpaceFi",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "scrl",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ReactorFusion",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "avax",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0509920069eb02a245010770dbceba162d183c38",
+    "topProtocols": [
+      {
+        "name": "SyncSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$6K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$5K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$4K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$3K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x04ba…1a65",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$2K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$2K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Elixir",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x5300…0004",
+        "volume": "$1K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$981"
+      },
+      {
+        "name": "SpaceFi",
+        "volume": "$892"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "deUSD",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$835"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:21:30.107Z",
+  "source": "moonwell",
+  "vaultBalance": 0.10108937269212351,
+  "vaultPct": 0.0018339862822182708
+}

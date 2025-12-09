@@ -1,0 +1,251 @@
+{
+  "portfolio": {
+    "address": "0x015ae7f30d369bbffabe7a29b3b563d0b5891bd6",
+    "totalValue": "$3,016",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.0321",
+        "amount": "76.9015",
+        "usdValue": "$1,079.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.8400",
+        "amount": "0.0029",
+        "usdValue": "$8.94"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "arb",
+        "price": "$2.2927",
+        "amount": "0.0071",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "OX",
+        "chain": "arb",
+        "price": "$0.00005212",
+        "amount": "5.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "0.0002",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006602",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MIRTH",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "500,000,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,925"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "bsc",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "Cake",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "ARB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "XVS",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Camelot",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "GRAIL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x015ae7f30d369bbffabe7a29b3b563d0b5891bd6",
+    "topProtocols": [
+      {
+        "name": "LFJ",
+        "volume": "$579K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$318K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$205K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$116K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$81K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$51K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$46K"
+      },
+      {
+        "name": "0xffb3…cac2",
+        "volume": "$44K"
+      },
+      {
+        "name": "BENQI",
+        "volume": "$40K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$33K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$31K"
+      },
+      {
+        "name": "0xad69…c307",
+        "volume": "$28K"
+      },
+      {
+        "name": "Camelot V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$16K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "AVAX",
+        "volume": "$402K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$295K"
+      },
+      {
+        "name": "POL",
+        "volume": "$214K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$202K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$122K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$121K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$116K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$79K"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$76K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$63K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$58K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$58K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$46K"
+      },
+      {
+        "name": "FET",
+        "volume": "$44K"
+      },
+      {
+        "name": "NEAR",
+        "volume": "$43K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$39K"
+      },
+      {
+        "name": "BEAM",
+        "volume": "$38K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$36K"
+      },
+      {
+        "name": "SOL",
+        "volume": "$29K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:19:43.762Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.5640396430066034,
+  "vaultPct": 0.006291066722147161
+}

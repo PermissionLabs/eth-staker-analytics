@@ -1,0 +1,181 @@
+{
+  "portfolio": {
+    "address": "0x90c984a67ea15e17bde75daa7ec0e2f4417fcaf0",
+    "totalValue": "$7,313",
+    "walletLifetime": "3045 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.7400",
+        "amount": "0.5073",
+        "usdValue": "$1,601.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,157.7400",
+        "amount": "0.4185",
+        "usdValue": "$1,321.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,157.7400",
+        "amount": "0.2099",
+        "usdValue": "$662.73"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "12.8662",
+        "usdValue": "$12.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.0000",
+        "amount": "0.0036",
+        "usdValue": "$11.27"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,618"
+      },
+      {
+        "protocol": "EtherDelta",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "FUN",
+        "usdValue": "$57"
+      },
+      {
+        "protocol": "TokenSets",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$7"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x90c984a67ea15e17bde75daa7ec0e2f4417fcaf0",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$102K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$77K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$61K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$28K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$27K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$21K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$15K"
+      },
+      {
+        "name": "Shoebill Finance",
+        "volume": "$14K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$12K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$12K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$11K"
+      },
+      {
+        "name": "EtherDelta",
+        "volume": "$11K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$10K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$10K"
+      },
+      {
+        "name": "Zerion",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$141K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$80K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$51K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$40K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$29K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "OP",
+        "volume": "$13K"
+      },
+      {
+        "name": "KwUSDM",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T11:01:58.292Z",
+  "source": "base_aave",
+  "vaultBalance": 1.2980259645147907,
+  "vaultPct": 0.0019095003692351017
+}

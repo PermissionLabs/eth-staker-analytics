@@ -1,0 +1,143 @@
+{
+  "portfolio": {
+    "address": "0x559ccbd42b1030e94186108b069ebc0435066274",
+    "totalValue": "$1,008",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.0200",
+        "amount": "0.0979",
+        "usdValue": "$306.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,130.0200",
+        "amount": "0.0226",
+        "usdValue": "$70.70"
+      },
+      {
+        "symbol": "weETH",
+        "chain": "linea",
+        "price": "$3,387.5688",
+        "amount": "0.0130",
+        "usdValue": "$44.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.0200",
+        "amount": "0.0117",
+        "usdValue": "$36.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,129.6800",
+        "amount": "0.0067",
+        "usdValue": "$20.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.4100",
+        "amount": "0.0054",
+        "usdValue": "$17.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,130.0200",
+        "amount": "0.0051",
+        "usdValue": "$15.84"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.1000",
+        "amount": "0.0154",
+        "usdValue": "$13.90"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "0.5481",
+        "usdValue": "$7.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,129.6900",
+        "amount": "0.0018",
+        "usdValue": "$5.58"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "969.0236",
+        "usdValue": "$2.56"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "9.1054",
+        "usdValue": "$1.13"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0964",
+        "amount": "9.8622",
+        "usdValue": "$0.95"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$416"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "weETH",
+        "usdValue": "$48"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Renzo",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x559ccbd42b1030e94186108b069ebc0435066274",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T21:20:35.937Z",
+  "source": "moonwell",
+  "vaultBalance": 0.12930463480200297,
+  "vaultPct": 0.0023458739542914775
+}

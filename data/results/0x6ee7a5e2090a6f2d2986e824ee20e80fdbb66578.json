@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0x6ee7a5e2090a6f2d2986e824ee20e80fdbb66578",
+    "totalValue": "$20,250",
+    "walletLifetime": "1190 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.2900",
+        "amount": "1.9097",
+        "usdValue": "$5,954.98"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,118.2900",
+        "amount": "0.0004",
+        "usdValue": "$1.33"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1228",
+        "amount": "9.2059",
+        "usdValue": "$1.13"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "0.0003",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$12,773"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$1,520"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6ee7a5e2090a6f2d2986e824ee20e80fdbb66578",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "ChainFlip",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x19be…7234",
+        "volume": "$10K"
+      },
+      {
+        "name": "gTrade",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x3199…8cc3",
+        "volume": "$988"
+      },
+      {
+        "name": "0x00ef…0de7",
+        "volume": "$617M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$8"
+      },
+      {
+        "name": "0xa9b4…6d32",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x583f…e8b7",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$39K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "POL",
+        "volume": "$800"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:00:31.935Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5.7,
+  "vaultPct": 0.0010598410840965515
+}

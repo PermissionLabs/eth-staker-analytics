@@ -1,0 +1,75 @@
+{
+  "portfolio": {
+    "address": "0xa9fd9589cc6da5d775d0f09c813c173fada90e3d",
+    "totalValue": "$25",
+    "walletLifetime": "357 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.1300",
+        "amount": "0.0081",
+        "usdValue": "$25.03"
+      },
+      {
+        "symbol": "MELANIA",
+        "chain": "eth",
+        "price": "$0.0022",
+        "amount": "111.5216",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xa9fd9589cc6da5d775d0f09c813c173fada90e3d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$897"
+      },
+      {
+        "name": "0x37eb…86db",
+        "volume": "$870B"
+      },
+      {
+        "name": "inance",
+        "volume": "$100"
+      },
+      {
+        "name": "0xe745…f927",
+        "volume": "$80"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$8"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1ea0…e296",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$200M"
+      },
+      {
+        "name": "ELANIA",
+        "volume": "$6"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:36:51.010Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.2,
+  "vaultPct": 0.000037187406459528126
+}

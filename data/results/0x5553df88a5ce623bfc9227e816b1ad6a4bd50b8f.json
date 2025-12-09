@@ -1,0 +1,77 @@
+{
+  "portfolio": {
+    "address": "0x5553df88a5ce623bfc9227e816b1ad6a4bd50b8f",
+    "totalValue": "$460,112",
+    "walletLifetime": "2355 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,164.5300",
+        "amount": "0.0100",
+        "usdValue": "$31.75"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$460,080"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5553df88a5ce623bfc9227e816b1ad6a4bd50b8f",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$502K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$23K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xf4ce…fd46",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x1ae0…4cc9",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x1693…d103",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x20ba…887f",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9c35…8b1e",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x42dd…3df0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$578K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:35:20.452Z",
+  "source": "lido_steth",
+  "vaultBalance": 144.02765739697315,
+  "vaultPct": 0.010814726037215236
+}

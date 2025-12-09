@@ -1,0 +1,69 @@
+{
+  "portfolio": {
+    "address": "0xa1722215ff6e14ca2ef49168b68d738b8827b002",
+    "totalValue": "$606",
+    "walletLifetime": "1021 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$92,138.6200",
+        "amount": "0.0066",
+        "usdValue": "$605.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,172.9100",
+        "amount": "0.0001",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001003",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xa1722215ff6e14ca2ef49168b68d738b8827b002",
+    "topProtocols": [
+      {
+        "name": "0x7888…e24f",
+        "volume": "$599M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$559"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$180B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:09:06.200Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.11697491903071258,
+  "vaultPct": 0.000008783394282778758
+}

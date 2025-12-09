@@ -1,0 +1,172 @@
+{
+  "portfolio": {
+    "address": "0x19b15e89e92126d9a7f56e083c389adb10792825",
+    "totalValue": "$339",
+    "walletLifetime": "1216 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.5500",
+        "amount": "0.0298",
+        "usdValue": "$92.58"
+      },
+      {
+        "symbol": "cbETH",
+        "chain": "eth",
+        "price": "$3,476.1700",
+        "amount": "0.0080",
+        "usdValue": "$27.92"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "15.0035",
+        "usdValue": "$15.00"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "10.0010",
+        "usdValue": "$10.00"
+      },
+      {
+        "symbol": "SUSHI",
+        "chain": "eth",
+        "price": "$0.3333",
+        "amount": "11.7003",
+        "usdValue": "$3.90"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "12.4358",
+        "usdValue": "$1.54"
+      },
+      {
+        "symbol": "ANT",
+        "chain": "eth",
+        "price": "$0.1270",
+        "amount": "0.9551",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9811",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "50.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$186"
+      },
+      {
+        "protocol": "Instadapp",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "SUSHI",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x19b15e89e92126d9a7f56e083c389adb10792825",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$186"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$75"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$74"
+      },
+      {
+        "name": "x",
+        "volume": "$47"
+      },
+      {
+        "name": "Instadapp",
+        "volume": "$6"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xab8b…76e8",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3dc4…3f4e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$395"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$128"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$15"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15"
+      },
+      {
+        "name": "DAI",
+        "volume": "$10"
+      },
+      {
+        "name": "POL",
+        "volume": "$10"
+      },
+      {
+        "name": "ANT",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:57:58.338Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.05319999999999999,
+  "vaultPct": 0.000003994673214701205
+}

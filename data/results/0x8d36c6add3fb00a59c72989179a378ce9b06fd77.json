@@ -1,0 +1,203 @@
+{
+  "portfolio": {
+    "address": "0x8d36c6add3fb00a59c72989179a378ce9b06fd77",
+    "totalValue": "$370,144",
+    "walletLifetime": "760 days",
+    "tokens": [
+      {
+        "symbol": "BTC.b",
+        "chain": "avax",
+        "price": "$90,783.1100",
+        "amount": "2.0233",
+        "usdValue": "$183,678.85"
+      },
+      {
+        "symbol": "W",
+        "chain": "base",
+        "price": "$0.0413",
+        "amount": "6,849.5670",
+        "usdValue": "$283.19"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$106.82",
+        "amount": "571.16",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$93,716"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$82,848"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$5,446"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVAX",
+        "usdValue": "$3,503"
+      },
+      {
+        "protocol": "Sonic Airdrop",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "S",
+        "usdValue": "$107"
+      },
+      {
+        "protocol": "DeltaPrime",
+        "chain": "avax",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH.e",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8d36c6add3fb00a59c72989179a378ce9b06fd77",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$871K"
+      },
+      {
+        "name": "0x4cb6…8bb2",
+        "volume": "$632K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$412K"
+      },
+      {
+        "name": "Sonic Gateway",
+        "volume": "$411K"
+      },
+      {
+        "name": "Beets",
+        "volume": "$295K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$293K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$254K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$249K"
+      },
+      {
+        "name": "Silo",
+        "volume": "$231K"
+      },
+      {
+        "name": "0x55fe…44b8",
+        "volume": "$215K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$215K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$200K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BTC.b",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$909K"
+      },
+      {
+        "name": "wS",
+        "volume": "$371K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$312K"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$295K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$201K"
+      },
+      {
+        "name": "S",
+        "volume": "$197K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$161K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$148K"
+      },
+      {
+        "name": "BTC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:59:44.422Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 31.075839958766693,
+  "vaultPct": 0.005778149458089513
+}

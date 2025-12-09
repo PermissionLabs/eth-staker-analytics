@@ -1,0 +1,228 @@
+{
+  "portfolio": {
+    "address": "0x8287563c86c396117bb11697295a1951df41fdf7",
+    "totalValue": "$2,458",
+    "walletLifetime": "344 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1,026.9426",
+        "usdValue": "$1,026.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,137.7900",
+        "amount": "0.1396",
+        "usdValue": "$438.17"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "arb",
+        "price": "$0.8330",
+        "amount": "164.3399",
+        "usdValue": "$136.90"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7100",
+        "amount": "8.7000",
+        "usdValue": "$119.28"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.4121",
+        "amount": "20.6990",
+        "usdValue": "$49.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,139.4600",
+        "amount": "0.0066",
+        "usdValue": "$20.84"
+      },
+      {
+        "symbol": "cbXRP",
+        "chain": "base",
+        "price": "$2.0933",
+        "amount": "5.0000",
+        "usdValue": "$10.47"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "8.9980",
+        "usdValue": "$9.00"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "base",
+        "price": "$2.3303",
+        "amount": "2.1910",
+        "usdValue": "$5.11"
+      },
+      {
+        "symbol": "OM",
+        "chain": "base",
+        "price": "$0.0741",
+        "amount": "60.8544",
+        "usdValue": "$4.51"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$637"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8287563c86c396117bb11697295a1951df41fdf7",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$38K"
+      },
+      {
+        "name": "Mucho Finance",
+        "volume": "$19K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$16K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x",
+        "volume": "$7K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$5K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$1K"
+      },
+      {
+        "name": "inch",
+        "volume": "$754"
+      },
+      {
+        "name": "0x71a4…9a09",
+        "volume": "$656"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$652"
+      },
+      {
+        "name": "0xacc5…37b9",
+        "volume": "$550"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$501"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$39K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$30K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$2K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$1K"
+      },
+      {
+        "name": "uSOL",
+        "volume": "$941"
+      },
+      {
+        "name": "WETH",
+        "volume": "$805"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$312"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$109"
+      },
+      {
+        "name": "OM",
+        "volume": "$36"
+      },
+      {
+        "name": "cbXRP",
+        "volume": "$14"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$14"
+      },
+      {
+        "name": "Cake",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:28:55.980Z",
+  "source": "base_aave",
+  "vaultBalance": 2.8072438940108833,
+  "vaultPct": 0.004129681068552836
+}

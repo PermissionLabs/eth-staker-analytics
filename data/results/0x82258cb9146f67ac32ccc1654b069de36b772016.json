@@ -1,0 +1,117 @@
+{
+  "portfolio": {
+    "address": "0x82258cb9146f67ac32ccc1654b069de36b772016",
+    "totalValue": "$35,898",
+    "walletLifetime": "61 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9900",
+        "amount": "0.0154",
+        "usdValue": "$48.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.9900",
+        "amount": "0.0017",
+        "usdValue": "$5.41"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.2000",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "0.1112",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$35,844"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x82258cb9146f67ac32ccc1654b069de36b772016",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$131K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$50K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$20K"
+      },
+      {
+        "name": "lighter",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x73c8…9ec2",
+        "volume": "$987"
+      },
+      {
+        "name": "0x2d89…af69",
+        "volume": "$387"
+      },
+      {
+        "name": "0xc354…8d46",
+        "volume": "$386"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9548…94c7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$120K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$100K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:54:45.368Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 12.034624863396573,
+  "vaultPct": 0.002237682431915357
+}

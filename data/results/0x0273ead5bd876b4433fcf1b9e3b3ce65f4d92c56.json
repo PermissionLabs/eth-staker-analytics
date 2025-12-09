@@ -1,0 +1,104 @@
+{
+  "portfolio": {
+    "address": "0x0273ead5bd876b4433fcf1b9e3b3ce65f4d92c56",
+    "totalValue": "$97,403",
+    "walletLifetime": "1667 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.4500",
+        "amount": "31.0949",
+        "usdValue": "$97,403.12"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0100",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "PAW",
+        "chain": "base",
+        "price": "$0.00002034",
+        "amount": "1.6800",
+        "usdValue": ""
+      },
+      {
+        "symbol": "PEPE (Bridged)",
+        "chain": "base",
+        "price": "$0.0₅4779",
+        "amount": "0.0010",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MCC",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.0183",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x0273ead5bd876b4433fcf1b9e3b3ce65f4d92c56",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xbf15…c178",
+        "volume": "$84K"
+      },
+      {
+        "name": "0x2321…507e",
+        "volume": "$816"
+      },
+      {
+        "name": "0x3159…a60f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8e6f…fdc0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x315f…a60f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xd513…4dbf",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc083…1e7e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:25:31.688Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 670.6923453351009,
+  "vaultPct": 0.12470654427635297
+}

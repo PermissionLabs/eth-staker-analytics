@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0x7c06a1049f8257742643db8459177218e0c07379",
+    "totalValue": "$10,238",
+    "walletLifetime": "316 days",
+    "tokens": [
+      {
+        "symbol": "SERV(Wormhole)",
+        "chain": "base",
+        "price": "$0.0198",
+        "amount": "51,160.7814",
+        "usdValue": "$1,011.50"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8377",
+        "amount": "946.7043",
+        "usdValue": "$793.05"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2080",
+        "amount": "15.5260",
+        "usdValue": "$18.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.6200",
+        "amount": "0.0052",
+        "usdValue": "$16.26"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "1,052.7629",
+        "usdValue": "$10.65"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EURC",
+        "usdValue": "$8,309"
+      },
+      {
+        "protocol": "ARMA",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$51"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$26"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7c06a1049f8257742643db8459177218e0c07379",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$14K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$8K"
+      },
+      {
+        "name": "squid",
+        "volume": "$8K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x6160…8bb5",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$3K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xdfc1…e3eb",
+        "volume": "$1K"
+      },
+      {
+        "name": "StellaSwap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$999"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$660"
+      },
+      {
+        "name": "0x7ae7…dcbd",
+        "volume": "$340"
+      },
+      {
+        "name": "0x3cb7…d56e",
+        "volume": "$229"
+      },
+      {
+        "name": "ARMA",
+        "volume": "$50M"
+      },
+      {
+        "name": "erkl",
+        "volume": "$11"
+      },
+      {
+        "name": "0x37c3…5332",
+        "volume": "$2"
+      },
+      {
+        "name": "0x9cb9…16cc",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7ddb…efbc",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$30K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$7K"
+      },
+      {
+        "name": "xcDOT",
+        "volume": "$7K"
+      },
+      {
+        "name": "xcUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KVIRTUAL",
+        "volume": "$2K"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$996B"
+      },
+      {
+        "name": "NKR",
+        "volume": "$773M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$30"
+      },
+      {
+        "name": "WELL",
+        "volume": "$28"
+      },
+      {
+        "name": "GIZA",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:22:22.218Z",
+  "source": "moonwell",
+  "vaultBalance": 0.9891885424743341,
+  "vaultPct": 0.017946082452708366
+}

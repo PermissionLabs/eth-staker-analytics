@@ -1,0 +1,246 @@
+{
+  "portfolio": {
+    "address": "0xdb7831485fff85557665085b547e98a3bb706f76",
+    "totalValue": "$888",
+    "walletLifetime": "342 days",
+    "tokens": [
+      {
+        "symbol": "TOSHI",
+        "chain": "base",
+        "price": "$0.0004",
+        "amount": "978,152.8877",
+        "usdValue": "$392.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.1100",
+        "amount": "0.0075",
+        "usdValue": "$23.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.1100",
+        "amount": "0.0005",
+        "usdValue": "$1.59"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.4000",
+        "amount": "0.0007",
+        "usdValue": "$0.63"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$196"
+      },
+      {
+        "protocol": "Krystal",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$152"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$120"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LFJ",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BLACK",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "avax",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "AVAX",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdb7831485fff85557665085b547e98a3bb706f76",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$113K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$41K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$7K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$5K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xc106…7741",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xb0bb…a5d0",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xbce7…32ac",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x1887…3cdd",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf85e…c59b",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xd5d3…46d4",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$1K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$987"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$96K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$68K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$17K"
+      },
+      {
+        "name": "doginme",
+        "volume": "$13K"
+      },
+      {
+        "name": "TOSHI",
+        "volume": "$7K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$4K"
+      },
+      {
+        "name": "RUSSELL",
+        "volume": "$3K"
+      },
+      {
+        "name": "KDOGECAST",
+        "volume": "$1K"
+      },
+      {
+        "name": "GOLDPEPE",
+        "volume": "$676"
+      },
+      {
+        "name": "Anon",
+        "volume": "$675"
+      },
+      {
+        "name": "POLLO",
+        "volume": "$547M"
+      },
+      {
+        "name": "OCHI",
+        "volume": "$502"
+      },
+      {
+        "name": "SUPH",
+        "volume": "$475"
+      },
+      {
+        "name": "RFL",
+        "volume": "$439B"
+      },
+      {
+        "name": "NB",
+        "volume": "$295"
+      },
+      {
+        "name": "HORSE",
+        "volume": "$241"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:20:18.417Z",
+  "source": "base_aave",
+  "vaultBalance": 0.06988664823171714,
+  "vaultPct": 0.0001028088684288772
+}

@@ -1,0 +1,148 @@
+{
+  "portfolio": {
+    "address": "0x97346671558f51bc8ba619e39e83385166b878e1",
+    "totalValue": "$6,399",
+    "walletLifetime": "318 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,108.4700",
+        "amount": "0.0226",
+        "usdValue": "$70.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.4700",
+        "amount": "0.0030",
+        "usdValue": "$9.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.4700",
+        "amount": "0.0004",
+        "usdValue": "$1.33"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,318"
+      },
+      {
+        "protocol": "Blur",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x97346671558f51bc8ba619e39e83385166b878e1",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$227K"
+      },
+      {
+        "name": "0xc0c3…67b3",
+        "volume": "$50K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$41K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$34K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$20K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$17K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$13K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$8K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x9f1c…dd9d",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x391e…a604",
+        "volume": "$25"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9d89…f2b3",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0179…88b8",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$269K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$184K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:56:09.634Z",
+  "source": "base_aave",
+  "vaultBalance": 6.597625177736099,
+  "vaultPct": 0.0097056361408542
+}

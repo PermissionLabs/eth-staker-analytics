@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0xf070f7bc6639857644efa874a53f969b3519d9e1",
+    "totalValue": "$2,098",
+    "walletLifetime": "117 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "1,118.7365",
+        "usdValue": "$1,118.51"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,117.3500",
+        "amount": "0.3104",
+        "usdValue": "$967.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,117.3500",
+        "amount": "0.0016",
+        "usdValue": "$4.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.2600",
+        "amount": "0.0011",
+        "usdValue": "$3.52"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "2.4918",
+        "usdValue": "$2.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,117.3500",
+        "amount": "0.0002",
+        "usdValue": "$0.74"
+      },
+      {
+        "symbol": "USI",
+        "chain": "base",
+        "price": "$0.0₆7186",
+        "amount": "100.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Bonk",
+        "chain": "base",
+        "price": "$0.00004921",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf070f7bc6639857644efa874a53f969b3519d9e1",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$24K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$19K"
+      },
+      {
+        "name": "Revert",
+        "volume": "$14K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$8K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$4K"
+      },
+      {
+        "name": "Avantis",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "000Mayan",
+        "volume": "$999"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$500"
+      },
+      {
+        "name": "0x9571…c4ab",
+        "volume": "$500"
+      },
+      {
+        "name": "0xbfed…b544",
+        "volume": "$495"
+      },
+      {
+        "name": "lighter",
+        "volume": "$494"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$478"
+      },
+      {
+        "name": "0xfacc…4406",
+        "volume": "$127"
+      },
+      {
+        "name": "Superbridge",
+        "volume": "$98"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$98"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$57K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$196"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:35:30.768Z",
+  "source": "base_aave",
+  "vaultBalance": 8.042022786112621,
+  "vaultPct": 0.011830460945532318
+}

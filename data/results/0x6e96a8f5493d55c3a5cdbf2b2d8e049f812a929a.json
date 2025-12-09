@@ -1,0 +1,241 @@
+{
+  "portfolio": {
+    "address": "0x6e96a8f5493d55c3a5cdbf2b2d8e049f812a929a",
+    "totalValue": "$827,435",
+    "walletLifetime": "965 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.0900",
+        "amount": "0.0374",
+        "usdValue": "$117.12"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "XEN",
+        "chain": "eth",
+        "price": "$0.0₇1316",
+        "amount": "161,818.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.0750",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DIVA Staking",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "100,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "STEAK",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "124.2714",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AIMX",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "84.4924",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AIS",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "84.4924",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "osETH",
+        "usdValue": "$708,993"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$118,325"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6e96a8f5493d55c3a5cdbf2b2d8e049f812a929a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$84M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$26M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$25M"
+      },
+      {
+        "name": "0x5eda…9cf7",
+        "volume": "$19M"
+      },
+      {
+        "name": "0xfb35…f297",
+        "volume": "$8M"
+      },
+      {
+        "name": "StakeWise",
+        "volume": "$8M"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$7M"
+      },
+      {
+        "name": "NodeSet",
+        "volume": "$7M"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$6M"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$5M"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$5M"
+      },
+      {
+        "name": "0x38fe…90b1",
+        "volume": "$5M"
+      },
+      {
+        "name": "Gravita Protocol",
+        "volume": "$4M"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$4M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$4M"
+      },
+      {
+        "name": "Prisma Finance",
+        "volume": "$3M"
+      },
+      {
+        "name": "0x6fe4…2ac1",
+        "volume": "$3M"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x2b0c…55a5",
+        "volume": "$840K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$68M"
+      },
+      {
+        "name": "RPL",
+        "volume": "$65M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$62M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$20M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$13M"
+      },
+      {
+        "name": "GRAI",
+        "volume": "$10M"
+      },
+      {
+        "name": "osETH",
+        "volume": "$9M"
+      },
+      {
+        "name": "USDe",
+        "volume": "$8M"
+      },
+      {
+        "name": "mkUSD",
+        "volume": "$4M"
+      },
+      {
+        "name": "ENA",
+        "volume": "$340K"
+      },
+      {
+        "name": "yPRISMA",
+        "volume": "$71K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$56K"
+      },
+      {
+        "name": "MAV",
+        "volume": "$41K"
+      },
+      {
+        "name": "AURA",
+        "volume": "$9K"
+      },
+      {
+        "name": "BAL",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:19:07.738Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.2269610391327275,
+  "vaultPct": 0.00041407452665880924
+}

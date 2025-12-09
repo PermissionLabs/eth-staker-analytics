@@ -1,0 +1,97 @@
+{
+  "portfolio": {
+    "address": "0xb01cfe8b8bcbd796d513d4e4d1e4a074b1cb0d63",
+    "totalValue": "$742",
+    "walletLifetime": "375 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.5400",
+        "amount": "0.0100",
+        "usdValue": "$31.17"
+      },
+      {
+        "symbol": "MaticX",
+        "chain": "eth",
+        "price": "$0.1451",
+        "amount": "211.1830",
+        "usdValue": "$30.65"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9878",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOYS",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "0.0017",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$680"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb01cfe8b8bcbd796d513d4e4d1e4a074b1cb0d63",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$739"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$486"
+      },
+      {
+        "name": "Stader",
+        "volume": "$96"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa7d9…ee23",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$208M"
+      },
+      {
+        "name": "aticX",
+        "volume": "$96B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:58:13.156Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.21401568416063824,
+  "vaultPct": 0.000016069975959444636
+}

@@ -1,0 +1,102 @@
+{
+  "portfolio": {
+    "address": "0xaf4199ac3a891bb277ba86d5c9b58117250cbef5",
+    "totalValue": "$14,858",
+    "walletLifetime": "3052 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.1900",
+        "amount": "0.0155",
+        "usdValue": "$48.45"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9872",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "XDATA(old)",
+        "chain": "eth",
+        "price": "$0.0071",
+        "amount": "0.3418",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$14,809"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaf4199ac3a891bb277ba86d5c9b58117250cbef5",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$15K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$2K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0fbf…7b03",
+        "volume": "$636M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$2691"
+      },
+      {
+        "name": "inch",
+        "volume": "$149"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5586…4299",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$28K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:03:28.768Z",
+  "source": "lido_steth",
+  "vaultBalance": 4.531255,
+  "vaultPct": 0.0003402421612308442
+}

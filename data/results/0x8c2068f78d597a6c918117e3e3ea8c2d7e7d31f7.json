@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0x8c2068f78d597a6c918117e3e3ea8c2d7e7d31f7",
+    "totalValue": "$1,042",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.9600",
+        "amount": "0.0351",
+        "usdValue": "$109.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.9600",
+        "amount": "0.0301",
+        "usdValue": "$94.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,127.5800",
+        "amount": "0.0176",
+        "usdValue": "$54.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.9600",
+        "amount": "0.0105",
+        "usdValue": "$32.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,127.9600",
+        "amount": "0.0035",
+        "usdValue": "$10.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.5800",
+        "amount": "0.0021",
+        "usdValue": "$6.61"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.6000",
+        "amount": "0.0042",
+        "usdValue": "$3.81"
+      },
+      {
+        "symbol": "USDC(bridged)",
+        "chain": "era",
+        "price": "$0.9998",
+        "amount": "3.4766",
+        "usdValue": "$3.48"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "KEVIN",
+        "chain": "base",
+        "price": "$0.00001749",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BERMIT",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LXP",
+        "chain": "linea",
+        "price": "$0.0000",
+        "amount": "1,810.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$724"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8c2068f78d597a6c918117e3e3ea8c2d7e7d31f7",
+    "topProtocols": [
+      {
+        "name": "ZeroLend",
+        "volume": "$22K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$16K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$14K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$9K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$7K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$6K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$4K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$52K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$43K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$991"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$243B"
+      },
+      {
+        "name": "NB",
+        "volume": "$15K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:32:46.929Z",
+  "source": "moonwell",
+  "vaultBalance": 0.2265365143867082,
+  "vaultPct": 0.004109876723363386
+}

@@ -1,0 +1,157 @@
+{
+  "portfolio": {
+    "address": "0x9e98261f7335a537ce8a721aa9d750b9c2950644",
+    "totalValue": "$6,981",
+    "walletLifetime": "1170 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,157.5000",
+        "amount": "0.1059",
+        "usdValue": "$334.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.4900",
+        "amount": "0.0122",
+        "usdValue": "$38.67"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.7000",
+        "amount": "0.0172",
+        "usdValue": "$15.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.5000",
+        "amount": "0.0005",
+        "usdValue": "$1.68"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "0.5446",
+        "usdValue": "$0.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,334"
+      },
+      {
+        "protocol": "Symbiotic",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$254"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9e98261f7335a537ce8a721aa9d750b9c2950644",
+    "topProtocols": [
+      {
+        "name": "0xc841…9c90",
+        "volume": "$55K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$27K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$16K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$15K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$14K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$13K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$11K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$7K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$6K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$4K"
+      },
+      {
+        "name": "Plume",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bebop",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$140K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$11K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$9K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T11:07:25.728Z",
+  "source": "base_aave",
+  "vaultBalance": 2,
+  "vaultPct": 0.002942160513636387
+}

@@ -1,0 +1,270 @@
+{
+  "portfolio": {
+    "address": "0xb1ccffe7ccb769fd1c30814dc0221acdf341c595",
+    "totalValue": "$3,734",
+    "walletLifetime": "1676 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.0200",
+        "amount": "0.1548",
+        "usdValue": "$480.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.0200",
+        "amount": "0.0922",
+        "usdValue": "$286.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,107.7900",
+        "amount": "0.0079",
+        "usdValue": "$24.54"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "eth",
+        "price": "$0.0454",
+        "amount": "400.0000",
+        "usdValue": "$18.16"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "11.1918",
+        "usdValue": "$11.19"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1221",
+        "amount": "35.2333",
+        "usdValue": "$4.30"
+      },
+      {
+        "symbol": "WILD",
+        "chain": "eth",
+        "price": "$0.0455",
+        "amount": "77.5743",
+        "usdValue": "$3.53"
+      },
+      {
+        "symbol": "SHIB",
+        "chain": "matic",
+        "price": "$0.0₅844",
+        "amount": "102,768.8697",
+        "usdValue": "$0.87"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,804"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$51"
+      },
+      {
+        "protocol": "Velora",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "PSP",
+        "usdValue": "$47"
+      },
+      {
+        "protocol": "Adamant",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ADDY",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Bloktopia",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "BLOK",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "QUICK(old)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb1ccffe7ccb769fd1c30814dc0221acdf341c595",
+    "topProtocols": [
+      {
+        "name": "Aave",
+        "volume": "$27K"
+      },
+      {
+        "name": "0x9c5a…91ad",
+        "volume": "$24K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$22K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$8K"
+      },
+      {
+        "name": "Gelato",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x986a…23dd",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xfa0b…81b9",
+        "volume": "$2K"
+      },
+      {
+        "name": "Yearn V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$1K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "0VIX",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xd5c0…d821",
+        "volume": "$1K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$1K"
+      },
+      {
+        "name": "WMATIC",
+        "volume": "$971"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "POL",
+        "volume": "$46K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$15K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "stMATIC",
+        "volume": "$3K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      },
+      {
+        "name": "KWPOL",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$2K"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$1K"
+      },
+      {
+        "name": "ADDY",
+        "volume": "$969"
+      },
+      {
+        "name": "CRV",
+        "volume": "$933"
+      },
+      {
+        "name": "ZRX",
+        "volume": "$833"
+      },
+      {
+        "name": "GRT",
+        "volume": "$726"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:34:18.677Z",
+  "source": "base_aave",
+  "vaultBalance": 0.8673410686251519,
+  "vaultPct": 0.001275928321982055
+}

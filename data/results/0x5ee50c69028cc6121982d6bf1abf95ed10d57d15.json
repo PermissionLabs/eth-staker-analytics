@@ -1,0 +1,70 @@
+{
+  "portfolio": {
+    "address": "0x5ee50c69028cc6121982d6bf1abf95ed10d57d15",
+    "totalValue": "$7,014",
+    "walletLifetime": "1410 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.8100",
+        "amount": "0.5325",
+        "usdValue": "$1,667.82"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$905.1000",
+        "amount": "1.6501",
+        "usdValue": "$1,493.55"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2392",
+        "amount": "779.3951",
+        "usdValue": "$186.43"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "91.7000",
+        "usdValue": "$91.69"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.9122",
+        "amount": "3.9666",
+        "usdValue": "$55.18"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7200",
+        "amount": "1.0329",
+        "usdValue": "$14.17"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,501"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5ee50c69028cc6121982d6bf1abf95ed10d57d15",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T15:01:05.716Z",
+  "source": "lido_steth",
+  "vaultBalance": 1,
+  "vaultPct": 0.0000750878423816016
+}

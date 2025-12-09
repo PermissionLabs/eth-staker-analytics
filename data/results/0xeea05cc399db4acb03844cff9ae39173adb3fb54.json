@@ -1,0 +1,155 @@
+{
+  "portfolio": {
+    "address": "0xeea05cc399db4acb03844cff9ae39173adb3fb54",
+    "totalValue": "$2,663",
+    "walletLifetime": "1410 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1,178.8823",
+        "usdValue": "$1,178.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.5800",
+        "amount": "0.0315",
+        "usdValue": "$97.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.1000",
+        "amount": "0.0300",
+        "usdValue": "$93.21"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$539"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$438"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$313"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xeea05cc399db4acb03844cff9ae39173adb3fb54",
+    "topProtocols": [
+      {
+        "name": "Aboard",
+        "volume": "$34K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$30K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$10K"
+      },
+      {
+        "name": "Goal3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$8K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$7K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$7K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$1K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$57K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "zkUSD",
+        "volume": "$8K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$495"
+      },
+      {
+        "name": "WETH",
+        "volume": "$489"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:08:17.606Z",
+  "source": "moonwell",
+  "vaultBalance": 0.13799879863379216,
+  "vaultPct": 0.002503605442559996
+}

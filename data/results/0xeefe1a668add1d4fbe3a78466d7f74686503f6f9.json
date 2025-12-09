@@ -1,0 +1,212 @@
+{
+  "portfolio": {
+    "address": "0xeefe1a668add1d4fbe3a78466d7f74686503f6f9",
+    "totalValue": "$28,371",
+    "walletLifetime": "622 days",
+    "tokens": [
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6000",
+        "amount": "42.5453",
+        "usdValue": "$578.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.6400",
+        "amount": "0.0103",
+        "usdValue": "$32.05"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.7000",
+        "amount": "0.0233",
+        "usdValue": "$20.75"
+      },
+      {
+        "symbol": "BNB(Multichain)",
+        "chain": "matic",
+        "price": "$49.6528",
+        "amount": "0.1743",
+        "usdValue": "$8.66"
+      },
+      {
+        "symbol": "ROOST",
+        "chain": "base",
+        "price": "$0.0003",
+        "amount": "3,142.0000",
+        "usdValue": "$0.84"
+      },
+      {
+        "symbol": "NEXG",
+        "chain": "matic",
+        "price": "$0.00",
+        "amount": "232.86",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$27,729"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Dao Maker",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "NEXG",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xeefe1a668add1d4fbe3a78466d7f74686503f6f9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$97K"
+      },
+      {
+        "name": "0xa95f…266c",
+        "volume": "$47K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$45K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$44K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$40K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x000f…080a",
+        "volume": "$16K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x58b7…5023",
+        "volume": "$13K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x264b…97b5",
+        "volume": "$10K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$9K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xbee3…a000",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x6666…e7cb",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$247K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$96K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$42K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$9K"
+      },
+      {
+        "name": "RTF",
+        "volume": "$3K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$1K"
+      },
+      {
+        "name": "GPU",
+        "volume": "$404"
+      },
+      {
+        "name": "YAI",
+        "volume": "$342"
+      },
+      {
+        "name": "wBAI",
+        "volume": "$335"
+      },
+      {
+        "name": "POL",
+        "volume": "$136"
+      },
+      {
+        "name": "ROOST",
+        "volume": "$93B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:07:29.974Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 12.502029762327293,
+  "vaultPct": 0.002324590311703914
+}

@@ -1,0 +1,331 @@
+{
+  "portfolio": {
+    "address": "0xa3ddc5b5ceb1ca23fdccbd89b3f92f457bbf1445",
+    "totalValue": "$71,090",
+    "walletLifetime": "622 days",
+    "tokens": [
+      {
+        "symbol": "Sigma",
+        "chain": "bsc",
+        "price": "$0.0140",
+        "amount": "24,020.3929",
+        "usdValue": "$337.10"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.7000",
+        "amount": "0.1259",
+        "usdValue": "$112.50"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "39.0130",
+        "usdValue": "$39.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.3700",
+        "amount": "0.0097",
+        "usdValue": "$30.04"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$893.3400",
+        "amount": "0.0100",
+        "usdValue": "$8.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,106.3700",
+        "amount": "0.0012",
+        "usdValue": "$3.68"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "27.5451",
+        "usdValue": "$3.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.2400",
+        "amount": "0.0009",
+        "usdValue": "$2.71"
+      },
+      {
+        "symbol": "SOLV",
+        "chain": "bsc",
+        "price": "$0.0156",
+        "amount": "136.0000",
+        "usdValue": "$2.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.2400",
+        "amount": "0.0006",
+        "usdValue": "$1.97"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5900",
+        "amount": "0.1182",
+        "usdValue": "$1.61"
+      },
+      {
+        "symbol": "LISTA",
+        "chain": "bsc",
+        "price": "$0.1848",
+        "amount": "8.5212",
+        "usdValue": "$1.57"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0890",
+        "amount": "15.1303",
+        "usdValue": "$1.35"
+      },
+      {
+        "symbol": "FROG",
+        "chain": "bsc",
+        "price": "$0.0003",
+        "amount": "2,886.2778",
+        "usdValue": "$0.89"
+      },
+      {
+        "symbol": "USD1",
+        "chain": "bsc",
+        "price": "$0.9993",
+        "amount": "0.6398",
+        "usdValue": "$0.64"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BNB",
+        "usdValue": "$56,863"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$6,023"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$2,037"
+      },
+      {
+        "protocol": "Silo",
+        "chain": "avax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,037"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BNB",
+        "usdValue": "$2,031"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "bsc",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "unknown",
+        "usdValue": "$907"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-sKAITO-29JAN2026",
+        "usdValue": "$545"
+      },
+      {
+        "protocol": "ZEROBASE",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDT",
+        "usdValue": "$80"
+      },
+      {
+        "protocol": "BounceBit",
+        "chain": "bsc",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "BTCB",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBNB",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Lista DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa3ddc5b5ceb1ca23fdccbd89b3f92f457bbf1445",
+    "topProtocols": [
+      {
+        "name": "Venus",
+        "volume": "$65K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$51K"
+      },
+      {
+        "name": "Lista DAO",
+        "volume": "$45K"
+      },
+      {
+        "name": "Sigma.Money",
+        "volume": "$19K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$18K"
+      },
+      {
+        "name": "Binance DEX",
+        "volume": "$17K"
+      },
+      {
+        "name": "Summer.fi",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x978b…240b",
+        "volume": "$7K"
+      },
+      {
+        "name": "Silo",
+        "volume": "$6K"
+      },
+      {
+        "name": "Kernel DAO",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf0f4…5f2e",
+        "volume": "$4K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BNB",
+        "volume": "$209K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$29K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$28K"
+      },
+      {
+        "name": "bnbUSD",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "lisUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "USD1",
+        "volume": "$4K"
+      },
+      {
+        "name": "ELF",
+        "volume": "$3K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$2K"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KAITO",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:56:44.132Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.6017627584293125,
+  "vaultPct": 0.0067118148717390915
+}

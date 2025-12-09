@@ -1,0 +1,312 @@
+{
+  "portfolio": {
+    "address": "0x2dd796e225d160d183f979da601a898c0167b0f1",
+    "totalValue": "$4,271",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.2800",
+        "amount": "0.1941",
+        "usdValue": "$602.43"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2669",
+        "amount": "1,627.8217",
+        "usdValue": "$434.47"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "uni",
+        "price": "$5.4503",
+        "amount": "79.5786",
+        "usdValue": "$433.73"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,103.2800",
+        "amount": "0.0401",
+        "usdValue": "$124.34"
+      },
+      {
+        "symbol": "ankrMATIC",
+        "chain": "matic",
+        "price": "$0.1537",
+        "amount": "230.7662",
+        "usdValue": "$35.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,103.2800",
+        "amount": "0.0070",
+        "usdValue": "$21.61"
+      },
+      {
+        "symbol": "ANKR",
+        "chain": "matic",
+        "price": "$0.0077",
+        "amount": "2,464.5170",
+        "usdValue": "$18.88"
+      },
+      {
+        "symbol": "jesse",
+        "chain": "base",
+        "price": "$0.0105",
+        "amount": "1,787.7233",
+        "usdValue": "$18.78"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "13.1041",
+        "usdValue": "$13.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.2800",
+        "amount": "0.0014",
+        "usdValue": "$4.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,103.2800",
+        "amount": "0.0014",
+        "usdValue": "$4.29"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9390",
+        "amount": "2.8947",
+        "usdValue": "$2.72"
+      },
+      {
+        "symbol": "wXTM",
+        "chain": "eth",
+        "price": "$0.0025",
+        "amount": "995.0000",
+        "usdValue": "$2.53"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$89,829.2700",
+        "amount": "0.00002696",
+        "usdValue": "$2.42"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$1,999"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "PENDLE",
+        "usdValue": "$457"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$38"
+      },
+      {
+        "protocol": "Hybra Finance",
+        "chain": "hyper",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "HYBR",
+        "usdValue": "$22"
+      },
+      {
+        "protocol": "Boros",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Kinetiq",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "kHYPE",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "hyper",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "YT-kHYPE-13NOV2025",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2dd796e225d160d183f979da601a898c0167b0f1",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$39K"
+      },
+      {
+        "name": "YO",
+        "volume": "$32K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$27K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$22K"
+      },
+      {
+        "name": "Limitless Prediction Markets",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xde6c…5469",
+        "volume": "$18K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$11K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$11K"
+      },
+      {
+        "name": "Pimlico",
+        "volume": "$11K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x6d8a…e87d",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$5K"
+      },
+      {
+        "name": "Etherex",
+        "volume": "$4K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$183K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$4K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:26:06.717Z",
+  "source": "base_aave",
+  "vaultBalance": 0.06049218580938743,
+  "vaultPct": 0.00008898886023596754
+}

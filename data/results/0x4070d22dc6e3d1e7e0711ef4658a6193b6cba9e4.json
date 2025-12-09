@@ -1,0 +1,121 @@
+{
+  "portfolio": {
+    "address": "0x4070d22dc6e3d1e7e0711ef4658a6193b6cba9e4",
+    "totalValue": "$1,126",
+    "walletLifetime": "1312 days",
+    "tokens": [
+      {
+        "symbol": "cbETH",
+        "chain": "arb",
+        "price": "$3,452.5600",
+        "amount": "0.0108",
+        "usdValue": "$37.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,097.3600",
+        "amount": "0.0101",
+        "usdValue": "$31.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,097.3600",
+        "amount": "0.0090",
+        "usdValue": "$27.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,097.3600",
+        "amount": "0.0020",
+        "usdValue": "$6.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,097.3600",
+        "amount": "0.0011",
+        "usdValue": "$3.36"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.2000",
+        "amount": "0.0034",
+        "usdValue": "$3.09"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1052",
+        "amount": "2.2908",
+        "usdValue": "$2.53"
+      },
+      {
+        "symbol": "BERA",
+        "chain": "bera",
+        "price": "$0.8360",
+        "amount": "0.4900",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,097.3600",
+        "amount": "0.0001",
+        "usdValue": "$0.38"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "1.8591",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0346",
+        "amount": "5.3813",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$623"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$311"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$78"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4070d22dc6e3d1e7e0711ef4658a6193b6cba9e4",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T16:02:47.810Z",
+  "source": "base_aave",
+  "vaultBalance": 0.10035006839576063,
+  "vaultPct": 0.00014762300438735882
+}

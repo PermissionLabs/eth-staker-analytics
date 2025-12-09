@@ -1,0 +1,121 @@
+{
+  "portfolio": {
+    "address": "0xd04d503114bdfd36b1a5b3dd1bc4400b7951b540",
+    "totalValue": "$593",
+    "walletLifetime": "2078 days",
+    "tokens": [
+      {
+        "symbol": "CRO",
+        "chain": "eth",
+        "price": "$0.1051",
+        "amount": "1,855.8000",
+        "usdValue": "$195.01"
+      },
+      {
+        "symbol": "ENJ",
+        "chain": "eth",
+        "price": "$0.0413",
+        "amount": "1,253.9900",
+        "usdValue": "$51.84"
+      },
+      {
+        "symbol": "BAT",
+        "chain": "eth",
+        "price": "$0.2581",
+        "amount": "110.1819",
+        "usdValue": "$28.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,145.9600",
+        "amount": "0.0081",
+        "usdValue": "$25.63"
+      },
+      {
+        "symbol": "XDATA(old)",
+        "chain": "eth",
+        "price": "$0.0071",
+        "amount": "390.5950",
+        "usdValue": "$2.76"
+      },
+      {
+        "symbol": "FLR",
+        "chain": "flr",
+        "price": "$0.0131",
+        "amount": "44.1688",
+        "usdValue": "$0.58"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DAX",
+        "chain": "flr",
+        "price": "$0.0₅543",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$289"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd04d503114bdfd36b1a5b3dd1bc4400b7951b540",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$129"
+      },
+      {
+        "name": "0x3751…789d",
+        "volume": "$18"
+      },
+      {
+        "name": "0xb03d…7ec7",
+        "volume": "$15"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x2809…fdbb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$147B"
+      },
+      {
+        "name": "AT",
+        "volume": "$15B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:54:25.644Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.082199880575812,
+  "vaultPct": 0.000006172211676463047
+}

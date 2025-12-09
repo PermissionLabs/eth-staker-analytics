@@ -1,0 +1,176 @@
+{
+  "portfolio": {
+    "address": "0xc61b0e20feb9ecdb0a41b197c5521f05efaa1151",
+    "totalValue": "$1,256",
+    "walletLifetime": "75 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,108.1300",
+        "amount": "0.0022",
+        "usdValue": "$6.96"
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "33.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$717"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$531"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "VIRTUAL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc61b0e20feb9ecdb0a41b197c5521f05efaa1151",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$70K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$17K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$4K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa1f4…cc22",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xcfcf…c8a5",
+        "volume": "$1K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$845"
+      },
+      {
+        "name": "0xcd82…3e13",
+        "volume": "$515K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$389"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$257"
+      },
+      {
+        "name": "0x0647…83db",
+        "volume": "$2121"
+      },
+      {
+        "name": "inch",
+        "volume": "$31"
+      },
+      {
+        "name": "0x5183…d521",
+        "volume": "$27"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$12"
+      },
+      {
+        "name": "0x064b…83db",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x19bf…b3cc",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "VIRTUAL",
+        "volume": "$50K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$43K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$858"
+      },
+      {
+        "name": "LsETH",
+        "volume": "$61"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$47"
+      },
+      {
+        "name": "Cake",
+        "volume": "$5"
+      },
+      {
+        "name": "WELL",
+        "volume": "$3B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:36:53.307Z",
+  "source": "base_aave",
+  "vaultBalance": 0.43204326977895485,
+  "vaultPct": 0.0006355703242629969
+}

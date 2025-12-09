@@ -1,0 +1,194 @@
+{
+  "portfolio": {
+    "address": "0x4226267d8f1c0c57aa3404605c900a03c91a084e",
+    "totalValue": "$46,771",
+    "walletLifetime": "2931 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,057.7400",
+        "amount": "0.0793",
+        "usdValue": "$7,137.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.1600",
+        "amount": "0.0216",
+        "usdValue": "$67.07"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "linea",
+        "price": "$89,978.1745",
+        "amount": "0.0005",
+        "usdValue": "$49.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,102.1600",
+        "amount": "0.0125",
+        "usdValue": "$38.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,101.8800",
+        "amount": "0.0100",
+        "usdValue": "$31.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.1600",
+        "amount": "0.0049",
+        "usdValue": "$15.15"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,102.1600",
+        "amount": "0.0041",
+        "usdValue": "$12.75"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "8.9264",
+        "usdValue": "$8.92"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$26,137"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$8,830"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$2,474"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,623"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$189"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$136"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4226267d8f1c0c57aa3404605c900a03c91a084e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$160K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$114K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$74K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$64K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$58K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$53K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$45K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$32K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$29K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$27K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$386K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$158K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$105K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$72K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "KZK",
+        "volume": "$26K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$24K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:28:52.315Z",
+  "source": "base_aave",
+  "vaultBalance": 6.159999999999999,
+  "vaultPct": 0.00906185438200007
+}

@@ -1,0 +1,70 @@
+{
+  "portfolio": {
+    "address": "0x7692577b035aaf5e8a5a93747db62b0712902de7",
+    "totalValue": "$106,890",
+    "walletLifetime": "1121 days",
+    "tokens": [
+      {
+        "symbol": "cbETH",
+        "chain": "eth",
+        "price": "$3,509.2700",
+        "amount": "0.6306",
+        "usdValue": "$2,213.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,162.6200",
+        "amount": "0.1000",
+        "usdValue": "$316.26"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "50.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$104,360"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7692577b035aaf5e8a5a93747db62b0712902de7",
+    "topProtocols": [
+      {
+        "name": "0x1768…373f",
+        "volume": "$19K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$843"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:34:45.477Z",
+  "source": "lido_steth",
+  "vaultBalance": 19.21506271828911,
+  "vaultPct": 0.0014428176007434822
+}

@@ -1,0 +1,212 @@
+{
+  "portfolio": {
+    "address": "0x0e67c29edd4264ace8088cf6187a4bc1b16d9809",
+    "totalValue": "$1,752",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,114.4000",
+        "amount": "0.1784",
+        "usdValue": "$555.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.4000",
+        "amount": "0.0539",
+        "usdValue": "$167.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,114.4000",
+        "amount": "0.0051",
+        "usdValue": "$15.97"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "15.0693",
+        "usdValue": "$15.07"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "14.1102",
+        "usdValue": "$14.11"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "blast",
+        "price": "$3,114.4000",
+        "amount": "0.0037",
+        "usdValue": "$11.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,113.7400",
+        "amount": "0.0035",
+        "usdValue": "$10.91"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3940",
+        "amount": "2.3904",
+        "usdValue": "$5.72"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0326",
+        "amount": "166.1711",
+        "usdValue": "$5.42"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4910",
+        "amount": "9.7942",
+        "usdValue": "$4.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,113.7400",
+        "amount": "0.0010",
+        "usdValue": "$3.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,114.4000",
+        "amount": "0.0008",
+        "usdValue": "$2.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,113.4600",
+        "amount": "0.0008",
+        "usdValue": "$2.55"
+      },
+      {
+        "symbol": "wS",
+        "chain": "sonic",
+        "price": "$0.0961",
+        "amount": "20.8467",
+        "usdValue": "$2.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$934"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0e67c29edd4264ace8088cf6187a4bc1b16d9809",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$1M"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$1M"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$1M"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$1M"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$383K"
+      },
+      {
+        "name": "Sonic Gateway",
+        "volume": "$382K"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$334K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$300K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "weETH",
+        "volume": "$72K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$28K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$20K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "OP",
+        "volume": "$15K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$9K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:23:51.259Z",
+  "source": "base_aave",
+  "vaultBalance": 218.61122844954565,
+  "vaultPct": 0.3215946620908984
+}

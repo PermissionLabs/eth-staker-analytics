@@ -1,0 +1,227 @@
+{
+  "portfolio": {
+    "address": "0xf851f4da64d3e777de92633a79a6049fb8b99c58",
+    "totalValue": "$398",
+    "walletLifetime": "1589 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,150.2500",
+        "amount": "0.0019",
+        "usdValue": "$5.97"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2131",
+        "amount": "22.6200",
+        "usdValue": "$4.82"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$911.4000",
+        "amount": "0.0004",
+        "usdValue": "$0.36"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7600",
+        "amount": "0.0016",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "FLOWER",
+        "chain": "base",
+        "price": "$0.0995",
+        "amount": "0.1471",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "EUL",
+        "chain": "base",
+        "price": "$0.05",
+        "amount": "0.01",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$278"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "FLOWER",
+        "usdValue": "$83"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$26"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "EUL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf851f4da64d3e777de92633a79a6049fb8b99c58",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7d91…211d",
+        "volume": "$2K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xba34…583e",
+        "volume": "$989"
+      },
+      {
+        "name": "0x9b35…5e15",
+        "volume": "$9571"
+      },
+      {
+        "name": "inch",
+        "volume": "$773"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$550"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$527"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$488B"
+      },
+      {
+        "name": "inance",
+        "volume": "$446B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$333"
+      },
+      {
+        "name": "Velora",
+        "volume": "$284"
+      },
+      {
+        "name": "Euler",
+        "volume": "$259"
+      },
+      {
+        "name": "0xf851…9c58",
+        "volume": "$257B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "POL",
+        "volume": "$4K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "SFL",
+        "volume": "$913B"
+      },
+      {
+        "name": "NB",
+        "volume": "$868"
+      },
+      {
+        "name": "USDT",
+        "volume": "$780"
+      },
+      {
+        "name": "FLOWER",
+        "volume": "$430"
+      },
+      {
+        "name": "ZOO",
+        "volume": "$138"
+      },
+      {
+        "name": "DOT",
+        "volume": "$70"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$69"
+      },
+      {
+        "name": "ROY",
+        "volume": "$46"
+      },
+      {
+        "name": "ARB",
+        "volume": "$46B"
+      },
+      {
+        "name": "AS",
+        "volume": "$26M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:13:22.495Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11333174261935301,
+  "vaultPct": 0.00016672008903813123
+}

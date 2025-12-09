@@ -1,0 +1,247 @@
+{
+  "portfolio": {
+    "address": "0xc630d7a39877143ba4973b8dd1736837ffeba774",
+    "totalValue": "$34,258",
+    "walletLifetime": "1455 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,112.0000",
+        "amount": "0.0471",
+        "usdValue": "$146.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.0000",
+        "amount": "0.0177",
+        "usdValue": "$55.00"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,114.7300",
+        "amount": "0.0006",
+        "usdValue": "$52.28"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,107.3900",
+        "amount": "0.0128",
+        "usdValue": "$39.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,112.1500",
+        "amount": "0.0076",
+        "usdValue": "$23.70"
+      },
+      {
+        "symbol": "EURe",
+        "chain": "xdai",
+        "price": "$1.1634",
+        "amount": "17.2440",
+        "usdValue": "$20.06"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.4000",
+        "amount": "0.0224",
+        "usdValue": "$19.94"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "11.0000",
+        "usdValue": "$11.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.0000",
+        "amount": "0.0029",
+        "usdValue": "$8.97"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0941",
+        "amount": "35.7767",
+        "usdValue": "$3.37"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6700",
+        "amount": "0.1550",
+        "usdValue": "$2.12"
+      },
+      {
+        "symbol": "WBNB",
+        "chain": "bsc",
+        "price": "$891.4000",
+        "amount": "0.0013",
+        "usdValue": "$1.14"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "cro",
+        "price": "$0.1032",
+        "amount": "9.9398",
+        "usdValue": "$1.03"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1223",
+        "amount": "7.1044",
+        "usdValue": "$0.87"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3165",
+        "amount": "1.8766",
+        "usdValue": "$0.59"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$31,252"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LBTC",
+        "usdValue": "$2,620"
+      },
+      {
+        "protocol": "Zunami Protocol",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc630d7a39877143ba4973b8dd1736837ffeba774",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$310K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$70K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$52K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$42K"
+      },
+      {
+        "name": "0xf924…8c9c",
+        "volume": "$39K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x2a9e…314e",
+        "volume": "$19K"
+      },
+      {
+        "name": "Belt Finance",
+        "volume": "$15K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$14K"
+      },
+      {
+        "name": "CronaSwap",
+        "volume": "$14K"
+      },
+      {
+        "name": "Yearn V2",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x0d29…fc4b",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xeba2…ed10",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$117K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$73K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$34K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "KBTCB",
+        "volume": "$27K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$26K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "KFTM",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$13K"
+      },
+      {
+        "name": "KUSDC.e",
+        "volume": "$12K"
+      },
+      {
+        "name": "USD",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:35:57.103Z",
+  "source": "base_aave",
+  "vaultBalance": 0.13488691232490416,
+  "vaultPct": 0.00019842947362433316
+}

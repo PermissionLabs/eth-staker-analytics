@@ -1,0 +1,194 @@
+{
+  "portfolio": {
+    "address": "0x02a1f14aaad4de9a5800d92de5a26551ef2e54d8",
+    "totalValue": "$24,696",
+    "walletLifetime": "48 days",
+    "tokens": [
+      {
+        "symbol": "ENS",
+        "chain": "eth",
+        "price": "$11.2700",
+        "amount": "191.2134",
+        "usdValue": "$2,154.98"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7628",
+        "amount": "92.5972",
+        "usdValue": "$1,274.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.4800",
+        "amount": "0.2733",
+        "usdValue": "$854.24"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.6000",
+        "amount": "0.6890",
+        "usdValue": "$619.14"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6600",
+        "amount": "0.0008",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.0051",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$7,810"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$6,507"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$4,981"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$495"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x02a1f14aaad4de9a5800d92de5a26551ef2e54d8",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$25K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Yearn V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x801a…e384",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x2ebb…f7d4",
+        "volume": "$4K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x79dd…decb",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5ba4…4268",
+        "volume": "$785"
+      },
+      {
+        "name": "0x4a4e…dfd2",
+        "volume": "$490"
+      },
+      {
+        "name": "0xbe55…6204",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$22K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$11K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$3K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$1K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$785"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:03:38.696Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.1,
+  "vaultPct": 0.00020453073552740468
+}

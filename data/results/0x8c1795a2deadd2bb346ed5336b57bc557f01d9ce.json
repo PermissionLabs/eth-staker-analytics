@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0x8c1795a2deadd2bb346ed5336b57bc557f01d9ce",
+    "totalValue": "$983",
+    "walletLifetime": "1087 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,117.3200",
+        "amount": "0.0287",
+        "usdValue": "$89.48"
+      },
+      {
+        "symbol": "LUNA (Virtuals Protocol)",
+        "chain": "base",
+        "price": "$0.0162",
+        "amount": "1,049.3403",
+        "usdValue": "$16.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,117.5100",
+        "amount": "0.0024",
+        "usdValue": "$7.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.5100",
+        "amount": "0.0021",
+        "usdValue": "$6.47"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1.1308",
+        "usdValue": "$1.13"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "0.7435",
+        "usdValue": "$0.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,117.5100",
+        "amount": "0.0001",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "base",
+        "price": "$31.1100",
+        "amount": "0.0101",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$0.9999",
+        "amount": "0.2581",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "1.6271",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2015",
+        "amount": "0.1402",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "16.1866",
+        "usdValue": "$0.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$456"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$402"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8c1795a2deadd2bb346ed5336b57bc557f01d9ce",
+    "topProtocols": [
+      {
+        "name": "Euler",
+        "volume": "$1M"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$669K"
+      },
+      {
+        "name": "0x1e1c…d91d",
+        "volume": "$568K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$129K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$104K"
+      },
+      {
+        "name": "Spark",
+        "volume": "$100K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$94K"
+      },
+      {
+        "name": "0xf63f…8cba",
+        "volume": "$50K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$48K"
+      },
+      {
+        "name": "0xcfda…cd31",
+        "volume": "$41K"
+      },
+      {
+        "name": "0xc880…f391",
+        "volume": "$40K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$38K"
+      },
+      {
+        "name": "0x7a93…213e",
+        "volume": "$22K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x5594…ed53",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x74f7…d146",
+        "volume": "$21K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$216K"
+      },
+      {
+        "name": "USDS",
+        "volume": "$180K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$109K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$17K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$4K"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:47:06.919Z",
+  "source": "base_aave",
+  "vaultBalance": 1.9236752194076443,
+  "vaultPct": 0.002829880635800992
+}

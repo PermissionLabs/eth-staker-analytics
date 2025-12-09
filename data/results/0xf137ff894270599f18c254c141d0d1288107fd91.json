@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0xf137ff894270599f18c254c141d0d1288107fd91",
+    "totalValue": "$31,564",
+    "walletLifetime": "619 days",
+    "tokens": [
+      {
+        "symbol": "PAXG",
+        "chain": "eth",
+        "price": "$4,192.8697",
+        "amount": "1.6845",
+        "usdValue": "$7,062.80"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "op",
+        "price": "$0.3860",
+        "amount": "2,009.9085",
+        "usdValue": "$775.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.4000",
+        "amount": "0.1687",
+        "usdValue": "$523.05"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5939",
+        "amount": "500.0500",
+        "usdValue": "$296.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,100.4000",
+        "amount": "0.0189",
+        "usdValue": "$58.62"
+      },
+      {
+        "symbol": "GLQ",
+        "chain": "eth",
+        "price": "$0.0066",
+        "amount": "4,357.6828",
+        "usdValue": "$28.63"
+      },
+      {
+        "symbol": "DEAI",
+        "chain": "eth",
+        "price": "$0.0116",
+        "amount": "1,035.0413",
+        "usdValue": "$12.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,100.4000",
+        "amount": "0.00005633",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,100.4000",
+        "amount": "0.00002129",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FTW",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "1,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$22,806"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf137ff894270599f18c254c141d0d1288107fd91",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$34K"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x872f…37d5",
+        "volume": "$5K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x9e52…5867",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0000…0e49",
+        "volume": "$3K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3fac…5fb6",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$2K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$17K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$13K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$9K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$6K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$905"
+      },
+      {
+        "name": "DEAI",
+        "volume": "$806"
+      },
+      {
+        "name": "GLQ",
+        "volume": "$642"
+      },
+      {
+        "name": "CRV",
+        "volume": "$462"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:14:35.136Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.4997939083054423,
+  "vaultPct": 0.00046480426066603425
+}

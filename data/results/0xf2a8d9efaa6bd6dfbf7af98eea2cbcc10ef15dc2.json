@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0xf2a8d9efaa6bd6dfbf7af98eea2cbcc10ef15dc2",
+    "totalValue": "$12,396",
+    "walletLifetime": "312 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.7100",
+        "amount": "0.0222",
+        "usdValue": "$69.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.7100",
+        "amount": "0.0179",
+        "usdValue": "$56.00"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.000034",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,850"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,420"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf2a8d9efaa6bd6dfbf7af98eea2cbcc10ef15dc2",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$59K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x0bed…0b24",
+        "volume": "$16K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x11c1…e4ea",
+        "volume": "$4K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      },
+      {
+        "name": "Superbridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Camelot",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf924…8c9c",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xcd82…3e13",
+        "volume": "$1K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$64B"
+      },
+      {
+        "name": "inance",
+        "volume": "$64"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$89K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$32K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:54:28.290Z",
+  "source": "base_aave",
+  "vaultBalance": 1.4106200685464847,
+  "vaultPct": 0.0020751353327102605
+}

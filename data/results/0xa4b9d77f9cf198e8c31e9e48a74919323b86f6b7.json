@@ -1,0 +1,142 @@
+{
+  "portfolio": {
+    "address": "0xa4b9d77f9cf198e8c31e9e48a74919323b86f6b7",
+    "totalValue": "$60,704",
+    "walletLifetime": "1393 days",
+    "tokens": [
+      {
+        "symbol": "AXL",
+        "chain": "base",
+        "price": "$0.1106",
+        "amount": "1,470.8627",
+        "usdValue": "$162.68"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.8000",
+        "amount": "0.0469",
+        "usdValue": "$41.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.9800",
+        "amount": "0.0093",
+        "usdValue": "$29.02"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0345",
+        "amount": "199.8861",
+        "usdValue": "$6.90"
+      },
+      {
+        "symbol": "xcACA",
+        "chain": "mobm",
+        "price": "$0.0125",
+        "amount": "487.7587",
+        "usdValue": "$6.10"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "mobm",
+        "price": "$0.0100",
+        "amount": "148.9478",
+        "usdValue": "$1.48"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$41,691"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$9,584"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WELL",
+        "usdValue": "$6,122"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "mobm",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "xcUSDC",
+        "usdValue": "$1,854"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$1,199"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Beamswap",
+        "chain": "mobm",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GLINT",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Orbiter One",
+        "chain": "mobm",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(wormhole)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "QiDao",
+        "chain": "mobm",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "STELLA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "mobm",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "xcDOT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa4b9d77f9cf198e8c31e9e48a74919323b86f6b7",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T08:05:13.076Z",
+  "source": "moonwell",
+  "vaultBalance": 10.119774483198384,
+  "vaultPct": 0.18359523941109995
+}

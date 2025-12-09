@@ -1,0 +1,122 @@
+{
+  "portfolio": {
+    "address": "0x2772fe50346325d23470000eabdfcce6f6f51f24",
+    "totalValue": "$921",
+    "walletLifetime": "153 days",
+    "tokens": [
+      {
+        "symbol": "IMX",
+        "chain": "itze",
+        "price": "$0.2928",
+        "amount": "22.2257",
+        "usdValue": "$6.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.5500",
+        "amount": "0.0003",
+        "usdValue": "$1.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "itze",
+        "price": "$3,133.1900",
+        "amount": "0.00008103",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.5500",
+        "amount": "0.0000385",
+        "usdValue": "$0.12"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "IMX Community",
+        "chain": "itze",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WIMX",
+        "usdValue": "$865"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$49"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2772fe50346325d23470000eabdfcce6f6f51f24",
+    "topProtocols": [
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "squid",
+        "volume": "$379B"
+      },
+      {
+        "name": "inance",
+        "volume": "$321B"
+      },
+      {
+        "name": "0x114b…14da",
+        "volume": "$2"
+      },
+      {
+        "name": "0x9ab3…de7a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfef5…243c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xad34…c33d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4f6f…622d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe5a8…e590",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x447b…a22b",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "IMX",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:08:04.343Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1559475945429789,
+  "vaultPct": 0.0002294114274304649
+}

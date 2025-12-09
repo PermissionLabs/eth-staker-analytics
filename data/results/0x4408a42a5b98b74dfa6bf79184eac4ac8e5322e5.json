@@ -1,0 +1,105 @@
+{
+  "portfolio": {
+    "address": "0x4408a42a5b98b74dfa6bf79184eac4ac8e5322e5",
+    "totalValue": "$16,933",
+    "walletLifetime": "1118 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.8300",
+        "amount": "0.2648",
+        "usdValue": "$826.39"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅986",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7887",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$16,106"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4408a42a5b98b74dfa6bf79184eac4ac8e5322e5",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$41K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$15K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x65b3…7478",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x17e4…ff97",
+        "volume": "$312B"
+      },
+      {
+        "name": "inance",
+        "volume": "$33"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$76K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:14:04.352Z",
+  "source": "lido_steth",
+  "vaultBalance": 4.99,
+  "vaultPct": 0.000374688333484192
+}

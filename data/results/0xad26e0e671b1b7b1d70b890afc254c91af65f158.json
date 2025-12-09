@@ -1,0 +1,96 @@
+{
+  "portfolio": {
+    "address": "0xad26e0e671b1b7b1d70b890afc254c91af65f158",
+    "totalValue": "$30,233",
+    "walletLifetime": "1427 days",
+    "tokens": [
+      {
+        "symbol": "LRC",
+        "chain": "eth",
+        "price": "$0.0490",
+        "amount": "8,435.1510",
+        "usdValue": "$413.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.7600",
+        "amount": "0.0095",
+        "usdValue": "$29.41"
+      },
+      {
+        "symbol": "CND",
+        "chain": "eth",
+        "price": "$0.0001",
+        "amount": "131,362.4213",
+        "usdValue": "$15.98"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "10.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9822",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$29,775"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xad26e0e671b1b7b1d70b890afc254c91af65f158",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$16K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$35K"
+      },
+      {
+        "name": "LRC",
+        "volume": "$3K"
+      },
+      {
+        "name": "CND",
+        "volume": "$546"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:08:34.812Z",
+  "source": "lido_steth",
+  "vaultBalance": 8.485182031923063,
+  "vaultPct": 0.0006371340109922371
+}

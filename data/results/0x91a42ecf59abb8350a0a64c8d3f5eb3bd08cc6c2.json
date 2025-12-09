@@ -1,0 +1,241 @@
+{
+  "portfolio": {
+    "address": "0x91a42ecf59abb8350a0a64c8d3f5eb3bd08cc6c2",
+    "totalValue": "$368,895",
+    "walletLifetime": "2215 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.3900",
+        "amount": "3.0154",
+        "usdValue": "$9,348.88"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$89,894.4500",
+        "amount": "0.0165",
+        "usdValue": "$1,482.03"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "216.4326",
+        "usdValue": "$216.41"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "6,896.0000",
+        "usdValue": "$189.29"
+      },
+      {
+        "symbol": "BAT.e",
+        "chain": "avax",
+        "price": "$0.2527",
+        "amount": "97.8632",
+        "usdValue": "$24.73"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$345,792"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$8,663"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,158"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Yearn V2",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "PancakeSwap",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x91a42ecf59abb8350a0a64c8d3f5eb3bd08cc6c2",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$790K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$660K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$638K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$581K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$207K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$180K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$140K"
+      },
+      {
+        "name": "Yearn V2",
+        "volume": "$80K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$76K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$72K"
+      },
+      {
+        "name": "Badger DAO",
+        "volume": "$68K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$64K"
+      },
+      {
+        "name": "0xff2a…2316",
+        "volume": "$55K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$28K"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$27K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$11K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "DAI",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$733K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$364K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$165K"
+      },
+      {
+        "name": "BADGER",
+        "volume": "$58K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$23K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$22K"
+      },
+      {
+        "name": "POL",
+        "volume": "$20K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$19K"
+      },
+      {
+        "name": "SNX",
+        "volume": "$15K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "MC",
+        "volume": "$11K"
+      },
+      {
+        "name": "KrETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "DIGG",
+        "volume": "$6K"
+      },
+      {
+        "name": "KLINK",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:53:41.374Z",
+  "source": "base_aave",
+  "vaultBalance": 0.9925469190709488,
+  "vaultPct": 0.0014601161766109982
+}

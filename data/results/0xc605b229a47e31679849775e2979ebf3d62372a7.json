@@ -1,0 +1,118 @@
+{
+  "portfolio": {
+    "address": "0xc605b229a47e31679849775e2979ebf3d62372a7",
+    "totalValue": "$14,061",
+    "walletLifetime": "419 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.5100",
+        "amount": "4.3443",
+        "usdValue": "$13,565.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.5100",
+        "amount": "0.0469",
+        "usdValue": "$146.41"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$349"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc605b229a47e31679849775e2979ebf3d62372a7",
+    "topProtocols": [
+      {
+        "name": "Fuel",
+        "volume": "$22K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x7c01…7edf",
+        "volume": "$18K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$17K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$14K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$12K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7c01…1edf",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$79K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$35K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:36:58.177Z",
+  "source": "moonwell",
+  "vaultBalance": 0.1091563776409612,
+  "vaultPct": 0.001980339712067064
+}

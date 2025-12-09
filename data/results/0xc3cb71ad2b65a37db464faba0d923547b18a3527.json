@@ -1,0 +1,127 @@
+{
+  "portfolio": {
+    "address": "0xc3cb71ad2b65a37db464faba0d923547b18a3527",
+    "totalValue": "$68,679",
+    "walletLifetime": "1290 days",
+    "tokens": [
+      {
+        "symbol": "BTCB",
+        "chain": "bsc",
+        "price": "$91,501.8400",
+        "amount": "0.0316",
+        "usdValue": "$2,888.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,151.5600",
+        "amount": "0.0085",
+        "usdValue": "$26.72"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1246",
+        "amount": "10.0000",
+        "usdValue": "$1.25"
+      },
+      {
+        "symbol": "比特币",
+        "chain": "bsc",
+        "price": "$0.0376",
+        "amount": "1.1634",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "SDJT",
+        "chain": "bsc",
+        "price": "$0.1163",
+        "amount": "0.1000",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "RTTX",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "36.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$65,763"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc3cb71ad2b65a37db464faba0d923547b18a3527",
+    "topProtocols": [
+      {
+        "name": "0x3cdf…71ae",
+        "volume": "$45K"
+      },
+      {
+        "name": "0xbd73…faaf",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x7f99…00af",
+        "volume": "$862B"
+      },
+      {
+        "name": "inance",
+        "volume": "$735"
+      },
+      {
+        "name": "0xded1…d137",
+        "volume": "$173"
+      },
+      {
+        "name": "0xbb36…246d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x69db…1ab7",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$67K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$735"
+      },
+      {
+        "name": "POL",
+        "volume": "$6"
+      },
+      {
+        "name": "RTTX",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:18:52.690Z",
+  "source": "lido_steth",
+  "vaultBalance": 20,
+  "vaultPct": 0.0015017568476320322
+}

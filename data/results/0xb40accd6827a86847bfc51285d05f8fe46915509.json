@@ -1,0 +1,242 @@
+{
+  "portfolio": {
+    "address": "0xb40accd6827a86847bfc51285d05f8fe46915509",
+    "totalValue": "$1,233",
+    "walletLifetime": "1142 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.0000",
+        "amount": "0.1172",
+        "usdValue": "$365.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,116.6300",
+        "amount": "0.0079",
+        "usdValue": "$24.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,117.0000",
+        "amount": "0.0057",
+        "usdValue": "$17.61"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.7000",
+        "amount": "0.0150",
+        "usdValue": "$13.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.6300",
+        "amount": "0.0037",
+        "usdValue": "$11.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,117.0000",
+        "amount": "0.0013",
+        "usdValue": "$4.17"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1224",
+        "amount": "31.3006",
+        "usdValue": "$3.83"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "3.2215",
+        "usdValue": "$3.22"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "2.1255",
+        "usdValue": "$2.13"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6900",
+        "amount": "0.0793",
+        "usdValue": "$1.09"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$892.0000",
+        "amount": "0.0010",
+        "usdValue": "$0.87"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0940",
+        "amount": "7.1524",
+        "usdValue": "$0.67"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$779"
+      },
+      {
+        "protocol": "Balmy",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC(Bridged)",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb40accd6827a86847bfc51285d05f8fe46915509",
+    "topProtocols": [
+      {
+        "name": "Mendi Finance",
+        "volume": "$65K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$38K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x1316…3b31",
+        "volume": "$28K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$22K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$17K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xaa27…050f",
+        "volume": "$16K"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x7421…a971",
+        "volume": "$15K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$11K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$11K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x1d49…52c2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x206a…7416",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x0541…9aa4",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$117K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$60K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$6K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$3K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$2K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZKJ",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:37:21.710Z",
+  "source": "base_aave",
+  "vaultBalance": 0.249,
+  "vaultPct": 0.0003662989839477302
+}

@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0x709b0e73963011a5e15ad3140c0872bc92f30da1",
+    "totalValue": "$1,574",
+    "walletLifetime": "1111 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,131.1800",
+        "amount": "0.0004",
+        "usdValue": "$1.10"
+      },
+      {
+        "symbol": "USDC (Bridged)",
+        "chain": "fuse",
+        "price": "$1.0001",
+        "amount": "0.5000",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,131.1800",
+        "amount": "0.0001",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,130.2600",
+        "amount": "0.0001",
+        "usdValue": "$0.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,131.1800",
+        "amount": "0.00004912",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1242",
+        "amount": "1.2015",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$906.0000",
+        "amount": "0.00009765",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "SCROLLY",
+        "chain": "scrl",
+        "price": "$0.0₆1734",
+        "amount": "26,345.9848",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,570"
+      },
+      {
+        "protocol": "Vanilla Finance",
+        "chain": "scrl",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LINK",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x709b0e73963011a5e15ad3140c0872bc92f30da1",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$5K"
+      },
+      {
+        "name": "Zebra V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$3K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$2K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x282e…9491",
+        "volume": "$2K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$973"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$777"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$6K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$400"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:58:37.061Z",
+  "source": "base_aave",
+  "vaultBalance": 0.49970001178138185,
+  "vaultPct": 0.0007350988216634095
+}

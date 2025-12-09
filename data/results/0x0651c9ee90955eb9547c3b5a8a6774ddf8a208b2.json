@@ -1,0 +1,202 @@
+{
+  "portfolio": {
+    "address": "0x0651c9ee90955eb9547c3b5a8a6774ddf8a208b2",
+    "totalValue": "$8,205",
+    "walletLifetime": "1821 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,155.7200",
+        "amount": "0.8142",
+        "usdValue": "$2,569.48"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$1.0001",
+        "amount": "150.0000",
+        "usdValue": "$150.02"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0001",
+        "amount": "39.5603",
+        "usdValue": "$39.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,155.0900",
+        "amount": "0.0099",
+        "usdValue": "$31.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,155.7200",
+        "amount": "0.0099",
+        "usdValue": "$31.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,155.7200",
+        "amount": "0.0095",
+        "usdValue": "$30.02"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,158.4100",
+        "amount": "0.0005",
+        "usdValue": "$1.65"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3251",
+        "amount": "4.9307",
+        "usdValue": "$1.60"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "NCASH",
+        "chain": "arb",
+        "price": "$0.0056",
+        "amount": "1.0500",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001006",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$5,350"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0651c9ee90955eb9547c3b5a8a6774ddf8a208b2",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$4K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xc08d…49eb",
+        "volume": "$2K"
+      },
+      {
+        "name": "Loopring",
+        "volume": "$2K"
+      },
+      {
+        "name": "0000x0a18…233c",
+        "volume": "$824"
+      },
+      {
+        "name": "0xa178…2f96",
+        "volume": "$800B"
+      },
+      {
+        "name": "inance",
+        "volume": "$188M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$145"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$78"
+      },
+      {
+        "name": "Argent",
+        "volume": "$57"
+      },
+      {
+        "name": "0xa864…59ce",
+        "volume": "$57M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$50"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$38"
+      },
+      {
+        "name": "0x64e9…4e13",
+        "volume": "$36"
+      },
+      {
+        "name": "0xf3e2…eacb",
+        "volume": "$10"
+      },
+      {
+        "name": "0x0a18…233c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$376"
+      },
+      {
+        "name": "WETH",
+        "volume": "$73"
+      },
+      {
+        "name": "OP",
+        "volume": "$8"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:55:49.956Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.5,
+  "vaultPct": 0.00011263176357240241
+}

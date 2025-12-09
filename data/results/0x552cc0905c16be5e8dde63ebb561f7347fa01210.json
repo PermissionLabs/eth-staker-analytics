@@ -1,0 +1,49 @@
+{
+  "portfolio": {
+    "address": "0x552cc0905c16be5e8dde63ebb561f7347fa01210",
+    "totalValue": "$3,120",
+    "walletLifetime": "8 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.0000",
+        "amount": "0.0028",
+        "usdValue": "$8.72"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3,112"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x552cc0905c16be5e8dde63ebb561f7347fa01210",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:15:45.962Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.9165182815075668,
+  "vaultPct": 0.010222468814952168
+}

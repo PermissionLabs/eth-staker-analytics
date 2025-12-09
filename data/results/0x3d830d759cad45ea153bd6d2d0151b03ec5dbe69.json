@@ -1,0 +1,255 @@
+{
+  "portfolio": {
+    "address": "0x3d830d759cad45ea153bd6d2d0151b03ec5dbe69",
+    "totalValue": "$62,539",
+    "walletLifetime": "2890 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "30,301.2653",
+        "usdValue": "$30,298.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,136.3200",
+        "amount": "0.0723",
+        "usdValue": "$226.78"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "eth",
+        "price": "$19.93",
+        "amount": "0.14",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$26,643"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$5,049"
+      },
+      {
+        "protocol": "Perpetual Protocol",
+        "chain": "op",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$145"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$73"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "CRV",
+        "usdValue": "$20"
+      },
+      {
+        "protocol": "PoolTogether",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$13"
+      },
+      {
+        "protocol": "1inch",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Instadapp",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "EtherDelta",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3d830d759cad45ea153bd6d2d0151b03ec5dbe69",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$358K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$135K"
+      },
+      {
+        "name": "Instadapp",
+        "volume": "$94K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$93K"
+      },
+      {
+        "name": "AO",
+        "volume": "$89K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$85K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$80K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$79K"
+      },
+      {
+        "name": "0x",
+        "volume": "$71K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$62K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$58K"
+      },
+      {
+        "name": "Aave V1",
+        "volume": "$55K"
+      },
+      {
+        "name": "Ribbon",
+        "volume": "$48K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$48K"
+      },
+      {
+        "name": "0xe678…b31b",
+        "volume": "$40K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$29K"
+      },
+      {
+        "name": "0xf991…8683",
+        "volume": "$23K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$770K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$488K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$195K"
+      },
+      {
+        "name": "RBN",
+        "volume": "$171K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$90K"
+      },
+      {
+        "name": "WSCRT",
+        "volume": "$78K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$70K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$69K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$57K"
+      },
+      {
+        "name": "KSUSHI",
+        "volume": "$24K"
+      },
+      {
+        "name": "EDEN",
+        "volume": "$22K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$19K"
+      },
+      {
+        "name": "BOND",
+        "volume": "$19K"
+      },
+      {
+        "name": "osETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "ORDS",
+        "volume": "$17K"
+      },
+      {
+        "name": "LUNA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:10:20.749Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.0689734964558735,
+  "vaultPct": 0.0005706358241311188
+}

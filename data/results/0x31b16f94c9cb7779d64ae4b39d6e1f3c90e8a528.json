@@ -1,0 +1,159 @@
+{
+  "portfolio": {
+    "address": "0x31b16f94c9cb7779d64ae4b39d6e1f3c90e8a528",
+    "totalValue": "$3,158",
+    "walletLifetime": "3216 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.4800",
+        "amount": "0.0107",
+        "usdValue": "$33.62"
+      },
+      {
+        "symbol": "EURC",
+        "chain": "eth",
+        "price": "$1.1626",
+        "amount": "26.1709",
+        "usdValue": "$30.43"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6600",
+        "amount": "1.7961",
+        "usdValue": "$24.53"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2134",
+        "amount": "62.4030",
+        "usdValue": "$13.32"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "eth",
+        "price": "$0.2134",
+        "amount": "18.4997",
+        "usdValue": "$3.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,142.0000",
+        "amount": "0.0008",
+        "usdValue": "$2.43"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,772"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "EUROC",
+        "usdValue": "$1,278"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x31b16f94c9cb7779d64ae4b39d6e1f3c90e8a528",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4f15…ee6d",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x74de…f9a1",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xda1a…0a2f",
+        "volume": "$568"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$290"
+      },
+      {
+        "name": "0x757f…0ce6",
+        "volume": "$164"
+      },
+      {
+        "name": "0x9a22…e300",
+        "volume": "$25"
+      },
+      {
+        "name": "DeBank L2",
+        "volume": "$10"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$5M"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "EUROC",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$2K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$600"
+      },
+      {
+        "name": "USDC",
+        "volume": "$156"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$36"
+      },
+      {
+        "name": "ARB",
+        "volume": "$19"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:55:01.884Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.24696611289619655,
+  "vaultPct": 0.000045920146110002854
+}

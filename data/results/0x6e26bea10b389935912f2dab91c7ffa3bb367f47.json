@@ -1,0 +1,119 @@
+{
+  "portfolio": {
+    "address": "0x6e26bea10b389935912f2dab91c7ffa3bb367f47",
+    "totalValue": "$308,686",
+    "walletLifetime": "18 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.5500",
+        "amount": "0.5065",
+        "usdValue": "$1,577.98"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.9000",
+        "amount": "0.2081",
+        "usdValue": "$184.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,115.5500",
+        "amount": "0.0504",
+        "usdValue": "$156.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,115.0500",
+        "amount": "0.0310",
+        "usdValue": "$96.42"
+      },
+      {
+        "symbol": "BTC",
+        "chain": "merlin",
+        "price": "$90,171.9800",
+        "amount": "0.0003",
+        "usdValue": "$28.48"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "8.8366",
+        "usdValue": "$8.84"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1064",
+        "amount": "3.9956",
+        "usdValue": "$4.42"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$181,880"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$124,748"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6e26bea10b389935912f2dab91c7ffa3bb367f47",
+    "topProtocols": [
+      {
+        "name": "Frax",
+        "volume": "$123K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$122K"
+      },
+      {
+        "name": "0xe651…ce05",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0102…acb0",
+        "volume": "$989"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$246K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$180"
+      },
+      {
+        "name": "USDC",
+        "volume": "$9M"
+      },
+      {
+        "name": "NT",
+        "volume": "$4B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:06:47.075Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 36.74660339399107,
+  "vaultPct": 0.4098565351392699
+}

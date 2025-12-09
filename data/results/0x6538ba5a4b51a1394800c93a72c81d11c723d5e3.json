@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0x6538ba5a4b51a1394800c93a72c81d11c723d5e3",
+    "totalValue": "$11,779",
+    "walletLifetime": "1414 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0003",
+        "amount": "6,305.6650",
+        "usdValue": "$6,307.49"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.2000",
+        "amount": "0.4929",
+        "usdValue": "$448.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,161.3800",
+        "amount": "0.1031",
+        "usdValue": "$325.83"
+      },
+      {
+        "symbol": "FET",
+        "chain": "bsc",
+        "price": "$0.2455",
+        "amount": "123.5375",
+        "usdValue": "$30.33"
+      },
+      {
+        "symbol": "BEAM",
+        "chain": "bsc",
+        "price": "$0.0033",
+        "amount": "6,458.6999",
+        "usdValue": "$21.63"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,500"
+      },
+      {
+        "protocol": "MetaMask Swaps",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$2,144"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6538ba5a4b51a1394800c93a72c81d11c723d5e3",
+    "topProtocols": [
+      {
+        "name": "OpenSea",
+        "volume": "$60K"
+      },
+      {
+        "name": "GGoose",
+        "volume": "$44K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$38K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x62cb…3c2a",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xa889…0224",
+        "volume": "$12K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$10K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xde46…ef0e",
+        "volume": "$8K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x2031…0d21",
+        "volume": "$5K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$5K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$127K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$68K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$61K"
+      },
+      {
+        "name": "gold8",
+        "volume": "$37K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$12K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$12K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$3K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "BEAM",
+        "volume": "$187"
+      },
+      {
+        "name": "FET",
+        "volume": "$179"
+      },
+      {
+        "name": "WWBASEDTIX",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:21:00.734Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.76,
+  "vaultPct": 0.00005706676021001722
+}

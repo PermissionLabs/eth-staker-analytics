@@ -1,0 +1,64 @@
+{
+  "portfolio": {
+    "address": "0x8cca5fcc8123654b492d93a9e1bc95e900af1d54",
+    "totalValue": "$149",
+    "walletLifetime": "388 days",
+    "tokens": [],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$148"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8cca5fcc8123654b492d93a9e1bc95e900af1d54",
+    "topProtocols": [
+      {
+        "name": "0x8cca…1d54",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x236a…794b",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8335…2913",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x2ae3…ec22",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x04c0…150a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcbb7…33bf",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T14:07:31.963Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1431646873723692,
+  "vaultPct": 0.00021060674506704125
+}

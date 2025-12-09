@@ -1,0 +1,80 @@
+{
+  "portfolio": {
+    "address": "0x3c7e94d3b1cea772b831b15c2fbb26b455aecb36",
+    "totalValue": "$84,739",
+    "walletLifetime": "14 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.0900",
+        "amount": "17.9967",
+        "usdValue": "$56,385.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.0900",
+        "amount": "1.9934",
+        "usdValue": "$6,245.41"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$22,108"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3c7e94d3b1cea772b831b15c2fbb26b455aecb36",
+    "topProtocols": [
+      {
+        "name": "0x",
+        "volume": "$104K"
+      },
+      {
+        "name": "0xaca6…693b",
+        "volume": "$68K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$49K"
+      },
+      {
+        "name": "Gas.zip",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$15K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$145K"
+      },
+      {
+        "name": "PNKSTR",
+        "volume": "$102K"
+      },
+      {
+        "name": "BOTTO",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:31:11.699Z",
+  "source": "base_aave",
+  "vaultBalance": 7.055042360324165,
+  "vaultPct": 0.010378533527288906
+}

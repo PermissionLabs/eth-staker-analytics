@@ -1,0 +1,163 @@
+{
+  "portfolio": {
+    "address": "0x9f5edc8ca884da1cd2334074f58b7ed6df10ebaa",
+    "totalValue": "$3,510",
+    "walletLifetime": "299 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "91.1270",
+        "usdValue": "$91.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.1000",
+        "amount": "0.0227",
+        "usdValue": "$71.09"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "1.3037",
+        "usdValue": "$1.30"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0283",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9863",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "TBA",
+        "chain": "matic",
+        "price": "$0.0₉5899",
+        "amount": "17.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "3,750.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,694"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,421"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$231"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9f5edc8ca884da1cd2334074f58b7ed6df10ebaa",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$265K"
+      },
+      {
+        "name": "raken",
+        "volume": "$107"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1021"
+      },
+      {
+        "name": "inch",
+        "volume": "$101M"
+      },
+      {
+        "name": "erkl",
+        "volume": "$3"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf120…cb9d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5be7…1f66",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$521"
+      },
+      {
+        "name": "GHO",
+        "volume": "$206"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:16:09.822Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.20011968082958292,
+  "vaultPct": 0.00003720965955780369
+}

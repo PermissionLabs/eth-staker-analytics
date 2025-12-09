@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "address": "0x6fe46ed9921a50e384494cc6edfde1f792189d63",
+    "totalValue": "$168",
+    "walletLifetime": "74 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.3500",
+        "amount": "0.0021",
+        "usdValue": "$6.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.3500",
+        "amount": "0.00009912",
+        "usdValue": "$0.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$160"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6fe46ed9921a50e384494cc6edfde1f792189d63",
+    "topProtocols": [
+      {
+        "name": "0x4200…0006",
+        "volume": "$333"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$298"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$293"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$168M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$157"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$130B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$130"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x1a63…819c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8b8d…832e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$802"
+      },
+      {
+        "name": "WETH",
+        "volume": "$490"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:31:03.416Z",
+  "source": "moonwell",
+  "vaultBalance": 0.0506420714952011,
+  "vaultPct": 0.000918759924529162
+}

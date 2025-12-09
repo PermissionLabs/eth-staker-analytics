@@ -1,0 +1,92 @@
+{
+  "portfolio": {
+    "address": "0xd116b00c91ac5d1112d0c69b072a6d23f789dfb0",
+    "totalValue": "$63,081",
+    "walletLifetime": "471 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,092.6500",
+        "amount": "0.1455",
+        "usdValue": "$449.99"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0290",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$62,631"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd116b00c91ac5d1112d0c69b072a6d23f789dfb0",
+    "topProtocols": [
+      {
+        "name": "Stader",
+        "volume": "$120K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$86K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$79K"
+      },
+      {
+        "name": "0x346e…69c8",
+        "volume": "$55K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$100"
+      },
+      {
+        "name": "disperse",
+        "volume": "$94"
+      },
+      {
+        "name": "0x57c0…49d7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$418K"
+      },
+      {
+        "name": "SD",
+        "volume": "$194M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:58:30.853Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 18.586338642982025,
+  "vaultPct": 0.2073043942445959
+}

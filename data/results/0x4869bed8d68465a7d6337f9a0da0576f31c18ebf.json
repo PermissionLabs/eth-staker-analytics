@@ -1,0 +1,246 @@
+{
+  "portfolio": {
+    "address": "0x4869bed8d68465a7d6337f9a0da0576f31c18ebf",
+    "totalValue": "$2,412",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.0000",
+        "amount": "0.0128",
+        "usdValue": "$11.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.7300",
+        "amount": "0.0027",
+        "usdValue": "$8.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.7300",
+        "amount": "0.0026",
+        "usdValue": "$8.02"
+      },
+      {
+        "symbol": "CELR",
+        "chain": "eth",
+        "price": "$0.0043",
+        "amount": "53.6290",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.7300",
+        "amount": "0.00007296",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6688",
+        "amount": "0.0004",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRUMP",
+        "chain": "base",
+        "price": "$0.00001631",
+        "amount": "4.7000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "KEVIN",
+        "chain": "base",
+        "price": "$0.0000175",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BABY SATO",
+        "chain": "base",
+        "price": "$0.00001679",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1321",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,889"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$310"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$157"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBNB",
+        "usdValue": "$27"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ARB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4869bed8d68465a7d6337f9a0da0576f31c18ebf",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$17K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1a1e…7d31",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$1K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$907"
+      },
+      {
+        "name": "0x16a7…bcc0",
+        "volume": "$600"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$324"
+      },
+      {
+        "name": "disperse",
+        "volume": "$300"
+      },
+      {
+        "name": "0x8fca…91aa",
+        "volume": "$300"
+      },
+      {
+        "name": "0x7305…8c9e",
+        "volume": "$300"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$27K"
+      },
+      {
+        "name": "USDT.e",
+        "volume": "$5K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KBNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$215"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$21"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$4"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:17:56.799Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.09668503602730384,
+  "vaultPct": 0.00001797732866650734
+}

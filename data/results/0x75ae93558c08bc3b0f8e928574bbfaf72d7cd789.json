@@ -1,0 +1,83 @@
+{
+  "portfolio": {
+    "address": "0x75ae93558c08bc3b0f8e928574bbfaf72d7cd789",
+    "totalValue": "$6,742",
+    "walletLifetime": "86 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,154.3400",
+        "amount": "0.1298",
+        "usdValue": "$409.53"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0289",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "3.6000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6,333"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x75ae93558c08bc3b0f8e928574bbfaf72d7cd789",
+    "topProtocols": [
+      {
+        "name": "0x17af…1445",
+        "volume": "$8K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xce4f…401b",
+        "volume": "$5K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x3afe…34b4",
+        "volume": "$769"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7eab…3f16",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:31:29.166Z",
+  "source": "lido_steth",
+  "vaultBalance": 2,
+  "vaultPct": 0.0001501756847632032
+}

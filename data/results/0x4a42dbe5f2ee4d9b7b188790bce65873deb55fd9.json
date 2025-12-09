@@ -1,0 +1,229 @@
+{
+  "portfolio": {
+    "address": "0x4a42dbe5f2ee4d9b7b188790bce65873deb55fd9",
+    "totalValue": "$2,209",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "XRP",
+        "chain": "bsc",
+        "price": "$2.0649",
+        "amount": "40.9022",
+        "usdValue": "$84.46"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "base",
+        "price": "$5.5010",
+        "amount": "9.5342",
+        "usdValue": "$52.45"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.0000",
+        "amount": "0.0447",
+        "usdValue": "$39.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,120.2400",
+        "amount": "0.0062",
+        "usdValue": "$19.23"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,296.0600",
+        "amount": "0.00008219",
+        "usdValue": "$7.42"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6659",
+        "amount": "7.0281",
+        "usdValue": "$4.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,120.2400",
+        "amount": "0.0009",
+        "usdValue": "$2.74"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.3621",
+        "amount": "1.0867",
+        "usdValue": "$2.57"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "0.3245",
+        "usdValue": "$0.32"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,310"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$397"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$288"
+      },
+      {
+        "protocol": "Revert",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Revert",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4a42dbe5f2ee4d9b7b188790bce65873deb55fd9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Revert",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xafee…ad72",
+        "volume": "$1K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$779"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$663"
+      },
+      {
+        "name": "Fly",
+        "volume": "$609"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$5091"
+      },
+      {
+        "name": "inch",
+        "volume": "$478"
+      },
+      {
+        "name": "0x6df6…18c0",
+        "volume": "$4200"
+      },
+      {
+        "name": "x",
+        "volume": "$416M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$385"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$348"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$8K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$924"
+      },
+      {
+        "name": "UNI",
+        "volume": "$334"
+      },
+      {
+        "name": "XRP",
+        "volume": "$332"
+      },
+      {
+        "name": "uXRP",
+        "volume": "$331"
+      },
+      {
+        "name": "BNB",
+        "volume": "$226"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:31:55.554Z",
+  "source": "base_aave",
+  "vaultBalance": 0.10848545336211103,
+  "vaultPct": 0.00015959080859297243
+}

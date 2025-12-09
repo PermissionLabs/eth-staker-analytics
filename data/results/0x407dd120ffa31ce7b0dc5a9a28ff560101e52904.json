@@ -1,0 +1,208 @@
+{
+  "portfolio": {
+    "address": "0x407dd120ffa31ce7b0dc5a9a28ff560101e52904",
+    "totalValue": "$12,813",
+    "walletLifetime": "191 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,161.6500",
+        "amount": "0.0042",
+        "usdValue": "$13.27"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,161.6500",
+        "amount": "0.0002",
+        "usdValue": "$0.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,161.6500",
+        "amount": "0.0001",
+        "usdValue": "$0.33"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SALUKI",
+        "chain": "base",
+        "price": "$0.0₅5282",
+        "amount": "33.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.00006",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USI",
+        "chain": "base",
+        "price": "$0.0₆7279",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "HAIR",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "12.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BB",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "100.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "Mog",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "25.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "cbXRP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "75.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$12,799"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x407dd120ffa31ce7b0dc5a9a28ff560101e52904",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$126K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$93K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xf9aa…20be",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x2134…ce04",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x2ee6…c434",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xbf62…fa2c",
+        "volume": "$4K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$837"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$748"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$695"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$138K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$99K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$40K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$37K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$60"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:39:22.756Z",
+  "source": "base_aave",
+  "vaultBalance": 3.8487969045960506,
+  "vaultPct": 0.0056618891388542265
+}

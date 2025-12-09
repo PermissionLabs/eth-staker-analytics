@@ -1,0 +1,151 @@
+{
+  "portfolio": {
+    "address": "0x89a483360067f068368490572dbdb12c0a8f842e",
+    "totalValue": "$10",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,141.6100",
+        "amount": "0.0029",
+        "usdValue": "$8.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.2000",
+        "amount": "0.0003",
+        "usdValue": "$0.89"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,141.6100",
+        "amount": "0.0001",
+        "usdValue": "$0.37"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.9000",
+        "amount": "0.0000821",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "CHECK",
+        "chain": "base",
+        "price": "$0.0105",
+        "amount": "5.0769",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6782",
+        "amount": "0.0146",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x89a483360067f068368490572dbdb12c0a8f842e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4ed1…e78b",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$992M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$133B"
+      },
+      {
+        "name": "itget",
+        "volume": "$95M"
+      },
+      {
+        "name": "0xee27…e14e",
+        "volume": "$32M"
+      },
+      {
+        "name": "etaMask Bridge",
+        "volume": "$26"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$25"
+      },
+      {
+        "name": "0x2cff…2680",
+        "volume": "$12"
+      },
+      {
+        "name": "0xcaec…4cd7",
+        "volume": "$9"
+      },
+      {
+        "name": "0xb42f…ead6",
+        "volume": "$1"
+      },
+      {
+        "name": "0xb01c…9c2e",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4ed3…e78b",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x285a…66ab",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4296…a102",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$7K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$157"
+      },
+      {
+        "name": "AERO",
+        "volume": "$32"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:43:35.481Z",
+  "source": "base_aave",
+  "vaultBalance": 1.1694569375880046,
+  "vaultPct": 0.00172036501208478
+}

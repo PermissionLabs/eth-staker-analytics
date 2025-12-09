@@ -1,0 +1,168 @@
+{
+  "portfolio": {
+    "address": "0x95c45dca4b7ec9825d48044f2ef3ee2ee6c3e32c",
+    "totalValue": "$11,175",
+    "walletLifetime": "240 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.2300",
+        "amount": "0.1037",
+        "usdValue": "$324.06"
+      },
+      {
+        "symbol": "RLUSD",
+        "chain": "eth",
+        "price": "$0.9994",
+        "amount": "0.3391",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "0.0014",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDe",
+        "chain": "eth",
+        "price": "$0.9991",
+        "amount": "0.00002388",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7907",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$9,873"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$978"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x95c45dca4b7ec9825d48044f2ef3ee2ee6c3e32c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x5b14…fb53",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7c58…8ccc",
+        "volume": "$740"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$693"
+      },
+      {
+        "name": "0xca1a…de87",
+        "volume": "$482"
+      },
+      {
+        "name": "0x1887…3cdd",
+        "volume": "$120"
+      },
+      {
+        "name": "0x5167…3dec",
+        "volume": "$105"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$16M"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$953"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$629"
+      },
+      {
+        "name": "GHO",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:19:42.092Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.9019952991062343,
+  "vaultPct": 0.0005395883936575171
+}

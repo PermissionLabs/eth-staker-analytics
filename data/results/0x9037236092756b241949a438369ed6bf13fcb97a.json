@@ -1,0 +1,86 @@
+{
+  "portfolio": {
+    "address": "0x9037236092756b241949a438369ed6bf13fcb97a",
+    "totalValue": "$1,027",
+    "walletLifetime": "544 days",
+    "tokens": [
+      {
+        "symbol": "PENDLE",
+        "chain": "base",
+        "price": "$2.3792",
+        "amount": "187.5021",
+        "usdValue": "$446.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.1600",
+        "amount": "0.0253",
+        "usdValue": "$79.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.1600",
+        "amount": "0.0104",
+        "usdValue": "$32.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.1600",
+        "amount": "0.0097",
+        "usdValue": "$30.43"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.5000",
+        "amount": "0.0053",
+        "usdValue": "$4.76"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1.3578",
+        "usdValue": "$1.36"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$360"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$70"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9037236092756b241949a438369ed6bf13fcb97a",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T00:00:38.387Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05,
+  "vaultPct": 0.000009296851614882031
+}

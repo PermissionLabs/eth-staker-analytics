@@ -1,0 +1,251 @@
+{
+  "portfolio": {
+    "address": "0x531c2b3a5d9912f7151f300ea77d75b1465c3e12",
+    "totalValue": "$1,688,192",
+    "walletLifetime": "1423 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.8200",
+        "amount": "169.2451",
+        "usdValue": "$534,445.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.8200",
+        "amount": "4.1898",
+        "usdValue": "$13,230.69"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0295",
+        "amount": "19,750.0000",
+        "usdValue": "$582.52"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$869,668"
+      },
+      {
+        "protocol": "YieldNest",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$269,532"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$214"
+      },
+      {
+        "protocol": "Dolomite",
+        "chain": "bera",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "DOLO",
+        "usdValue": "$59"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Puffer Finance",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "CAP",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SushiSwapLend",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "MIM(multichain)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x531c2b3a5d9912f7151f300ea77d75b1465c3e12",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$6M"
+      },
+      {
+        "name": "Abracadabra",
+        "volume": "$5M"
+      },
+      {
+        "name": "MethLab",
+        "volume": "$4M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$4M"
+      },
+      {
+        "name": "GMX",
+        "volume": "$4M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2M"
+      },
+      {
+        "name": "0xa174…ed2d",
+        "volume": "$2M"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xe65d…bf27",
+        "volume": "$1M"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1M"
+      },
+      {
+        "name": "FTX",
+        "volume": "$1M"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$1M"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$982K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$17M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11M"
+      },
+      {
+        "name": "mETH",
+        "volume": "$6M"
+      },
+      {
+        "name": "MWETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDe",
+        "volume": "$2M"
+      },
+      {
+        "name": "MIM",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$942K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$746K"
+      },
+      {
+        "name": "Legacy Frax Dollar",
+        "volume": "$671K"
+      },
+      {
+        "name": "TEMPLE",
+        "volume": "$669K"
+      },
+      {
+        "name": "esGMX",
+        "volume": "$619K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:29:36.692Z",
+  "source": "lido_steth",
+  "vaultBalance": 223.85057198190623,
+  "vaultPct": 0.016808456466008738
+}

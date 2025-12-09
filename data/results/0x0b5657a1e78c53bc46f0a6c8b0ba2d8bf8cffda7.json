@@ -1,0 +1,140 @@
+{
+  "portfolio": {
+    "address": "0x0b5657a1e78c53bc46f0a6c8b0ba2d8bf8cffda7",
+    "totalValue": "$49,274",
+    "walletLifetime": "1525 days",
+    "tokens": [
+      {
+        "symbol": "MOR",
+        "chain": "arb",
+        "price": "$1.7839",
+        "amount": "175.6291",
+        "usdValue": "$313.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,162.7100",
+        "amount": "0.0898",
+        "usdValue": "$284.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,162.4400",
+        "amount": "0.0005",
+        "usdValue": "$1.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,162.7100",
+        "amount": "0.0004",
+        "usdValue": "$1.16"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$48,674"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0b5657a1e78c53bc46f0a6c8b0ba2d8bf8cffda7",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$94K"
+      },
+      {
+        "name": "0x0076…ab2a",
+        "volume": "$65K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$29K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x715a…624c",
+        "volume": "$560"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$481"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$402"
+      },
+      {
+        "name": "0xb3c6…b63b",
+        "volume": "$208"
+      },
+      {
+        "name": "raken",
+        "volume": "$150"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$22M"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0b56…fda7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe7ff…a250",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$190K"
+      },
+      {
+        "name": "MOR",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$413"
+      },
+      {
+        "name": "USDC",
+        "volume": "$300"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:36:29.567Z",
+  "source": "lido_steth",
+  "vaultBalance": 14.64897900847519,
+  "vaultPct": 0.0010999602268397756
+}

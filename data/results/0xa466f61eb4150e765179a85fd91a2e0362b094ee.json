@@ -1,0 +1,269 @@
+{
+  "portfolio": {
+    "address": "0xa466f61eb4150e765179a85fd91a2e0362b094ee",
+    "totalValue": "$2,805",
+    "walletLifetime": "1550 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.3000",
+        "amount": "0.0175",
+        "usdValue": "$54.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.0700",
+        "amount": "0.0103",
+        "usdValue": "$32.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.3000",
+        "amount": "0.0101",
+        "usdValue": "$31.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.3000",
+        "amount": "0.0100",
+        "usdValue": "$31.29"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.4000",
+        "amount": "0.0168",
+        "usdValue": "$15.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "rari",
+        "price": "$3,125.4500",
+        "amount": "0.0032",
+        "usdValue": "$9.89"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3177",
+        "amount": "21.1882",
+        "usdValue": "$6.73"
+      },
+      {
+        "symbol": "cUSD",
+        "chain": "celo",
+        "price": "$1.0001",
+        "amount": "3.0915",
+        "usdValue": "$3.09"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "0.9788",
+        "usdValue": "$0.98"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1234",
+        "amount": "3.6597",
+        "usdValue": "$0.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,125.0700",
+        "amount": "0.00009366",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.3000",
+        "amount": "0.00007394",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2122",
+        "amount": "0.9600",
+        "usdValue": "$0.20"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$953"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$657"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$533"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$376"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$94"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa466f61eb4150e765179a85fd91a2e0362b094ee",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x",
+        "volume": "$33K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$22K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xe8c9…0c9b",
+        "volume": "$18K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$17K"
+      },
+      {
+        "name": "Across V1",
+        "volume": "$16K"
+      },
+      {
+        "name": "OpenLeverage",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xf2e4…171c",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x170a…859c",
+        "volume": "$13K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$12K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$12K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x2a9e…314e",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$61K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$51K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$48K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$43K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$42K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$40K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$38K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$35K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$26K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$25K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$24K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$20K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:39:16.283Z",
+  "source": "moonwell",
+  "vaultBalance": 0.20610567207262498,
+  "vaultPct": 0.0037392157573258285
+}

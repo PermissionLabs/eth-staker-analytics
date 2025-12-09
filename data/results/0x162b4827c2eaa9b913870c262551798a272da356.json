@@ -1,0 +1,255 @@
+{
+  "portfolio": {
+    "address": "0x162b4827c2eaa9b913870c262551798a272da356",
+    "totalValue": "$18,528",
+    "walletLifetime": "2748 days",
+    "tokens": [
+      {
+        "symbol": "wstETH",
+        "chain": "base",
+        "price": "$3,815.5508",
+        "amount": "1.7072",
+        "usdValue": "$6,513.98"
+      },
+      {
+        "symbol": "agETH",
+        "chain": "arb",
+        "price": "$3,290.8007",
+        "amount": "0.9510",
+        "usdValue": "$3,129.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.1100",
+        "amount": "0.0292",
+        "usdValue": "$91.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,127.1100",
+        "amount": "0.0179",
+        "usdValue": "$55.95"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5992",
+        "amount": "81.1892",
+        "usdValue": "$48.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.1100",
+        "amount": "0.0150",
+        "usdValue": "$46.96"
+      },
+      {
+        "symbol": "unshETH",
+        "chain": "arb",
+        "price": "$3,523.4273",
+        "amount": "0.0096",
+        "usdValue": "$33.85"
+      },
+      {
+        "symbol": "CVX",
+        "chain": "eth",
+        "price": "$1.8276",
+        "amount": "12.8611",
+        "usdValue": "$23.51"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1231",
+        "amount": "182.9342",
+        "usdValue": "$22.52"
+      },
+      {
+        "symbol": "stMATIC",
+        "chain": "matic",
+        "price": "$0.1417",
+        "amount": "152.8599",
+        "usdValue": "$21.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.8400",
+        "amount": "0.0062",
+        "usdValue": "$19.48"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Convex",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,443"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3,220"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ZK",
+        "usdValue": "$1,147"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$668"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$14"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x162b4827c2eaa9b913870c262551798a272da356",
+    "topProtocols": [
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$104K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$101K"
+      },
+      {
+        "name": "0xd7aa…64fc",
+        "volume": "$65K"
+      },
+      {
+        "name": "Polygon Staking",
+        "volume": "$57K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$56K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$52K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$50K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$42K"
+      },
+      {
+        "name": "0xc602…cc27",
+        "volume": "$42K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$41K"
+      },
+      {
+        "name": "0x41d3…87b3",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x4891…81b6",
+        "volume": "$37K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$34K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$34K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$33K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$32K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$31K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$31K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$279K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$115K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$114K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$88K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$87K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$65K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$65K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$61K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$45K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$44K"
+      },
+      {
+        "name": "YLA",
+        "volume": "$28K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:20:25.574Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.9450460151948146,
+  "vaultPct": 0.010540655450028845
+}

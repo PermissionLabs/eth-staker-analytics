@@ -1,0 +1,128 @@
+{
+  "portfolio": {
+    "address": "0x0c9b74a8a4f54be4fa3fb239d6beaa7c50978fb6",
+    "totalValue": "$318,962",
+    "walletLifetime": "1772 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.0700",
+        "amount": "1.1444",
+        "usdValue": "$3,564.93"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "eth",
+        "price": "$0.8300",
+        "amount": "50.3148",
+        "usdValue": "$41.76"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4910",
+        "amount": "18.5184",
+        "usdValue": "$9.09"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9884",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7879",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$315,292"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$54"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0c9b74a8a4f54be4fa3fb239d6beaa7c50978fb6",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$580K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$261K"
+      },
+      {
+        "name": "0xf764…2716",
+        "volume": "$138K"
+      },
+      {
+        "name": "King Protocol",
+        "volume": "$90"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9894…66d7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x42dd…3df0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$978K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$59"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$32B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:17:52.275Z",
+  "source": "lido_steth",
+  "vaultBalance": 99,
+  "vaultPct": 0.007433696395778559
+}

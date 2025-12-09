@@ -1,0 +1,181 @@
+{
+  "portfolio": {
+    "address": "0xd951bb0a42aa1a2755df9f24b9bcfa1c84887584",
+    "totalValue": "$2,343",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.2700",
+        "amount": "0.0099",
+        "usdValue": "$30.70"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "0.5923",
+        "usdValue": "$8.04"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2080",
+        "amount": "1.0024",
+        "usdValue": "$1.21"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6648",
+        "amount": "1.8135",
+        "usdValue": "$1.21"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0100",
+        "amount": "35.7120",
+        "usdValue": "$0.36"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,266"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AERO",
+        "usdValue": "$31"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd951bb0a42aa1a2755df9f24b9bcfa1c84887584",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$43K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$5K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6b8b…7dac",
+        "volume": "$812"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$463"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$235"
+      },
+      {
+        "name": "0x3a5b…56aa",
+        "volume": "$202"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$200"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$96M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$60"
+      },
+      {
+        "name": "0xe1a0…917c",
+        "volume": "$9"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7cc6…94dc",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$983"
+      },
+      {
+        "name": "OVN",
+        "volume": "$419"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$99M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$3"
+      },
+      {
+        "name": "WELL",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:39:03.174Z",
+  "source": "moonwell",
+  "vaultBalance": 0.5310504943361956,
+  "vaultPct": 0.009634438278136627
+}

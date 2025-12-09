@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "address": "0x2320f74f9a3c7f733935e6cc0c97942c0fd84ff0",
+    "totalValue": "$377",
+    "walletLifetime": "888 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.0000",
+        "amount": "0.0995",
+        "usdValue": "$314.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,156.0000",
+        "amount": "0.0200",
+        "usdValue": "$63.12"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9971",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ASTR",
+        "chain": "astar",
+        "price": "$0.0127",
+        "amount": "0.0123",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x2320f74f9a3c7f733935e6cc0c97942c0fd84ff0",
+    "topProtocols": [
+      {
+        "name": "0xc39b…1980",
+        "volume": "$19K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x11d4…c91b",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x52b4…9734",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd1f3…33e3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$908"
+      },
+      {
+        "name": "0xadab…541c",
+        "volume": "$908"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$39"
+      },
+      {
+        "name": "0x3431…6101",
+        "volume": "$39"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$41K"
+      },
+      {
+        "name": "ASTR",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:52:57.400Z",
+  "source": "lido_steth",
+  "vaultBalance": 9.5,
+  "vaultPct": 0.0007133345026252152
+}

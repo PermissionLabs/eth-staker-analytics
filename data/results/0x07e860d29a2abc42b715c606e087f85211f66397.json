@@ -1,0 +1,206 @@
+{
+  "portfolio": {
+    "address": "0x07e860d29a2abc42b715c606e087f85211f66397",
+    "totalValue": "$23,911",
+    "walletLifetime": "2894 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.0600",
+        "amount": "2.2103",
+        "usdValue": "$6,980.24"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "421.7040",
+        "usdValue": "$421.79"
+      },
+      {
+        "symbol": "BAT",
+        "chain": "eth",
+        "price": "$0.2631",
+        "amount": "100.5963",
+        "usdValue": "$26.46"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.9000",
+        "amount": "4.2518",
+        "usdValue": "$16.58"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2865",
+        "amount": "18.0000",
+        "usdValue": "$5.16"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0293",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "NCASH",
+        "chain": "arb",
+        "price": "$0.0056",
+        "amount": "3.1500",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9971",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "TUSD",
+        "chain": "eth",
+        "price": "$0.9972",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004707",
+        "amount": "0.0690",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BONE",
+        "chain": "shib",
+        "price": "$0.0953",
+        "amount": "0.00001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$16,460"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x07e860d29a2abc42b715c606e087f85211f66397",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xe49b…a692",
+        "volume": "$7K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf623…7d69",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb1bd…3dd0",
+        "volume": "$2K"
+      },
+      {
+        "name": "Upbit",
+        "volume": "$6131"
+      },
+      {
+        "name": "inch",
+        "volume": "$422"
+      },
+      {
+        "name": "0x3b48…f73d",
+        "volume": "$400"
+      },
+      {
+        "name": "0xeb2b…abd6",
+        "volume": "$300"
+      },
+      {
+        "name": "0x4cd1…f6d8",
+        "volume": "$275B"
+      },
+      {
+        "name": "inance",
+        "volume": "$256"
+      },
+      {
+        "name": "0x7f9f…569a",
+        "volume": "$250"
+      },
+      {
+        "name": "0xfe15…7427",
+        "volume": "$211"
+      },
+      {
+        "name": "0x063e…cfff",
+        "volume": "$105"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$105"
+      },
+      {
+        "name": "0x5919…6d37",
+        "volume": "$66"
+      },
+      {
+        "name": "0x2555…ad74",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$922"
+      },
+      {
+        "name": "USDT",
+        "volume": "$632B"
+      },
+      {
+        "name": "AT",
+        "volume": "$71"
+      },
+      {
+        "name": "LPT",
+        "volume": "$66"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:19:21.317Z",
+  "source": "lido_steth",
+  "vaultBalance": 5,
+  "vaultPct": 0.00037543921190800805
+}

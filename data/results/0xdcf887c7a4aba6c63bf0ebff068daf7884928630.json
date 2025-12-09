@@ -1,0 +1,288 @@
+{
+  "portfolio": {
+    "address": "0xdcf887c7a4aba6c63bf0ebff068daf7884928630",
+    "totalValue": "$222,459",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "upNUSD",
+        "chain": "eth",
+        "price": "$1.0033",
+        "amount": "14,214.9437",
+        "usdValue": "$14,261.92"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$90,134.0000",
+        "amount": "0.0087",
+        "usdValue": "$779.69"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "96.7308",
+        "usdValue": "$96.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.8200",
+        "amount": "0.0257",
+        "usdValue": "$80.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zircuit",
+        "price": "$3,117.8200",
+        "amount": "0.0237",
+        "usdValue": "$73.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,117.8200",
+        "amount": "0.0171",
+        "usdValue": "$53.44"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$191.4588",
+        "amount": "0.2098",
+        "usdValue": "$40.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,117.8200",
+        "amount": "0.0086",
+        "usdValue": "$26.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,117.8200",
+        "amount": "0.0062",
+        "usdValue": "$19.27"
+      },
+      {
+        "symbol": "SYRUP",
+        "chain": "eth",
+        "price": "$0.2626",
+        "amount": "60.9579",
+        "usdValue": "$16.01"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-USD3-29JAN2026",
+        "usdValue": "$68,029"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "hyper",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-WHLP-18DEC2025",
+        "usdValue": "$43,524"
+      },
+      {
+        "protocol": "Gearbox",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$19,987"
+      },
+      {
+        "protocol": "D2.finance",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "UETH",
+        "usdValue": "$19,826"
+      },
+      {
+        "protocol": "The Wildcat Protocol",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$17,895"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GHO",
+        "usdValue": "$17,416"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$15,811"
+      },
+      {
+        "protocol": "infiniFi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "iUSD",
+        "usdValue": "$3,003"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdcf887c7a4aba6c63bf0ebff068daf7884928630",
+    "topProtocols": [
+      {
+        "name": "The Wildcat Protocol",
+        "volume": "$156K"
+      },
+      {
+        "name": "0xd939…da2b",
+        "volume": "$132K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$111K"
+      },
+      {
+        "name": "Stream Finance",
+        "volume": "$96K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$85K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$83K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$81K"
+      },
+      {
+        "name": "0xe8b5…ed22",
+        "volume": "$81K"
+      },
+      {
+        "name": "Contango",
+        "volume": "$74K"
+      },
+      {
+        "name": "Gearbox",
+        "volume": "$69K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$58K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$56K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$53K"
+      },
+      {
+        "name": "Instadapp Lite",
+        "volume": "$53K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$52K"
+      },
+      {
+        "name": "0x2c52…508b",
+        "volume": "$48K"
+      },
+      {
+        "name": "Summer.fi",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$40K"
+      },
+      {
+        "name": "0xaeb7…29f3",
+        "volume": "$35K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$34K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$525K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$374K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$368K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$176K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$99K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$93K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$81K"
+      },
+      {
+        "name": "SD",
+        "volume": "$65K"
+      },
+      {
+        "name": "KUSDS",
+        "volume": "$46K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$38K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$36K"
+      },
+      {
+        "name": "KUSDX",
+        "volume": "$25K"
+      },
+      {
+        "name": "USD",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:00:06.821Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 4.65407304607471,
+  "vaultPct": 0.05190962093822171
+}

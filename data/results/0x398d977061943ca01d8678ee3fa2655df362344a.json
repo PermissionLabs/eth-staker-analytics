@@ -1,0 +1,146 @@
+{
+  "portfolio": {
+    "address": "0x398d977061943ca01d8678ee3fa2655df362344a",
+    "totalValue": "$94,382",
+    "walletLifetime": "1270 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "89,970.6566",
+        "usdValue": "$89,961.66"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "1,804.7742",
+        "usdValue": "$1,804.59"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "940.2673",
+        "usdValue": "$940.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.1500",
+        "amount": "0.1339",
+        "usdValue": "$418.57"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,130"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x398d977061943ca01d8678ee3fa2655df362344a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$377K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$351K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$338K"
+      },
+      {
+        "name": "0x9638…ff61",
+        "volume": "$225K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$192K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$145K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$128K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$110K"
+      },
+      {
+        "name": "0xa908…0f09",
+        "volume": "$68K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$67K"
+      },
+      {
+        "name": "0x0000…a032",
+        "volume": "$62K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$50K"
+      },
+      {
+        "name": "Pimlico",
+        "volume": "$50K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$303K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$230K"
+      },
+      {
+        "name": "KUSDe",
+        "volume": "$60K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$57K"
+      },
+      {
+        "name": "SCR",
+        "volume": "$735M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$589"
+      },
+      {
+        "name": "WELL",
+        "volume": "$389"
+      },
+      {
+        "name": "DRV",
+        "volume": "$13"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:56:45.838Z",
+  "source": "moonwell",
+  "vaultBalance": 13.78518502545989,
+  "vaultPct": 0.2500939471801077
+}

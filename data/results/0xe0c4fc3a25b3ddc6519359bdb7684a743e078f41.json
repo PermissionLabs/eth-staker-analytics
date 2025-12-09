@@ -1,0 +1,127 @@
+{
+  "portfolio": {
+    "address": "0xe0c4fc3a25b3ddc6519359bdb7684a743e078f41",
+    "totalValue": "$587,666",
+    "walletLifetime": "2684 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "96,161.8133",
+        "usdValue": "$96,152.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.9600",
+        "amount": "0.0134",
+        "usdValue": "$41.60"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9878",
+        "amount": "3,444.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7848",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GRG",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "0.0250",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$491,472"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe0c4fc3a25b3ddc6519359bdb7684a743e078f41",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$224K"
+      },
+      {
+        "name": "0x3090…ddd2",
+        "volume": "$86K"
+      },
+      {
+        "name": "Coinex",
+        "volume": "$84K"
+      },
+      {
+        "name": "0x37a9…4c3b",
+        "volume": "$41K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8290…dd61",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6da1…e0f6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7b9c…e332",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$349K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$86K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:55:55.243Z",
+  "source": "lido_steth",
+  "vaultBalance": 144.7249148976662,
+  "vaultPct": 0.010867081598526666
+}

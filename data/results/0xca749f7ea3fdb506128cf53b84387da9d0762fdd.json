@@ -1,0 +1,244 @@
+{
+  "portfolio": {
+    "address": "0xca749f7ea3fdb506128cf53b84387da9d0762fdd",
+    "totalValue": "$6,056",
+    "walletLifetime": "1585 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,144.1300",
+        "amount": "0.0102",
+        "usdValue": "$32.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.1300",
+        "amount": "0.0033",
+        "usdValue": "$10.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,144.1300",
+        "amount": "0.0023",
+        "usdValue": "$7.13"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3241",
+        "amount": "12.8200",
+        "usdValue": "$4.15"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,142.2800",
+        "amount": "0.0002",
+        "usdValue": "$0.52"
+      },
+      {
+        "symbol": "Legacy Frax Dollar",
+        "chain": "arb",
+        "price": "$0.9953",
+        "amount": "0.1218",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "OX",
+        "chain": "arb",
+        "price": "$0.00005212",
+        "amount": "5.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.000038",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.000035",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.0168",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,975"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETHFI",
+        "usdValue": "$10"
+      },
+      {
+        "protocol": "King Protocol",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xca749f7ea3fdb506128cf53b84387da9d0762fdd",
+    "topProtocols": [
+      {
+        "name": "0xf7ba…7613",
+        "volume": "$160K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$74K"
+      },
+      {
+        "name": "0x2715…cd04",
+        "volume": "$63K"
+      },
+      {
+        "name": "0x23d2…e23c",
+        "volume": "$54K"
+      },
+      {
+        "name": "0x5600…1f2b",
+        "volume": "$43K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$38K"
+      },
+      {
+        "name": "0xbcfc…0130",
+        "volume": "$34K"
+      },
+      {
+        "name": "0xfde3…3ba7",
+        "volume": "$31K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x03ad…d4d8",
+        "volume": "$18K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$5K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4d7f…9abb",
+        "volume": "$1K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$794"
+      },
+      {
+        "name": "0x0000…1004",
+        "volume": "$700"
+      },
+      {
+        "name": "0x9a8a…7f84",
+        "volume": "$7001"
+      },
+      {
+        "name": "inch",
+        "volume": "$333"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$319K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$60K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$2K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$779"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$118"
+      },
+      {
+        "name": "OP",
+        "volume": "$12"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:59:50.369Z",
+  "source": "base_aave",
+  "vaultBalance": 5.148925758526862,
+  "vaultPct": 0.007574483027191508
+}

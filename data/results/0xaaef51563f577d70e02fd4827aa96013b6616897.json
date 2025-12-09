@@ -1,0 +1,113 @@
+{
+  "portfolio": {
+    "address": "0xaaef51563f577d70e02fd4827aa96013b6616897",
+    "totalValue": "$1,374",
+    "walletLifetime": "992 days",
+    "tokens": [
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0954",
+        "amount": "2,680.0038",
+        "usdValue": "$255.67"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.5000",
+        "amount": "0.0794",
+        "usdValue": "$71.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.9800",
+        "amount": "0.0223",
+        "usdValue": "$69.10"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9785",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$978"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaaef51563f577d70e02fd4827aa96013b6616897",
+    "topProtocols": [
+      {
+        "name": "0xaaf7…e9e2",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6152…c2f9",
+        "volume": "$625"
+      },
+      {
+        "name": "0x5745…c73a",
+        "volume": "$286B"
+      },
+      {
+        "name": "inance",
+        "volume": "$197B"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "FTM",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$394B"
+      },
+      {
+        "name": "NB",
+        "volume": "$25B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:06:57.872Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.3,
+  "vaultPct": 0.00002252635271448048
+}

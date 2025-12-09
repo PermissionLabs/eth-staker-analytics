@@ -1,0 +1,248 @@
+{
+  "portfolio": {
+    "address": "0x54f59d552a6f524a0e1e80a6968cdb205c4928ac",
+    "totalValue": "$5,286",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,973.6300",
+        "amount": "0.0069",
+        "usdValue": "$638.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,147.0300",
+        "amount": "0.0192",
+        "usdValue": "$60.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zero",
+        "price": "$3,147.0300",
+        "amount": "0.0179",
+        "usdValue": "$56.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,147.0300",
+        "amount": "0.0177",
+        "usdValue": "$55.85"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$30.5240",
+        "amount": "1.2484",
+        "usdValue": "$38.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,148.0000",
+        "amount": "0.0115",
+        "usdValue": "$36.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,147.0300",
+        "amount": "0.0110",
+        "usdValue": "$34.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,148.0000",
+        "amount": "0.0110",
+        "usdValue": "$34.51"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "bera",
+        "price": "$3,148.0000",
+        "amount": "0.0030",
+        "usdValue": "$9.44"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "sonic",
+        "price": "$0.9998",
+        "amount": "2.7673",
+        "usdValue": "$2.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,148.0000",
+        "amount": "0.0007",
+        "usdValue": "$2.10"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.2000",
+        "amount": "0.0023",
+        "usdValue": "$2.08"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "zero",
+        "price": "$1.0002",
+        "amount": "1.2990",
+        "usdValue": "$1.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "abs",
+        "price": "$3,147.0300",
+        "amount": "0.0004",
+        "usdValue": "$1.28"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$946"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "ink",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$944"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "uni",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$881"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "soneium",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$850"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$676"
+      },
+      {
+        "protocol": "WalletConnect",
+        "chain": "op",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "WCT",
+        "usdValue": "$9"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x54f59d552a6f524a0e1e80a6968cdb205c4928ac",
+    "topProtocols": [
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$16K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$12K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$9K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$7K"
+      },
+      {
+        "name": "Meson",
+        "volume": "$7K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$7K"
+      },
+      {
+        "name": "squid",
+        "volume": "$7K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$46K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:17:03.524Z",
+  "source": "base_aave",
+  "vaultBalance": 0.3000669586263845,
+  "vaultPct": 0.00044142257855875593
+}

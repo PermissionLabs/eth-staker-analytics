@@ -1,0 +1,105 @@
+{
+  "portfolio": {
+    "address": "0x6665b5cf97f7b599c7db9192a511f3a266781d23",
+    "totalValue": "$22,313",
+    "walletLifetime": "2918 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.2400",
+        "amount": "0.6026",
+        "usdValue": "$1,890.53"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "eth",
+        "price": "$0.8624",
+        "amount": "332.3216",
+        "usdValue": "$286.59"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.8700",
+        "amount": "4.4836",
+        "usdValue": "$17.35"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9974",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$20,119"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6665b5cf97f7b599c7db9192a511f3a266781d23",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xc9bd…cfb0",
+        "volume": "$8K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$21"
+      },
+      {
+        "name": "0xc9be…cfb0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x182e…8c7f",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$2K"
+      },
+      {
+        "name": "LPT",
+        "volume": "$37B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:07:09.719Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.9770258195183645,
+  "vaultPct": 0.00044880197264675814
+}

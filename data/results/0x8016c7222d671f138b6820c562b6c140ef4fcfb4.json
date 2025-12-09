@@ -1,0 +1,126 @@
+{
+  "portfolio": {
+    "address": "0x8016c7222d671f138b6820c562b6c140ef4fcfb4",
+    "totalValue": "$320",
+    "walletLifetime": "317 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.7200",
+        "amount": "0.0795",
+        "usdValue": "$246.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.3500",
+        "amount": "0.0103",
+        "usdValue": "$31.92"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$28.0560",
+        "amount": "0.1599",
+        "usdValue": "$4.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,107.3500",
+        "amount": "0.00009999",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.4500",
+        "amount": "0.00009745",
+        "usdValue": "$0.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,107.3500",
+        "amount": "0.0000927",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "MEASLES",
+        "chain": "base",
+        "price": "$0.0₆2265",
+        "amount": "1,006.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1379",
+        "amount": "1,001.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$36"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8016c7222d671f138b6820c562b6c140ef4fcfb4",
+    "topProtocols": [
+      {
+        "name": "0xfe59…5c71",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$952"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$707"
+      },
+      {
+        "name": "0x5c28…cf5c",
+        "volume": "$706"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$444M"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x10fa…2942",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$791"
+      },
+      {
+        "name": "USDC",
+        "volume": "$599"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:55:04.788Z",
+  "source": "base_aave",
+  "vaultBalance": 0.157,
+  "vaultPct": 0.00023095960032045639
+}

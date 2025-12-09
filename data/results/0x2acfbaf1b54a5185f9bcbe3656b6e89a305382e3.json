@@ -1,0 +1,95 @@
+{
+  "portfolio": {
+    "address": "0x2acfbaf1b54a5185f9bcbe3656b6e89a305382e3",
+    "totalValue": "$9,762",
+    "walletLifetime": "1731 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.9900",
+        "amount": "0.0143",
+        "usdValue": "$44.39"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9822",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$9,666"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$51"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2acfbaf1b54a5185f9bcbe3656b6e89a305382e3",
+    "topProtocols": [
+      {
+        "name": "Compound",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x0b4b…01ce",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$10K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x1e94…9825",
+        "volume": "$10K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$98"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$41K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:12:39.282Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.9570968907676307,
+  "vaultPct": 0.00022204202524108403
+}

@@ -1,0 +1,190 @@
+{
+  "portfolio": {
+    "address": "0xce73c731120ef747350c49fc6f643c51440744a5",
+    "totalValue": "$833",
+    "walletLifetime": "504 days",
+    "tokens": [
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2088",
+        "amount": "455.2974",
+        "usdValue": "$550.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.2500",
+        "amount": "0.0482",
+        "usdValue": "$149.72"
+      },
+      {
+        "symbol": "EUL",
+        "chain": "base",
+        "price": "$3.8940",
+        "amount": "11.1626",
+        "usdValue": "$43.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,108.4300",
+        "amount": "0.0100",
+        "usdValue": "$31.02"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6642",
+        "amount": "45.5361",
+        "usdValue": "$30.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.2500",
+        "amount": "0.0043",
+        "usdValue": "$13.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.2500",
+        "amount": "0.0014",
+        "usdValue": "$4.29"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "2.0956",
+        "usdValue": "$2.10"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$7"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xce73c731120ef747350c49fc6f643c51440744a5",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$52K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$9K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8cf5…6fca",
+        "volume": "$2K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb6a0…08f7",
+        "volume": "$944"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$586"
+      },
+      {
+        "name": "0xb70e…4d71",
+        "volume": "$5851"
+      },
+      {
+        "name": "inch",
+        "volume": "$524"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$516M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$439B"
+      },
+      {
+        "name": "inance",
+        "volume": "$437"
+      },
+      {
+        "name": "0xcd0b…d8d4",
+        "volume": "$437"
+      },
+      {
+        "name": "0x177e…7284",
+        "volume": "$436"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$41K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$25K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$19K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "HEU",
+        "volume": "$940M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$882"
+      },
+      {
+        "name": "EUL",
+        "volume": "$311"
+      },
+      {
+        "name": "AERO",
+        "volume": "$41"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:46:17.744Z",
+  "source": "moonwell",
+  "vaultBalance": 0.11942204157019555,
+  "vaultPct": 0.0021665817108320403
+}

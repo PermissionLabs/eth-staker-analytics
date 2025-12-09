@@ -1,0 +1,188 @@
+{
+  "portfolio": {
+    "address": "0xac1bc4d6655184ca57030e5bc5d08f2025753930",
+    "totalValue": "$45,408",
+    "walletLifetime": "318 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,839.8900",
+        "amount": "0.0300",
+        "usdValue": "$2,727.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,138.9800",
+        "amount": "0.1071",
+        "usdValue": "$336.11"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,839.8900",
+        "amount": "0.0029",
+        "usdValue": "$266.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,138.9800",
+        "amount": "0.0387",
+        "usdValue": "$121.57"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.7945",
+        "usdValue": "$0.79"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "0.6509",
+        "usdValue": "$0.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,138.9800",
+        "amount": "0.00005539",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9894",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7927",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$34,707"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$7,242"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$5"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xac1bc4d6655184ca57030e5bc5d08f2025753930",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$96K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$37K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xffd5…ef64",
+        "volume": "$16K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$8K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xcada…fb70",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1ae5…669b",
+        "volume": "$2K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$742"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$635"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$635"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$75K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$62K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$43K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$14K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:57:21.774Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.3319850125168164,
+  "vaultPct": 0.00024766534029231255
+}

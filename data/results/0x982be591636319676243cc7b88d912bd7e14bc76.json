@@ -1,0 +1,354 @@
+{
+  "portfolio": {
+    "address": "0x982be591636319676243cc7b88d912bd7e14bc76",
+    "totalValue": "$4,456",
+    "walletLifetime": "1359 days",
+    "tokens": [
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.5496",
+        "amount": "111.6967",
+        "usdValue": "$619.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.0800",
+        "amount": "0.1610",
+        "usdValue": "$500.51"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$190.5004",
+        "amount": "2.0000",
+        "usdValue": "$381.00"
+      },
+      {
+        "symbol": "oSQTH",
+        "chain": "eth",
+        "price": "$100.9956",
+        "amount": "1.6911",
+        "usdValue": "$170.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.0800",
+        "amount": "0.0279",
+        "usdValue": "$86.72"
+      },
+      {
+        "symbol": "BTC",
+        "chain": "merlin",
+        "price": "$90,216.0200",
+        "amount": "0.0004",
+        "usdValue": "$34.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,110.1600",
+        "amount": "0.0089",
+        "usdValue": "$27.57"
+      },
+      {
+        "symbol": "iUSD",
+        "chain": "merlin",
+        "price": "$0.6229",
+        "amount": "32.8281",
+        "usdValue": "$20.45"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1229",
+        "amount": "85.5830",
+        "usdValue": "$10.52"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.3000",
+        "amount": "0.0092",
+        "usdValue": "$8.22"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "0.5126",
+        "usdValue": "$6.96"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,110.1600",
+        "amount": "0.0016",
+        "usdValue": "$5.00"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2083",
+        "amount": "3.6732",
+        "usdValue": "$4.44"
+      },
+      {
+        "symbol": "THALES",
+        "chain": "op",
+        "price": "$0.2932",
+        "amount": "14.8100",
+        "usdValue": "$4.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,110.1600",
+        "amount": "0.0010",
+        "usdValue": "$3.12"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "arb",
+        "price": "$3.7740",
+        "amount": "0.7437",
+        "usdValue": "$2.81"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,699"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$319"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$180"
+      },
+      {
+        "protocol": "TokenSets",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$143"
+      },
+      {
+        "protocol": "Pika Protocol V4",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$107"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$34"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$22"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVAX",
+        "usdValue": "$13"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "MerlinSwap",
+        "chain": "merlin",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "VOYA",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AVAX",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Synthetix",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "SNX",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Thales",
+        "chain": "op",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "THALES",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x982be591636319676243cc7b88d912bd7e14bc76",
+    "topProtocols": [
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$27K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$19K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x362f…c99f",
+        "volume": "$14K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$13K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$11K"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$7K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$7K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$6K"
+      },
+      {
+        "name": "Hyphen",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$6K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x",
+        "volume": "$5K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$5K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$4K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$4K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$50K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$13K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$8K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$7K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:34:05.104Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09954469510592678,
+  "vaultPct": 0.0018059623917924914
+}

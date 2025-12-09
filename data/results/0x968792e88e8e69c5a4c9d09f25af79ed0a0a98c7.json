@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0x968792e88e8e69c5a4c9d09f25af79ed0a0a98c7",
+    "totalValue": "$31,392",
+    "walletLifetime": "2851 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.1800",
+        "amount": "0.4998",
+        "usdValue": "$1,562.95"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "10.0000",
+        "usdValue": "$10.00"
+      },
+      {
+        "symbol": "ANY",
+        "chain": "bsc",
+        "price": "$0.8187",
+        "amount": "1.0000",
+        "usdValue": "$0.82"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9873",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FREE",
+        "chain": "bsc",
+        "price": "$0.0₇3758",
+        "amount": "925.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7906",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "TITAN",
+        "chain": "matic",
+        "price": "$0.0₈4234",
+        "amount": "7.9250",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$21,975"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$7,843"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x968792e88e8e69c5a4c9d09f25af79ed0a0a98c7",
+    "topProtocols": [
+      {
+        "name": "0xda67…1443",
+        "volume": "$43K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$31K"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$22K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$17K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x3c97…27c2",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x4b5f…10ea",
+        "volume": "$11K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "Argent",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$8K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$5K"
+      },
+      {
+        "name": "PoolTogether",
+        "volume": "$2K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xcfbc…0017",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2a39…8674",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4c77…6e15",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1111…a48b",
+        "volume": "$819"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$127K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$21K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$14K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$12K"
+      },
+      {
+        "name": "GUSD",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$6K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$3K"
+      },
+      {
+        "name": "MIR",
+        "volume": "$2K"
+      },
+      {
+        "name": "POOL",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:14:28.227Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.5,
+  "vaultPct": 0.0004648425807441015
+}

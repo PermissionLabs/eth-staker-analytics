@@ -1,0 +1,71 @@
+{
+  "portfolio": {
+    "address": "0x81f2a4e91b321e539a73ed35bf91d8cfb6f77cc6",
+    "totalValue": "$4",
+    "walletLifetime": "56 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.9200",
+        "amount": "0.0007",
+        "usdValue": "$2.27"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.6000",
+        "amount": "0.0019",
+        "usdValue": "$1.68"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x81f2a4e91b321e539a73ed35bf91d8cfb6f77cc6",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$93K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$84K"
+      },
+      {
+        "name": "0x5259…0354",
+        "volume": "$500"
+      },
+      {
+        "name": "0xe5ff…d8ec",
+        "volume": "$20"
+      },
+      {
+        "name": "0xa369…db96",
+        "volume": "$2"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BTCB",
+        "volume": "$121K"
+      },
+      {
+        "name": "BBTC",
+        "volume": "$100K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$65K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$45K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:28:37.754Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5.333900873323312,
+  "vaultPct": 0.0009917696989555302
+}

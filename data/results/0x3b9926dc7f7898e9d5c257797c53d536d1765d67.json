@@ -1,0 +1,232 @@
+{
+  "portfolio": {
+    "address": "0x3b9926dc7f7898e9d5c257797c53d536d1765d67",
+    "totalValue": "$169,743",
+    "walletLifetime": "270 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.1700",
+        "amount": "0.0408",
+        "usdValue": "$127.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.1700",
+        "amount": "0.0298",
+        "usdValue": "$93.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.3000",
+        "amount": "0.0168",
+        "usdValue": "$52.59"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.5000",
+        "amount": "0.0210",
+        "usdValue": "$18.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.9400",
+        "amount": "0.0040",
+        "usdValue": "$12.51"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "18.9718",
+        "usdValue": "$0.19"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1998",
+        "amount": "0.0527",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1233",
+        "amount": "0.1917",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "0.0001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$78,854"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$50,313"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$40,235"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$25"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBNB",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3b9926dc7f7898e9d5c257797c53d536d1765d67",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$924K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$742K"
+      },
+      {
+        "name": "0x1660…b7bd",
+        "volume": "$187K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$179K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$140K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$97K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$82K"
+      },
+      {
+        "name": "0xacc5…37b9",
+        "volume": "$60K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$48K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$39K"
+      },
+      {
+        "name": "Butter Swap",
+        "volume": "$20K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$20K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$219K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$186K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$51K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$38K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$623"
+      },
+      {
+        "name": "POL",
+        "volume": "$95M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$79"
+      },
+      {
+        "name": "ARB",
+        "volume": "$66M"
+      },
+      {
+        "name": "WELL",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:38:37.336Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09817968147765599,
+  "vaultPct": 0.001781198005560578
+}

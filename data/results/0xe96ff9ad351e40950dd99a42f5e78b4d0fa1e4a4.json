@@ -1,0 +1,317 @@
+{
+  "portfolio": {
+    "address": "0xe96ff9ad351e40950dd99a42f5e78b4d0fa1e4a4",
+    "totalValue": "$8,086",
+    "walletLifetime": "1724 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.3700",
+        "amount": "0.0381",
+        "usdValue": "$119.27"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.3000",
+        "amount": "0.0076",
+        "usdValue": "$6.80"
+      },
+      {
+        "symbol": "NABLA",
+        "chain": "base",
+        "price": "$0.0036",
+        "amount": "950.0000",
+        "usdValue": "$3.42"
+      },
+      {
+        "symbol": "NAKA",
+        "chain": "matic",
+        "price": "$0.0859",
+        "amount": "36.5412",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "DUSK",
+        "chain": "bsc",
+        "price": "$0.0468",
+        "amount": "59.5507",
+        "usdValue": "$2.79"
+      },
+      {
+        "symbol": "ENQAI",
+        "chain": "eth",
+        "price": "$0.0004",
+        "amount": "5,777.9871",
+        "usdValue": "$2.36"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1052",
+        "amount": "1.9039",
+        "usdValue": "$2.10"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6700",
+        "amount": "0.0884",
+        "usdValue": "$1.21"
+      },
+      {
+        "symbol": "m.USDC",
+        "chain": "metis",
+        "price": "$0.9999",
+        "amount": "0.6011",
+        "usdValue": "$0.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,131.9600",
+        "amount": "0.0002",
+        "usdValue": "$0.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.3700",
+        "amount": "0.00008874",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "MNTC",
+        "chain": "bsc",
+        "price": "$0.2565",
+        "amount": "1.0000",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.3700",
+        "amount": "0.00007921",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "cbBTC",
+        "usdValue": "$7,942"
+      },
+      {
+        "protocol": "Moola",
+        "chain": "celo",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "CELO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Drip",
+        "chain": "bsc",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "DRIP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Mobius",
+        "chain": "celo",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "MOBI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Adamant",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ADDY",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe96ff9ad351e40950dd99a42f5e78b4d0fa1e4a4",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$20K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x03ad…d4d8",
+        "volume": "$8K"
+      },
+      {
+        "name": "Ubeswap",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x0762…fa07",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "CafeSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x1d85…2e53",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$4K"
+      },
+      {
+        "name": "Dfyn",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x9b35…5e15",
+        "volume": "$4K"
+      },
+      {
+        "name": "Ape Bond",
+        "volume": "$3K"
+      },
+      {
+        "name": "Polycat",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4703…53c2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xace5…1e6f",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT0",
+        "volume": "$29K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$26K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$21K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$4K"
+      },
+      {
+        "name": "cUSD",
+        "volume": "$3K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$3K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "CELO",
+        "volume": "$2K"
+      },
+      {
+        "name": "mCUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "mCEUR",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:17:42.684Z",
+  "source": "moonwell",
+  "vaultBalance": 0.9807078863008771,
+  "vaultPct": 0.017792224468707426
+}

@@ -1,0 +1,113 @@
+{
+  "portfolio": {
+    "address": "0xe4856fe312363bc73deac38f2e19c769c5ee835e",
+    "totalValue": "$332",
+    "walletLifetime": "632 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,094.1000",
+        "amount": "0.0878",
+        "usdValue": "$271.67"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "51.0206",
+        "usdValue": "$51.03"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$888.6000",
+        "amount": "0.0103",
+        "usdValue": "$9.13"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0276",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xe4856fe312363bc73deac38f2e19c769c5ee835e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$300K"
+      },
+      {
+        "name": "0x2d04…01ab",
+        "volume": "$115K"
+      },
+      {
+        "name": "0xc7ad…980e",
+        "volume": "$110K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$79K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$73K"
+      },
+      {
+        "name": "0x7dde…6c60",
+        "volume": "$35K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x5c3b…c577",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xa574…92ce",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x39fd…0c03",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x369b…f008",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3616…f008",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x2d04…3fab",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$636K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$495K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$9M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:24:24.145Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 27.893478664202725,
+  "vaultPct": 0.005186430643279411
+}

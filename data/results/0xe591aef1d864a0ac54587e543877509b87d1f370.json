@@ -1,0 +1,165 @@
+{
+  "portfolio": {
+    "address": "0xe591aef1d864a0ac54587e543877509b87d1f370",
+    "totalValue": "$81,857",
+    "walletLifetime": "209 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,145.6000",
+        "amount": "0.0058",
+        "usdValue": "$18.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,145.6000",
+        "amount": "0.0013",
+        "usdValue": "$3.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,145.6000",
+        "amount": "0.0008",
+        "usdValue": "$2.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,145.6000",
+        "amount": "0.0008",
+        "usdValue": "$2.50"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7300",
+        "amount": "0.0189",
+        "usdValue": "$0.26"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$81,824"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WAVAX",
+        "usdValue": "$5"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe591aef1d864a0ac54587e543877509b87d1f370",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$235K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$113K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$87K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x6dce…1b5b",
+        "volume": "$31K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x5be4…51e5",
+        "volume": "$27K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$24K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$22K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x6160…757e",
+        "volume": "$12K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$12K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$259K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$187K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$69K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$26K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$15K"
+      },
+      {
+        "name": "KUSDt",
+        "volume": "$13K"
+      },
+      {
+        "name": "WBTC.e",
+        "volume": "$11K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$7K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$918"
+      },
+      {
+        "name": "AERO",
+        "volume": "$94"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:55:57.696Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 12.341312370080109,
+  "vaultPct": 0.002294706996750857
+}

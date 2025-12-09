@@ -1,0 +1,123 @@
+{
+  "portfolio": {
+    "address": "0xeff52c8def85b990ed0025005a8ef1cf6f48d55b",
+    "totalValue": "$76,068",
+    "walletLifetime": "29 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,156.2400",
+        "amount": "0.0043",
+        "usdValue": "$13.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,156.2400",
+        "amount": "0.0003",
+        "usdValue": "$0.93"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2276",
+        "amount": "0.2800",
+        "usdValue": "$0.34"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Extrafi XLend",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$48,669"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$12,626"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$9,470"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$5,289"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xeff52c8def85b990ed0025005a8ef1cf6f48d55b",
+    "topProtocols": [
+      {
+        "name": "0x33af…d00e",
+        "volume": "$84K"
+      },
+      {
+        "name": "Extrafi XLend",
+        "volume": "$47K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf567…74df",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5f65…e5d9",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$101K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$55K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$806"
+      },
+      {
+        "name": "USDC",
+        "volume": "$314M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:07:14.953Z",
+  "source": "base_aave",
+  "vaultBalance": 4,
+  "vaultPct": 0.005884321027272774
+}

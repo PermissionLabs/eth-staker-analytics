@@ -1,0 +1,95 @@
+{
+  "portfolio": {
+    "address": "0x0f44603c65efc10f0ff36c8bcdc700cb6fd2dd90",
+    "totalValue": "$15,931",
+    "walletLifetime": "142 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.7800",
+        "amount": "0.0208",
+        "usdValue": "$64.67"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.00001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$15,866"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0f44603c65efc10f0ff36c8bcdc700cb6fd2dd90",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$41K"
+      },
+      {
+        "name": "0x7e7c…47ff",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x64d8…8f72",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xf7e7…487e",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xac4c…9467",
+        "volume": "$5K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2cdb…bd96",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2cdb…0d96",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$62K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$19K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:08:41.994Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 8.181468637898288,
+  "vaultPct": 0.0015212379983670277
+}

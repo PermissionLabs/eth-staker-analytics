@@ -1,0 +1,164 @@
+{
+  "portfolio": {
+    "address": "0xf20240fd2ecad03815636d3108698464797038ef",
+    "totalValue": "$119,380",
+    "walletLifetime": "575 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$0.9999",
+        "amount": "19,451.3286",
+        "usdValue": "$19,450.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.9800",
+        "amount": "0.0010",
+        "usdValue": "$3.16"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.4000",
+        "amount": "0.0033",
+        "usdValue": "$2.96"
+      },
+      {
+        "symbol": "SMT",
+        "chain": "bsc",
+        "price": "$0.4382",
+        "amount": "0.0832",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9872",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Maker",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$86,744"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$13,180"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf20240fd2ecad03815636d3108698464797038ef",
+    "topProtocols": [
+      {
+        "name": "Zoomex",
+        "volume": "$146K"
+      },
+      {
+        "name": "0x9490…159d",
+        "volume": "$84K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$83K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$83K"
+      },
+      {
+        "name": "0x6aae…4908",
+        "volume": "$48K"
+      },
+      {
+        "name": "0x6bf1…7e95",
+        "volume": "$25K"
+      },
+      {
+        "name": "Bridgers",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x4da0…d9f3",
+        "volume": "$12K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$12K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$7K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$7K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$822"
+      },
+      {
+        "name": "0x850e…8db9",
+        "volume": "$3"
+      },
+      {
+        "name": "0xb5e0…55f5",
+        "volume": "$2"
+      },
+      {
+        "name": "0x9222…bf84",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb6ca…e0d8",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$315K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$167K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$52K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:02:19.162Z",
+  "source": "lido_steth",
+  "vaultBalance": 4.1631515199999996,
+  "vaultPct": 0.0003126020651444851
+}

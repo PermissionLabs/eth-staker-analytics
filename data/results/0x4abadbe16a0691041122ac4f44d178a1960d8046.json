@@ -1,0 +1,210 @@
+{
+  "portfolio": {
+    "address": "0x4abadbe16a0691041122ac4f44d178a1960d8046",
+    "totalValue": "$66,576",
+    "walletLifetime": "1906 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "44,173.4581",
+        "usdValue": "$44,173.46"
+      },
+      {
+        "symbol": "USDf",
+        "chain": "eth",
+        "price": "$0.9991",
+        "amount": "277.1568",
+        "usdValue": "$276.91"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,105.0400",
+        "amount": "0.0779",
+        "usdValue": "$241.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.7900",
+        "amount": "0.0474",
+        "usdValue": "$147.18"
+      },
+      {
+        "symbol": "USD0",
+        "chain": "eth",
+        "price": "$0.9984",
+        "amount": "141.3838",
+        "usdValue": "$141.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.7900",
+        "amount": "0.0303",
+        "usdValue": "$94.06"
+      },
+      {
+        "symbol": "OKB",
+        "chain": "xlayer",
+        "price": "$111.1500",
+        "amount": "0.5990",
+        "usdValue": "$66.58"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "50.0002",
+        "usdValue": "$50.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "TIME",
+        "usdValue": "$11,033"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$10,081"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4abadbe16a0691041122ac4f44d178a1960d8046",
+    "topProtocols": [
+      {
+        "name": "Pendle V2",
+        "volume": "$3M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$2M"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$2M"
+      },
+      {
+        "name": "Sui Bridge",
+        "volume": "$1M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$810K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$687K"
+      },
+      {
+        "name": "Solv",
+        "volume": "$636K"
+      },
+      {
+        "name": "ChainLink",
+        "volume": "$626K"
+      },
+      {
+        "name": "Lombard",
+        "volume": "$615K"
+      },
+      {
+        "name": "0xa3ba…45cf",
+        "volume": "$598K"
+      },
+      {
+        "name": "MIDAS",
+        "volume": "$355K"
+      },
+      {
+        "name": "Lista DAO",
+        "volume": "$309K"
+      },
+      {
+        "name": "Meson",
+        "volume": "$308K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$4M"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$3M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "MUSDe",
+        "volume": "$1M"
+      },
+      {
+        "name": "USD0",
+        "volume": "$1M"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$991K"
+      },
+      {
+        "name": "ESD",
+        "volume": "$934K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$723K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$711K"
+      },
+      {
+        "name": "USR",
+        "volume": "$687K"
+      },
+      {
+        "name": "mMEV",
+        "volume": "$629K"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$626K"
+      },
+      {
+        "name": "USDf",
+        "volume": "$450K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$361K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:40:25.170Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.0924393721492837,
+  "vaultPct": 0.0010310308240829228
+}

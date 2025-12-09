@@ -1,0 +1,354 @@
+{
+  "portfolio": {
+    "address": "0x6a6c2cfe1c4a6c8cbda68467e971600df84f8aba",
+    "totalValue": "$2,132",
+    "walletLifetime": "1775 days",
+    "tokens": [
+      {
+        "symbol": "NEURAL",
+        "chain": "eth",
+        "price": "$1.3748",
+        "amount": "99.8581",
+        "usdValue": "$137.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.8100",
+        "amount": "0.0359",
+        "usdValue": "$112.18"
+      },
+      {
+        "symbol": "WAGMIGAMES",
+        "chain": "eth",
+        "price": "$0.0₅2287",
+        "amount": "41,247,372.4189",
+        "usdValue": "$94.32"
+      },
+      {
+        "symbol": "ZKML",
+        "chain": "eth",
+        "price": "$0.0654",
+        "amount": "1,171.0119",
+        "usdValue": "$76.57"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "60.6077",
+        "usdValue": "$60.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.5900",
+        "amount": "0.0144",
+        "usdValue": "$44.96"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,125.8100",
+        "amount": "0.0096",
+        "usdValue": "$30.13"
+      },
+      {
+        "symbol": "GRAY",
+        "chain": "eth",
+        "price": "$0.2607",
+        "amount": "96.1532",
+        "usdValue": "$25.07"
+      },
+      {
+        "symbol": "KATA",
+        "chain": "bsc",
+        "price": "$0.00006269",
+        "amount": "373,188.0810",
+        "usdValue": "$23.40"
+      },
+      {
+        "symbol": "WINR",
+        "chain": "arb",
+        "price": "$0.0035",
+        "amount": "5,335.5743",
+        "usdValue": "$18.58"
+      },
+      {
+        "symbol": "USDT.e",
+        "chain": "avax",
+        "price": "$1.0001",
+        "amount": "14.9759",
+        "usdValue": "$14.98"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "12.8022",
+        "usdValue": "$12.80"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6300",
+        "amount": "0.5905",
+        "usdValue": "$8.05"
+      },
+      {
+        "symbol": "wBAI",
+        "chain": "eth",
+        "price": "$0.1208",
+        "amount": "66.3496",
+        "usdValue": "$8.02"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.3000",
+        "amount": "0.0078",
+        "usdValue": "$7.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.5900",
+        "amount": "0.0015",
+        "usdValue": "$4.66"
+      },
+      {
+        "symbol": "SPARTA (SpartaDex)",
+        "chain": "arb",
+        "price": "$0.0018",
+        "amount": "1,284.8729",
+        "usdValue": "$2.29"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "bsc",
+        "price": "$13.6300",
+        "amount": "0.1609",
+        "usdValue": "$2.19"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "8.2828",
+        "usdValue": "$1.02"
+      },
+      {
+        "symbol": "RING",
+        "chain": "bsc",
+        "price": "$0.8312",
+        "amount": "1.0088",
+        "usdValue": "$0.84"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "SpartaDex",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USD₮0",
+        "usdValue": "$678"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$623"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$96"
+      },
+      {
+        "protocol": "Illuvium",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ILV",
+        "usdValue": "$33"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$15"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WAVAX(Wormhole)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6a6c2cfe1c4a6c8cbda68467e971600df84f8aba",
+    "topProtocols": [
+      {
+        "name": "OpenSea",
+        "volume": "$29K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$26K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$21K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xc55e…e7fa",
+        "volume": "$10K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$8K"
+      },
+      {
+        "name": "SIPHER",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x6778…88f6",
+        "volume": "$8K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xe0dd…2958",
+        "volume": "$7K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x8823…43ca",
+        "volume": "$6K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xe783…e9d0",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xc719…5118",
+        "volume": "$4K"
+      },
+      {
+        "name": "RING Financial",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x15e2…4084",
+        "volume": "$4K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$94K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$46K"
+      },
+      {
+        "name": "ETERNAL",
+        "volume": "$29K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$24K"
+      },
+      {
+        "name": "USDT.e",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$13K"
+      },
+      {
+        "name": "ROCO",
+        "volume": "$12K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "RING",
+        "volume": "$8K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$5K"
+      },
+      {
+        "name": "SIPHER",
+        "volume": "$4K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "GGG",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:54:10.836Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.4,
+  "vaultPct": 0.00007437481291905625
+}

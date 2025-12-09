@@ -1,0 +1,76 @@
+{
+  "portfolio": {
+    "address": "0x016f75125e616a21d905eaf3699662e5170717a6",
+    "totalValue": "$4,522",
+    "walletLifetime": "134 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.9000",
+        "amount": "0.0902",
+        "usdValue": "$280.93"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$2,127"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,114"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x016f75125e616a21d905eaf3699662e5170717a6",
+    "topProtocols": [
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$5K"
+      },
+      {
+        "name": "Superform",
+        "volume": "$5K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:19:20.667Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.6264610091701033,
+  "vaultPct": 0.006987289025474801
+}

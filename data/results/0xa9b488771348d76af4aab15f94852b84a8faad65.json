@@ -1,0 +1,213 @@
+{
+  "portfolio": {
+    "address": "0xa9b488771348d76af4aab15f94852b84a8faad65",
+    "totalValue": "$13,083",
+    "walletLifetime": "1676 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.3000",
+        "amount": "0.4725",
+        "usdValue": "$1,479.70"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "bsc",
+        "price": "$13.9874",
+        "amount": "52.0493",
+        "usdValue": "$728.04"
+      },
+      {
+        "symbol": "ANKR",
+        "chain": "bsc",
+        "price": "$0.0078",
+        "amount": "76,302.2909",
+        "usdValue": "$594.39"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "2,926.1164",
+        "usdValue": "$364.01"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0969",
+        "amount": "2,612.4000",
+        "usdValue": "$253.14"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "matic",
+        "price": "$0.0467",
+        "amount": "1,731.6650",
+        "usdValue": "$80.78"
+      },
+      {
+        "symbol": "JASMY",
+        "chain": "bsc",
+        "price": "$0.0070",
+        "amount": "8,050.0500",
+        "usdValue": "$56.19"
+      },
+      {
+        "symbol": "ILV",
+        "chain": "bsc",
+        "price": "$7.2100",
+        "amount": "7.2018",
+        "usdValue": "$51.92"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0383",
+        "amount": "683.2396",
+        "usdValue": "$26.17"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,298"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,142"
+      },
+      {
+        "protocol": "Retik Finance",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "RETIK",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa9b488771348d76af4aab15f94852b84a8faad65",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$12K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$6K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$6K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$3K"
+      },
+      {
+        "name": "MySonic",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x09a1…d290",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$29K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$15K"
+      },
+      {
+        "name": "POL",
+        "volume": "$6K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$4K"
+      },
+      {
+        "name": "CAPS",
+        "volume": "$3K"
+      },
+      {
+        "name": "ANKR",
+        "volume": "$3K"
+      },
+      {
+        "name": "S",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$945"
+      },
+      {
+        "name": "LINK",
+        "volume": "$735"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$391"
+      },
+      {
+        "name": "FLUX",
+        "volume": "$305"
+      },
+      {
+        "name": "ILV",
+        "volume": "$287"
+      },
+      {
+        "name": "GRT",
+        "volume": "$278"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:05:55.653Z",
+  "source": "base_aave",
+  "vaultBalance": 1.1414781236560665,
+  "vaultPct": 0.001679205931300316
+}

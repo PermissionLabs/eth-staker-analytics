@@ -1,0 +1,160 @@
+{
+  "portfolio": {
+    "address": "0x71026715449b7024c3f51643d9fee484dea80c8d",
+    "totalValue": "$468",
+    "walletLifetime": "1501 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,160.1400",
+        "amount": "0.0010",
+        "usdValue": "$3.16"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.3000",
+        "amount": "0.0026",
+        "usdValue": "$2.38"
+      },
+      {
+        "symbol": "BLACK",
+        "chain": "avax",
+        "price": "$0.0592",
+        "amount": "20.6468",
+        "usdValue": "$1.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.1400",
+        "amount": "0.0002",
+        "usdValue": "$0.67"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8100",
+        "amount": "0.0236",
+        "usdValue": "$0.33"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.000065",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$461"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x71026715449b7024c3f51643d9fee484dea80c8d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x32fa…92a7",
+        "volume": "$2K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0000…1004",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6dd3…56c6",
+        "volume": "$550"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$152"
+      },
+      {
+        "name": "0xecd5…a2e8",
+        "volume": "$86"
+      },
+      {
+        "name": "0xbfd8…5188",
+        "volume": "$490"
+      },
+      {
+        "name": "x",
+        "volume": "$27"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$23"
+      },
+      {
+        "name": "0xfa80…7c4a",
+        "volume": "$8"
+      },
+      {
+        "name": "0x6dd3…16c6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xd984…8888",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "CATGIRL",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$200M"
+      },
+      {
+        "name": "OONTOKEN",
+        "volume": "$161"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$45B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:51:12.106Z",
+  "source": "base_aave",
+  "vaultBalance": 0.3213176679166545,
+  "vaultPct": 0.0004726840774390551
+}

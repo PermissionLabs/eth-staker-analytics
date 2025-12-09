@@ -1,0 +1,195 @@
+{
+  "portfolio": {
+    "address": "0x89f7ec7c13543803e68c0558df7dd03124f0c996",
+    "totalValue": "$6,774",
+    "walletLifetime": "763 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,119.4200",
+        "amount": "0.0195",
+        "usdValue": "$60.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.4200",
+        "amount": "0.0179",
+        "usdValue": "$55.69"
+      },
+      {
+        "symbol": "GUSD",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "13.1700",
+        "usdValue": "$13.17"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "9.3604",
+        "usdValue": "$1.16"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.00002",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDS",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.00001472",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-sENA-5FEB2026",
+        "usdValue": "$4,029"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,602"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x89f7ec7c13543803e68c0558df7dd03124f0c996",
+    "topProtocols": [
+      {
+        "name": "Pendle V2",
+        "volume": "$68K"
+      },
+      {
+        "name": "0x8e58…6a79",
+        "volume": "$32K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$25K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$19K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xbee3…a000",
+        "volume": "$10K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$8K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x6867…e48a",
+        "volume": "$5K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x77d5…031b",
+        "volume": "$1K"
+      },
+      {
+        "name": "Spark",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x9653…2541",
+        "volume": "$998"
+      },
+      {
+        "name": "0x17a7…9ea1",
+        "volume": "$489"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$99"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$104K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$83K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDS",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$139"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$55"
+      },
+      {
+        "name": "GUSD",
+        "volume": "$13M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:58:00.838Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.828632200699783,
+  "vaultPct": 0.00015407341226438058
+}

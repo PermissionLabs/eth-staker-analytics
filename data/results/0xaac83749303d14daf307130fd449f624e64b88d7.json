@@ -1,0 +1,170 @@
+{
+  "portfolio": {
+    "address": "0xaac83749303d14daf307130fd449f624e64b88d7",
+    "totalValue": "$26,494",
+    "walletLifetime": "177 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "4,933.2249",
+        "usdValue": "$4,932.73"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8276",
+        "amount": "153.2337",
+        "usdValue": "$2,118.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.4400",
+        "amount": "0.4920",
+        "usdValue": "$1,541.60"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.6130",
+        "amount": "22.7373",
+        "usdValue": "$673.32"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9886",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "STEAK",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "124.2714",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$17,227"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaac83749303d14daf307130fd449f624e64b88d7",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$55K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$27K"
+      },
+      {
+        "name": "0xff6e…c102",
+        "volume": "$21K"
+      },
+      {
+        "name": "MegaETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xe8ca…c047",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x05ff…f381",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$6K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd9b1…0c8e",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7d94…946e",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$464"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$461B"
+      },
+      {
+        "name": "inance",
+        "volume": "$284B"
+      },
+      {
+        "name": "0x4b85…3c2d",
+        "volume": "$62"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$66K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$53K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$42K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$39K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$5K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:14:47.197Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.996504166129945,
+  "vaultPct": 0.0009290351565129995
+}

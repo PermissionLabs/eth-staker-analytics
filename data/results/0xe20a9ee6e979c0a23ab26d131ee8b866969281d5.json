@@ -1,0 +1,251 @@
+{
+  "portfolio": {
+    "address": "0xe20a9ee6e979c0a23ab26d131ee8b866969281d5",
+    "totalValue": "$5,473",
+    "walletLifetime": "331 days",
+    "tokens": [
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4733",
+        "amount": "2,418.2101",
+        "usdValue": "$1,144.46"
+      },
+      {
+        "symbol": "WLFI",
+        "chain": "eth",
+        "price": "$0.1520",
+        "amount": "6,823.9679",
+        "usdValue": "$1,036.92"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.1023",
+        "amount": "55.9918",
+        "usdValue": "$789.61"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "33,540.8528",
+        "usdValue": "$267.66"
+      },
+      {
+        "symbol": "frxETH",
+        "chain": "base",
+        "price": "$3,121.5036",
+        "amount": "0.0136",
+        "usdValue": "$42.31"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "42.0424",
+        "usdValue": "$42.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,158.0300",
+        "amount": "0.0118",
+        "usdValue": "$37.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.0300",
+        "amount": "0.0052",
+        "usdValue": "$16.32"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "base",
+        "price": "$14.1004",
+        "amount": "1.0529",
+        "usdValue": "$14.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,158.0300",
+        "amount": "0.0041",
+        "usdValue": "$12.85"
+      },
+      {
+        "symbol": "XAUt",
+        "chain": "eth",
+        "price": "$4,224.0529",
+        "amount": "0.0028",
+        "usdValue": "$11.83"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$2,053"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "dTRINITY",
+        "chain": "frax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "dUSD",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe20a9ee6e979c0a23ab26d131ee8b866969281d5",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$134K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$47K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$28K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$26K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$12K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x4637…959e",
+        "volume": "$9K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xeeeb…4072",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$6K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7cc0…5f43",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5f48…1050",
+        "volume": "$4K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$4K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3184…fa9c",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$233K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$106K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$18K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$6K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$2K"
+      },
+      {
+        "name": "KSUSHI",
+        "volume": "$2K"
+      },
+      {
+        "name": "WLFI",
+        "volume": "$1K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$1K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$978"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:39:42.928Z",
+  "source": "base_aave",
+  "vaultBalance": 0.0502900678032252,
+  "vaultPct": 0.0000739807258593729
+}

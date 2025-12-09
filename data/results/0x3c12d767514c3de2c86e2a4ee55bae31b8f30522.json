@@ -1,0 +1,279 @@
+{
+  "portfolio": {
+    "address": "0x3c12d767514c3de2c86e2a4ee55bae31b8f30522",
+    "totalValue": "$771,264",
+    "walletLifetime": "1358 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "34,358.2979",
+        "usdValue": "$34,351.43"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "13,329.2348",
+        "usdValue": "$13,329.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9000",
+        "amount": "3.9942",
+        "usdValue": "$12,485.36"
+      },
+      {
+        "symbol": "rsETH",
+        "chain": "arb",
+        "price": "$3,309.6085",
+        "amount": "2.9431",
+        "usdValue": "$9,740.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.1600",
+        "amount": "2.7828",
+        "usdValue": "$8,699.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.9000",
+        "amount": "0.2932",
+        "usdValue": "$916.61"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "502.5611",
+        "usdValue": "$502.56"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$448,983"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$147,321"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$49,498"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$23,877"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDe",
+        "usdValue": "$12,250"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-sUSDai-20NOV2025",
+        "usdValue": "$8,861"
+      },
+      {
+        "protocol": "Summer.fi",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$404"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$34"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "OVN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-weETH-27JUN2024",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Summer.fi",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "SUMR",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3c12d767514c3de2c86e2a4ee55bae31b8f30522",
+    "topProtocols": [
+      {
+        "name": "Pendle V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x",
+        "volume": "$608K"
+      },
+      {
+        "name": "0x75ae…80b0",
+        "volume": "$460K"
+      },
+      {
+        "name": "Summer.fi",
+        "volume": "$367K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$305K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$270K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$212K"
+      },
+      {
+        "name": "Contango",
+        "volume": "$207K"
+      },
+      {
+        "name": "0x75d8…60ff",
+        "volume": "$193K"
+      },
+      {
+        "name": "0xaeca…f0e8",
+        "volume": "$133K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$133K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$113K"
+      },
+      {
+        "name": "0x8331…ce77",
+        "volume": "$92K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$67K"
+      },
+      {
+        "name": "0xd4b5…bcc4",
+        "volume": "$66K"
+      },
+      {
+        "name": "0xa37a…b9cb",
+        "volume": "$65K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$317K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$304K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$109K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$104K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$55K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$38K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$18K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$12K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "SPK",
+        "volume": "$4K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:29:39.864Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 7.000733718829968,
+  "vaultPct": 0.07808331112043687
+}

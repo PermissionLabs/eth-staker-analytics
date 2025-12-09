@@ -1,0 +1,277 @@
+{
+  "portfolio": {
+    "address": "0x9552ede6bc51912cd136e907dcb98e1385014a49",
+    "totalValue": "$2,335",
+    "walletLifetime": "1312 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.9600",
+        "amount": "0.0092",
+        "usdValue": "$28.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,110.9600",
+        "amount": "0.0049",
+        "usdValue": "$15.29"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.6867",
+        "amount": "1.0000",
+        "usdValue": "$13.69"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "6.4717",
+        "usdValue": "$6.47"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3162",
+        "amount": "13.5347",
+        "usdValue": "$4.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,111.3900",
+        "amount": "0.0013",
+        "usdValue": "$4.08"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1228",
+        "amount": "22.5734",
+        "usdValue": "$2.77"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "arb",
+        "price": "$0.0457",
+        "amount": "56.5291",
+        "usdValue": "$2.58"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "2.0931",
+        "usdValue": "$2.09"
+      },
+      {
+        "symbol": "UP",
+        "chain": "base",
+        "price": "$0.0024",
+        "amount": "500.0000",
+        "usdValue": "$1.22"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "1.0096",
+        "usdValue": "$1.01"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2080",
+        "amount": "0.7565",
+        "usdValue": "$0.91"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1314",
+        "amount": "35,077,229.7730",
+        "usdValue": "$0.46"
+      },
+      {
+        "symbol": "MOCHI",
+        "chain": "base",
+        "price": "$0.0₅2214",
+        "amount": "199,682.6985",
+        "usdValue": "$0.44"
+      },
+      {
+        "symbol": "DEGEN",
+        "chain": "base",
+        "price": "$0.0015",
+        "amount": "168.6467",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "Boe",
+        "chain": "base",
+        "price": "$0.00002677",
+        "amount": "3,556.1368",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "CHIBI",
+        "chain": "base",
+        "price": "$0.0₈1856",
+        "amount": "50,000,000.0000",
+        "usdValue": "$0.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,471"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$775"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9552ede6bc51912cd136e907dcb98e1385014a49",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$561B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$493"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$493"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$4670"
+      },
+      {
+        "name": "x",
+        "volume": "$380"
+      },
+      {
+        "name": "inch",
+        "volume": "$276"
+      },
+      {
+        "name": "0xa64a…2df0",
+        "volume": "$206"
+      },
+      {
+        "name": "Linkdrop",
+        "volume": "$169"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$161"
+      },
+      {
+        "name": "0x4ae5…52c7",
+        "volume": "$144"
+      },
+      {
+        "name": "0x9302…ac3b",
+        "volume": "$143"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$136"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$136"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$682"
+      },
+      {
+        "name": "FET",
+        "volume": "$174"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$162"
+      },
+      {
+        "name": "WETH",
+        "volume": "$161"
+      },
+      {
+        "name": "OP",
+        "volume": "$97"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$88"
+      },
+      {
+        "name": "PRO",
+        "volume": "$56"
+      },
+      {
+        "name": "yap",
+        "volume": "$49B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:40:18.016Z",
+  "source": "moonwell",
+  "vaultBalance": 0.1392495741088697,
+  "vaultPct": 0.00252629729435745
+}

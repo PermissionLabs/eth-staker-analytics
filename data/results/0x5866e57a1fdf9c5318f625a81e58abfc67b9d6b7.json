@@ -1,0 +1,146 @@
+{
+  "portfolio": {
+    "address": "0x5866e57a1fdf9c5318f625a81e58abfc67b9d6b7",
+    "totalValue": "$84,026",
+    "walletLifetime": "47 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.7400",
+        "amount": "0.7239",
+        "usdValue": "$2,258.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,119.3000",
+        "amount": "0.1406",
+        "usdValue": "$438.55"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "23.8743",
+        "usdValue": "$23.87"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "0.5877",
+        "usdValue": "$0.02"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$50,167"
+      },
+      {
+        "protocol": "Curvance",
+        "chain": "monad",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AUSD",
+        "usdValue": "$14,952"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "monad",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$12,684"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "monad",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "AUSD",
+        "usdValue": "$3,494"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$8"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5866e57a1fdf9c5318f625a81e58abfc67b9d6b7",
+    "topProtocols": [
+      {
+        "name": "LI.FI",
+        "volume": "$167K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$157K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$79K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$39K"
+      },
+      {
+        "name": "Monad Bridge",
+        "volume": "$31K"
+      },
+      {
+        "name": "0xf8d9…4521",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7ddb…efbc",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x227d…3891",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x227a…3891",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe061…d036",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$323K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$118K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:18:10.084Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 14.758400573190443,
+  "vaultPct": 0.1646091438240078
+}

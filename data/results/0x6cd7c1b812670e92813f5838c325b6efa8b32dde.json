@@ -1,0 +1,78 @@
+{
+  "portfolio": {
+    "address": "0x6cd7c1b812670e92813f5838c325b6efa8b32dde",
+    "totalValue": "$26,020",
+    "walletLifetime": "679 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,155.1200",
+        "amount": "0.0112",
+        "usdValue": "$35.38"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7800",
+        "amount": "1.0001",
+        "usdValue": "$13.78"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9984",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$25,971"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6cd7c1b812670e92813f5838c325b6efa8b32dde",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$27K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$27K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$54K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$13K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:23:25.537Z",
+  "source": "lido_steth",
+  "vaultBalance": 7.992068933074755,
+  "vaultPct": 0.0006001072123496122
+}

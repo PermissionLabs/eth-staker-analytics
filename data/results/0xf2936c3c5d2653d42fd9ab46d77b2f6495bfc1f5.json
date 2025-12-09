@@ -1,0 +1,201 @@
+{
+  "portfolio": {
+    "address": "0xf2936c3c5d2653d42fd9ab46d77b2f6495bfc1f5",
+    "totalValue": "$7,105",
+    "walletLifetime": "163 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$92,204.8900",
+        "amount": "0.0026",
+        "usdValue": "$239.73"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "eth",
+        "price": "$0.1050",
+        "amount": "824.9477",
+        "usdValue": "$86.59"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4737",
+        "amount": "83.2689",
+        "usdValue": "$39.44"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6877",
+        "amount": "13.1420",
+        "usdValue": "$9.04"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "uni",
+        "price": "$92,198.7100",
+        "amount": "0.0000795",
+        "usdValue": "$7.33"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1250",
+        "amount": "29.9958",
+        "usdValue": "$3.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,161.1700",
+        "amount": "0.0010",
+        "usdValue": "$3.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,159.2600",
+        "amount": "0.0008",
+        "usdValue": "$2.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,161.1700",
+        "amount": "0.0001",
+        "usdValue": "$0.40"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$3,513"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$3,197"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf2936c3c5d2653d42fd9ab46d77b2f6495bfc1f5",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$51K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$22K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$19K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$8K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$8K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$8K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf3da…8c1d",
+        "volume": "$3K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$3K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$87K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$14K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$11K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$7K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$2K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$958"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:49:22.053Z",
+  "source": "base_aave",
+  "vaultBalance": 0.33252699164385063,
+  "vaultPct": 0.0004891738922664171
+}

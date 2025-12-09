@@ -1,0 +1,353 @@
+{
+  "portfolio": {
+    "address": "0xbc948ce88f583f133f86fe8beecb172dccb1765c",
+    "totalValue": "$99,329",
+    "walletLifetime": "1963 days",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3709",
+        "amount": "2,909.2684",
+        "usdValue": "$3,988.30"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1988",
+        "amount": "488.1579",
+        "usdValue": "$585.20"
+      },
+      {
+        "symbol": "IP",
+        "chain": "story",
+        "price": "$2.1330",
+        "amount": "225.4651",
+        "usdValue": "$480.92"
+      },
+      {
+        "symbol": "ZORA",
+        "chain": "base",
+        "price": "$0.0484",
+        "amount": "7,785.6440",
+        "usdValue": "$376.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,129.6300",
+        "amount": "0.0992",
+        "usdValue": "$310.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,129.3000",
+        "amount": "0.0954",
+        "usdValue": "$298.59"
+      },
+      {
+        "symbol": "PEPE",
+        "chain": "eth",
+        "price": "$0.0₅4769",
+        "amount": "34,169,772.3400",
+        "usdValue": "$162.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.0000",
+        "amount": "0.0464",
+        "usdValue": "$145.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.0000",
+        "amount": "0.0391",
+        "usdValue": "$122.32"
+      },
+      {
+        "symbol": "DEGEN",
+        "chain": "base",
+        "price": "$0.0014",
+        "amount": "70,000.8095",
+        "usdValue": "$101.01"
+      },
+      {
+        "symbol": "LMTS",
+        "chain": "base",
+        "price": "$0.2346",
+        "amount": "194.9285",
+        "usdValue": "$45.72"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1640",
+        "amount": "114.5783",
+        "usdValue": "$18.79"
+      },
+      {
+        "symbol": "ANON",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "18,563.5848",
+        "usdValue": "$12.81"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3700",
+        "amount": "7.1784",
+        "usdValue": "$9.83"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3189",
+        "amount": "30.5296",
+        "usdValue": "$9.74"
+      },
+      {
+        "symbol": "PYTH",
+        "chain": "base",
+        "price": "$0.0693",
+        "amount": "124.4997",
+        "usdValue": "$8.63"
+      },
+      {
+        "symbol": "Cocoro",
+        "chain": "base",
+        "price": "$0.0021",
+        "amount": "3,193.5765",
+        "usdValue": "$6.84"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$36,118"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LBTC",
+        "usdValue": "$16,107"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "plasma",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "weETH",
+        "usdValue": "$15,648"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$7,246"
+      },
+      {
+        "protocol": "Story",
+        "chain": "story",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "IP",
+        "usdValue": "$5,228"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ENA",
+        "usdValue": "$4,853"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,128"
+      },
+      {
+        "protocol": "Kaito AI",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KAITO",
+        "usdValue": "$2,749"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "AERO",
+        "usdValue": "$280"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$148"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbc948ce88f583f133f86fe8beecb172dccb1765c",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$258K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$188K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$167K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$157K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$116K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$108K"
+      },
+      {
+        "name": "Axie Infinity",
+        "volume": "$107K"
+      },
+      {
+        "name": "Stake DAO",
+        "volume": "$94K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$71K"
+      },
+      {
+        "name": "Hashflow",
+        "volume": "$65K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$63K"
+      },
+      {
+        "name": "Rari Capital",
+        "volume": "$62K"
+      },
+      {
+        "name": "Base Swap",
+        "volume": "$56K"
+      },
+      {
+        "name": "0xef41…4d4a",
+        "volume": "$55K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$53K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$52K"
+      },
+      {
+        "name": "0x3c57…5842",
+        "volume": "$52K"
+      },
+      {
+        "name": "0xa4a3…923d",
+        "volume": "$46K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$44K"
+      },
+      {
+        "name": "Wormhole",
+        "volume": "$41K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$647K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$255K"
+      },
+      {
+        "name": "Legacy Frax Dollar",
+        "volume": "$188K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$168K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$141K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$140K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$122K"
+      },
+      {
+        "name": "LOOKS",
+        "volume": "$55K"
+      },
+      {
+        "name": "YFI",
+        "volume": "$53K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$48K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$33K"
+      },
+      {
+        "name": "FRAX",
+        "volume": "$33K"
+      },
+      {
+        "name": "LUNA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:33:49.711Z",
+  "source": "moonwell",
+  "vaultBalance": 10.215965070752574,
+  "vaultPct": 0.18534035082444486
+}

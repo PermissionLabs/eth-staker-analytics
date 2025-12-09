@@ -1,0 +1,258 @@
+{
+  "portfolio": {
+    "address": "0x61dcc507e71cef30dad2ef616b7a463d35e032c4",
+    "totalValue": "$36,640",
+    "walletLifetime": "1751 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.8700",
+        "amount": "0.0297",
+        "usdValue": "$92.16"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1590",
+        "amount": "27.3651",
+        "usdValue": "$4.35"
+      },
+      {
+        "symbol": "WETH(Wormhole)",
+        "chain": "mobm",
+        "price": "$3,103.9200",
+        "amount": "0.0013",
+        "usdValue": "$3.90"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.3000",
+        "amount": "0.0020",
+        "usdValue": "$1.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,102.8700",
+        "amount": "0.0003",
+        "usdValue": "$0.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,102.8700",
+        "amount": "0.0003",
+        "usdValue": "$0.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,102.8700",
+        "amount": "0.0002",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1221",
+        "amount": "2.7833",
+        "usdValue": "$0.34"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$35,776"
+      },
+      {
+        "protocol": "Stake DAO",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "SDT",
+        "usdValue": "$700"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "plasma",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT0",
+        "usdValue": "$59"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "plasma",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WXPL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x61dcc507e71cef30dad2ef616b7a463d35e032c4",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$161K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$54K"
+      },
+      {
+        "name": "0x41d3…87b3",
+        "volume": "$54K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$53K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$32K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$29K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$27K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$27K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xf74e…c6ec",
+        "volume": "$18K"
+      },
+      {
+        "name": "Stake DAO",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x3bec…ad03",
+        "volume": "$15K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$14K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xd602…04e9",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf9d6…27d0",
+        "volume": "$9K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$175K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$160K"
+      },
+      {
+        "name": "KGHO",
+        "volume": "$74K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$50K"
+      },
+      {
+        "name": "POL",
+        "volume": "$40K"
+      },
+      {
+        "name": "STRK",
+        "volume": "$23K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$19K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$16K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$14K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$12K"
+      },
+      {
+        "name": "sdCRV",
+        "volume": "$11K"
+      },
+      {
+        "name": "CAPS",
+        "volume": "$11K"
+      },
+      {
+        "name": "KBNB",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$9K"
+      },
+      {
+        "name": "EURe",
+        "volume": "$9K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:15:28.239Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 13.08232086193537,
+  "vaultPct": 0.0024324879166337746
+}

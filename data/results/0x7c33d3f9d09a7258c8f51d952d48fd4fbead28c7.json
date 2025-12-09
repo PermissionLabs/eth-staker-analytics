@@ -1,0 +1,239 @@
+{
+  "portfolio": {
+    "address": "0x7c33d3f9d09a7258c8f51d952d48fd4fbead28c7",
+    "totalValue": "$507",
+    "walletLifetime": "1556 days",
+    "tokens": [
+      {
+        "symbol": "GMX",
+        "chain": "arb",
+        "price": "$8.8795",
+        "amount": "27.6615",
+        "usdValue": "$245.62"
+      },
+      {
+        "symbol": "MLC",
+        "chain": "matic",
+        "price": "$0.0556",
+        "amount": "1,202.2264",
+        "usdValue": "$66.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.2300",
+        "amount": "0.0153",
+        "usdValue": "$47.95"
+      },
+      {
+        "symbol": "AMP",
+        "chain": "eth",
+        "price": "$0.0021",
+        "amount": "16,852.7829",
+        "usdValue": "$35.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.2300",
+        "amount": "0.0106",
+        "usdValue": "$33.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.2300",
+        "amount": "0.0085",
+        "usdValue": "$26.52"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "3,070.7759",
+        "usdValue": "$24.20"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.4000",
+        "amount": "0.0085",
+        "usdValue": "$7.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,127.2300",
+        "amount": "0.0018",
+        "usdValue": "$5.61"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$191.6656",
+        "amount": "0.0285",
+        "usdValue": "$5.46"
+      },
+      {
+        "symbol": "PRE",
+        "chain": "eth",
+        "price": "$0.0030",
+        "amount": "1,345.6982",
+        "usdValue": "$4.07"
+      },
+      {
+        "symbol": "FIL",
+        "chain": "bsc",
+        "price": "$1.5020",
+        "amount": "0.6034",
+        "usdValue": "$0.91"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1639",
+        "amount": "4.9790",
+        "usdValue": "$0.82"
+      },
+      {
+        "symbol": "GMT (GoMining)",
+        "chain": "bsc",
+        "price": "$0.3637",
+        "amount": "2.0036",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "wBETH",
+        "chain": "bsc",
+        "price": "$3,389.3864",
+        "amount": "0.0002",
+        "usdValue": "$0.57"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7c33d3f9d09a7258c8f51d952d48fd4fbead28c7",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x6763…9458",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7a51…d85e",
+        "volume": "$2K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4f15…ee6d",
+        "volume": "$1K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$1K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$6K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$4K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$4K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "wBETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "MLC",
+        "volume": "$3K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:33:37.226Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.3778122226579215,
+  "vaultPct": 0.0004421233480420706
+}

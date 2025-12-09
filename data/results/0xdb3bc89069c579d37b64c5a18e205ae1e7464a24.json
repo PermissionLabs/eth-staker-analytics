@@ -1,0 +1,192 @@
+{
+  "portfolio": {
+    "address": "0xdb3bc89069c579d37b64c5a18e205ae1e7464a24",
+    "totalValue": "$2,432",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.9100",
+        "amount": "0.2058",
+        "usdValue": "$644.87"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "458.6095",
+        "usdValue": "$458.61"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.3090",
+        "amount": "4.9704",
+        "usdValue": "$145.68"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3762",
+        "amount": "41.6002",
+        "usdValue": "$57.25"
+      },
+      {
+        "symbol": "UETH",
+        "chain": "hyper",
+        "price": "$3,140.8788",
+        "amount": "0.0091",
+        "usdValue": "$28.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.2300",
+        "amount": "0.0087",
+        "usdValue": "$27.30"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.8000",
+        "amount": "0.0122",
+        "usdValue": "$10.96"
+      },
+      {
+        "symbol": "WHYPE",
+        "chain": "hyper",
+        "price": "$29.3090",
+        "amount": "0.2800",
+        "usdValue": "$8.21"
+      },
+      {
+        "symbol": "Metis",
+        "chain": "metis",
+        "price": "$6.4700",
+        "amount": "0.4427",
+        "usdValue": "$2.86"
+      },
+      {
+        "symbol": "frxETH",
+        "chain": "frax",
+        "price": "$3,068.2242",
+        "amount": "0.0005",
+        "usdValue": "$1.45"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$629"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "UETH",
+        "usdValue": "$408"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdb3bc89069c579d37b64c5a18e205ae1e7464a24",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$34K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$27K"
+      },
+      {
+        "name": "Superform",
+        "volume": "$9K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$7K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$5K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x41d3…87b3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$3K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$3K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KUSDT",
+        "volume": "$18K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$5K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:10:22.362Z",
+  "source": "moonwell",
+  "vaultBalance": 0.19671617414620324,
+  "vaultPct": 0.0035688693605149587
+}

@@ -1,0 +1,113 @@
+{
+  "portfolio": {
+    "address": "0xce75fbd43432cd5af082ea608bd117eca3f3e00e",
+    "totalValue": "$6,775",
+    "walletLifetime": "1685 days",
+    "tokens": [
+      {
+        "symbol": "BONFIRE",
+        "chain": "bsc",
+        "price": "$0.0₇1301",
+        "amount": "15,000,006,118.8955",
+        "usdValue": "$195.20"
+      },
+      {
+        "symbol": "SAT (SaturnaToken)",
+        "chain": "bsc",
+        "price": "$0.0₈1636",
+        "amount": "18,977,693,055.5156",
+        "usdValue": "$31.05"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.2000",
+        "amount": "0.0093",
+        "usdValue": "$8.27"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9833",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6,540"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xce75fbd43432cd5af082ea608bd117eca3f3e00e",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x0000…1004",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x17fd…99cd",
+        "volume": "$5K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xa520…1788",
+        "volume": "$31"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x37a5…e3b5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc959…dfd0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BNB",
+        "volume": "$12K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "BONFIRE",
+        "volume": "$534"
+      },
+      {
+        "name": "ANKR",
+        "volume": "$107B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:55:53.271Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.9842493113258546,
+  "vaultPct": 0.00014899299953463732
+}

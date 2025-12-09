@@ -1,0 +1,179 @@
+{
+  "portfolio": {
+    "address": "0xda527b4a062ab1fbffb82a9966ac27611dd2041b",
+    "totalValue": "$127",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.7200",
+        "amount": "0.0199",
+        "usdValue": "$61.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.7200",
+        "amount": "0.0100",
+        "usdValue": "$31.20"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "11.2894",
+        "usdValue": "$11.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,106.7200",
+        "amount": "0.0022",
+        "usdValue": "$6.77"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0078",
+        "amount": "695.6294",
+        "usdValue": "$5.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,106.4500",
+        "amount": "0.0017",
+        "usdValue": "$5.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.7200",
+        "amount": "0.0016",
+        "usdValue": "$4.84"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xda527b4a062ab1fbffb82a9966ac27611dd2041b",
+    "topProtocols": [
+      {
+        "name": "LI.FI",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "NURI Exchange",
+        "volume": "$5K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$862"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$748"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$699"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$302"
+      },
+      {
+        "name": "WOWMAX",
+        "volume": "$260"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$241"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$240"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$735"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$604"
+      },
+      {
+        "name": "USDz",
+        "volume": "$259"
+      },
+      {
+        "name": "AERO",
+        "volume": "$237"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$177"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$170"
+      },
+      {
+        "name": "SCR",
+        "volume": "$109B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:54:48.237Z",
+  "source": "base_aave",
+  "vaultBalance": 0.059934097710933804,
+  "vaultPct": 0.0000881678678527672
+}

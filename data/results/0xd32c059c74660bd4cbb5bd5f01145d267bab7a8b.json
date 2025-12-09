@@ -1,0 +1,254 @@
+{
+  "portfolio": {
+    "address": "0xd32c059c74660bd4cbb5bd5f01145d267bab7a8b",
+    "totalValue": "$385,324",
+    "walletLifetime": "725 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.6300",
+        "amount": "0.2776",
+        "usdValue": "$867.26"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,124.6300",
+        "amount": "0.0200",
+        "usdValue": "$62.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.6300",
+        "amount": "0.0192",
+        "usdValue": "$59.97"
+      },
+      {
+        "symbol": "GEMAI (thenextgem.ai)",
+        "chain": "eth",
+        "price": "$0.0005",
+        "amount": "113,943.8596",
+        "usdValue": "$53.52"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.8000",
+        "amount": "0.0067",
+        "usdValue": "$6.04"
+      },
+      {
+        "symbol": "USDP",
+        "chain": "eth",
+        "price": "$0.9955",
+        "amount": "4.6082",
+        "usdValue": "$4.59"
+      },
+      {
+        "symbol": "MEME",
+        "chain": "eth",
+        "price": "$0.1266",
+        "amount": "20.0000",
+        "usdValue": "$2.53"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "0.1407",
+        "usdValue": "$1.91"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$384,254"
+      },
+      {
+        "protocol": "LayerAI",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LAI",
+        "usdValue": "$10"
+      },
+      {
+        "protocol": "Reya",
+        "chain": "reya",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Fjord Foundry",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "LBM",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd32c059c74660bd4cbb5bd5f01145d267bab7a8b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5M"
+      },
+      {
+        "name": "0xfc07…5968",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x08fe…26c7",
+        "volume": "$713K"
+      },
+      {
+        "name": "0x8e92…a0bc",
+        "volume": "$541K"
+      },
+      {
+        "name": "0x9920…ed20",
+        "volume": "$486K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$475K"
+      },
+      {
+        "name": "0x8eb8…ab28",
+        "volume": "$377K"
+      },
+      {
+        "name": "0x5496…5f35",
+        "volume": "$299K"
+      },
+      {
+        "name": "0x50b7…b218",
+        "volume": "$266K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$265K"
+      },
+      {
+        "name": "0x3c11…6656",
+        "volume": "$260K"
+      },
+      {
+        "name": "0x0f88…ff89",
+        "volume": "$240K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$223K"
+      },
+      {
+        "name": "0x6c98…e770",
+        "volume": "$185K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$158K"
+      },
+      {
+        "name": "0x0000…745f",
+        "volume": "$121K"
+      },
+      {
+        "name": "0x5523…b59e",
+        "volume": "$121K"
+      },
+      {
+        "name": "0xbee3…a000",
+        "volume": "$108K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$105K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$6M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3M"
+      },
+      {
+        "name": "LINK",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDP",
+        "volume": "$848K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$686K"
+      },
+      {
+        "name": "WBTC.e",
+        "volume": "$531K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$484K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$358K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$218K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$154K"
+      },
+      {
+        "name": "KsUSD",
+        "volume": "$100K"
+      },
+      {
+        "name": "AAVE.e",
+        "volume": "$71K"
+      },
+      {
+        "name": "CATA",
+        "volume": "$42K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:01:43.706Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 54.53466504067663,
+  "vaultPct": 0.010140013775009303
+}

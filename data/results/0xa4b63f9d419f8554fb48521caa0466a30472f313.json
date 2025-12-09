@@ -1,0 +1,101 @@
+{
+  "portfolio": {
+    "address": "0xa4b63f9d419f8554fb48521caa0466a30472f313",
+    "totalValue": "$172",
+    "walletLifetime": "74 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,120.7600",
+        "amount": "0.0527",
+        "usdValue": "$164.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.7600",
+        "amount": "0.0022",
+        "usdValue": "$6.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,120.7600",
+        "amount": "0.00009887",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xa4b63f9d419f8554fb48521caa0466a30472f313",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$312"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$216"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$190B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$128"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$128"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$60"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$37"
+      },
+      {
+        "name": "0x1c28…f90a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe7fd…00e0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc9bd…9336",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$528"
+      },
+      {
+        "name": "ETH",
+        "volume": "$441"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:41:52.699Z",
+  "source": "moonwell",
+  "vaultBalance": 0.05164286778685273,
+  "vaultPct": 0.0009369165973950034
+}

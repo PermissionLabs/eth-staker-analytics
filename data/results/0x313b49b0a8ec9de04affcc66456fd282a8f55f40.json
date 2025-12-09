@@ -1,0 +1,288 @@
+{
+  "portfolio": {
+    "address": "0x313b49b0a8ec9de04affcc66456fd282a8f55f40",
+    "totalValue": "$345",
+    "walletLifetime": "1360 days",
+    "tokens": [
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0333",
+        "amount": "1,423.0000",
+        "usdValue": "$47.36"
+      },
+      {
+        "symbol": "PING",
+        "chain": "base",
+        "price": "$0.0083",
+        "amount": "1,060.4287",
+        "usdValue": "$8.82"
+      },
+      {
+        "symbol": "USDbC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "8.2166",
+        "usdValue": "$8.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.0200",
+        "amount": "0.0025",
+        "usdValue": "$7.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,159.0200",
+        "amount": "0.0018",
+        "usdValue": "$5.64"
+      },
+      {
+        "symbol": "LUNA (Virtuals Protocol)",
+        "chain": "base",
+        "price": "$0.0167",
+        "amount": "75.8683",
+        "usdValue": "$1.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.2900",
+        "amount": "0.0004",
+        "usdValue": "$1.24"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1249",
+        "amount": "1.0781",
+        "usdValue": "$0.13"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6877",
+        "amount": "0.1687",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2289",
+        "amount": "0.0884",
+        "usdValue": "$0.11"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$244"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$13"
+      },
+      {
+        "protocol": "SushiSwap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "VIRTUAL",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SEAM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Radiant Capital V2",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x313b49b0a8ec9de04affcc66456fd282a8f55f40",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$580"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$320"
+      },
+      {
+        "name": "0x6d1c…5df7",
+        "volume": "$288"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$259"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$248"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$243M"
+      },
+      {
+        "name": "averick",
+        "volume": "$243"
+      },
+      {
+        "name": "zkSwap Finance",
+        "volume": "$239"
+      },
+      {
+        "name": "DeFi Saver",
+        "volume": "$237"
+      },
+      {
+        "name": "Yield Protocol",
+        "volume": "$217"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$200"
+      },
+      {
+        "name": "0xf1de…8888",
+        "volume": "$138"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$131"
+      },
+      {
+        "name": "Velocore",
+        "volume": "$125"
+      },
+      {
+        "name": "0x76fc…e149",
+        "volume": "$118M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$115"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$113"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$104"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$306"
+      },
+      {
+        "name": "USDT",
+        "volume": "$295"
+      },
+      {
+        "name": "ZK",
+        "volume": "$259"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$246"
+      },
+      {
+        "name": "WETH",
+        "volume": "$244"
+      },
+      {
+        "name": "slUSDT",
+        "volume": "$71"
+      },
+      {
+        "name": "POL",
+        "volume": "$55"
+      },
+      {
+        "name": "SEAM",
+        "volume": "$49"
+      },
+      {
+        "name": "AERO",
+        "volume": "$42"
+      },
+      {
+        "name": "PING",
+        "volume": "$35"
+      },
+      {
+        "name": "SERAPH",
+        "volume": "$13"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$8"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:37:54.740Z",
+  "source": "base_aave",
+  "vaultBalance": 0.16634079140700286,
+  "vaultPct": 0.00024470065414235534
+}

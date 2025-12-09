@@ -1,0 +1,254 @@
+{
+  "portfolio": {
+    "address": "0x678a92cd1f10ba68765f11ecad442b2457cfcd1d",
+    "totalValue": "$17,052",
+    "walletLifetime": "220 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "arb",
+        "price": "$13.7859",
+        "amount": "3.4341",
+        "usdValue": "$47.34"
+      },
+      {
+        "symbol": "XBG",
+        "chain": "arb",
+        "price": "$0.0663",
+        "amount": "652.0073",
+        "usdValue": "$43.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.8500",
+        "amount": "0.0110",
+        "usdValue": "$34.46"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$1.0000",
+        "amount": "11.7477",
+        "usdValue": "$11.75"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2117",
+        "amount": "53.6508",
+        "usdValue": "$11.36"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3710",
+        "amount": "6.5326",
+        "usdValue": "$8.96"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.0000",
+        "amount": "0.0070",
+        "usdValue": "$6.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.9300",
+        "amount": "0.0020",
+        "usdValue": "$6.25"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "arb",
+        "price": "$0.3923",
+        "amount": "7.1854",
+        "usdValue": "$2.82"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "2.3910",
+        "usdValue": "$2.39"
+      },
+      {
+        "symbol": "GMX",
+        "chain": "arb",
+        "price": "$8.8795",
+        "amount": "0.2586",
+        "usdValue": "$2.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,128.1000",
+        "amount": "0.0004",
+        "usdValue": "$1.33"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$15,734"
+      },
+      {
+        "protocol": "YieldFlow",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,140"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x678a92cd1f10ba68765f11ecad442b2457cfcd1d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$75K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$74K"
+      },
+      {
+        "name": "0x88a6…0e59",
+        "volume": "$64K"
+      },
+      {
+        "name": "YieldFlow",
+        "volume": "$59K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$19K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$15K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xe95c…a2db",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x678a…cd1d",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x7ccb…cc47",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x1861…ed86",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xa10e…7c68",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xb1f1…6418",
+        "volume": "$5K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x9aa6…e4ce",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x46cc…b8a2",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$118K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$96K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$88K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$33K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$20K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$9K"
+      },
+      {
+        "name": "XBG",
+        "volume": "$9K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$5K"
+      },
+      {
+        "name": "YFLOW",
+        "volume": "$5K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$5K"
+      },
+      {
+        "name": "KZRO",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:15:44.477Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.1500000679887046,
+  "vaultPct": 0.00021382759978390466
+}

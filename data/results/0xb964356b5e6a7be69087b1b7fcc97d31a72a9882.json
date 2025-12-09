@@ -1,0 +1,194 @@
+{
+  "portfolio": {
+    "address": "0xb964356b5e6a7be69087b1b7fcc97d31a72a9882",
+    "totalValue": "$879",
+    "walletLifetime": "343 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,097.6900",
+        "amount": "0.0376",
+        "usdValue": "$116.51"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "23.6932",
+        "usdValue": "$23.69"
+      },
+      {
+        "symbol": "TST",
+        "chain": "bsc",
+        "price": "$0.0157",
+        "amount": "78.8207",
+        "usdValue": "$1.24"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,097.6900",
+        "amount": "0.0001",
+        "usdValue": "$0.43"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MARCO",
+        "chain": "bsc",
+        "price": "$0.0015",
+        "amount": "3.1107",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.0680",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BMB",
+        "chain": "bsc",
+        "price": "$0.00002588",
+        "amount": "24.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "生人安币",
+        "chain": "bsc",
+        "price": "$0.0002",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7834",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "C3 Coin",
+        "chain": "bsc",
+        "price": "$0.00007621",
+        "amount": "0.0300",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ChatGPT",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$737"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb964356b5e6a7be69087b1b7fcc97d31a72a9882",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x5b1e…c308",
+        "volume": "$511"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$257"
+      },
+      {
+        "name": "0x0166…49ee",
+        "volume": "$24"
+      },
+      {
+        "name": "0xad0c…ccc9",
+        "volume": "$24"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$1"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xae9a…a3c5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7615…1877",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x14bd…bcb7",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$514"
+      },
+      {
+        "name": "TST",
+        "volume": "$18B"
+      },
+      {
+        "name": "MB",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:01:02.804Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.4006227238240754,
+  "vaultPct": 0.00007449060033884586
+}

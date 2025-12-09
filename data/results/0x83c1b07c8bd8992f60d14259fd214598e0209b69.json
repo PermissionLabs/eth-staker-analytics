@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0x83c1b07c8bd8992f60d14259fd214598e0209b69",
+    "totalValue": "$8,424",
+    "walletLifetime": "1880 days",
+    "tokens": [
+      {
+        "symbol": "weETH",
+        "chain": "base",
+        "price": "$3,385.9113",
+        "amount": "0.0235",
+        "usdValue": "$79.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,118.9300",
+        "amount": "0.0060",
+        "usdValue": "$18.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,119.7100",
+        "amount": "0.0010",
+        "usdValue": "$3.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.9300",
+        "amount": "0.0005",
+        "usdValue": "$1.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,119.7100",
+        "amount": "0.0001",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,118.9300",
+        "amount": "0.0000929",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "ZERO",
+        "chain": "linea",
+        "price": "$0.01",
+        "amount": "1,405.80",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$7,071"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$892"
+      },
+      {
+        "protocol": "dYdX",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$312"
+      },
+      {
+        "protocol": "TokenSets",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$45"
+      },
+      {
+        "protocol": "MM.Finance",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "MLP",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZERO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x83c1b07c8bd8992f60d14259fd214598e0209b69",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$403K"
+      },
+      {
+        "name": "0xa514…980f",
+        "volume": "$65K"
+      },
+      {
+        "name": "0x1fdf…5760",
+        "volume": "$64K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$60K"
+      },
+      {
+        "name": "dYdX",
+        "volume": "$46K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x",
+        "volume": "$29K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$28K"
+      },
+      {
+        "name": "0xbe9a…d27a",
+        "volume": "$19K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$18K"
+      },
+      {
+        "name": "Tornado",
+        "volume": "$14K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$14K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$14K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$13K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x2953…cfbb",
+        "volume": "$9K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$9K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "wstETH",
+        "volume": "$368K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$165K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$126K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$38K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$35K"
+      },
+      {
+        "name": "DYDX",
+        "volume": "$26K"
+      },
+      {
+        "name": "PSP",
+        "volume": "$25K"
+      },
+      {
+        "name": "hETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "POL",
+        "volume": "$8K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$7K"
+      },
+      {
+        "name": "OP",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:21:31.347Z",
+  "source": "moonwell",
+  "vaultBalance": 2.221360666296149,
+  "vaultPct": 0.04030042804058078
+}

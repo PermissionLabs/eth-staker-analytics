@@ -1,0 +1,139 @@
+{
+  "portfolio": {
+    "address": "0x2d93cda87192ee3a08299dfe3f177517ab459d1e",
+    "totalValue": "$820",
+    "walletLifetime": "1186 days",
+    "tokens": [
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "226.2181",
+        "usdValue": "$226.22"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6600",
+        "amount": "4.0060",
+        "usdValue": "$54.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.5000",
+        "amount": "0.0097",
+        "usdValue": "$30.36"
+      },
+      {
+        "symbol": "REN",
+        "chain": "eth",
+        "price": "$0.0058",
+        "amount": "877.1078",
+        "usdValue": "$5.07"
+      },
+      {
+        "symbol": "SPELL",
+        "chain": "eth",
+        "price": "$0.0003",
+        "amount": "4,447.6584",
+        "usdValue": "$1.17"
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004664",
+        "amount": "0.0690",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$502"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2d93cda87192ee3a08299dfe3f177517ab459d1e",
+    "topProtocols": [
+      {
+        "name": "0x187f…2386",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x4fa0…870f",
+        "volume": "$338"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$334"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$245"
+      },
+      {
+        "name": "0xb233…c460",
+        "volume": "$243"
+      },
+      {
+        "name": "0xd19e…0147",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb890…bc6c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdb4f…589a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$47K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$226"
+      },
+      {
+        "name": "REN",
+        "volume": "$105"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$76"
+      },
+      {
+        "name": "SPELL",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:23:24.379Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.142759317329942,
+  "vaultPct": 0.00001071948911817573
+}

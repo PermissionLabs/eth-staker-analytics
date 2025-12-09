@@ -1,0 +1,172 @@
+{
+  "portfolio": {
+    "address": "0x4d0880fa8cc86ebf98ef249c3b04ee204c84a3de",
+    "totalValue": "$209,251",
+    "walletLifetime": "848 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.0100",
+        "amount": "0.1072",
+        "usdValue": "$333.15"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$190.5108",
+        "amount": "0.6653",
+        "usdValue": "$126.75"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "69.3106",
+        "usdValue": "$69.32"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "44.0899",
+        "usdValue": "$44.08"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001002",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$208,678"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4d0880fa8cc86ebf98ef249c3b04ee204c84a3de",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$473K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$187K"
+      },
+      {
+        "name": "0x2b25…ce01",
+        "volume": "$186K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$146K"
+      },
+      {
+        "name": "0x1ee5…b318",
+        "volume": "$72K"
+      },
+      {
+        "name": "0x81d7…0564",
+        "volume": "$71K"
+      },
+      {
+        "name": "0x4798…9061",
+        "volume": "$50K"
+      },
+      {
+        "name": "0x05ff…f381",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x7648…483a",
+        "volume": "$41K"
+      },
+      {
+        "name": "0xc50c…d719",
+        "volume": "$36K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x4d08…a3de",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x1386…3892",
+        "volume": "$26K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x00fd…e52a",
+        "volume": "$20K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$20K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$494K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$173K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$43K"
+      },
+      {
+        "name": "MULTI",
+        "volume": "$15K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$15K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:53:19.957Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 13.5433012496351,
+  "vaultPct": 0.002518201241870078
+}

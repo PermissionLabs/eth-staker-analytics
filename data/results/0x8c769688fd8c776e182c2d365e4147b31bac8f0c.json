@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0x8c769688fd8c776e182c2d365e4147b31bac8f0c",
+    "totalValue": "$1,037",
+    "walletLifetime": "861 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.8100",
+        "amount": "0.1193",
+        "usdValue": "$373.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.2500",
+        "amount": "0.0188",
+        "usdValue": "$58.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.2500",
+        "amount": "0.0161",
+        "usdValue": "$50.33"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$905.5000",
+        "amount": "0.0183",
+        "usdValue": "$16.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,132.8100",
+        "amount": "0.0012",
+        "usdValue": "$3.71"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "1.0456",
+        "usdValue": "$1.05"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "6.9313",
+        "usdValue": "$0.86"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$531"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "vooi",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8c769688fd8c776e182c2d365e4147b31bac8f0c",
+    "topProtocols": [
+      {
+        "name": "0x2c08…ef2c",
+        "volume": "$92K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$88K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$48K"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$45K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$14K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$13K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xbf39…3f11",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x8b9e…0c71",
+        "volume": "$2K"
+      },
+      {
+        "name": "endi Finance",
+        "volume": "$842"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$824"
+      },
+      {
+        "name": "WOWMAX",
+        "volume": "$759"
+      },
+      {
+        "name": "orpho",
+        "volume": "$681"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$680"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$679"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$270K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$5K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$928"
+      },
+      {
+        "name": "USDC",
+        "volume": "$478"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$321"
+      },
+      {
+        "name": "ALT",
+        "volume": "$262"
+      },
+      {
+        "name": "WETH",
+        "volume": "$214"
+      },
+      {
+        "name": "DMAIL",
+        "volume": "$34"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:43:05.953Z",
+  "source": "moonwell",
+  "vaultBalance": 0.16617910597114804,
+  "vaultPct": 0.0030148589572376316
+}

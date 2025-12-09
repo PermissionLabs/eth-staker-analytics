@@ -1,0 +1,247 @@
+{
+  "portfolio": {
+    "address": "0x033ea6beeb00d671a7739edeafc127a9ceba1ac0",
+    "totalValue": "$876",
+    "walletLifetime": "445 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.9900",
+        "amount": "0.0664",
+        "usdValue": "$209.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.9900",
+        "amount": "0.0533",
+        "usdValue": "$168.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,159.9900",
+        "amount": "0.0003",
+        "usdValue": "$1.01"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$496"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Blur",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Radiant Capital V2",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x033ea6beeb00d671a7739edeafc127a9ceba1ac0",
+    "topProtocols": [
+      {
+        "name": "LayerBank",
+        "volume": "$55K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$55K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$47K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$32K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$32K"
+      },
+      {
+        "name": "Radiant Capital V2",
+        "volume": "$32K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$32K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$32K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$31K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$25K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$22K"
+      },
+      {
+        "name": "deri",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x3aae…26a5",
+        "volume": "$16K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$10K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Alien Base",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$271K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$39K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$11K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$854"
+      },
+      {
+        "name": "GHO",
+        "volume": "$208"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$198"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:05:57.285Z",
+  "source": "base_aave",
+  "vaultBalance": 0.15660001210418362,
+  "vaultPct": 0.00023037118602395464
+}

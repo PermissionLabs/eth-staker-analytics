@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0x0862f8f82eec0d65197c9b75c67cf9154600358f",
+    "totalValue": "$680",
+    "walletLifetime": "483 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.2300",
+        "amount": "0.0019",
+        "usdValue": "$6.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.2300",
+        "amount": "0.0016",
+        "usdValue": "$5.12"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.1000",
+        "amount": "0.0039",
+        "usdValue": "$3.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,127.9500",
+        "amount": "0.0008",
+        "usdValue": "$2.50"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "uni",
+        "price": "$90,860.4200",
+        "amount": "0.00001094",
+        "usdValue": "$0.99"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.9545",
+        "usdValue": "$0.95"
+      },
+      {
+        "symbol": "FLUID",
+        "chain": "eth",
+        "price": "$3.2587",
+        "amount": "0.0273",
+        "usdValue": "$0.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$442"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$208"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "uni",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$11"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0862f8f82eec0d65197c9b75c67cf9154600358f",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$910"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$804"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$794"
+      },
+      {
+        "name": "0xde6c…23fc",
+        "volume": "$602B"
+      },
+      {
+        "name": "inance",
+        "volume": "$506"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$502B"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$275B"
+      },
+      {
+        "name": "itget",
+        "volume": "$209B"
+      },
+      {
+        "name": "Rango",
+        "volume": "$164B"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$144"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$804"
+      },
+      {
+        "name": "OMNI",
+        "volume": "$786"
+      },
+      {
+        "name": "TWT",
+        "volume": "$375"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$328"
+      },
+      {
+        "name": "WETH",
+        "volume": "$287"
+      },
+      {
+        "name": "NB",
+        "volume": "$135"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$131"
+      },
+      {
+        "name": "USDT",
+        "volume": "$124"
+      },
+      {
+        "name": "STRK",
+        "volume": "$111"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$84"
+      },
+      {
+        "name": "UNI",
+        "volume": "$24"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:16:47.773Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.16037945092283154,
+  "vaultPct": 0.000029820479146116395
+}

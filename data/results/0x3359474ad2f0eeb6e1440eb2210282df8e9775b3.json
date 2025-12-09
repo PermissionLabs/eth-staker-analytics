@@ -1,0 +1,273 @@
+{
+  "portfolio": {
+    "address": "0x3359474ad2f0eeb6e1440eb2210282df8e9775b3",
+    "totalValue": "$18,445",
+    "walletLifetime": "1010 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "world",
+        "price": "$3,130.5600",
+        "amount": "0.2999",
+        "usdValue": "$939.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.1500",
+        "amount": "0.0948",
+        "usdValue": "$296.83"
+      },
+      {
+        "symbol": "OFAC",
+        "chain": "base",
+        "price": "$0.00001671",
+        "amount": "16,732,905.3480",
+        "usdValue": "$279.61"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,130.1500",
+        "amount": "0.0761",
+        "usdValue": "$238.24"
+      },
+      {
+        "symbol": "SPF",
+        "chain": "base",
+        "price": "$0.00006955",
+        "amount": "2,111,497.7628",
+        "usdValue": "$146.86"
+      },
+      {
+        "symbol": "SEXY (ETHXY)",
+        "chain": "base",
+        "price": "$0.0145",
+        "amount": "2,879.0000",
+        "usdValue": "$41.81"
+      },
+      {
+        "symbol": "MOCHI",
+        "chain": "base",
+        "price": "$0.0₅2262",
+        "amount": "17,468,676.9139",
+        "usdValue": "$39.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.1500",
+        "amount": "0.0097",
+        "usdValue": "$30.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,130.5600",
+        "amount": "0.0041",
+        "usdValue": "$12.68"
+      },
+      {
+        "symbol": "CHATTY",
+        "chain": "world",
+        "price": "$0.0₅1369",
+        "amount": "9,073,064.8074",
+        "usdValue": "$12.42"
+      },
+      {
+        "symbol": "POLLUK",
+        "chain": "base",
+        "price": "$0.00001642",
+        "amount": "579,304.7563",
+        "usdValue": "$9.51"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3187",
+        "amount": "14.5521",
+        "usdValue": "$4.64"
+      },
+      {
+        "symbol": "PEEPO",
+        "chain": "base",
+        "price": "$0.00001768",
+        "amount": "172,211.5485",
+        "usdValue": "$3.04"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$9,419"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$6,942"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$26"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3359474ad2f0eeb6e1440eb2210282df8e9775b3",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$52K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$31K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x13b2…850e",
+        "volume": "$28K"
+      },
+      {
+        "name": "0xa9bd…ef8e",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$11K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$10K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$8K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$8K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd1cf…0266",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9029…e914",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xb342…cd13",
+        "volume": "$47"
+      },
+      {
+        "name": "0x1fe9…80f0",
+        "volume": "$10"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$80K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$64K"
+      },
+      {
+        "name": "BERF",
+        "volume": "$42K"
+      },
+      {
+        "name": "KwstETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "OFAC",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$17K"
+      },
+      {
+        "name": "SPF",
+        "volume": "$1K"
+      },
+      {
+        "name": "POLLUK",
+        "volume": "$1K"
+      },
+      {
+        "name": "PEEPO",
+        "volume": "$1K"
+      },
+      {
+        "name": "MOCHI",
+        "volume": "$617B"
+      },
+      {
+        "name": "DP",
+        "volume": "$57"
+      },
+      {
+        "name": "OP",
+        "volume": "$20"
+      },
+      {
+        "name": "ENTO",
+        "volume": "$2"
+      },
+      {
+        "name": "ETHXY",
+        "volume": "$unknown"
+      },
+      {
+        "name": "ZORASKYA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:26:30.859Z",
+  "source": "moonwell",
+  "vaultBalance": 1.3931917780838603,
+  "vaultPct": 0.02527560060429739
+}

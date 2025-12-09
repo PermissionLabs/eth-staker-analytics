@@ -1,0 +1,233 @@
+{
+  "portfolio": {
+    "address": "0x49db5b22c979ae9d15023d8d28adbfe2762637b5",
+    "totalValue": "$721",
+    "walletLifetime": "1257 days",
+    "tokens": [
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2715",
+        "amount": "1,305.4620",
+        "usdValue": "$354.43"
+      },
+      {
+        "symbol": "upNUSD",
+        "chain": "eth",
+        "price": "$1.0033",
+        "amount": "256.0400",
+        "usdValue": "$256.89"
+      },
+      {
+        "symbol": "stHYPE",
+        "chain": "hyper",
+        "price": "$29.3880",
+        "amount": "1.0301",
+        "usdValue": "$30.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.1200",
+        "amount": "0.0058",
+        "usdValue": "$18.19"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.4360",
+        "amount": "0.4334",
+        "usdValue": "$12.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,121.1200",
+        "amount": "0.0038",
+        "usdValue": "$11.77"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "hyper",
+        "price": "$1.0001",
+        "amount": "11.1080",
+        "usdValue": "$11.11"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "7.3435",
+        "usdValue": "$7.34"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "4.8947",
+        "usdValue": "$4.89"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.2000",
+        "amount": "0.0052",
+        "usdValue": "$4.63"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9455",
+        "amount": "3.0487",
+        "usdValue": "$2.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.1200",
+        "amount": "0.0004",
+        "usdValue": "$1.38"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "8.3337",
+        "usdValue": "$1.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "KNTQ",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x49db5b22c979ae9d15023d8d28adbfe2762637b5",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$213K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$106K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$97K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$49K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$24K"
+      },
+      {
+        "name": "0xbea9…055a",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x6e8c…9e09",
+        "volume": "$19K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$17K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xacc5…37b9",
+        "volume": "$12K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$11K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$328K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$208K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$70K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$50K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$34K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$6K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$5K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$4K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "mPendle",
+        "volume": "$2K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:28:56.971Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.002431013223925,
+  "vaultPct": 0.0007442001445748953
+}

@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x400f865c5a829b91829d85ec1047ad8dad421e60",
+    "totalValue": "$554",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.6000",
+        "amount": "0.0344",
+        "usdValue": "$107.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.6000",
+        "amount": "0.0243",
+        "usdValue": "$75.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,109.6000",
+        "amount": "0.0081",
+        "usdValue": "$25.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.6000",
+        "amount": "0.0027",
+        "usdValue": "$8.26"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.0000",
+        "amount": "0.0056",
+        "usdValue": "$5.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,109.6000",
+        "amount": "0.0007",
+        "usdValue": "$2.07"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "0.1384",
+        "usdValue": "$1.88"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$327"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Radiant Capital V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "RDNT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x400f865c5a829b91829d85ec1047ad8dad421e60",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$4K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$4K"
+      },
+      {
+        "name": "Radiant Capital V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$2K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "WOO Network",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$23K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$13K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$973"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$764"
+      },
+      {
+        "name": "ARB",
+        "volume": "$635"
+      },
+      {
+        "name": "USDT",
+        "volume": "$486"
+      },
+      {
+        "name": "USDt",
+        "volume": "$233"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:32:50.284Z",
+  "source": "moonwell",
+  "vaultBalance": 0.10304786346573822,
+  "vaultPct": 0.0018695176651619527
+}

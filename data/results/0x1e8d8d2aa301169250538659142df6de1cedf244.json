@@ -1,0 +1,401 @@
+{
+  "portfolio": {
+    "address": "0x1e8d8d2aa301169250538659142df6de1cedf244",
+    "totalValue": "$136,469",
+    "walletLifetime": "3112 days",
+    "tokens": [
+      {
+        "symbol": "agETH",
+        "chain": "arb",
+        "price": "$3,283.5128",
+        "amount": "1.9404",
+        "usdValue": "$6,371.41"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "350.9459",
+        "usdValue": "$350.95"
+      },
+      {
+        "symbol": "uniBTC",
+        "chain": "bsc",
+        "price": "$89,382.8660",
+        "amount": "0.0024",
+        "usdValue": "$218.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,116.0400",
+        "amount": "0.0614",
+        "usdValue": "$191.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.2600",
+        "amount": "0.0533",
+        "usdValue": "$165.99"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.6000",
+        "amount": "0.1461",
+        "usdValue": "$130.85"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "105.0000",
+        "usdValue": "$105.00"
+      },
+      {
+        "symbol": "GEOD",
+        "chain": "matic",
+        "price": "$0.1414",
+        "amount": "648.4797",
+        "usdValue": "$91.70"
+      },
+      {
+        "symbol": "USDt",
+        "chain": "avax",
+        "price": "$1.0001",
+        "amount": "89.0000",
+        "usdValue": "$89.01"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "86.8427",
+        "usdValue": "$86.85"
+      },
+      {
+        "symbol": "lisUSD",
+        "chain": "bsc",
+        "price": "$0.9991",
+        "amount": "66.1896",
+        "usdValue": "$66.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.2600",
+        "amount": "0.0183",
+        "usdValue": "$57.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,116.2600",
+        "amount": "0.0136",
+        "usdValue": "$42.39"
+      },
+      {
+        "symbol": "KET",
+        "chain": "avax",
+        "price": "$0.0124",
+        "amount": "2,996.6290",
+        "usdValue": "$37.10"
+      },
+      {
+        "symbol": "Cheems",
+        "chain": "bsc",
+        "price": "$0.0₅1219",
+        "amount": "24,519,638.6833",
+        "usdValue": "$29.89"
+      },
+      {
+        "symbol": "B2",
+        "chain": "bsc",
+        "price": "$0.7143",
+        "amount": "39.8362",
+        "usdValue": "$28.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,116.2600",
+        "amount": "0.0057",
+        "usdValue": "$17.66"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6900",
+        "amount": "0.8414",
+        "usdValue": "$11.52"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "avax",
+        "price": "$1.0000",
+        "amount": "8.4690",
+        "usdValue": "$8.47"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BNB",
+        "usdValue": "$17,189"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$16,431"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBNB",
+        "usdValue": "$14,331"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BNB",
+        "usdValue": "$14,129"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$7,203"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$6,521"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDe",
+        "usdValue": "$6,242"
+      },
+      {
+        "protocol": "Synapse",
+        "chain": "avax",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "nUSD",
+        "usdValue": "$6,142"
+      },
+      {
+        "protocol": "PancakeSwap",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "Cake",
+        "usdValue": "$5,649"
+      },
+      {
+        "protocol": "Lista DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$5,378"
+      },
+      {
+        "protocol": "BNB Chain Staking",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$4,537"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,352"
+      },
+      {
+        "protocol": "48 Club",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KOGE",
+        "usdValue": "$3,683"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,977"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AVAX",
+        "usdValue": "$2,265"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,950"
+      },
+      {
+        "protocol": "Plasma",
+        "chain": "plasma",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT0",
+        "usdValue": "$1,265"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "plasma",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT0",
+        "usdValue": "$1,260"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$917"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$905"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDbC",
+        "usdValue": "$764"
+      },
+      {
+        "protocol": "Avant",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "avETH",
+        "usdValue": "$627"
+      },
+      {
+        "protocol": "LFJ",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "JOE",
+        "usdValue": "$523"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "avax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDt",
+        "usdValue": "$516"
+      },
+      {
+        "protocol": "Synapse",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "nUSD",
+        "usdValue": "$506"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$506"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$477"
+      },
+      {
+        "protocol": "Avant",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "avUSD",
+        "usdValue": "$321"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$179"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$175"
+      },
+      {
+        "protocol": "TRANCHESS",
+        "chain": "bsc",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "CHESS",
+        "usdValue": "$149"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1e8d8d2aa301169250538659142df6de1cedf244",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T17:12:12.594Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.9146185028914635,
+  "vaultPct": 0.021354869109805975
+}

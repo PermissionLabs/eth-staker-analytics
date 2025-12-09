@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0x1cbefa80cfa70c3c3f892318c18b7356a9473659",
+    "totalValue": "$6,035",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "pUSD",
+        "chain": "plume",
+        "price": "$1.0041",
+        "amount": "901.5952",
+        "usdValue": "$905.31"
+      },
+      {
+        "symbol": "PLUME",
+        "chain": "plume",
+        "price": "$0.0214",
+        "amount": "3,150.1513",
+        "usdValue": "$67.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.5600",
+        "amount": "0.0061",
+        "usdValue": "$19.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,124.5600",
+        "amount": "0.0042",
+        "usdValue": "$13.19"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "plume",
+        "price": "$3,124.5600",
+        "amount": "0.0019",
+        "usdValue": "$5.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,124.5600",
+        "amount": "0.0012",
+        "usdValue": "$3.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.5600",
+        "amount": "0.0006",
+        "usdValue": "$1.80"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$5,016"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1cbefa80cfa70c3c3f892318c18b7356a9473659",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$36K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x87cb…1f56",
+        "volume": "$12K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x85ac…255f",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$8K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$7K"
+      },
+      {
+        "name": "Paradex",
+        "volume": "$6K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$6K"
+      },
+      {
+        "name": "Blackhole",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "BEX",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xab7a…169b",
+        "volume": "$3K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$39K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$32K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$25K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$7K"
+      },
+      {
+        "name": "MAMO",
+        "volume": "$6K"
+      },
+      {
+        "name": "KHONEY",
+        "volume": "$5K"
+      },
+      {
+        "name": "pUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "BLACK",
+        "volume": "$2K"
+      },
+      {
+        "name": "BYUSD",
+        "volume": "$1K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:40:28.027Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.8644156189540282,
+  "vaultPct": 0.0003466639071576807
+}

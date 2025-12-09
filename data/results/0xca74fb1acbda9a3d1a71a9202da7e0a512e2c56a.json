@@ -1,0 +1,166 @@
+{
+  "portfolio": {
+    "address": "0xca74fb1acbda9a3d1a71a9202da7e0a512e2c56a",
+    "totalValue": "$7,986",
+    "walletLifetime": "69 days",
+    "tokens": [
+      {
+        "symbol": "ALPH",
+        "chain": "eth",
+        "price": "$0.1282",
+        "amount": "1,368.9467",
+        "usdValue": "$175.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,110.1600",
+        "amount": "0.0035",
+        "usdValue": "$10.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.1600",
+        "amount": "0.0002",
+        "usdValue": "$0.61"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2110",
+        "amount": "0.2296",
+        "usdValue": "$0.05"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,149"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$3,517"
+      },
+      {
+        "protocol": "Uniswap V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ARB",
+        "usdValue": "$133"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xca74fb1acbda9a3d1a71a9202da7e0a512e2c56a",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$8K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xbee3…a000",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3fac…92f2",
+        "volume": "$614"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$2241"
+      },
+      {
+        "name": "inch",
+        "volume": "$224"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$131"
+      },
+      {
+        "name": "0x0000…89be",
+        "volume": "$23"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$972"
+      },
+      {
+        "name": "ALPH",
+        "volume": "$220"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:11:05.538Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.24999479495386795,
+  "vaultPct": 0.00004648329026357938
+}

@@ -1,0 +1,190 @@
+{
+  "portfolio": {
+    "address": "0x141e741b6c3e3207782d51a14e3fefdc5ed1b44c",
+    "totalValue": "$6,015",
+    "walletLifetime": "759 days",
+    "tokens": [
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0002",
+        "amount": "173.7336",
+        "usdValue": "$173.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.2200",
+        "amount": "0.0178",
+        "usdValue": "$55.31"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1226",
+        "amount": "9.6607",
+        "usdValue": "$1.18"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.3214",
+        "usdValue": "$0.32"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "0.1292",
+        "usdValue": "$0.13"
+      },
+      {
+        "symbol": "Mult Pool",
+        "chain": "matic",
+        "price": "$0.0057",
+        "amount": "0.0010",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GIC",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$5,440"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$344"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x141e741b6c3e3207782d51a14e3fefdc5ed1b44c",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$24K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xf70a…8fdf",
+        "volume": "$9K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$9K"
+      },
+      {
+        "name": "Revert",
+        "volume": "$7K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$4K"
+      },
+      {
+        "name": "Go",
+        "volume": "$4K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$4K"
+      },
+      {
+        "name": "Rango",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xb730…3725",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xcaac…9c85",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2835…536d",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x43b2…b783",
+        "volume": "$1K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT0",
+        "volume": "$34K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$33K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$24K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$19K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$557"
+      },
+      {
+        "name": "WETH",
+        "volume": "$74"
+      },
+      {
+        "name": "POL",
+        "volume": "$18M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:35:05.829Z",
+  "source": "base_aave",
+  "vaultBalance": 0.057,
+  "vaultPct": 0.00008385157463863703
+}

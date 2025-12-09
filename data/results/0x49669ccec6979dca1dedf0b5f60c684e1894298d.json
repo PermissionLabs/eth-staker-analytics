@@ -1,0 +1,231 @@
+{
+  "portfolio": {
+    "address": "0x49669ccec6979dca1dedf0b5f60c684e1894298d",
+    "totalValue": "$5,632",
+    "walletLifetime": "721 days",
+    "tokens": [
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6677",
+        "amount": "1,186.3051",
+        "usdValue": "$792.05"
+      },
+      {
+        "symbol": "BLACK",
+        "chain": "avax",
+        "price": "$0.0584",
+        "amount": "7,540.5388",
+        "usdValue": "$440.23"
+      },
+      {
+        "symbol": "BEAM",
+        "chain": "avax",
+        "price": "$0.0033",
+        "amount": "90,133.5842",
+        "usdValue": "$296.21"
+      },
+      {
+        "symbol": "DOMI",
+        "chain": "avax",
+        "price": "$0.0019",
+        "amount": "64,387.1462",
+        "usdValue": "$121.31"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5300",
+        "amount": "3.9068",
+        "usdValue": "$52.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,095.2700",
+        "amount": "0.0113",
+        "usdValue": "$34.98"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1319",
+        "amount": "887,323,941.0000",
+        "usdValue": "$11.70"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,954"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BTC.b",
+        "usdValue": "$1,917"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$10"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x49669ccec6979dca1dedf0b5f60c684e1894298d",
+    "topProtocols": [
+      {
+        "name": "LFJ",
+        "volume": "$16K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7c27…497c",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xde8c…b417",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x11e1…9fab",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe32c…3615",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xacc5…37b9",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x40be…cdbf",
+        "volume": "$909"
+      },
+      {
+        "name": "0xa08d…a3f6",
+        "volume": "$790"
+      },
+      {
+        "name": "0x404b…2cba",
+        "volume": "$678"
+      },
+      {
+        "name": "0x89d7…cbc2",
+        "volume": "$675"
+      },
+      {
+        "name": "0x2f4f…1079",
+        "volume": "$501"
+      },
+      {
+        "name": "0x4144…849e",
+        "volume": "$200"
+      },
+      {
+        "name": "0x0a0b…2589",
+        "volume": "$128"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$80"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$10K"
+      },
+      {
+        "name": "AAVE.e",
+        "volume": "$3K"
+      },
+      {
+        "name": "LINK.e",
+        "volume": "$3K"
+      },
+      {
+        "name": "BRETT",
+        "volume": "$3K"
+      },
+      {
+        "name": "VERTAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$3K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$3K"
+      },
+      {
+        "name": "BLACK",
+        "volume": "$2K"
+      },
+      {
+        "name": "GAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$2K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$1K"
+      },
+      {
+        "name": "BEAM",
+        "volume": "$737K"
+      },
+      {
+        "name": "TA",
+        "volume": "$695"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:03:25.759Z",
+  "source": "base_aave",
+  "vaultBalance": 1.2087243511093653,
+  "vaultPct": 0.0017781305288523694
+}

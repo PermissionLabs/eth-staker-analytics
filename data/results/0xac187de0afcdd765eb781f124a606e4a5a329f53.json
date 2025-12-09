@@ -1,0 +1,98 @@
+{
+  "portfolio": {
+    "address": "0xac187de0afcdd765eb781f124a606e4a5a329f53",
+    "totalValue": "$947",
+    "walletLifetime": "1239 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.5600",
+        "amount": "0.0516",
+        "usdValue": "$160.92"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "85.1049",
+        "usdValue": "$85.10"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9862",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$701"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xac187de0afcdd765eb781f124a606e4a5a329f53",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x4e86…9c41",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xbbe7…4ad0",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5deb…bc43",
+        "volume": "$440B"
+      },
+      {
+        "name": "inance",
+        "volume": "$140"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$19K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$596"
+      },
+      {
+        "name": "HOT",
+        "volume": "$150M"
+      },
+      {
+        "name": "ITH",
+        "volume": "$4B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:00:35.759Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.2004107607904808,
+  "vaultPct": 0.000015048411617812487
+}

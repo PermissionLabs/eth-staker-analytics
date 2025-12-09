@@ -1,0 +1,308 @@
+{
+  "portfolio": {
+    "address": "0xb7102f2e2546bbed1c9206ddd88ab7554c6a8a30",
+    "totalValue": "$31,712",
+    "walletLifetime": "728 days",
+    "tokens": [
+      {
+        "symbol": "BTCB",
+        "chain": "bsc",
+        "price": "$90,240.9800",
+        "amount": "0.1812",
+        "usdValue": "$16,347.18"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "159.6319",
+        "usdValue": "$159.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.9900",
+        "amount": "0.0506",
+        "usdValue": "$157.66"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.4000",
+        "amount": "0.1243",
+        "usdValue": "$110.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,113.6700",
+        "amount": "0.0306",
+        "usdValue": "$95.28"
+      },
+      {
+        "symbol": "MERL",
+        "chain": "merlin",
+        "price": "$0.3470",
+        "amount": "270.1259",
+        "usdValue": "$93.73"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4760",
+        "amount": "195.2992",
+        "usdValue": "$92.96"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$891.6300",
+        "amount": "0.0500",
+        "usdValue": "$44.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,113.9900",
+        "amount": "0.0080",
+        "usdValue": "$25.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,113.9900",
+        "amount": "0.0060",
+        "usdValue": "$18.60"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$9,413"
+      },
+      {
+        "protocol": "Almanak",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3,090"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "cUSD",
+        "usdValue": "$2,036"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "SWELL",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "BounceBit",
+        "chain": "bb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "kelpMilesShares",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb7102f2e2546bbed1c9206ddd88ab7554c6a8a30",
+    "topProtocols": [
+      {
+        "name": "BounceBit",
+        "volume": "$33K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$17K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xe01a…502d",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x0aa5…eca2",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x74e1…fdac",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x24f2…05ca",
+        "volume": "$10K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$10K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$9K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x6fae…afaa",
+        "volume": "$8K"
+      },
+      {
+        "name": "Hyperlane",
+        "volume": "$8K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$7K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$7K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$7K"
+      },
+      {
+        "name": "Mezo",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xd7aa…64fc",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BTCB",
+        "volume": "$59K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$43K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$36K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$29K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "TIA",
+        "volume": "$16K"
+      },
+      {
+        "name": "TIA.n",
+        "volume": "$14K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$13K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$6K"
+      },
+      {
+        "name": "ZBC",
+        "volume": "$5K"
+      },
+      {
+        "name": "KcUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:38:14.834Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 2.7739905671186538,
+  "vaultPct": 0.030939952467394186
+}

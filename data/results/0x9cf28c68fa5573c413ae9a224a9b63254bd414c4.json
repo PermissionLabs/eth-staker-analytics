@@ -1,0 +1,76 @@
+{
+  "portfolio": {
+    "address": "0x9cf28c68fa5573c413ae9a224a9b63254bd414c4",
+    "totalValue": "$178",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,143.7300",
+        "amount": "0.0020",
+        "usdValue": "$6.36"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,749.2400",
+        "amount": "0.00001737",
+        "usdValue": "$1.59"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$170"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9cf28c68fa5573c413ae9a224a9b63254bd414c4",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$726K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$403"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$239"
+      },
+      {
+        "name": "0xf387…4ab7",
+        "volume": "$120"
+      },
+      {
+        "name": "0x14b4…dac1",
+        "volume": "$471"
+      },
+      {
+        "name": "inch",
+        "volume": "$39"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$472"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:56:50.257Z",
+  "source": "base_aave",
+  "vaultBalance": 0.05245,
+  "vaultPct": 0.00007715815947011425
+}

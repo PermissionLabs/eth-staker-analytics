@@ -1,0 +1,98 @@
+{
+  "portfolio": {
+    "address": "0xcf770972c1c76ea11e3ea3d5446c1682a18f5f17",
+    "totalValue": "$24,597",
+    "walletLifetime": "883 days",
+    "tokens": [
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4738",
+        "amount": "1,543.8825",
+        "usdValue": "$731.47"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0398",
+        "amount": "36.0753",
+        "usdValue": "$1.44"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9987",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$23,865"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcf770972c1c76ea11e3ea3d5446c1682a18f5f17",
+    "topProtocols": [
+      {
+        "name": "Crypto.com",
+        "volume": "$13K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1a06…d2f9",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x93b2…f9d0",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$31"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$3K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:38:26.412Z",
+  "source": "lido_steth",
+  "vaultBalance": 7.003904731490566,
+  "vaultPct": 0.0005259080945339174
+}

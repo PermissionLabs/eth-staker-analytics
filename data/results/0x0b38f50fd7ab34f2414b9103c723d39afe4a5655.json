@@ -1,0 +1,160 @@
+{
+  "portfolio": {
+    "address": "0x0b38f50fd7ab34f2414b9103c723d39afe4a5655",
+    "totalValue": "$2,400",
+    "walletLifetime": "137 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,139.8000",
+        "amount": "0.0076",
+        "usdValue": "$23.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,139.8000",
+        "amount": "0.0025",
+        "usdValue": "$7.95"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "6.3000",
+        "usdValue": "$6.30"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "3.4103",
+        "usdValue": "$3.41"
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7957",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,931"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$428"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0b38f50fd7ab34f2414b9103c723d39afe4a5655",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xddca…c693",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7f20…4085",
+        "volume": "$2K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$399B"
+      },
+      {
+        "name": "inance",
+        "volume": "$230"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$226"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$211"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$210"
+      },
+      {
+        "name": "0x1539…2d43",
+        "volume": "$155M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$100M"
+      },
+      {
+        "name": "0x6f73…ee88",
+        "volume": "$16"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$594"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$262"
+      },
+      {
+        "name": "USDe",
+        "volume": "$222"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:58:01.495Z",
+  "source": "base_aave",
+  "vaultBalance": 0.10102149629965465,
+  "vaultPct": 0.00014861072872065416
+}

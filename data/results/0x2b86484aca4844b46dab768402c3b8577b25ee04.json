@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0x2b86484aca4844b46dab768402c3b8577b25ee04",
+    "totalValue": "$17,730",
+    "walletLifetime": "1658 days",
+    "tokens": [
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$191.6586",
+        "amount": "0.5420",
+        "usdValue": "$103.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.5000",
+        "amount": "0.0117",
+        "usdValue": "$36.61"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1248",
+        "amount": "186.0207",
+        "usdValue": "$23.21"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "eth",
+        "price": "$31.9300",
+        "amount": "0.3176",
+        "usdValue": "$10.14"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "7.7331",
+        "usdValue": "$7.73"
+      },
+      {
+        "symbol": "1INCH",
+        "chain": "eth",
+        "price": "$0.1780",
+        "amount": "21.5000",
+        "usdValue": "$3.83"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9873",
+        "amount": "175.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006761",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$17,427"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DAI",
+        "usdValue": "$118"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2b86484aca4844b46dab768402c3b8577b25ee04",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$10K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$7K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x9afb…9abd",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$208"
+      },
+      {
+        "name": "0xa127…d165",
+        "volume": "$142"
+      },
+      {
+        "name": "0x100a…38e5",
+        "volume": "$108"
+      },
+      {
+        "name": "Compound",
+        "volume": "$100"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$248"
+      },
+      {
+        "name": "DAI",
+        "volume": "$208"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$136"
+      },
+      {
+        "name": "COMP",
+        "volume": "$1071"
+      },
+      {
+        "name": "INCH",
+        "volume": "$67B"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      },
+      {
+        "name": "SNL",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:13:58.087Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.150852920880499,
+  "vaultPct": 0.0003867664322538872
+}

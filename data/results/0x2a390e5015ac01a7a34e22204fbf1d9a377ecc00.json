@@ -1,0 +1,166 @@
+{
+  "portfolio": {
+    "address": "0x2a390e5015ac01a7a34e22204fbf1d9a377ecc00",
+    "totalValue": "$586",
+    "walletLifetime": "1285 days",
+    "tokens": [
+      {
+        "symbol": "upNUSD",
+        "chain": "eth",
+        "price": "$1.0033",
+        "amount": "201.2997",
+        "usdValue": "$201.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,151.5600",
+        "amount": "0.0110",
+        "usdValue": "$34.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "lens",
+        "price": "$3,151.5600",
+        "amount": "0.0107",
+        "usdValue": "$33.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,151.5600",
+        "amount": "0.0100",
+        "usdValue": "$31.48"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$911.4000",
+        "amount": "0.0013",
+        "usdValue": "$1.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "mode",
+        "price": "$3,152.0500",
+        "amount": "0.0003",
+        "usdValue": "$0.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zircuit",
+        "price": "$3,152.0500",
+        "amount": "0.0003",
+        "usdValue": "$0.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,151.5600",
+        "amount": "0.0003",
+        "usdValue": "$0.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,152.0500",
+        "amount": "0.0003",
+        "usdValue": "$0.88"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "dfk",
+        "price": "$0.9998",
+        "amount": "0.7480",
+        "usdValue": "$0.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,151.5600",
+        "amount": "0.0002",
+        "usdValue": "$0.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,152.0500",
+        "amount": "0.0002",
+        "usdValue": "$0.68"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "lens",
+        "price": "$0.9999",
+        "amount": "0.5825",
+        "usdValue": "$0.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,151.5600",
+        "amount": "0.0002",
+        "usdValue": "$0.52"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$265"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Radiant Capital",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Sophon",
+        "chain": "sophon",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "WSOPH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Stryke",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "DPX",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2a390e5015ac01a7a34e22204fbf1d9a377ecc00",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T14:18:49.347Z",
+  "source": "base_aave",
+  "vaultBalance": 0.08413558284563938,
+  "vaultPct": 0.00012377019482011156
+}

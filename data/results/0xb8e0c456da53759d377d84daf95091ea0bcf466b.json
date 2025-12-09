@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0xb8e0c456da53759d377d84daf95091ea0bcf466b",
+    "totalValue": "$734",
+    "walletLifetime": "553 days",
+    "tokens": [
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3137",
+        "amount": "746.4024",
+        "usdValue": "$234.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.1100",
+        "amount": "0.0234",
+        "usdValue": "$72.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,105.1100",
+        "amount": "0.0083",
+        "usdValue": "$25.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.1100",
+        "amount": "0.0069",
+        "usdValue": "$21.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,104.4600",
+        "amount": "0.0066",
+        "usdValue": "$20.50"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "2,067.4481",
+        "usdValue": "$16.39"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.2000",
+        "amount": "0.0050",
+        "usdValue": "$4.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,105.1100",
+        "amount": "0.0014",
+        "usdValue": "$4.30"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1221",
+        "amount": "15.2628",
+        "usdValue": "$1.86"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "1.0075",
+        "usdValue": "$1.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zero",
+        "price": "$3,105.1100",
+        "amount": "0.0003",
+        "usdValue": "$0.81"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$275"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$55"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "UNI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "uni",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EUL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "OP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb8e0c456da53759d377d84daf95091ea0bcf466b",
+    "topProtocols": [
+      {
+        "name": "Bitget",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x9ef8…022f",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x",
+        "volume": "$5K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$4K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$4K"
+      },
+      {
+        "name": "Zerion",
+        "volume": "$4K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "Avantis",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$46K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$18K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "rETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDzC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:39:21.799Z",
+  "source": "base_aave",
+  "vaultBalance": 0.12399909118614405,
+  "vaultPct": 0.00018241261490733538
+}

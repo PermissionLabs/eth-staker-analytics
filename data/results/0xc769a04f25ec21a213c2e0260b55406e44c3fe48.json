@@ -1,0 +1,100 @@
+{
+  "portfolio": {
+    "address": "0xc769a04f25ec21a213c2e0260b55406e44c3fe48",
+    "totalValue": "$100,960",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3149",
+        "amount": "5,252.2615",
+        "usdValue": "$12,158.31"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "arb",
+        "price": "$5.5481",
+        "amount": "2,000.0000",
+        "usdValue": "$11,096.17"
+      },
+      {
+        "symbol": "BRUSH",
+        "chain": "sonic",
+        "price": "$0.0029",
+        "amount": "1,500,594.0014",
+        "usdValue": "$4,363.12"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "cro",
+        "price": "$0.1036",
+        "amount": "3,437.5531",
+        "usdValue": "$356.27"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "eth",
+        "price": "$0.1036",
+        "amount": "3,163.5015",
+        "usdValue": "$327.68"
+      },
+      {
+        "symbol": "FUN",
+        "chain": "eth",
+        "price": "$0.0021",
+        "amount": "100,000.0000",
+        "usdValue": "$211.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.9000",
+        "amount": "0.0140",
+        "usdValue": "$43.65"
+      },
+      {
+        "symbol": "VVS",
+        "chain": "cro",
+        "price": "$0.0₅2085",
+        "amount": "14,277,049.6687",
+        "usdValue": "$29.77"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$65,788"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,557"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$13"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc769a04f25ec21a213c2e0260b55406e44c3fe48",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T01:01:28.759Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 9.895397988448558,
+  "vaultPct": 0.0018399209353761672
+}

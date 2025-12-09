@@ -1,0 +1,296 @@
+{
+  "portfolio": {
+    "address": "0x9e47fbb2a2a27b3b02e4a63b3ef5a3dc863c0223",
+    "totalValue": "$923,746",
+    "walletLifetime": "1127 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.4300",
+        "amount": "13.5597",
+        "usdValue": "$42,379.95"
+      },
+      {
+        "symbol": "wrsETH",
+        "chain": "op",
+        "price": "$3,307.8287",
+        "amount": "1.8914",
+        "usdValue": "$6,256.56"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,208.0000",
+        "amount": "0.0622",
+        "usdValue": "$5,609.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "mode",
+        "price": "$3,126.0200",
+        "amount": "0.7574",
+        "usdValue": "$2,367.52"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,125.4300",
+        "amount": "0.6216",
+        "usdValue": "$1,942.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.4300",
+        "amount": "0.4866",
+        "usdValue": "$1,520.93"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3238",
+        "amount": "609.9565",
+        "usdValue": "$1,417.43"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6303",
+        "amount": "202.1125",
+        "usdValue": "$1,137.96"
+      },
+      {
+        "symbol": "ezETH",
+        "chain": "mode",
+        "price": "$3,324.5847",
+        "amount": "0.2352",
+        "usdValue": "$781.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.4300",
+        "amount": "0.1376",
+        "usdValue": "$430.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,126.0200",
+        "amount": "0.0494",
+        "usdValue": "$154.49"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,127.9600",
+        "amount": "0.0463",
+        "usdValue": "$144.80"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,333.8800",
+        "amount": "0.0016",
+        "usdValue": "$141.63"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.0000",
+        "amount": "0.1527",
+        "usdValue": "$136.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,126.0200",
+        "amount": "0.0432",
+        "usdValue": "$135.06"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "op",
+        "price": "$90,233.0200",
+        "amount": "0.0010",
+        "usdValue": "$89.12"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "linea",
+        "price": "$90,456.0790",
+        "amount": "0.0009",
+        "usdValue": "$82.99"
+      },
+      {
+        "symbol": "BTCB",
+        "chain": "bsc",
+        "price": "$90,302.8500",
+        "amount": "0.0009",
+        "usdValue": "$78.66"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Renzo",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "ETH",
+        "usdValue": "$417,648"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BTCB",
+        "usdValue": "$205,314"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$166,357"
+      },
+      {
+        "protocol": "Aura Finance",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$32,475"
+      },
+      {
+        "protocol": "Puffer Finance",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$31,471"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$4,731"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9e47fbb2a2a27b3b02e4a63b3ef5a3dc863c0223",
+    "topProtocols": [
+      {
+        "name": "Etherex",
+        "volume": "$19M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$10M"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$6M"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$5M"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$4M"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$4M"
+      },
+      {
+        "name": "Velora",
+        "volume": "$3M"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$3M"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$3M"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$3M"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$2M"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$2M"
+      },
+      {
+        "name": "Frax",
+        "volume": "$2M"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$2M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$2M"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$29M"
+      },
+      {
+        "name": "frxETH",
+        "volume": "$7M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$7M"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$7M"
+      },
+      {
+        "name": "weETH",
+        "volume": "$6M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6M"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "MezETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$2M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:06:02.555Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.3892541664622116,
+  "vaultPct": 0.015495170886654135
+}

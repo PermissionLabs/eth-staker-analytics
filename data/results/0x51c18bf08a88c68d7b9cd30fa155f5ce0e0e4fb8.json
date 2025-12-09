@@ -1,0 +1,161 @@
+{
+  "portfolio": {
+    "address": "0x51c18bf08a88c68d7b9cd30fa155f5ce0e0e4fb8",
+    "totalValue": "$2,239",
+    "walletLifetime": "1471 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,143.7800",
+        "amount": "0.1875",
+        "usdValue": "$589.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,144.8200",
+        "amount": "0.0952",
+        "usdValue": "$299.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.8200",
+        "amount": "0.0389",
+        "usdValue": "$122.37"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0081",
+        "amount": "5,317.6761",
+        "usdValue": "$42.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,144.8200",
+        "amount": "0.0007",
+        "usdValue": "$2.12"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,183"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x51c18bf08a88c68d7b9cd30fa155f5ce0e0e4fb8",
+    "topProtocols": [
+      {
+        "name": "0x1f13…51f3",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xec1e…a25d",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$5K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xc5fd…a922",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf42b…4e9d",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Onchain",
+        "volume": "$1K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KZK",
+        "volume": "$1K"
+      },
+      {
+        "name": "OP",
+        "volume": "$962"
+      },
+      {
+        "name": "USDC",
+        "volume": "$883"
+      },
+      {
+        "name": "STG",
+        "volume": "$625"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$280"
+      },
+      {
+        "name": "USD",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:00:25.582Z",
+  "source": "base_aave",
+  "vaultBalance": 0.37,
+  "vaultPct": 0.0005442996950227316
+}

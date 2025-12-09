@@ -1,0 +1,190 @@
+{
+  "portfolio": {
+    "address": "0x42300712ed05bb7005cb569a8cf3a1fa2ecd0650",
+    "totalValue": "$12,051",
+    "walletLifetime": "1678 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.2900",
+        "amount": "0.8066",
+        "usdValue": "$2,516.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,120.2900",
+        "amount": "0.4768",
+        "usdValue": "$1,487.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,122.8700",
+        "amount": "0.4616",
+        "usdValue": "$1,441.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,121.1400",
+        "amount": "0.3735",
+        "usdValue": "$1,165.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,121.1400",
+        "amount": "0.1396",
+        "usdValue": "$435.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,121.1400",
+        "amount": "0.1376",
+        "usdValue": "$429.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,120.2900",
+        "amount": "0.1138",
+        "usdValue": "$355.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,120.2900",
+        "amount": "0.1112",
+        "usdValue": "$346.91"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$903.6000",
+        "amount": "0.2301",
+        "usdValue": "$207.91"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$903.5800",
+        "amount": "0.0309",
+        "usdValue": "$27.90"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6900",
+        "amount": "1.8227",
+        "usdValue": "$24.95"
+      },
+      {
+        "symbol": "OKB",
+        "chain": "xlayer",
+        "price": "$111.7600",
+        "amount": "0.1631",
+        "usdValue": "$18.23"
+      },
+      {
+        "symbol": "xKILO",
+        "chain": "bsc",
+        "price": "$0.0116",
+        "amount": "1,554.7697",
+        "usdValue": "$18.04"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,121.1400",
+        "amount": "0.0031",
+        "usdValue": "$9.70"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,732"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ENA",
+        "usdValue": "$713"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$31"
+      },
+      {
+        "protocol": "Firebot",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "FBX",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Polygon Staking",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "SpaceFi",
+        "chain": "era",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Arbswap",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$6"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x42300712ed05bb7005cb569a8cf3a1fa2ecd0650",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T15:03:45.843Z",
+  "source": "base_aave",
+  "vaultBalance": 0.8753309826829236,
+  "vaultPct": 0.0012876821268061169
+}

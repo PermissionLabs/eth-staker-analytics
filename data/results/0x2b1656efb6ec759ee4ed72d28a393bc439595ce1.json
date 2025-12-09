@@ -1,0 +1,181 @@
+{
+  "portfolio": {
+    "address": "0x2b1656efb6ec759ee4ed72d28a393bc439595ce1",
+    "totalValue": "$14,791",
+    "walletLifetime": "1273 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "872.3500",
+        "usdValue": "$872.53"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4980",
+        "amount": "26.6504",
+        "usdValue": "$13.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.6500",
+        "amount": "0.00008758",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,158.1900",
+        "amount": "0.00003181",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "YFTE",
+        "chain": "eth",
+        "price": "$1.2771",
+        "amount": "0.0154",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9977",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDtb",
+        "chain": "eth",
+        "price": "$1.0003",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.4000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$9,727"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$4,178"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2b1656efb6ec759ee4ed72d28a393bc439595ce1",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$16K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$14K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xd267…9a4b",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x079a…dc63",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xab78…e1bc",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xc13b…7144",
+        "volume": "$4K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$872"
+      },
+      {
+        "name": "0x00c6…48da",
+        "volume": "$792K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$692"
+      },
+      {
+        "name": "0xd5ff…40fe",
+        "volume": "$491B"
+      },
+      {
+        "name": "inance",
+        "volume": "$225"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$35"
+      },
+      {
+        "name": "0xf649…f23c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9565…1876",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$56K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$872"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$35"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:43:04.215Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.000636694616586,
+  "vaultPct": 0.00022531133516982024
+}

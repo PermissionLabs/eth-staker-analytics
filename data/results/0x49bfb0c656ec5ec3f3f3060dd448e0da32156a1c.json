@@ -1,0 +1,323 @@
+{
+  "portfolio": {
+    "address": "0x49bfb0c656ec5ec3f3f3060dd448e0da32156a1c",
+    "totalValue": "$1,319",
+    "walletLifetime": "1560 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.0100",
+        "amount": "0.1066",
+        "usdValue": "$333.44"
+      },
+      {
+        "symbol": "DUSD",
+        "chain": "bsc",
+        "price": "$0.9994",
+        "amount": "105.0420",
+        "usdValue": "$104.98"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "102.9950",
+        "usdValue": "$103.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.0100",
+        "amount": "0.0214",
+        "usdValue": "$67.07"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.2000",
+        "amount": "0.0479",
+        "usdValue": "$43.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.2700",
+        "amount": "0.0133",
+        "usdValue": "$41.58"
+      },
+      {
+        "symbol": "KAITO",
+        "chain": "base",
+        "price": "$0.6516",
+        "amount": "16.2556",
+        "usdValue": "$10.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.5200",
+        "amount": "0.0030",
+        "usdValue": "$9.31"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1052",
+        "amount": "4.8410",
+        "usdValue": "$5.35"
+      },
+      {
+        "symbol": "hUSDT",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "3.2319",
+        "usdValue": "$3.23"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "xdai",
+        "price": "$0.9998",
+        "amount": "2.3794",
+        "usdValue": "$2.38"
+      },
+      {
+        "symbol": "hDAI",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "2.2339",
+        "usdValue": "$2.23"
+      },
+      {
+        "symbol": "hUSDT",
+        "chain": "xdai",
+        "price": "$1.0001",
+        "amount": "2.1947",
+        "usdValue": "$2.19"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "xdai",
+        "price": "$1.0001",
+        "amount": "2.0869",
+        "usdValue": "$2.09"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "1.5725",
+        "usdValue": "$1.57"
+      },
+      {
+        "symbol": "WXDAI",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "1.4869",
+        "usdValue": "$1.49"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "1.1046",
+        "usdValue": "$1.10"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "1.0298",
+        "usdValue": "$1.03"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "1.0002",
+        "usdValue": "$1.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$576"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Kaito AI",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KAITO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DAI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x49bfb0c656ec5ec3f3f3060dd448e0da32156a1c",
+    "topProtocols": [
+      {
+        "name": "0x",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xf2e4…171c",
+        "volume": "$7K"
+      },
+      {
+        "name": "Clipper",
+        "volume": "$6K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd1f6…4de0",
+        "volume": "$2K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x39a0…9793",
+        "volume": "$2K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Superfluid",
+        "volume": "$1K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$1K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$1K"
+      },
+      {
+        "name": "Zyberswap",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xd816…bcbd",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      },
+      {
+        "name": "orpho",
+        "volume": "$699B"
+      },
+      {
+        "name": "inance",
+        "volume": "$652"
+      },
+      {
+        "name": "SolidLizard",
+        "volume": "$635"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "POL",
+        "volume": "$47K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$6K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "CYBER",
+        "volume": "$3K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZYB",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$914"
+      },
+      {
+        "name": "SLIZ",
+        "volume": "$464"
+      },
+      {
+        "name": "USDC",
+        "volume": "$457"
+      },
+      {
+        "name": "HOP",
+        "volume": "$411"
+      },
+      {
+        "name": "hUSDC",
+        "volume": "$395"
+      },
+      {
+        "name": "ID",
+        "volume": "$357"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:31:34.086Z",
+  "source": "moonwell",
+  "vaultBalance": 0.17902932544066905,
+  "vaultPct": 0.0032479905476608052
+}

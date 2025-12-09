@@ -1,0 +1,143 @@
+{
+  "portfolio": {
+    "address": "0xd3388448b9995fb2060a2173f7a8ebddd46938ee",
+    "totalValue": "$10",
+    "walletLifetime": "308 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "4.8751",
+        "usdValue": "$4.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,155.9100",
+        "amount": "0.0013",
+        "usdValue": "$3.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.2100",
+        "amount": "0.0003",
+        "usdValue": "$1.06"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1254",
+        "amount": "0.3780",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "400.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xd3388448b9995fb2060a2173f7a8ebddd46938ee",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x168b…01dc",
+        "volume": "$512"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$264"
+      },
+      {
+        "name": "0x0f2f…db2c",
+        "volume": "$106M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$55"
+      },
+      {
+        "name": "0xd338…38ee",
+        "volume": "$40"
+      },
+      {
+        "name": "0xdb9b…7db3",
+        "volume": "$39"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$101"
+      },
+      {
+        "name": "inch",
+        "volume": "$6"
+      },
+      {
+        "name": "0x7536…1326",
+        "volume": "$6"
+      },
+      {
+        "name": "0xc066…8b8c",
+        "volume": "$3"
+      },
+      {
+        "name": "0xcc96…e304",
+        "volume": "$2M"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "POL",
+        "volume": "$10"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:26:19.470Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1509264125973032,
+  "vaultPct": 0.00022202486580428943
+}

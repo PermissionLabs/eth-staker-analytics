@@ -1,0 +1,238 @@
+{
+  "portfolio": {
+    "address": "0xd5476e5e2f205a2b113940063de05e1b6481e5cb",
+    "totalValue": "$961",
+    "walletLifetime": "1119 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.8600",
+        "amount": "0.0578",
+        "usdValue": "$179.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.8600",
+        "amount": "0.0041",
+        "usdValue": "$12.80"
+      },
+      {
+        "symbol": "USDz",
+        "chain": "base",
+        "price": "$0.9764",
+        "amount": "7.0000",
+        "usdValue": "$6.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,105.8600",
+        "amount": "0.0005",
+        "usdValue": "$1.42"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆975",
+        "amount": "740,000.0000",
+        "usdValue": "$0.72"
+      },
+      {
+        "symbol": "ZKJ",
+        "chain": "eth",
+        "price": "$0.0450",
+        "amount": "10.0000",
+        "usdValue": "$0.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,105.8600",
+        "amount": "0.0001",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,105.8600",
+        "amount": "0.0001",
+        "usdValue": "$0.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$348"
+      },
+      {
+        "protocol": "CARV",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "CARV",
+        "usdValue": "$259"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDz",
+        "usdValue": "$77"
+      },
+      {
+        "protocol": "Stakeland",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MEME (Memecoin)",
+        "usdValue": "$60"
+      },
+      {
+        "protocol": "RCPSwap",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$8"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "nova",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Radiant Capital",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd5476e5e2f205a2b113940063de05e1b6481e5cb",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$34K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$22K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$4K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$3K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$2K"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$2K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$2K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$1K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "WOO Network",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$54K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$6K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$1K"
+      },
+      {
+        "name": "AEVO",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:20:21.280Z",
+  "source": "moonwell",
+  "vaultBalance": 0.10930192725123279,
+  "vaultPct": 0.0019829803060435773
+}

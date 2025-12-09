@@ -1,0 +1,49 @@
+{
+  "portfolio": {
+    "address": "0x5f0197322b199cacf573be56331b5e36d227557c",
+    "totalValue": "$9,388",
+    "walletLifetime": "51 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.5700",
+        "amount": "0.0100",
+        "usdValue": "$31.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$9,356"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5f0197322b199cacf573be56331b5e36d227557c",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$12K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$12K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$23K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:56:48.596Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.0035156109493943,
+  "vaultPct": 0.00022552750678564795
+}

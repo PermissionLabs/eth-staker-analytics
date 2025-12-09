@@ -1,0 +1,224 @@
+{
+  "portfolio": {
+    "address": "0x889dc68a94120f13fea99071a5fb32fef9887d22",
+    "totalValue": "$1,364",
+    "walletLifetime": "1021 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.5300",
+        "amount": "0.0102",
+        "usdValue": "$31.89"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,133.5300",
+        "amount": "0.0021",
+        "usdValue": "$6.65"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,133.5300",
+        "amount": "0.0019",
+        "usdValue": "$5.89"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "17.6170",
+        "usdValue": "$2.19"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "1.6827",
+        "usdValue": "$1.68"
+      },
+      {
+        "symbol": "GOCHU",
+        "chain": "base",
+        "price": "$0.0₆3837",
+        "amount": "50,000.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.0027",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1388",
+        "amount": "1,020.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "kurbi",
+        "chain": "base",
+        "price": "$0.0002",
+        "amount": "0.1000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "OOMER",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.3000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$701"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$611"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x889dc68a94120f13fea99071a5fb32fef9887d22",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Router Protocol",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$943B"
+      },
+      {
+        "name": "inance",
+        "volume": "$270"
+      },
+      {
+        "name": "0xaa1d…cdd1",
+        "volume": "$263B"
+      },
+      {
+        "name": "0x5013…1f91",
+        "volume": "$5"
+      },
+      {
+        "name": "0xed6e…7c9a",
+        "volume": "$4"
+      },
+      {
+        "name": "0xf051…97cd",
+        "volume": "$1"
+      },
+      {
+        "name": "0xa122…d8b2",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x224c…a272",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4a82…444c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "POL",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "SAND",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:26:40.951Z",
+  "source": "base_aave",
+  "vaultBalance": 0.32063934296913127,
+  "vaultPct": 0.0004716862070010465
+}

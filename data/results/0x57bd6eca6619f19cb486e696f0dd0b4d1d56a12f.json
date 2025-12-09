@@ -1,0 +1,300 @@
+{
+  "portfolio": {
+    "address": "0x57bd6eca6619f19cb486e696f0dd0b4d1d56a12f",
+    "totalValue": "$4,582",
+    "walletLifetime": "2106 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,158.0600",
+        "amount": "0.5631",
+        "usdValue": "$1,778.28"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0335",
+        "amount": "13,238.3812",
+        "usdValue": "$443.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,158.0600",
+        "amount": "0.1214",
+        "usdValue": "$383.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.0600",
+        "amount": "0.1090",
+        "usdValue": "$344.13"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3252",
+        "amount": "871.1776",
+        "usdValue": "$283.31"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "143.8782",
+        "usdValue": "$143.85"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2137",
+        "amount": "430.7053",
+        "usdValue": "$92.04"
+      },
+      {
+        "symbol": "GODS",
+        "chain": "eth",
+        "price": "$0.0642",
+        "amount": "1,414.4603",
+        "usdValue": "$90.77"
+      },
+      {
+        "symbol": "WBNB",
+        "chain": "bsc",
+        "price": "$908.7000",
+        "amount": "0.0563",
+        "usdValue": "$51.18"
+      },
+      {
+        "symbol": "RMRK",
+        "chain": "base",
+        "price": "$0.0245",
+        "amount": "1,512.9915",
+        "usdValue": "$37.08"
+      },
+      {
+        "symbol": "MTA",
+        "chain": "eth",
+        "price": "$0.0319",
+        "amount": "460.6068",
+        "usdValue": "$14.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,158.0600",
+        "amount": "0.0042",
+        "usdValue": "$13.32"
+      },
+      {
+        "symbol": "GOG",
+        "chain": "eth",
+        "price": "$0.0047",
+        "amount": "2,500.0000",
+        "usdValue": "$11.75"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "2,345.9075",
+        "usdValue": "$6.20"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$497"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$256"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$123"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "dYdX",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Radiant Capital",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x57bd6eca6619f19cb486e696f0dd0b4d1d56a12f",
+    "topProtocols": [
+      {
+        "name": "dYdX",
+        "volume": "$72K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$67K"
+      },
+      {
+        "name": "0x2b30…263e",
+        "volume": "$33K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x3ed3…cf4d",
+        "volume": "$24K"
+      },
+      {
+        "name": "Derivio",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x1821…edd4",
+        "volume": "$17K"
+      },
+      {
+        "name": "Mooniswap",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x35f5…ce8f",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x9467…cfa4",
+        "volume": "$10K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x2c2a…7f60",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xe8d2…66b7",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x33a6…8ae1",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x8b28…38d3",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xc09f…c1fa",
+        "volume": "$7K"
+      },
+      {
+        "name": "Balancer",
+        "volume": "$7K"
+      },
+      {
+        "name": "ForceDao",
+        "volume": "$6K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xb797…41d9",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$147K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$100K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$59K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$59K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$36K"
+      },
+      {
+        "name": "DYDX",
+        "volume": "$35K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$16K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$11K"
+      },
+      {
+        "name": "SDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "KEEP",
+        "volume": "$6K"
+      },
+      {
+        "name": "KsUSD",
+        "volume": "$5K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:04:43.811Z",
+  "source": "base_aave",
+  "vaultBalance": 0.08,
+  "vaultPct": 0.00011768642054545547
+}

@@ -1,0 +1,209 @@
+{
+  "portfolio": {
+    "address": "0xca4552902fe950477d69c365865403598c990bdc",
+    "totalValue": "$230",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.4400",
+        "amount": "0.0117",
+        "usdValue": "$36.56"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2022",
+        "amount": "1.2072",
+        "usdValue": "$1.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,126.3100",
+        "amount": "0.0001",
+        "usdValue": "$0.40"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1327",
+        "amount": "29,577,464.0000",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "36.4585",
+        "usdValue": "$0.37"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "41.7493",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,126.3100",
+        "amount": "0.00001064",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1234",
+        "amount": "0.00004263",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$190"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xca4552902fe950477d69c365865403598c990bdc",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$3K"
+      },
+      {
+        "name": "Floorswap",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$2K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$1K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$982"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$982"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$950"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$459"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$383B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$377"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$328"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$326B"
+      },
+      {
+        "name": "USD",
+        "volume": "$173"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$164"
+      },
+      {
+        "name": "USDT",
+        "volume": "$134"
+      },
+      {
+        "name": "ZKPEPE",
+        "volume": "$13"
+      },
+      {
+        "name": "ZAT",
+        "volume": "$10"
+      },
+      {
+        "name": "POL",
+        "volume": "$8"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$2"
+      },
+      {
+        "name": "toby",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:18:41.240Z",
+  "source": "moonwell",
+  "vaultBalance": 0.05970454119794962,
+  "vaultPct": 0.0010831733012792433
+}

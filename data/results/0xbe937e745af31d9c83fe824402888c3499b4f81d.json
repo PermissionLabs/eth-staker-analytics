@@ -1,0 +1,287 @@
+{
+  "portfolio": {
+    "address": "0xbe937e745af31d9c83fe824402888c3499b4f81d",
+    "totalValue": "$170,864",
+    "walletLifetime": "3108 days",
+    "tokens": [
+      {
+        "symbol": "USD0++",
+        "chain": "eth",
+        "price": "$0.9385",
+        "amount": "61,711.8931",
+        "usdValue": "$57,914.83"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7915",
+        "amount": "842.4631",
+        "usdValue": "$11,618.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.9100",
+        "amount": "0.4026",
+        "usdValue": "$1,256.93"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "801.5001",
+        "usdValue": "$801.42"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "500.0035",
+        "usdValue": "$499.95"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "matic",
+        "price": "$0.4004",
+        "amount": "991.1611",
+        "usdValue": "$396.86"
+      },
+      {
+        "symbol": "RIO",
+        "chain": "eth",
+        "price": "$0.1776",
+        "amount": "1,002.5922",
+        "usdValue": "$178.01"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.4000",
+        "amount": "0.1745",
+        "usdValue": "$156.63"
+      },
+      {
+        "symbol": "UST(Wormhole)",
+        "chain": "avax",
+        "price": "$0.0084",
+        "amount": "12,706.8921",
+        "usdValue": "$107.35"
+      },
+      {
+        "symbol": "MAI(miMATIC)",
+        "chain": "ftm",
+        "price": "$0.0265",
+        "amount": "3,727.0362",
+        "usdValue": "$98.77"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$0.9999",
+        "amount": "80.2000",
+        "usdValue": "$80.20"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DAI",
+        "usdValue": "$39,122"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$17,305"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$13,930"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$9,442"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$8,139"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$7,992"
+      },
+      {
+        "protocol": "Usual",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USUAL",
+        "usdValue": "$1,003"
+      },
+      {
+        "protocol": "KyberSwap",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$388"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$107"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbe937e745af31d9c83fe824402888c3499b4f81d",
+    "topProtocols": [
+      {
+        "name": "Aave",
+        "volume": "$14M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$3M"
+      },
+      {
+        "name": "Yearn V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$1M"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$1M"
+      },
+      {
+        "name": "Tarot",
+        "volume": "$1M"
+      },
+      {
+        "name": "Geist",
+        "volume": "$935K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$830K"
+      },
+      {
+        "name": "0xe783…e9d0",
+        "volume": "$731K"
+      },
+      {
+        "name": "BENQI",
+        "volume": "$726K"
+      },
+      {
+        "name": "0x49d5…0bab",
+        "volume": "$629K"
+      },
+      {
+        "name": "0x7ceb…f619",
+        "volume": "$583K"
+      },
+      {
+        "name": "0xc564…afbe",
+        "volume": "$557K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$543K"
+      },
+      {
+        "name": "0x413f…1af1",
+        "volume": "$485K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$357K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$322K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT0",
+        "volume": "$15M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT.e",
+        "volume": "$3M"
+      },
+      {
+        "name": "MDAI.e",
+        "volume": "$2M"
+      },
+      {
+        "name": "MWETH.e",
+        "volume": "$1M"
+      },
+      {
+        "name": "MUSDC.e",
+        "volume": "$1M"
+      },
+      {
+        "name": "POL",
+        "volume": "$1M"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$929K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$675K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$625K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$438K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:02:53.771Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 5.087134606192373,
+  "vaultPct": 0.05673981187121162
+}

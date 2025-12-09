@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0xb742445226d28b0ae1f8db1044093ad53db785ce",
+    "totalValue": "$12,498,739",
+    "walletLifetime": "1405 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.6000",
+        "amount": "5.4394",
+        "usdValue": "$16,936.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.6000",
+        "amount": "0.0010",
+        "usdValue": "$3.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,114.3800",
+        "amount": "0.00001118",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0275",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.6997",
+        "amount": "0.0013",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.0022",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "0.0000188",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1382",
+        "amount": "1,112.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7874",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "1,300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "ChatGPT",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Eth2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$12,455,783"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$26,005"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb742445226d28b0ae1f8db1044093ad53db785ce",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$5M"
+      },
+      {
+        "name": "Eth2",
+        "volume": "$1M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xb755…4fa4",
+        "volume": "$358K"
+      },
+      {
+        "name": "0x9dab…0a38",
+        "volume": "$315K"
+      },
+      {
+        "name": "0x9522…afe5",
+        "volume": "$75K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$70K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$50K"
+      },
+      {
+        "name": "0x4838…5f97",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x1f90…c326",
+        "volume": "$40K"
+      },
+      {
+        "name": "0xae7c…81db",
+        "volume": "$24K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xc853…96df",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x264b…97b5",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x4a4e…dfd2",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xf980…d4f2",
+        "volume": "$19K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$204K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$73K"
+      },
+      {
+        "name": "SSV",
+        "volume": "$17K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$338"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:07:32.733Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 8.26017588936999,
+  "vaultPct": 0.0015358725911259802
+}

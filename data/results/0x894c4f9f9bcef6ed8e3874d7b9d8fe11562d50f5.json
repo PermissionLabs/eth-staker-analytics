@@ -1,0 +1,175 @@
+{
+  "portfolio": {
+    "address": "0x894c4f9f9bcef6ed8e3874d7b9d8fe11562d50f5",
+    "totalValue": "$597",
+    "walletLifetime": "1852 days",
+    "tokens": [
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1998",
+        "amount": "39.4723",
+        "usdValue": "$47.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.2400",
+        "amount": "0.0021",
+        "usdValue": "$6.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,126.2400",
+        "amount": "0.0004",
+        "usdValue": "$1.20"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "10.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1387",
+        "amount": "1,277.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "cbXRP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$508"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$29"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$5"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x894c4f9f9bcef6ed8e3874d7b9d8fe11562d50f5",
+    "topProtocols": [
+      {
+        "name": "Compound",
+        "volume": "$30K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$25K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xb7d0…d124",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$15K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x1a9b…a159",
+        "volume": "$11K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$7K"
+      },
+      {
+        "name": "Hegic",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x7fc5…9a95",
+        "volume": "$91"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$82M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$10"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa885…96ae",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$60K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$50K"
+      },
+      {
+        "name": "COMP",
+        "volume": "$112M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$35"
+      },
+      {
+        "name": "WELL",
+        "volume": "$20"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:38:02.104Z",
+  "source": "moonwell",
+  "vaultBalance": 0.15064310099565636,
+  "vaultPct": 0.002733001238204159
+}

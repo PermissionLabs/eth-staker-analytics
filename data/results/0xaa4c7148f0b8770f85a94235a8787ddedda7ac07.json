@@ -1,0 +1,49 @@
+{
+  "portfolio": {
+    "address": "0xaa4c7148f0b8770f85a94235a8787ddedda7ac07",
+    "totalValue": "$0",
+    "walletLifetime": "1634 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.0703",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "APU (Apu Apustaja)",
+        "chain": "eth",
+        "price": "$0.0000596",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MINKY",
+        "chain": "base",
+        "price": "$0.0₅1858",
+        "amount": "10.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$18,119"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaa4c7148f0b8770f85a94235a8787ddedda7ac07",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T21:10:57.066Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 8.042657183243824,
+  "vaultPct": 0.001495427808439658
+}

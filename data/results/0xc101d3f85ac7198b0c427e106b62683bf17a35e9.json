@@ -1,0 +1,249 @@
+{
+  "portfolio": {
+    "address": "0xc101d3f85ac7198b0c427e106b62683bf17a35e9",
+    "totalValue": "$420",
+    "walletLifetime": "1065 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.3900",
+        "amount": "0.0440",
+        "usdValue": "$137.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.3900",
+        "amount": "0.0137",
+        "usdValue": "$42.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,128.0200",
+        "amount": "0.0113",
+        "usdValue": "$35.24"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.6000",
+        "amount": "0.0010",
+        "usdValue": "$0.88"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "100.0000",
+        "usdValue": "$0.80"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$202"
+      },
+      {
+        "protocol": "Exactly",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SEAM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Superfluid",
+        "chain": "op",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Shoebill Finance",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Etherex",
+        "chain": "linea",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Polynomial",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "sUSD",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc101d3f85ac7198b0c427e106b62683bf17a35e9",
+    "topProtocols": [
+      {
+        "name": "EraLend",
+        "volume": "$73K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$56K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$47K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$37K"
+      },
+      {
+        "name": "Angle Protocol",
+        "volume": "$28K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$27K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$24K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x0541…9aa4",
+        "volume": "$14K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x4281…29ba",
+        "volume": "$12K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$11K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x4d8d…446e",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf343…08ca",
+        "volume": "$9K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$229K"
+      },
+      {
+        "name": "EURA",
+        "volume": "$29K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:30:08.306Z",
+  "source": "base_aave",
+  "vaultBalance": 0.050028378792265064,
+  "vaultPct": 0.00007359576032192315
+}

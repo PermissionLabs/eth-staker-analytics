@@ -1,0 +1,178 @@
+{
+  "portfolio": {
+    "address": "0x9abb08eab19a3441d72405e46ad00a6d3fbf926c",
+    "totalValue": "$314",
+    "walletLifetime": "1657 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,141.4400",
+        "amount": "0.0100",
+        "usdValue": "$31.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,141.7400",
+        "amount": "0.0059",
+        "usdValue": "$18.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,142.5700",
+        "amount": "0.0011",
+        "usdValue": "$3.39"
+      },
+      {
+        "symbol": "OBT",
+        "chain": "arb",
+        "price": "$0.0024",
+        "amount": "1,097.5106",
+        "usdValue": "$2.68"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2110",
+        "amount": "1.4500",
+        "usdValue": "$1.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,141.4400",
+        "amount": "0.0004",
+        "usdValue": "$1.21"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.3600",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1396",
+        "amount": "1,141.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$255"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9abb08eab19a3441d72405e46ad00a6d3fbf926c",
+    "topProtocols": [
+      {
+        "name": "0xe0e4…2e38",
+        "volume": "$39K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$15K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$6K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$881"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$491"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$471"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$455"
+      },
+      {
+        "name": "orpho",
+        "volume": "$322"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$319"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x268d…912a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe7ff…a250",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "OBT",
+        "volume": "$12M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$3"
+      },
+      {
+        "name": "WELL",
+        "volume": "$2"
+      },
+      {
+        "name": "RPL",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:37:53.400Z",
+  "source": "moonwell",
+  "vaultBalance": 0.07956344966390577,
+  "vaultPct": 0.0014434581139797344
+}

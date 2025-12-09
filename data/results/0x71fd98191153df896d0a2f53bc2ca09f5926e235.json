@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0x71fd98191153df896d0a2f53bc2ca09f5926e235",
+    "totalValue": "$15,025",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "APE",
+        "chain": "ape",
+        "price": "$0.2324",
+        "amount": "2,540.7609",
+        "usdValue": "$590.47"
+      },
+      {
+        "symbol": "REZ",
+        "chain": "eth",
+        "price": "$0.0056",
+        "amount": "100,000.0000",
+        "usdValue": "$563.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.5000",
+        "amount": "0.0116",
+        "usdValue": "$35.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.5000",
+        "amount": "0.0016",
+        "usdValue": "$5.04"
+      },
+      {
+        "symbol": "SEAM",
+        "chain": "base",
+        "price": "$8.58",
+        "amount": "51.76",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$13,818"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SEAM",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x71fd98191153df896d0a2f53bc2ca09f5926e235",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$100K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$41K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$37K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$30K"
+      },
+      {
+        "name": "Seamless Protocol",
+        "volume": "$25K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$23K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$17K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$13K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$7K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$166K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$153K"
+      },
+      {
+        "name": "FDUSD",
+        "volume": "$14K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "KsuperOETHb",
+        "volume": "$6K"
+      },
+      {
+        "name": "APE",
+        "volume": "$4K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$3K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "REZ",
+        "volume": "$2K"
+      },
+      {
+        "name": "AEVO",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$1K"
+      },
+      {
+        "name": "PORTAL",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:15:08.050Z",
+  "source": "base_aave",
+  "vaultBalance": 7.009960585410471,
+  "vaultPct": 0.010312214618271049
+}

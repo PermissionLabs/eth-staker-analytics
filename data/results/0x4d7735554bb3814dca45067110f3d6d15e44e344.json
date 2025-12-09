@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0x4d7735554bb3814dca45067110f3d6d15e44e344",
+    "totalValue": "$1,928",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "244.1157",
+        "usdValue": "$244.12"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "208.4844",
+        "usdValue": "$208.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,094.0500",
+        "amount": "0.0536",
+        "usdValue": "$165.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,094.0500",
+        "amount": "0.0523",
+        "usdValue": "$161.75"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$1.0000",
+        "amount": "42.0420",
+        "usdValue": "$42.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,094.0500",
+        "amount": "0.0129",
+        "usdValue": "$39.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,094.0500",
+        "amount": "0.0120",
+        "usdValue": "$37.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,094.0500",
+        "amount": "0.0112",
+        "usdValue": "$34.74"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.7000",
+        "amount": "0.0181",
+        "usdValue": "$16.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,097.6400",
+        "amount": "0.0014",
+        "usdValue": "$4.19"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5500",
+        "amount": "0.3082",
+        "usdValue": "$4.18"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$893.8900",
+        "amount": "0.0040",
+        "usdValue": "$3.58"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4870",
+        "amount": "6.8435",
+        "usdValue": "$3.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,094.0500",
+        "amount": "0.0009",
+        "usdValue": "$2.87"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "1.7928",
+        "usdValue": "$1.79"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$734"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$219"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Blackwing",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ezETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4d7735554bb3814dca45067110f3d6d15e44e344",
+    "topProtocols": [
+      {
+        "name": "NILE",
+        "volume": "$4K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x06e0…fbd6",
+        "volume": "$3K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$2K"
+      },
+      {
+        "name": "Blackwing",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$2K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$2K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$988"
+      },
+      {
+        "name": "Onchain",
+        "volume": "$950"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$896"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$843"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$995"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:17:18.832Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07005048098761411,
+  "vaultPct": 0.00010304987956149736
+}

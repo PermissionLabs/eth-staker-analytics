@@ -1,0 +1,118 @@
+{
+  "portfolio": {
+    "address": "0x82073d5ee513c48cd1474cd967309d9a5e8e9fde",
+    "totalValue": "$7,069",
+    "walletLifetime": "1699 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,101.2300",
+        "amount": "0.3013",
+        "usdValue": "$934.38"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$89,940.4500",
+        "amount": "0.0099",
+        "usdValue": "$894.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.7500",
+        "amount": "0.0595",
+        "usdValue": "$184.70"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "38.7391",
+        "usdValue": "$38.74"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "34.5359",
+        "usdValue": "$34.53"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "arb",
+        "price": "$0.3964",
+        "amount": "6.7945",
+        "usdValue": "$2.69"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$3,108"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,506"
+      },
+      {
+        "protocol": "mellow",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$322"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$35"
+      },
+      {
+        "protocol": "Camelot",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x82073d5ee513c48cd1474cd967309d9a5e8e9fde",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T16:11:22.549Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.44999999999999996,
+  "vaultPct": 0.00003378952907172072
+}

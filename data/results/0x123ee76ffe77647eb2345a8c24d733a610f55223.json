@@ -1,0 +1,220 @@
+{
+  "portfolio": {
+    "address": "0x123ee76ffe77647eb2345a8c24d733a610f55223",
+    "totalValue": "$22,960",
+    "walletLifetime": "451 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "1,054.4331",
+        "usdValue": "$1,054.43"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "1,020.4298",
+        "usdValue": "$1,020.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.6300",
+        "amount": "0.0505",
+        "usdValue": "$156.70"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6677",
+        "amount": "34.8731",
+        "usdValue": "$23.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.6300",
+        "amount": "0.0063",
+        "usdValue": "$19.40"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,101.6300",
+        "amount": "0.0042",
+        "usdValue": "$13.05"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "cbBTC",
+        "usdValue": "$12,500"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,202"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,567"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AERO",
+        "usdValue": "$1,218"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,183"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x123ee76ffe77647eb2345a8c24d733a610f55223",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$67K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$16K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$15K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$9K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$8K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf517…5d82",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$946"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$80"
+      },
+      {
+        "name": "ungee",
+        "volume": "$30"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$73K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$7K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$990"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$448"
+      },
+      {
+        "name": "uSUI",
+        "volume": "$209"
+      },
+      {
+        "name": "OVN",
+        "volume": "$191"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$188B"
+      },
+      {
+        "name": "RETT",
+        "volume": "$69"
+      },
+      {
+        "name": "POL",
+        "volume": "$50"
+      },
+      {
+        "name": "WELL",
+        "volume": "$17M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$14"
+      },
+      {
+        "name": "NATO",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:07:09.973Z",
+  "source": "base_aave",
+  "vaultBalance": 1.107793315432001,
+  "vaultPct": 0.0016296528749671858
+}

@@ -1,0 +1,186 @@
+{
+  "portfolio": {
+    "address": "0x263872722d9016ac3d0c817687adf9a9ad25578d",
+    "totalValue": "$9,174",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.6900",
+        "amount": "0.0016",
+        "usdValue": "$5.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.4900",
+        "amount": "0.0010",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,157.6900",
+        "amount": "0.0010",
+        "usdValue": "$3.06"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8000",
+        "amount": "0.0487",
+        "usdValue": "$0.67"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,371"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,332"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$460"
+      },
+      {
+        "protocol": "DeltaPrime",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x263872722d9016ac3d0c817687adf9a9ad25578d",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$236K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$66K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$41K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$41K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$12K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$8K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x3749…689e",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1f21…5420",
+        "volume": "$5K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$198K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$110K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$77K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "BRETT",
+        "volume": "$21K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "PEPE",
+        "volume": "$4K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$4K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$3K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$2K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "MOCHI",
+        "volume": "$2K"
+      },
+      {
+        "name": "APE",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:06:39.250Z",
+  "source": "base_aave",
+  "vaultBalance": 1.9252618935668893,
+  "vaultPct": 0.0028322147608306606
+}

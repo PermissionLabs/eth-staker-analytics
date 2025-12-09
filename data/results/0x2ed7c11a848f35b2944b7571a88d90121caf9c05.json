@@ -1,0 +1,94 @@
+{
+  "portfolio": {
+    "address": "0x2ed7c11a848f35b2944b7571a88d90121caf9c05",
+    "totalValue": "$952",
+    "walletLifetime": "865 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.4400",
+        "amount": "0.1182",
+        "usdValue": "$369.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.4400",
+        "amount": "0.0130",
+        "usdValue": "$40.60"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.0000",
+        "amount": "0.0191",
+        "usdValue": "$17.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,128.4400",
+        "amount": "0.0013",
+        "usdValue": "$3.96"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "9.3751",
+        "usdValue": "$1.16"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1.0423",
+        "usdValue": "$1.04"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$518"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "vooi",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2ed7c11a848f35b2944b7571a88d90121caf9c05",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T00:12:02.184Z",
+  "source": "moonwell",
+  "vaultBalance": 0.16224595379144055,
+  "vaultPct": 0.0029435028200754266
+}

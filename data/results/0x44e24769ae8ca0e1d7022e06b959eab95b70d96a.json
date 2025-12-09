@@ -1,0 +1,157 @@
+{
+  "portfolio": {
+    "address": "0x44e24769ae8ca0e1d7022e06b959eab95b70d96a",
+    "totalValue": "$23,252",
+    "walletLifetime": "183 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "1,200.4170",
+        "usdValue": "$1,200.18"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$16,720"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$5,327"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x44e24769ae8ca0e1d7022e06b959eab95b70d96a",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$48K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$44K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$39K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xbe1e…f11b",
+        "volume": "$8K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$6K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6160…757e",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf85e…c59b",
+        "volume": "$999B"
+      },
+      {
+        "name": "itget",
+        "volume": "$989"
+      },
+      {
+        "name": "0xcea8…85af",
+        "volume": "$300"
+      },
+      {
+        "name": "Relay",
+        "volume": "$300"
+      },
+      {
+        "name": "0x0faa…922d",
+        "volume": "$187"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$109K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$60K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$43K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$6K"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$79"
+      },
+      {
+        "name": "OP",
+        "volume": "$9"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:43:01.012Z",
+  "source": "base_aave",
+  "vaultBalance": 1.3608413541614022,
+  "vaultPct": 0.0020019068487685736
+}

@@ -1,0 +1,181 @@
+{
+  "portfolio": {
+    "address": "0xc6efc790701335692f90bb98ba00c4a205fff976",
+    "totalValue": "$972,995",
+    "walletLifetime": "354 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.6100",
+        "amount": "0.0138",
+        "usdValue": "$43.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.0700",
+        "amount": "0.0087",
+        "usdValue": "$27.32"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2123",
+        "amount": "14.4000",
+        "usdValue": "$3.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,129.0700",
+        "amount": "0.0003",
+        "usdValue": "$0.81"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.6000",
+        "amount": "0.0003",
+        "usdValue": "$0.30"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$557,158"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$415,762"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc6efc790701335692f90bb98ba00c4a205fff976",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x2490…6aed",
+        "volume": "$937K"
+      },
+      {
+        "name": "0x999a…5e89",
+        "volume": "$815K"
+      },
+      {
+        "name": "0xd4a1…0e9e",
+        "volume": "$432K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$353K"
+      },
+      {
+        "name": "0x8f1a…659c",
+        "volume": "$192K"
+      },
+      {
+        "name": "0x6865…a907",
+        "volume": "$141K"
+      },
+      {
+        "name": "0x32b0…6f05",
+        "volume": "$102K"
+      },
+      {
+        "name": "0xf5e4…c335",
+        "volume": "$94K"
+      },
+      {
+        "name": "0x5523…b59e",
+        "volume": "$81K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$78K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$74K"
+      },
+      {
+        "name": "0x3667…944c",
+        "volume": "$59K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "MUSDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ARB",
+        "volume": "$942K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$228K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$76K"
+      },
+      {
+        "name": "MOVR",
+        "volume": "$6K"
+      },
+      {
+        "name": "CHR",
+        "volume": "$345B"
+      },
+      {
+        "name": "NB",
+        "volume": "$11"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:16:44.397Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 73.60152627172482,
+  "vaultPct": 0.013685249367541343
+}

@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0x09e08b43280929166af94ca20ced3a62ae7c6349",
+    "totalValue": "$1,062",
+    "walletLifetime": "1484 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.6500",
+        "amount": "0.1078",
+        "usdValue": "$337.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.0800",
+        "amount": "0.0206",
+        "usdValue": "$64.59"
+      },
+      {
+        "symbol": "BTC",
+        "chain": "botanix",
+        "price": "$90,949.0800",
+        "amount": "0.00001651",
+        "usdValue": "$1.50"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1007",
+        "amount": "0.8046",
+        "usdValue": "$0.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,131.0800",
+        "amount": "0.0002",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$899.8000",
+        "amount": "0.0006",
+        "usdValue": "$0.52"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1234",
+        "amount": "4.1957",
+        "usdValue": "$0.52"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$313"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$313"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$25"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x09e08b43280929166af94ca20ced3a62ae7c6349",
+    "topProtocols": [
+      {
+        "name": "Portal",
+        "volume": "$26K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$16K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$13K"
+      },
+      {
+        "name": "Hyperlane",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xd567…cd4c",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x6fae…afaa",
+        "volume": "$7K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$7K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$7K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x2388…449d",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xee73…f282",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xc320…e172",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$35K"
+      },
+      {
+        "name": "W",
+        "volume": "$27K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$22K"
+      },
+      {
+        "name": "TIA.n",
+        "volume": "$15K"
+      },
+      {
+        "name": "TIA",
+        "volume": "$15K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$14K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$12K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$9K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:11:32.898Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.10001052610350185,
+  "vaultPct": 0.000018595660422210853
+}

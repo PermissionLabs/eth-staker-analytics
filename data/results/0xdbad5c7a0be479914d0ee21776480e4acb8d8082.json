@@ -1,0 +1,273 @@
+{
+  "portfolio": {
+    "address": "0xdbad5c7a0be479914d0ee21776480e4acb8d8082",
+    "totalValue": "$118,664",
+    "walletLifetime": "1245 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.2800",
+        "amount": "10.8030",
+        "usdValue": "$33,578.88"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.3684",
+        "amount": "12,811.0606",
+        "usdValue": "$30,341.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.2800",
+        "amount": "0.4365",
+        "usdValue": "$1,356.82"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "1,018.7434",
+        "usdValue": "$1,018.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "swell",
+        "price": "$3,108.5000",
+        "amount": "0.1003",
+        "usdValue": "$311.84"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,110.2600",
+        "amount": "0.1002",
+        "usdValue": "$311.50"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.4000",
+        "amount": "0.2666",
+        "usdValue": "$238.45"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$894.1800",
+        "amount": "0.1401",
+        "usdValue": "$125.25"
+      },
+      {
+        "symbol": "mPendle",
+        "chain": "arb",
+        "price": "$1.5052",
+        "amount": "79.3695",
+        "usdValue": "$119.46"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Equilibria",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "mPendle",
+        "usdValue": "$45,155"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "mPendle",
+        "usdValue": "$2,268"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$1,088"
+      },
+      {
+        "protocol": "Magpie XYZ",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "PNP",
+        "usdValue": "$826"
+      },
+      {
+        "protocol": "Artemis",
+        "chain": "metis",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "Metis",
+        "usdValue": "$477"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETHFI",
+        "usdValue": "$457"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$297"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$243"
+      },
+      {
+        "protocol": "Tempest",
+        "chain": "swell",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "SWELL",
+        "usdValue": "$119"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdbad5c7a0be479914d0ee21776480e4acb8d8082",
+    "topProtocols": [
+      {
+        "name": "Magpie XYZ",
+        "volume": "$609K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$574K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$175K"
+      },
+      {
+        "name": "Wombat Exchange",
+        "volume": "$157K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$109K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$91K"
+      },
+      {
+        "name": "Radiant Capital V2",
+        "volume": "$69K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$67K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$65K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$65K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$64K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$63K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$61K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$59K"
+      },
+      {
+        "name": "Nucleus",
+        "volume": "$57K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$55K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "mPendle",
+        "volume": "$1M"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$733K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$311K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$273K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$261K"
+      },
+      {
+        "name": "ePendle",
+        "volume": "$133K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$91K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$90K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$59K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$47K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$46K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$43K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$29K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:55:01.424Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.07172804474707023,
+  "vaultPct": 0.00080002517721559
+}

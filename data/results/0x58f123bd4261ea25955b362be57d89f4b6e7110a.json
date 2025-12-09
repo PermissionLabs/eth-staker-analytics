@@ -1,0 +1,353 @@
+{
+  "portfolio": {
+    "address": "0x58f123bd4261ea25955b362be57d89f4b6e7110a",
+    "totalValue": "$31,528",
+    "walletLifetime": "2427 days",
+    "tokens": [
+      {
+        "symbol": "SOCKS",
+        "chain": "eth",
+        "price": "$15,778.9583",
+        "amount": "1.0000",
+        "usdValue": "$15,778.96"
+      },
+      {
+        "symbol": "ENS",
+        "chain": "eth",
+        "price": "$11.2000",
+        "amount": "476.8587",
+        "usdValue": "$5,340.82"
+      },
+      {
+        "symbol": "PEOPLE (ConstitutionDAO)",
+        "chain": "eth",
+        "price": "$0.0102",
+        "amount": "200,000.0000",
+        "usdValue": "$2,034.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,091.5000",
+        "amount": "0.2759",
+        "usdValue": "$852.96"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3176",
+        "amount": "2,018.0275",
+        "usdValue": "$640.93"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$190.1848",
+        "amount": "2.6167",
+        "usdValue": "$497.65"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "496.4409",
+        "usdValue": "$496.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,090.4100",
+        "amount": "0.0875",
+        "usdValue": "$270.37"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "184.8618",
+        "usdValue": "$184.84"
+      },
+      {
+        "symbol": "HAUS",
+        "chain": "xdai",
+        "price": "$0.2465",
+        "amount": "563.8329",
+        "usdValue": "$138.96"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,090.4100",
+        "amount": "0.0320",
+        "usdValue": "$99.02"
+      },
+      {
+        "symbol": "RAID",
+        "chain": "xdai",
+        "price": "$0.0006",
+        "amount": "143,009.6409",
+        "usdValue": "$92.01"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "87.9670",
+        "usdValue": "$87.96"
+      },
+      {
+        "symbol": "WXDAI",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "73.2000",
+        "usdValue": "$73.19"
+      },
+      {
+        "symbol": "BADGER",
+        "chain": "eth",
+        "price": "$0.5630",
+        "amount": "109.9627",
+        "usdValue": "$61.91"
+      },
+      {
+        "symbol": "sUSD",
+        "chain": "eth",
+        "price": "$0.9814",
+        "amount": "44.4095",
+        "usdValue": "$43.58"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "eth",
+        "price": "$0.33",
+        "amount": "0.00",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Maker",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "UNI",
+        "usdValue": "$2,314"
+      },
+      {
+        "protocol": "Badger DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$903"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SUSHI",
+        "usdValue": "$516"
+      },
+      {
+        "protocol": "Uniswap V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$501"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$434"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DAI",
+        "usdValue": "$61"
+      },
+      {
+        "protocol": "Giveth",
+        "chain": "xdai",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "GIV",
+        "usdValue": "$38"
+      },
+      {
+        "protocol": "Yearn",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "YFI",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "Claimable",
+        "token": "CRV",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x58f123bd4261ea25955b362be57d89f4b6e7110a",
+    "topProtocols": [
+      {
+        "name": "0xcb09…42a9",
+        "volume": "$94K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x44f2…c176",
+        "volume": "$47K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$35K"
+      },
+      {
+        "name": "0xde3e…299e",
+        "volume": "$34K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$33K"
+      },
+      {
+        "name": "0xee2e…1bfc",
+        "volume": "$33K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xaeca…4b39",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x5fd9…9ea8",
+        "volume": "$13K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x1e87…d74a",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x20a2…8f4b",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xe91d…a97d",
+        "volume": "$8K"
+      },
+      {
+        "name": "xDai",
+        "volume": "$7K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x43d0…5118",
+        "volume": "$5K"
+      },
+      {
+        "name": "Giveth",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "GTC",
+        "volume": "$128K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$103K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$74K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$58K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$45K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$44K"
+      },
+      {
+        "name": "KHAUS",
+        "volume": "$42K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$29K"
+      },
+      {
+        "name": "xDai",
+        "volume": "$15K"
+      },
+      {
+        "name": "WXDAI",
+        "volume": "$9K"
+      },
+      {
+        "name": "GIV",
+        "volume": "$5K"
+      },
+      {
+        "name": "OP",
+        "volume": "$3K"
+      },
+      {
+        "name": "RAID",
+        "volume": "$3K"
+      },
+      {
+        "name": "BADGER",
+        "volume": "$2K"
+      },
+      {
+        "name": "POOL",
+        "volume": "$2K"
+      },
+      {
+        "name": "MPH",
+        "volume": "$876M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:02:49.099Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.12473644054876992,
+  "vaultPct": 0.000009366190187168055
+}

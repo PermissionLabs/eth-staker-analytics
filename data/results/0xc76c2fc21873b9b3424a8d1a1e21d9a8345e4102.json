@@ -1,0 +1,110 @@
+{
+  "portfolio": {
+    "address": "0xc76c2fc21873b9b3424a8d1a1e21d9a8345e4102",
+    "totalValue": "$46",
+    "walletLifetime": "212 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.4400",
+        "amount": "0.0099",
+        "usdValue": "$31.09"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,127.4400",
+        "amount": "0.0046",
+        "usdValue": "$14.45"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001003",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xc76c2fc21873b9b3424a8d1a1e21d9a8345e4102",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$36K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x95c9…4689",
+        "volume": "$11K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$10K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$5K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$2K"
+      },
+      {
+        "name": "DeBank L2",
+        "volume": "$140"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$62"
+      },
+      {
+        "name": "0x76dd…f7d9",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$52K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$29K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$23K"
+      },
+      {
+        "name": "BBTC",
+        "volume": "$10K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$573"
+      },
+      {
+        "name": "WETH",
+        "volume": "$12B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:37:25.883Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.446413872241162,
+  "vaultPct": 0.00026894190287866037
+}

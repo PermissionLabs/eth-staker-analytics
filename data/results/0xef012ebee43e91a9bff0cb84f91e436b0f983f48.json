@@ -1,0 +1,162 @@
+{
+  "portfolio": {
+    "address": "0xef012ebee43e91a9bff0cb84f91e436b0f983f48",
+    "totalValue": "$19,438",
+    "walletLifetime": "405 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,145.6000",
+        "amount": "0.0100",
+        "usdValue": "$31.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,145.8700",
+        "amount": "0.0009",
+        "usdValue": "$2.96"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "249.6364",
+        "usdValue": "$2.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.000073",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WAZ",
+        "chain": "base",
+        "price": "$0.0₆3793",
+        "amount": "138.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006811",
+        "amount": "0.0066",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$19,401"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xef012ebee43e91a9bff0cb84f91e436b0f983f48",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$51K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$36K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$10K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$5K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$4"
+      },
+      {
+        "name": "Linea Ignition",
+        "volume": "$3"
+      },
+      {
+        "name": "0x66f8…4541",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4a82…444c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x66fb…4541",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9a14…9eed",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$63K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$59K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$3"
+      },
+      {
+        "name": "SNLWAZUSA",
+        "volume": "$unknown"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:04:27.345Z",
+  "source": "base_aave",
+  "vaultBalance": 9.999802799062547,
+  "vaultPct": 0.01471051246977622
+}

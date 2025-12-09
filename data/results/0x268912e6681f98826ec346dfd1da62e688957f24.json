@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0x268912e6681f98826ec346dfd1da62e688957f24",
+    "totalValue": "$57,258",
+    "walletLifetime": "1854 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.8000",
+        "amount": "0.0100",
+        "usdValue": "$31.33"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1239",
+        "amount": "2.2247",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.8000",
+        "amount": "0.0000213",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅792",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "DeFAI",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "640.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$34,051"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$23,152"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$24"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x268912e6681f98826ec346dfd1da62e688957f24",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$51K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x",
+        "volume": "$34K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$33K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$15K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$12K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$10K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V1",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3353…399a",
+        "volume": "$1K"
+      },
+      {
+        "name": "Kyber",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$963"
+      },
+      {
+        "name": "erkl",
+        "volume": "$401"
+      },
+      {
+        "name": "raken",
+        "volume": "$311"
+      },
+      {
+        "name": "Spark",
+        "volume": "$265"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$249"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$116K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$89K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$26K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$5K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "SPK",
+        "volume": "$530"
+      },
+      {
+        "name": "POL",
+        "volume": "$145"
+      },
+      {
+        "name": "USDS",
+        "volume": "$115"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:52:35.234Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.000000129805966,
+  "vaultPct": 0.0007437481533262985
+}

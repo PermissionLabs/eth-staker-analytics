@@ -1,0 +1,66 @@
+{
+  "portfolio": {
+    "address": "0xa703cdda449461ff1c422394d9b1f40930f5935f",
+    "totalValue": "$240",
+    "walletLifetime": "783 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$90,277.2700",
+        "amount": "0.0027",
+        "usdValue": "$240.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.1000",
+        "amount": "0.00004467",
+        "usdValue": "$0.14"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xa703cdda449461ff1c422394d9b1f40930f5935f",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$257"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$94"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$26"
+      },
+      {
+        "name": "0x5be7…1f66",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$257"
+      },
+      {
+        "name": "ETH",
+        "volume": "$230"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:41:13.973Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.06,
+  "vaultPct": 0.000011156221937858436
+}

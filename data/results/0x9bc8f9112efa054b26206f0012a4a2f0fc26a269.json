@@ -1,0 +1,165 @@
+{
+  "portfolio": {
+    "address": "0x9bc8f9112efa054b26206f0012a4a2f0fc26a269",
+    "totalValue": "$596,580",
+    "walletLifetime": "2927 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.4900",
+        "amount": "0.4900",
+        "usdValue": "$1,522.56"
+      },
+      {
+        "symbol": "SD",
+        "chain": "eth",
+        "price": "$0.2394",
+        "amount": "157.7834",
+        "usdValue": "$37.77"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.7500",
+        "amount": "2.0604",
+        "usdValue": "$7.73"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0276",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "4.2000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$416,768"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$178,243"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9bc8f9112efa054b26206f0012a4a2f0fc26a269",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$1M"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$523K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$130K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$81K"
+      },
+      {
+        "name": "0x7686…1109",
+        "volume": "$68K"
+      },
+      {
+        "name": "0x4c34…fa9b",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x1083…3567",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7b32…693e",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf446…1661",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$999"
+      },
+      {
+        "name": "0x1a78…c1a3",
+        "volume": "$93"
+      },
+      {
+        "name": "disperse",
+        "volume": "$81"
+      },
+      {
+        "name": "0x96c3…4a10",
+        "volume": "$39"
+      },
+      {
+        "name": "0xe1d3…d559",
+        "volume": "$39"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xac20…e080",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9247…e4c5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9f04…770c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "SD",
+        "volume": "$81"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:33:46.834Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 52.64076898200121,
+  "vaultPct": 0.5871335358728097
+}

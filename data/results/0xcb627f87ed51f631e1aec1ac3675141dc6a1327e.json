@@ -1,0 +1,102 @@
+{
+  "portfolio": {
+    "address": "0xcb627f87ed51f631e1aec1ac3675141dc6a1327e",
+    "totalValue": "$3",
+    "walletLifetime": "128 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,148.7000",
+        "amount": "0.0010",
+        "usdValue": "$3.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,148.1300",
+        "amount": "0.00008548",
+        "usdValue": "$0.27"
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xcb627f87ed51f631e1aec1ac3675141dc6a1327e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$2K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0000x7381…9331",
+        "volume": "$17B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$9"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$9"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$9"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$9"
+      },
+      {
+        "name": "0x7381…9331",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9d89…f2b3",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa8eb…ef6c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x2319…c39c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:23:08.724Z",
+  "source": "base_aave",
+  "vaultBalance": 0.5432965266251384,
+  "vaultPct": 0.0007992327939161411
+}

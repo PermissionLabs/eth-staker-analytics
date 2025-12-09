@@ -1,0 +1,239 @@
+{
+  "portfolio": {
+    "address": "0xa4c32ebb2b74bf9393b8e2b960d682d0e93a3a55",
+    "totalValue": "$43,142",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.7000",
+        "amount": "0.0460",
+        "usdValue": "$41.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,149.7800",
+        "amount": "0.0092",
+        "usdValue": "$29.01"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "avax",
+        "price": "$91,985.9200",
+        "amount": "0.0002",
+        "usdValue": "$16.57"
+      },
+      {
+        "symbol": "BLACK",
+        "chain": "avax",
+        "price": "$0.0594",
+        "amount": "124.7405",
+        "usdValue": "$7.40"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7800",
+        "amount": "0.2445",
+        "usdValue": "$3.37"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "2.4508",
+        "usdValue": "$2.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,149.7800",
+        "amount": "0.0005",
+        "usdValue": "$1.64"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,149.7800",
+        "amount": "0.0005",
+        "usdValue": "$1.61"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0975",
+        "amount": "5.4953",
+        "usdValue": "$0.54"
+      },
+      {
+        "symbol": "USD+",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.3985",
+        "usdValue": "$0.40"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6820",
+        "amount": "0.2774",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$24,792"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$11,949"
+      },
+      {
+        "protocol": "Blackhole",
+        "chain": "avax",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "WBTC",
+        "usdValue": "$6,292"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "DESK",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "bDESK",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa4c32ebb2b74bf9393b8e2b960d682d0e93a3a55",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$297K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$158K"
+      },
+      {
+        "name": "ICHI",
+        "volume": "$132K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$80K"
+      },
+      {
+        "name": "0x1f37…4528",
+        "volume": "$77K"
+      },
+      {
+        "name": "0x1084…ea69",
+        "volume": "$69K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$57K"
+      },
+      {
+        "name": "Shadow Exchange",
+        "volume": "$45K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$45K"
+      },
+      {
+        "name": "DESK",
+        "volume": "$45K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$39K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$36K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$33K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$28K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$271K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$186K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$130K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$122K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$116K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$87K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$73K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$69K"
+      },
+      {
+        "name": "LYNX",
+        "volume": "$24K"
+      },
+      {
+        "name": "MENDI",
+        "volume": "$15K"
+      },
+      {
+        "name": "OX",
+        "volume": "$14K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:14:39.458Z",
+  "source": "base_aave",
+  "vaultBalance": 7.90506928895447,
+  "vaultPct": 0.011628991359760756
+}

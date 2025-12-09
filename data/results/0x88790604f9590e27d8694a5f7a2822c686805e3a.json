@@ -1,0 +1,123 @@
+{
+  "portfolio": {
+    "address": "0x88790604f9590e27d8694a5f7a2822c686805e3a",
+    "totalValue": "$173",
+    "walletLifetime": "76 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.3200",
+        "amount": "0.0023",
+        "usdValue": "$7.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,118.5700",
+        "amount": "0.00009914",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0268",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$165"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x88790604f9590e27d8694a5f7a2822c686805e3a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$183"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$176M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$158"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$158B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$126"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$126"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$46"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbbe2…d147",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0fd6…f708",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$517"
+      },
+      {
+        "name": "WETH",
+        "volume": "$317"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:23:19.985Z",
+  "source": "moonwell",
+  "vaultBalance": 0.051815653737480295,
+  "vaultPct": 0.0009400513192235392
+}

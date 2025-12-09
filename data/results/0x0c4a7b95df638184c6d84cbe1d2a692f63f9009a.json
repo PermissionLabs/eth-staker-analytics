@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x0c4a7b95df638184c6d84cbe1d2a692f63f9009a",
+    "totalValue": "$56,735",
+    "walletLifetime": "731 days",
+    "tokens": [
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4830",
+        "amount": "14,813.7421",
+        "usdValue": "$7,155.04"
+      },
+      {
+        "symbol": "TRUE",
+        "chain": "base",
+        "price": "$0.0635",
+        "amount": "57,569.9508",
+        "usdValue": "$3,658.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,147.6000",
+        "amount": "0.2014",
+        "usdValue": "$634.04"
+      },
+      {
+        "symbol": "hETH",
+        "chain": "arb",
+        "price": "$3,147.3100",
+        "amount": "0.0070",
+        "usdValue": "$22.17"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$45,253"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0c4a7b95df638184c6d84cbe1d2a692f63f9009a",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$107K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$93K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$92K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$60K"
+      },
+      {
+        "name": "0x1e74…d68f",
+        "volume": "$55K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$30K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x8098…f78f",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x31ca…660d",
+        "volume": "$29K"
+      },
+      {
+        "name": "0xd276…53e1",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$13K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$5K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x05e1…d44f",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$227K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$183K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$119K"
+      },
+      {
+        "name": "GUD",
+        "volume": "$48K"
+      },
+      {
+        "name": "PROVE",
+        "volume": "$26K"
+      },
+      {
+        "name": "RAIL",
+        "volume": "$22K"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$19K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$15K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDtb",
+        "volume": "$10K"
+      },
+      {
+        "name": "TRUE",
+        "volume": "$8K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$6K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "elizaOS",
+        "volume": "$2K"
+      },
+      {
+        "name": "REZ",
+        "volume": "$630"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:00:33.338Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 24.525431617401427,
+  "vaultPct": 0.004560185970758346
+}

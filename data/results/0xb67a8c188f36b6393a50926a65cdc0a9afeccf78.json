@@ -1,0 +1,273 @@
+{
+  "portfolio": {
+    "address": "0xb67a8c188f36b6393a50926a65cdc0a9afeccf78",
+    "totalValue": "$3,849",
+    "walletLifetime": "1602 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,103.7200",
+        "amount": "0.4132",
+        "usdValue": "$1,282.55"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "1,075.9546",
+        "usdValue": "$1,075.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.2400",
+        "amount": "0.1675",
+        "usdValue": "$519.77"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "226.8879",
+        "usdValue": "$226.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,103.2400",
+        "amount": "0.0360",
+        "usdValue": "$111.78"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "101.2204",
+        "usdValue": "$101.21"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.5000",
+        "amount": "0.0076",
+        "usdValue": "$6.83"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1238",
+        "amount": "38.7795",
+        "usdValue": "$4.80"
+      },
+      {
+        "symbol": "RBTC",
+        "chain": "rsk",
+        "price": "$89,935.4700",
+        "amount": "0.00004185",
+        "usdValue": "$3.76"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$367"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "USD₮0",
+        "usdValue": "$105"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$37"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "TokenSets",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb67a8c188f36b6393a50926a65cdc0a9afeccf78",
+    "topProtocols": [
+      {
+        "name": "Umbra",
+        "volume": "$29K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$8K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xd746…e9ee",
+        "volume": "$3K"
+      },
+      {
+        "name": "Overnight.fi",
+        "volume": "$2K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "SmartDex",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x935b…0094",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8ae8…008b",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xd9d9…f7e4",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$981"
+      },
+      {
+        "name": "Optimism",
+        "volume": "$957"
+      },
+      {
+        "name": "WMATIC",
+        "volume": "$908"
+      },
+      {
+        "name": "0x41d3…87b3",
+        "volume": "$861"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KPOL",
+        "volume": "$8K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$5K"
+      },
+      {
+        "name": "KhUSDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "KOP",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$1K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$908"
+      },
+      {
+        "name": "WETH",
+        "volume": "$543B"
+      },
+      {
+        "name": "NB",
+        "volume": "$463"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$455B"
+      },
+      {
+        "name": "USD",
+        "volume": "$209"
+      },
+      {
+        "name": "USDC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:11:58.727Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.108,
+  "vaultPct": 0.000008109486977212973
+}

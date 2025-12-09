@@ -1,0 +1,195 @@
+{
+  "portfolio": {
+    "address": "0x9e34420e474fd458056aff6b9fed0cb1432390db",
+    "totalValue": "$821",
+    "walletLifetime": "3300 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.5900",
+        "amount": "0.0274",
+        "usdValue": "$85.53"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4769",
+        "amount": "81.7032",
+        "usdValue": "$38.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.5900",
+        "amount": "0.0082",
+        "usdValue": "$25.66"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1605",
+        "amount": "123.6729",
+        "usdValue": "$19.85"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2025",
+        "amount": "0.4314",
+        "usdValue": "$0.52"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "17.3542",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "base",
+        "price": "$31.0100",
+        "amount": "0.0012",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "SKIBIDI",
+        "chain": "base",
+        "price": "$0.0043",
+        "amount": "0.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SAMURAI",
+        "chain": "base",
+        "price": "$0.00002553",
+        "amount": "50.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1385",
+        "amount": "1,000.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FARTWARS",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$336"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$314"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9e34420e474fd458056aff6b9fed0cb1432390db",
+    "topProtocols": [
+      {
+        "name": "Eclipse Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x9e34…90db",
+        "volume": "$999"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$999B"
+      },
+      {
+        "name": "inance",
+        "volume": "$861"
+      },
+      {
+        "name": "Relay",
+        "volume": "$819"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$740"
+      },
+      {
+        "name": "0x85ac…255f",
+        "volume": "$172"
+      },
+      {
+        "name": "0xa69c…4d5a",
+        "volume": "$135"
+      },
+      {
+        "name": "aori",
+        "volume": "$113"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$15B"
+      },
+      {
+        "name": "0xad3b…5b39",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbba0…d668",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa69c…2d5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$70M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:15:02.967Z",
+  "source": "moonwell",
+  "vaultBalance": 0.10544566497343977,
+  "vaultPct": 0.001913019122886891
+}

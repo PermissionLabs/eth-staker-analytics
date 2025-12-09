@@ -1,0 +1,114 @@
+{
+  "portfolio": {
+    "address": "0xf8dd7a3efc814831b4194f390dda0608aa0a66c5",
+    "totalValue": "$20,293",
+    "walletLifetime": "1682 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.4000",
+        "amount": "7.9588",
+        "usdValue": "$7,118.34"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1233",
+        "amount": "20,242.2297",
+        "usdValue": "$2,495.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,095.8900",
+        "amount": "0.0034",
+        "usdValue": "$10.48"
+      },
+      {
+        "symbol": "mSHEESHA",
+        "chain": "matic",
+        "price": "$0.0001",
+        "amount": "100.0000",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9785",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DPEX",
+        "chain": "matic",
+        "price": "$0.00001128",
+        "amount": "100.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MCC",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.0200",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$10,669"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf8dd7a3efc814831b4194f390dda0608aa0a66c5",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$42K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xd513…4dbf",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "POL",
+        "volume": "$43K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:03:27.654Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.983408362198575,
+  "vaultPct": 0.0002240176968607188
+}

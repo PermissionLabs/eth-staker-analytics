@@ -1,0 +1,178 @@
+{
+  "portfolio": {
+    "address": "0x8555efabcb316eeec70e413d836eac3a97e3d0d4",
+    "totalValue": "$20,877",
+    "walletLifetime": "1064 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.6100",
+        "amount": "0.1631",
+        "usdValue": "$512.52"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$903.5000",
+        "amount": "0.1306",
+        "usdValue": "$118.02"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,141.6100",
+        "amount": "0.0031",
+        "usdValue": "$9.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,141.6100",
+        "amount": "0.0010",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "1.0837",
+        "usdValue": "$1.08"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.7470",
+        "usdValue": "$0.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,141.6100",
+        "amount": "0.00009781",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$13,487"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,295"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$449"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8555efabcb316eeec70e413d836eac3a97e3d0d4",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xa038…8b0b",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x16f5…ed43",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x458b…76a6",
+        "volume": "$372"
+      },
+      {
+        "name": "0xf624…0e24",
+        "volume": "$96M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$80"
+      },
+      {
+        "name": "0x54b5…d2a8",
+        "volume": "$80B"
+      },
+      {
+        "name": "inance",
+        "volume": "$31"
+      },
+      {
+        "name": "0x78e5…499f",
+        "volume": "$14"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$14"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$48K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "NB",
+        "volume": "$46"
+      },
+      {
+        "name": "WETH",
+        "volume": "$28"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:08:47.737Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.19836078865137552,
+  "vaultPct": 0.000036882616366056274
+}

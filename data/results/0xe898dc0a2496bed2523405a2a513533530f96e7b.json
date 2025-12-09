@@ -1,0 +1,154 @@
+{
+  "portfolio": {
+    "address": "0xe898dc0a2496bed2523405a2a513533530f96e7b",
+    "totalValue": "$705,819",
+    "walletLifetime": "146 days",
+    "tokens": [
+      {
+        "symbol": "mBTC",
+        "chain": "eth",
+        "price": "$92,963.0000",
+        "amount": "0.9676",
+        "usdValue": "$89,948.60"
+      },
+      {
+        "symbol": "mRe7BTC",
+        "chain": "eth",
+        "price": "$89,831.8758",
+        "amount": "0.9994",
+        "usdValue": "$89,781.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.8300",
+        "amount": "0.1200",
+        "usdValue": "$372.68"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$219,040"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$126,361"
+      },
+      {
+        "protocol": "Solv",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "SolvBTC",
+        "usdValue": "$90,265"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "tBTC",
+        "usdValue": "$90,051"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe898dc0a2496bed2523405a2a513533530f96e7b",
+    "topProtocols": [
+      {
+        "name": "Threshold",
+        "volume": "$544K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$106K"
+      },
+      {
+        "name": "Upshift",
+        "volume": "$106K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$106K"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$106K"
+      },
+      {
+        "name": "0x5e15…47f6",
+        "volume": "$106K"
+      },
+      {
+        "name": "0x10cc…93bd",
+        "volume": "$106K"
+      },
+      {
+        "name": "Solv",
+        "volume": "$106K"
+      },
+      {
+        "name": "0x5963…a4b9",
+        "volume": "$404"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x535e…140f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x38fb…f03b",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "tBTC",
+        "volume": "$1M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$213K"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$213K"
+      },
+      {
+        "name": "mRe7BTC",
+        "volume": "$106K"
+      },
+      {
+        "name": "mBTC",
+        "volume": "$106K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$404M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:53:14.601Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 37.33996335574566,
+  "vaultPct": 0.41647462866502066
+}

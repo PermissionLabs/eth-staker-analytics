@@ -1,0 +1,78 @@
+{
+  "portfolio": {
+    "address": "0xed890c32935d848a909af0aad2686b1cc30828c0",
+    "totalValue": "$890",
+    "walletLifetime": "1393 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.6000",
+        "amount": "0.0071",
+        "usdValue": "$22.40"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8400",
+        "amount": "0.0066",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9973",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "avax",
+        "price": "$0.9998",
+        "amount": "0.0036",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7979",
+        "amount": "3.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$866"
+      },
+      {
+        "protocol": "LFJ",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "JOE",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xed890c32935d848a909af0aad2686b1cc30828c0",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T09:30:47.412Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.239917425859354,
+  "vaultPct": 0.00001801488185752676
+}

@@ -1,0 +1,158 @@
+{
+  "portfolio": {
+    "address": "0x0b9f00474da036bf6b9c3127ce2fb5bd89bfd200",
+    "totalValue": "$602,316",
+    "walletLifetime": "1369 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.4200",
+        "amount": "9.8416",
+        "usdValue": "$31,074.03"
+      },
+      {
+        "symbol": "RPL",
+        "chain": "eth",
+        "price": "$2.4497",
+        "amount": "19.8986",
+        "usdValue": "$48.75"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0289",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "NCASH",
+        "chain": "arb",
+        "price": "$0.0056",
+        "amount": "1.0500",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9977",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.1023",
+        "amount": "0.00003404",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "4.2000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$571,193"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0b9f00474da036bf6b9c3127ce2fb5bd89bfd200",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$542K"
+      },
+      {
+        "name": "0xedb3…bde9",
+        "volume": "$340K"
+      },
+      {
+        "name": "0xd7ef…17e4",
+        "volume": "$301K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$126K"
+      },
+      {
+        "name": "0x6081…fe80",
+        "volume": "$80K"
+      },
+      {
+        "name": "0x4a5b…d2a0",
+        "volume": "$79K"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$59K"
+      },
+      {
+        "name": "0xa011…2d5e",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x680d…bb2c",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x3052…177a",
+        "volume": "$412"
+      },
+      {
+        "name": "0x3d1b…deca",
+        "volume": "$192"
+      },
+      {
+        "name": "0x7d46…1f2e",
+        "volume": "$1"
+      },
+      {
+        "name": "0x2555…ad74",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xedb3…1de9",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "LINK",
+        "volume": "$28K"
+      },
+      {
+        "name": "RPL",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:40:10.892Z",
+  "source": "lido_steth",
+  "vaultBalance": 171.1606,
+  "vaultPct": 0.01285208015474036
+}

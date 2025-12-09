@@ -1,0 +1,85 @@
+{
+  "portfolio": {
+    "address": "0xb1f65589c4eb059f9fb12e4c470df4d7c40aff97",
+    "totalValue": "$159",
+    "walletLifetime": "817 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.9700",
+        "amount": "0.0498",
+        "usdValue": "$157.46"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1251",
+        "amount": "9.9909",
+        "usdValue": "$1.25"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "0.1648",
+        "usdValue": "$0.16"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0294",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xb1f65589c4eb059f9fb12e4c470df4d7c40aff97",
+    "topProtocols": [
+      {
+        "name": "0xf0b1…dc5f",
+        "volume": "$19K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x1865…c591",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x19ab…6307",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$39K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$6"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:59:40.435Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.776586589167234,
+  "vaultPct": 0.0004337514233110629
+}

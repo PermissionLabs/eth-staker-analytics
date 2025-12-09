@@ -1,0 +1,143 @@
+{
+  "portfolio": {
+    "address": "0x67732ffe913b96801cc50f6f758b6830c493212c",
+    "totalValue": "$237,443",
+    "walletLifetime": "3121 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.8900",
+        "amount": "0.0182",
+        "usdValue": "$56.72"
+      },
+      {
+        "symbol": "ERC20(old)",
+        "chain": "eth",
+        "price": "$0.00001383",
+        "amount": "0.9900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7899",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$237,305"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$81"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x67732ffe913b96801cc50f6f758b6830c493212c",
+    "topProtocols": [
+      {
+        "name": "Compound",
+        "volume": "$595K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$559K"
+      },
+      {
+        "name": "0xa161…46e4",
+        "volume": "$143K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$75K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x8d24…dfca",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x563b…3911",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$344"
+      },
+      {
+        "name": "0x00c6…679f",
+        "volume": "$80"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa090…8984",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbfe1…cfc5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x42df…2758",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6773…212c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4d46…58cc",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbb53…98bf",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4167…ae7a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$942K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$527K"
+      },
+      {
+        "name": "COMP",
+        "volume": "$682"
+      },
+      {
+        "name": "ANT",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:28:24.696Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 116.15246788664223,
+  "vaultPct": 0.021597045172889257
+}

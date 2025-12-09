@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0x56588e2e69f10341a8f68dee9318783e00fabcdd",
+    "totalValue": "$6,993",
+    "walletLifetime": "618 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,160.4600",
+        "amount": "0.0182",
+        "usdValue": "$57.46"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "43.1578",
+        "usdValue": "$43.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,160.4600",
+        "amount": "0.0026",
+        "usdValue": "$8.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.4600",
+        "amount": "0.0021",
+        "usdValue": "$6.59"
+      },
+      {
+        "symbol": "msUSD",
+        "chain": "base",
+        "price": "$0.9939",
+        "amount": "3.7726",
+        "usdValue": "$3.75"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8718",
+        "amount": "2.1089",
+        "usdValue": "$1.84"
+      },
+      {
+        "symbol": "REX",
+        "chain": "linea",
+        "price": "$0.0481",
+        "amount": "11.1602",
+        "usdValue": "$0.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,160.4600",
+        "amount": "0.00008017",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,536"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WMTX",
+        "usdValue": "$1,269"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,066"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x56588e2e69f10341a8f68dee9318783e00fabcdd",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$145K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$86K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$62K"
+      },
+      {
+        "name": "0x1b1d…b53d",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$12K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x484d…07e4",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xb175…6020",
+        "volume": "$6K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$6K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8b84…672b",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf9a3…7338",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8668…0fbc",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x2e20…c684",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x6bbd…0626",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$113K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$112K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$65K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$41K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$37K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$23K"
+      },
+      {
+        "name": "REI",
+        "volume": "$19K"
+      },
+      {
+        "name": "GAME",
+        "volume": "$18K"
+      },
+      {
+        "name": "BAPE",
+        "volume": "$8K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$7K"
+      },
+      {
+        "name": "OP",
+        "volume": "$4K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$4K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$4K"
+      },
+      {
+        "name": "VELO",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:59:32.210Z",
+  "source": "base_aave",
+  "vaultBalance": 0.9450982215992036,
+  "vaultPct": 0.0013903153345485744
+}

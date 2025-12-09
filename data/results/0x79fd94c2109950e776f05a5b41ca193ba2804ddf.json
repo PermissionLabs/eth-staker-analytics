@@ -1,0 +1,157 @@
+{
+  "portfolio": {
+    "address": "0x79fd94c2109950e776f05a5b41ca193ba2804ddf",
+    "totalValue": "$389,963",
+    "walletLifetime": "1574 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.6600",
+        "amount": "0.8714",
+        "usdValue": "$2,723.77"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "eth",
+        "price": "$31.9800",
+        "amount": "0.4658",
+        "usdValue": "$14.90"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1230",
+        "amount": "1.9994",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "MegaDoge",
+        "chain": "matic",
+        "price": "$0.0000914",
+        "amount": "1,000.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Eth2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$302,525"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$84,699"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x79fd94c2109950e776f05a5b41ca193ba2804ddf",
+    "topProtocols": [
+      {
+        "name": "StakeFish",
+        "volume": "$233K"
+      },
+      {
+        "name": "0x9e18…0ccc",
+        "volume": "$150K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$112K"
+      },
+      {
+        "name": "0x0140…c8d7",
+        "volume": "$89K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$75K"
+      },
+      {
+        "name": "0x2022…2ef8",
+        "volume": "$64K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$38K"
+      },
+      {
+        "name": "0x0c96…c62e",
+        "volume": "$36K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$16K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$11K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xb97f…04f8",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8c51…4638",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcbf4…1fe3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$687K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$150K"
+      },
+      {
+        "name": "COMP",
+        "volume": "$92"
+      },
+      {
+        "name": "POL",
+        "volume": "$4M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:03:27.258Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 26.99582142965088,
+  "vaultPct": 0.0050195229210663345
+}

@@ -1,0 +1,216 @@
+{
+  "portfolio": {
+    "address": "0x440c974bc09a71ecabba33a1f5a108ccbaa375de",
+    "totalValue": "$855",
+    "walletLifetime": "1543 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.7900",
+        "amount": "0.0400",
+        "usdValue": "$124.62"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "105.0974",
+        "usdValue": "$105.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.9600",
+        "amount": "0.0062",
+        "usdValue": "$19.22"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.4000",
+        "amount": "0.0051",
+        "usdValue": "$4.54"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$27.7700",
+        "amount": "0.1492",
+        "usdValue": "$4.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,112.7900",
+        "amount": "0.00009197",
+        "usdValue": "$0.29"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$521"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$76"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stakeland",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MEME (Memecoin)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Equalizer",
+        "chain": "ftm",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "EQUAL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x440c974bc09a71ecabba33a1f5a108ccbaa375de",
+    "topProtocols": [
+      {
+        "name": "0x9e3e…ba9d",
+        "volume": "$275K"
+      },
+      {
+        "name": "0xbea9…055a",
+        "volume": "$161K"
+      },
+      {
+        "name": "0x2365…0c61",
+        "volume": "$103K"
+      },
+      {
+        "name": "0x4bbe…7e5c",
+        "volume": "$78K"
+      },
+      {
+        "name": "Elixir",
+        "volume": "$69K"
+      },
+      {
+        "name": "0x587c…96c2",
+        "volume": "$69K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$46K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$36K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$13K"
+      },
+      {
+        "name": "Bitget Wallet",
+        "volume": "$13K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xa1a1…82bc",
+        "volume": "$11K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$11K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$10K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$10K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x3a61…e95c",
+        "volume": "$9K"
+      },
+      {
+        "name": "Term Finance",
+        "volume": "$8K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$666K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$173K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "KFITFI",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDT.e",
+        "volume": "$4K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$4K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:05:37.884Z",
+  "source": "moonwell",
+  "vaultBalance": 0.16405395647289223,
+  "vaultPct": 0.0029763040139862344
+}

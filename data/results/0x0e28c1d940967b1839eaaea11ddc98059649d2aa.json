@@ -1,0 +1,299 @@
+{
+  "portfolio": {
+    "address": "0x0e28c1d940967b1839eaaea11ddc98059649d2aa",
+    "totalValue": "$17,085",
+    "walletLifetime": "3361 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "sonic",
+        "price": "$0.9999",
+        "amount": "307.2212",
+        "usdValue": "$307.19"
+      },
+      {
+        "symbol": "RESOLV",
+        "chain": "eth",
+        "price": "$0.0793",
+        "amount": "2,519.4071",
+        "usdValue": "$199.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.5800",
+        "amount": "0.0175",
+        "usdValue": "$54.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.5800",
+        "amount": "0.0083",
+        "usdValue": "$25.93"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.3000",
+        "amount": "0.0052",
+        "usdValue": "$4.67"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0939",
+        "amount": "41.9847",
+        "usdValue": "$3.94"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "0.2744",
+        "usdValue": "$3.75"
+      },
+      {
+        "symbol": "WTAC",
+        "chain": "tac",
+        "price": "$0.0044",
+        "amount": "564.0377",
+        "usdValue": "$2.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "katana",
+        "price": "$3,107.5800",
+        "amount": "0.0007",
+        "usdValue": "$2.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.5800",
+        "amount": "0.0003",
+        "usdValue": "$0.99"
+      },
+      {
+        "symbol": "EUL",
+        "chain": "base",
+        "price": "$0.03",
+        "amount": "0.01",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$14,472"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,621"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "sonic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "wS",
+        "usdValue": "$185"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "katana",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "vbUSDC",
+        "usdValue": "$151"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MAMO",
+        "usdValue": "$44"
+      },
+      {
+        "protocol": "Infrared",
+        "chain": "bera",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "iBGT",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "SwapX",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "SWPx",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "EUL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Sonic Airdrop",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "S",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "KATPOINT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0e28c1d940967b1839eaaea11ddc98059649d2aa",
+    "topProtocols": [
+      {
+        "name": "Blackhole",
+        "volume": "$2M"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$251K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$181K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$158K"
+      },
+      {
+        "name": "BEX",
+        "volume": "$144K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$132K"
+      },
+      {
+        "name": "Ooga Booga",
+        "volume": "$98K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$91K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$90K"
+      },
+      {
+        "name": "0xb7c5…1664",
+        "volume": "$87K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$84K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$76K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$68K"
+      },
+      {
+        "name": "0xa1c9…f57c",
+        "volume": "$52K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$52K"
+      },
+      {
+        "name": "Resolv",
+        "volume": "$48K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "SUPER",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$981K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$173K"
+      },
+      {
+        "name": "HONEY",
+        "volume": "$132K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$123K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$119K"
+      },
+      {
+        "name": "USR",
+        "volume": "$100K"
+      },
+      {
+        "name": "S",
+        "volume": "$74K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$60K"
+      },
+      {
+        "name": "OS",
+        "volume": "$47K"
+      },
+      {
+        "name": "BLACK",
+        "volume": "$30K"
+      },
+      {
+        "name": "USDB",
+        "volume": "$30K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:08:08.366Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.657098691245085,
+  "vaultPct": 0.0008659271097673371
+}

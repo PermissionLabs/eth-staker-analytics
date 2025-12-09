@@ -1,0 +1,229 @@
+{
+  "portfolio": {
+    "address": "0x17b3b56a00149544574520dda38be1eed5b0dadf",
+    "totalValue": "$758",
+    "walletLifetime": "1262 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,094.7100",
+        "amount": "0.0609",
+        "usdValue": "$188.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,094.7100",
+        "amount": "0.0221",
+        "usdValue": "$68.27"
+      },
+      {
+        "symbol": "W",
+        "chain": "base",
+        "price": "$0.0407",
+        "amount": "620.7055",
+        "usdValue": "$25.25"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "11.0057",
+        "usdValue": "$11.01"
+      },
+      {
+        "symbol": "AIDOGE",
+        "chain": "arb",
+        "price": "$0.0₁₀1854",
+        "amount": "138,727,443,660.8000",
+        "usdValue": "$2.57"
+      },
+      {
+        "symbol": "AVNT",
+        "chain": "base",
+        "price": "$0.3060",
+        "amount": "8.1096",
+        "usdValue": "$2.48"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$0.9999",
+        "amount": "1.5440",
+        "usdValue": "$1.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,094.7100",
+        "amount": "0.0004",
+        "usdValue": "$1.25"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆97",
+        "amount": "740,000.0000",
+        "usdValue": "$0.72"
+      },
+      {
+        "symbol": "doginme",
+        "chain": "base",
+        "price": "$0.0002",
+        "amount": "2,432.2395",
+        "usdValue": "$0.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,094.2800",
+        "amount": "0.0001",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "era",
+        "price": "$0.9993",
+        "amount": "0.3938",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.3000",
+        "amount": "0.0004",
+        "usdValue": "$0.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$434"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$17"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x17b3b56a00149544574520dda38be1eed5b0dadf",
+    "topProtocols": [
+      {
+        "name": "ZeroLend",
+        "volume": "$48K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$26K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x2297…42e3",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$24K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$20K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$12K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$12K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$11K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$10K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$72K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$48K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$30K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$24K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$13K"
+      },
+      {
+        "name": "Km.USDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "KBTC.b",
+        "volume": "$10K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:05:57.621Z",
+  "source": "base_aave",
+  "vaultBalance": 0.14,
+  "vaultPct": 0.0002059512359545471
+}

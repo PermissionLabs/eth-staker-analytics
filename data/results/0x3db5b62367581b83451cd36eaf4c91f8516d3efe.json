@@ -1,0 +1,86 @@
+{
+  "portfolio": {
+    "address": "0x3db5b62367581b83451cd36eaf4c91f8516d3efe",
+    "totalValue": "$5",
+    "walletLifetime": "77 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.5900",
+        "amount": "0.0015",
+        "usdValue": "$4.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.5900",
+        "amount": "0.00009981",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x3db5b62367581b83451cd36eaf4c91f8516d3efe",
+    "topProtocols": [
+      {
+        "name": "0x4200…0006",
+        "volume": "$459"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$422M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$346B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$298"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$298"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$86"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$30"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4ae2…3075",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$874"
+      },
+      {
+        "name": "WETH",
+        "volume": "$805"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:48:38.708Z",
+  "source": "moonwell",
+  "vaultBalance": 0.11219453277746372,
+  "vaultPct": 0.0020354586102777237
+}

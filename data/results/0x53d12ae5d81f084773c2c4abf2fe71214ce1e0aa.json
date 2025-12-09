@@ -1,0 +1,359 @@
+{
+  "portfolio": {
+    "address": "0x53d12ae5d81f084773c2c4abf2fe71214ce1e0aa",
+    "totalValue": "$72,962",
+    "walletLifetime": "1710 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "1,809.4421",
+        "usdValue": "$1,809.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.6400",
+        "amount": "0.1688",
+        "usdValue": "$528.02"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.8000",
+        "amount": "0.1559",
+        "usdValue": "$139.48"
+      },
+      {
+        "symbol": "vbUSDC",
+        "chain": "katana",
+        "price": "$0.9998",
+        "amount": "89.5283",
+        "usdValue": "$89.51"
+      },
+      {
+        "symbol": "ARX",
+        "chain": "eth",
+        "price": "$0.0142",
+        "amount": "2,785.1415",
+        "usdValue": "$39.44"
+      },
+      {
+        "symbol": "FLR",
+        "chain": "flr",
+        "price": "$0.0130",
+        "amount": "1,143.4640",
+        "usdValue": "$14.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.6400",
+        "amount": "0.0026",
+        "usdValue": "$8.25"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7600",
+        "amount": "0.4984",
+        "usdValue": "$6.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.6400",
+        "amount": "0.0018",
+        "usdValue": "$5.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "katana",
+        "price": "$3,127.6400",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2126",
+        "amount": "14.0478",
+        "usdValue": "$2.99"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$17,331"
+      },
+      {
+        "protocol": "Ostium",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "Locked",
+        "token": "USDC",
+        "usdValue": "$15,400"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-xUSD-18DEC2025",
+        "usdValue": "$7,523"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "katana",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "vbUSDC",
+        "usdValue": "$7,159"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3,189"
+      },
+      {
+        "protocol": "Wasabi Protocol",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3,158"
+      },
+      {
+        "protocol": "SushiSwap V3",
+        "chain": "katana",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "AUSD",
+        "usdValue": "$2,625"
+      },
+      {
+        "protocol": "PancakeSwap V4",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$2,498"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$2,497"
+      },
+      {
+        "protocol": "LFJ",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "AUSD",
+        "usdValue": "$2,196"
+      },
+      {
+        "protocol": "Flex Perpetuals",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,607"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,189"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "avax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$986"
+      },
+      {
+        "protocol": "Spectra",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "unknown",
+        "usdValue": "$955"
+      },
+      {
+        "protocol": "Almanak",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$706"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$666"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$586"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x53d12ae5d81f084773c2c4abf2fe71214ce1e0aa",
+    "topProtocols": [
+      {
+        "name": "1inch",
+        "volume": "$2M"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$2M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$167K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$79K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$41K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$31K"
+      },
+      {
+        "name": "AUTO Finance",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x53d1…e0aa",
+        "volume": "$22K"
+      },
+      {
+        "name": "Avantis",
+        "volume": "$21K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$20K"
+      },
+      {
+        "name": "Paradex",
+        "volume": "$17K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$16K"
+      },
+      {
+        "name": "Ostium",
+        "volume": "$15K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$13K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$13K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$4M"
+      },
+      {
+        "name": "GBPT",
+        "volume": "$458K"
+      },
+      {
+        "name": "eXRD",
+        "volume": "$295K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$234K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$165K"
+      },
+      {
+        "name": "EURT",
+        "volume": "$146K"
+      },
+      {
+        "name": "DBC",
+        "volume": "$115K"
+      },
+      {
+        "name": "FLOKI",
+        "volume": "$93K"
+      },
+      {
+        "name": "KIBA",
+        "volume": "$73K"
+      },
+      {
+        "name": "XAUt",
+        "volume": "$70K"
+      },
+      {
+        "name": "VEGA",
+        "volume": "$68K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$61K"
+      },
+      {
+        "name": "CELL",
+        "volume": "$57K"
+      },
+      {
+        "name": "KCONV",
+        "volume": "$41K"
+      },
+      {
+        "name": "SAKE",
+        "volume": "$40K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:18:41.996Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.34894645873503016,
+  "vaultPct": 0.0038920056091400397
+}

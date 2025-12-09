@@ -1,0 +1,135 @@
+{
+  "portfolio": {
+    "address": "0xe458339e2ebe14ecf7fa751c5b74737e050704a8",
+    "totalValue": "$6,435",
+    "walletLifetime": "1528 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.0700",
+        "amount": "0.1935",
+        "usdValue": "$603.82"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "186.4661",
+        "usdValue": "$186.48"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,645"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe458339e2ebe14ecf7fa751c5b74737e050704a8",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xd64f…ed74",
+        "volume": "$6K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x2650…c507",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x5fa7…6b12",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf38f…032a",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x1ad9…5836",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "mimic",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0019…99e8",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3c16…ca46",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa872…0662",
+        "volume": "$900"
+      },
+      {
+        "name": "0xf0b0…65d5",
+        "volume": "$737"
+      },
+      {
+        "name": "0xe7e6…dcf7",
+        "volume": "$710M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$702"
+      },
+      {
+        "name": "WhiteBIT",
+        "volume": "$680"
+      },
+      {
+        "name": "0xab96…b731",
+        "volume": "$527"
+      },
+      {
+        "name": "0x8e4b…eeb9",
+        "volume": "$480"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$25K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$887M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:06:43.462Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.635334510130601,
+  "vaultPct": 0.0004900062779252404
+}

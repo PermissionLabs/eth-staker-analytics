@@ -1,0 +1,107 @@
+{
+  "portfolio": {
+    "address": "0xc020e881fdf19cc93dc05385808c13389b7ca05b",
+    "totalValue": "$678",
+    "walletLifetime": "182 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.6600",
+        "amount": "0.0043",
+        "usdValue": "$13.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.6600",
+        "amount": "0.0012",
+        "usdValue": "$3.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.6600",
+        "amount": "0.0012",
+        "usdValue": "$3.75"
+      },
+      {
+        "symbol": "SAMURAI",
+        "chain": "base",
+        "price": "$0.00002606",
+        "amount": "50.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SKIBIDI",
+        "chain": "base",
+        "price": "$0.0043",
+        "amount": "0.1000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FARTWARS",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "cbXRP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$430"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$228"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc020e881fdf19cc93dc05385808c13389b7ca05b",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T07:51:22.130Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07140605394647431,
+  "vaultPct": 0.00010504403617795322
+}

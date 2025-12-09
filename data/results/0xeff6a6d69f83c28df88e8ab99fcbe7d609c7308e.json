@@ -1,0 +1,102 @@
+{
+  "portfolio": {
+    "address": "0xeff6a6d69f83c28df88e8ab99fcbe7d609c7308e",
+    "totalValue": "$5,812",
+    "walletLifetime": "47 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.1200",
+        "amount": "0.0195",
+        "usdValue": "$60.82"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,477.1500",
+        "amount": "0.0002",
+        "usdValue": "$15.99"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9986",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$5,735"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xeff6a6d69f83c28df88e8ab99fcbe7d609c7308e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xdd3d…ceee",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x6b7b…4348",
+        "volume": "$11K"
+      },
+      {
+        "name": "Rubic",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x2b48…afb0",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x09c3…d818",
+        "volume": "$672"
+      },
+      {
+        "name": "0x9da8…2c69",
+        "volume": "$16"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$34K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$29K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:15:01.163Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.5143519286628229,
+  "vaultPct": 0.00009563707117213303
+}

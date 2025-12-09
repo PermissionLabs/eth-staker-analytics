@@ -1,0 +1,285 @@
+{
+  "portfolio": {
+    "address": "0x4c28ef50f6485d74f6292646308d7709f731e990",
+    "totalValue": "$75,605",
+    "walletLifetime": "2668 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,105.3200",
+        "amount": "0.0954",
+        "usdValue": "$296.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.3200",
+        "amount": "0.0513",
+        "usdValue": "$159.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,105.3200",
+        "amount": "0.0086",
+        "usdValue": "$26.86"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4890",
+        "amount": "27.8728",
+        "usdValue": "$13.63"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2133",
+        "amount": "54.7449",
+        "usdValue": "$11.68"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.3000",
+        "amount": "0.0106",
+        "usdValue": "$9.50"
+      },
+      {
+        "symbol": "SPK",
+        "chain": "eth",
+        "price": "$0.0244",
+        "amount": "283.5078",
+        "usdValue": "$6.92"
+      },
+      {
+        "symbol": "D2T",
+        "chain": "eth",
+        "price": "$0.00009781",
+        "amount": "22,551.0000",
+        "usdValue": "$2.21"
+      },
+      {
+        "symbol": "ANY",
+        "chain": "bsc",
+        "price": "$0.8137",
+        "amount": "1.0000",
+        "usdValue": "$0.81"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$33,447"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$17,959"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$15,690"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,147"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$2,402"
+      },
+      {
+        "protocol": "Livepeer",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LPT",
+        "usdValue": "$694"
+      },
+      {
+        "protocol": "XRP20",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "XRP20",
+        "usdValue": "$384"
+      },
+      {
+        "protocol": "Convex",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "cvxCRV",
+        "usdValue": "$238"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4c28ef50f6485d74f6292646308d7709f731e990",
+    "topProtocols": [
+      {
+        "name": "Spark",
+        "volume": "$76K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$65K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$64K"
+      },
+      {
+        "name": "0xac78…6e6b",
+        "volume": "$42K"
+      },
+      {
+        "name": "Zapper",
+        "volume": "$31K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$25K"
+      },
+      {
+        "name": "Bitstamp",
+        "volume": "$25K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$23K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x4c28…e990",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$16K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$14K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$14K"
+      },
+      {
+        "name": "Sky",
+        "volume": "$12K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$12K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$10K"
+      },
+      {
+        "name": "squid",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xe81a…35d5",
+        "volume": "$8K"
+      },
+      {
+        "name": "Axelar",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$210K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$203K"
+      },
+      {
+        "name": "USDS",
+        "volume": "$93K"
+      },
+      {
+        "name": "crvUSD",
+        "volume": "$43K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$19K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$10K"
+      },
+      {
+        "name": "AGIX",
+        "volume": "$5K"
+      },
+      {
+        "name": "FET",
+        "volume": "$5K"
+      },
+      {
+        "name": "KEP",
+        "volume": "$4K"
+      },
+      {
+        "name": "LPT",
+        "volume": "$3K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$3K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$890"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:59:47.119Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 4.9740785871144615,
+  "vaultPct": 0.05547883142741123
+}

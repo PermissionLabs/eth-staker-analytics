@@ -1,0 +1,203 @@
+{
+  "portfolio": {
+    "address": "0x8a459446d1cc670b4cdb799a7cb38a56db79656b",
+    "totalValue": "$1,221",
+    "walletLifetime": "1010 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,143.9500",
+        "amount": "0.1159",
+        "usdValue": "$364.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,143.9500",
+        "amount": "0.0667",
+        "usdValue": "$209.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,143.9500",
+        "amount": "0.0129",
+        "usdValue": "$40.41"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1250",
+        "amount": "299.4324",
+        "usdValue": "$37.43"
+      },
+      {
+        "symbol": "MEOW (zeekcoin.com)",
+        "chain": "era",
+        "price": "$0.0₆1238",
+        "amount": "27,073,077.4936",
+        "usdValue": "$3.35"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "2.1745",
+        "usdValue": "$2.17"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$906.8000",
+        "amount": "0.0017",
+        "usdValue": "$1.50"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$282"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$278"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Radiant Capital V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "RDNT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8a459446d1cc670b4cdb799a7cb38a56db79656b",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$32K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$27K"
+      },
+      {
+        "name": "0x22d9…6fbc",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x1e34…d875",
+        "volume": "$15K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$15K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$12K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x54bf…cb7f",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      },
+      {
+        "name": "Synapse",
+        "volume": "$1K"
+      },
+      {
+        "name": "Derivio",
+        "volume": "$623"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$590"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$423"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "DAI",
+        "volume": "$60K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$29K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KSHEB",
+        "volume": "$1K"
+      },
+      {
+        "name": "STG",
+        "volume": "$939"
+      },
+      {
+        "name": "USDC",
+        "volume": "$568"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:01:36.916Z",
+  "source": "base_aave",
+  "vaultBalance": 0.12,
+  "vaultPct": 0.0001765296308181832
+}

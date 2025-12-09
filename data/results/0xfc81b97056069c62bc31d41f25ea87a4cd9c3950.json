@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0xfc81b97056069c62bc31d41f25ea87a4cd9c3950",
+    "totalValue": "$2,684",
+    "walletLifetime": "298 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "100.0000",
+        "usdValue": "$100.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "29.4984",
+        "usdValue": "$29.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.0000",
+        "amount": "0.0043",
+        "usdValue": "$13.49"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1937",
+        "amount": "7.3542",
+        "usdValue": "$8.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.0000",
+        "amount": "0.0013",
+        "usdValue": "$3.91"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,625"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$899"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SEAM",
+        "usdValue": "$5"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfc81b97056069c62bc31d41f25ea87a4cd9c3950",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x242e…a788",
+        "volume": "$8K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x2031…60c0",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$3K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6160…8bb5",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7ae7…dcbd",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xfa0b…81b9",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$1K"
+      },
+      {
+        "name": "iln",
+        "volume": "$906"
+      },
+      {
+        "name": "0xd984…9540",
+        "volume": "$801"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$456"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$47K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$25"
+      },
+      {
+        "name": "SEAM",
+        "volume": "$21"
+      },
+      {
+        "name": "OP",
+        "volume": "$5"
+      },
+      {
+        "name": "POL",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:54:45.215Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.521,
+  "vaultPct": 0.00003912076588081444
+}

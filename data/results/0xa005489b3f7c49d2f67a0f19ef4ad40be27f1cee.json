@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0xa005489b3f7c49d2f67a0f19ef4ad40be27f1cee",
+    "totalValue": "$1,715",
+    "walletLifetime": "1251 days",
+    "tokens": [
+      {
+        "symbol": "XEN",
+        "chain": "eth",
+        "price": "$0.0₇1369",
+        "amount": "33,262,908,400.0000",
+        "usdValue": "$455.37"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.4020",
+        "amount": "111.8141",
+        "usdValue": "$156.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,160.2500",
+        "amount": "0.0477",
+        "usdValue": "$150.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.2500",
+        "amount": "0.0138",
+        "usdValue": "$43.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,160.2500",
+        "amount": "0.0098",
+        "usdValue": "$31.12"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.8000",
+        "amount": "0.0180",
+        "usdValue": "$16.38"
+      },
+      {
+        "symbol": "BTC",
+        "chain": "merlin",
+        "price": "$92,000.0000",
+        "amount": "0.00003696",
+        "usdValue": "$3.40"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8200",
+        "amount": "0.1838",
+        "usdValue": "$2.54"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.5040",
+        "amount": "4.0969",
+        "usdValue": "$2.06"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$830"
+      },
+      {
+        "protocol": "AltLayer",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ALT",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "Mendi Finance",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "ARB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa005489b3f7c49d2f67a0f19ef4ad40be27f1cee",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$47K"
+      },
+      {
+        "name": "MCT",
+        "volume": "$29K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$27K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$22K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$17K"
+      },
+      {
+        "name": "Lyve Finance",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$12K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xcadd…be9b",
+        "volume": "$12K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$12K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$105K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$78K"
+      },
+      {
+        "name": "XEN",
+        "volume": "$57K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "oSQTH",
+        "volume": "$10K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$8K"
+      },
+      {
+        "name": "LYU",
+        "volume": "$7K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:43:36.829Z",
+  "source": "base_aave",
+  "vaultBalance": 0.262,
+  "vaultPct": 0.0003854230272863667
+}

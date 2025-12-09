@@ -1,0 +1,154 @@
+{
+  "portfolio": {
+    "address": "0xe73a756952da095cc4255239f1ae1a6085f58e34",
+    "totalValue": "$113",
+    "walletLifetime": "337 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.5800",
+        "amount": "0.0231",
+        "usdValue": "$72.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.5800",
+        "amount": "0.0128",
+        "usdValue": "$39.93"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.7829",
+        "usdValue": "$0.78"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7909",
+        "amount": "3.4400",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.00001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "TBA",
+        "chain": "matic",
+        "price": "$0.0₉5898",
+        "amount": "0.0001",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xe73a756952da095cc4255239f1ae1a6085f58e34",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$7M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$876K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$243K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$103K"
+      },
+      {
+        "name": "aori",
+        "volume": "$94K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$42K"
+      },
+      {
+        "name": "0x6160…8bb5",
+        "volume": "$41K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x7fe8…1efe",
+        "volume": "$34K"
+      },
+      {
+        "name": "0xc85c…5d90",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x8bdf…9cbc",
+        "volume": "$32K"
+      },
+      {
+        "name": "0xcbf4…dd2f",
+        "volume": "$24K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$197K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$121K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$65K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$40K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$40K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$24K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:33:39.512Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 20.015546012835333,
+  "vaultPct": 0.003721631225443475
+}

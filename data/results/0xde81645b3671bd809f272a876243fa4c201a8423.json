@@ -1,0 +1,194 @@
+{
+  "portfolio": {
+    "address": "0xde81645b3671bd809f272a876243fa4c201a8423",
+    "totalValue": "$551",
+    "walletLifetime": "1278 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,111.1700",
+        "amount": "0.0356",
+        "usdValue": "$110.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.8100",
+        "amount": "0.0203",
+        "usdValue": "$63.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,111.1700",
+        "amount": "0.0004",
+        "usdValue": "$1.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,110.8100",
+        "amount": "0.0002",
+        "usdValue": "$0.47"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$375"
+      },
+      {
+        "protocol": "ZORA",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xde81645b3671bd809f272a876243fa4c201a8423",
+    "topProtocols": [
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$12K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "Avantis",
+        "volume": "$2K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$1K"
+      },
+      {
+        "name": "tanX.fi",
+        "volume": "$665M"
+      },
+      {
+        "name": "averick",
+        "volume": "$654M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$605B"
+      },
+      {
+        "name": "itget",
+        "volume": "$596"
+      },
+      {
+        "name": "0xb349…beb3",
+        "volume": "$494"
+      },
+      {
+        "name": "0xde81…8423",
+        "volume": "$486"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$477"
+      },
+      {
+        "name": "SpaceFi",
+        "volume": "$453"
+      },
+      {
+        "name": "Rubic",
+        "volume": "$445"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$436"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$425"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$370"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$366"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$2K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$971"
+      },
+      {
+        "name": "UNI",
+        "volume": "$906"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$764"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$616"
+      },
+      {
+        "name": "APE",
+        "volume": "$491"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:23:29.010Z",
+  "source": "base_aave",
+  "vaultBalance": 0.2600482785777819,
+  "vaultPct": 0.0003825518884353325
+}

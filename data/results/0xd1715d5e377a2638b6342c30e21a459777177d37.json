@@ -1,0 +1,135 @@
+{
+  "portfolio": {
+    "address": "0xd1715d5e377a2638b6342c30e21a459777177d37",
+    "totalValue": "$3,396,003",
+    "walletLifetime": "685 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,143.7800",
+        "amount": "400.6179",
+        "usdValue": "$1,259,454"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6723",
+        "amount": "88,208.8163",
+        "usdValue": "$500,342.76"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$195.9009",
+        "amount": "1,607.0858",
+        "usdValue": "$314,829.57"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,321,320"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd1715d5e377a2638b6342c30e21a459777177d37",
+    "topProtocols": [
+      {
+        "name": "0xf1b4…c6e9",
+        "volume": "$2M"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xa034…7687",
+        "volume": "$1M"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$917K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$520K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$232K"
+      },
+      {
+        "name": "0x6884…3d6d",
+        "volume": "$50K"
+      },
+      {
+        "name": "0xaf4a…a0a9",
+        "volume": "$38"
+      },
+      {
+        "name": "0xbea4…ea85",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf866…62ea",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb890…bc6c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$900K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$818K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$700K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$400K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$211K"
+      },
+      {
+        "name": "UDS",
+        "volume": "$38B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:02:00.984Z",
+  "source": "lido_steth",
+  "vaultBalance": 400,
+  "vaultPct": 0.03003513695264064
+}

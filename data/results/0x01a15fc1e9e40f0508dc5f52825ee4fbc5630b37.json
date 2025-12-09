@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0x01a15fc1e9e40f0508dc5f52825ee4fbc5630b37",
+    "totalValue": "$8,037",
+    "walletLifetime": "339 days",
+    "tokens": [
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2414",
+        "amount": "1,078.4946",
+        "usdValue": "$260.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.0200",
+        "amount": "0.0477",
+        "usdValue": "$149.04"
+      },
+      {
+        "symbol": "WAVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "1.8546",
+        "usdValue": "$25.32"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "23.7182",
+        "usdValue": "$23.72"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7906",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.4000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$7,579"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x01a15fc1e9e40f0508dc5f52825ee4fbc5630b37",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xb692…3b68",
+        "volume": "$4K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$1K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$1K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$568B"
+      },
+      {
+        "name": "inance",
+        "volume": "$532"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$516B"
+      },
+      {
+        "name": "0x48ec…6b0c",
+        "volume": "$142B"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$631"
+      },
+      {
+        "name": "inch",
+        "volume": "$56"
+      },
+      {
+        "name": "0x162a…be20",
+        "volume": "$49"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8803…d276",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "FET",
+        "volume": "$819"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$205"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$56"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:19:07.331Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.415823661741266,
+  "vaultPct": 0.00044919108221859016
+}

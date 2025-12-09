@@ -1,0 +1,213 @@
+{
+  "portfolio": {
+    "address": "0x7d65ce01cf8b49242b784f6235f362d931d77f9d",
+    "totalValue": "$1,878",
+    "walletLifetime": "124 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,126.1900",
+        "amount": "0.0139",
+        "usdValue": "$43.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.9700",
+        "amount": "0.0010",
+        "usdValue": "$3.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9700",
+        "amount": "0.0003",
+        "usdValue": "$0.83"
+      },
+      {
+        "symbol": "G",
+        "chain": "gravity",
+        "price": "$0.0049",
+        "amount": "81.4174",
+        "usdValue": "$0.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.9700",
+        "amount": "0.00007962",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1231",
+        "amount": "0.5112",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.7000",
+        "amount": "0.00005456",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$894.8000",
+        "amount": "0.00001993",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "$SUP",
+        "chain": "bsc",
+        "price": "$0.0272",
+        "amount": "0.5140",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "QAI",
+        "chain": "bsc",
+        "price": "$0.00004241",
+        "amount": "12.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "IP",
+        "chain": "story",
+        "price": "$2.1210",
+        "amount": "0.00007972",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,742"
+      },
+      {
+        "protocol": "Limitless Prediction Markets",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LMTS",
+        "usdValue": "$58"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$30"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7d65ce01cf8b49242b784f6235f362d931d77f9d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$44K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$9K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$7K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$5K"
+      },
+      {
+        "name": "Limitless Prediction Markets",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6d8a…e87d",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x182c…e80f",
+        "volume": "$500"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$133"
+      },
+      {
+        "name": "0xc721…0175",
+        "volume": "$97"
+      },
+      {
+        "name": "0x6f10…1857",
+        "volume": "$36"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$36"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$26"
+      },
+      {
+        "name": "0x3e0b…70b7",
+        "volume": "$22"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$59K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$34K"
+      },
+      {
+        "name": "LMTS",
+        "volume": "$143"
+      },
+      {
+        "name": "POL",
+        "volume": "$52"
+      },
+      {
+        "name": "NB",
+        "volume": "$11"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:22:05.924Z",
+  "source": "base_aave",
+  "vaultBalance": 1.022125500043219,
+  "vaultPct": 0.0015036286431040031
+}

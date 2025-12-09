@@ -1,0 +1,173 @@
+{
+  "portfolio": {
+    "address": "0xc850fe2a5fcb8081bca3544da66b841f123f548f",
+    "totalValue": "$104,944",
+    "walletLifetime": "2927 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8170",
+        "amount": "1,000.9249",
+        "usdValue": "$13,829.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.1900",
+        "amount": "0.0168",
+        "usdValue": "$52.72"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2827",
+        "amount": "67.0000",
+        "usdValue": "$18.94"
+      },
+      {
+        "symbol": "FUN",
+        "chain": "eth",
+        "price": "$0.0021",
+        "amount": "4,768.0000",
+        "usdValue": "$10.09"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.8100",
+        "amount": "2.1008",
+        "usdValue": "$8.00"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7918",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CP",
+        "chain": "matic",
+        "price": "$0.0₈1479",
+        "amount": "10.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AMB",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "0.1000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$91,024"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc850fe2a5fcb8081bca3544da66b841f123f548f",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$194K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x2854…8ae9",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xe340…86b4",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x56fb…ffe3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xfa11…36e3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2c9c…c9a3",
+        "volume": "$549"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6f63…a862",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0067…3692",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf487…0bf5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0d87…87ef",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x66b4…8245",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x00cf…fbad",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$158K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$117K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$1K"
+      },
+      {
+        "name": "BAT",
+        "volume": "$735"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:05:39.846Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 32.27850932,
+  "vaultPct": 0.006001770229952533
+}

@@ -1,0 +1,222 @@
+{
+  "portfolio": {
+    "address": "0x45b6dc8cab05f74d4a18fb5f7b80953d20bc3683",
+    "totalValue": "$1,978",
+    "walletLifetime": "177 days",
+    "tokens": [
+      {
+        "symbol": "NIX",
+        "chain": "bsc",
+        "price": "$0.0046",
+        "amount": "4,017.8265",
+        "usdValue": "$18.53"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.1000",
+        "amount": "0.0044",
+        "usdValue": "$3.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,158.2400",
+        "amount": "0.0006",
+        "usdValue": "$1.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,158.2400",
+        "amount": "0.0002",
+        "usdValue": "$0.69"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1253",
+        "amount": "1.9650",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "BRETT",
+        "chain": "base",
+        "price": "$0.0191",
+        "amount": "9.5800",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "base",
+        "price": "$1.0003",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "EDOG",
+        "chain": "base",
+        "price": "$0.0₅5636",
+        "amount": "6.6600",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$1,005"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$914"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BRETT",
+        "usdValue": "$29"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x45b6dc8cab05f74d4a18fb5f7b80953d20bc3683",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0ea8…87a6",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$629"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$501"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$406"
+      },
+      {
+        "name": "0x0000…f24f",
+        "volume": "$212B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$125K"
+      },
+      {
+        "name": "rystal",
+        "volume": "$1150"
+      },
+      {
+        "name": "x",
+        "volume": "$104"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$83"
+      },
+      {
+        "name": "0x7bea…8941",
+        "volume": "$820"
+      },
+      {
+        "name": "0x89d9…f478",
+        "volume": "$13"
+      },
+      {
+        "name": "0xd412…3be3",
+        "volume": "$10"
+      },
+      {
+        "name": "0x4cdc…c434",
+        "volume": "$10"
+      },
+      {
+        "name": "0x69f7…2ed5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x07d8…cef1",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$988"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$420"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$250B"
+      },
+      {
+        "name": "NB",
+        "volume": "$215B"
+      },
+      {
+        "name": "RETT",
+        "volume": "$166"
+      },
+      {
+        "name": "EURC",
+        "volume": "$164"
+      },
+      {
+        "name": "POL",
+        "volume": "$65"
+      },
+      {
+        "name": "NIX",
+        "volume": "$13"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:05:22.330Z",
+  "source": "base_aave",
+  "vaultBalance": 0.06429453503073751,
+  "vaultPct": 0.00009458242110502368
+}

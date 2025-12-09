@@ -1,0 +1,87 @@
+{
+  "portfolio": {
+    "address": "0x008f8846064ad08d3ab0c1fbb3027d1115d16625",
+    "totalValue": "$2,441",
+    "walletLifetime": "1210 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.8900",
+        "amount": "0.0735",
+        "usdValue": "$228.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.8900",
+        "amount": "0.0055",
+        "usdValue": "$17.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,107.8600",
+        "amount": "0.0010",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "BRICK",
+        "chain": "nova",
+        "price": "$0.0145",
+        "amount": "34.3642",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1109",
+        "amount": "0.3504",
+        "usdValue": "$0.39"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,465"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$727"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x008f8846064ad08d3ab0c1fbb3027d1115d16625",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T04:41:17.223Z",
+  "source": "base_aave",
+  "vaultBalance": 0.6,
+  "vaultPct": 0.0008826481540909161
+}

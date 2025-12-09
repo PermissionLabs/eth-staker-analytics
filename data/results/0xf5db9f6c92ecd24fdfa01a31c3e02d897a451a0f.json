@@ -1,0 +1,126 @@
+{
+  "portfolio": {
+    "address": "0xf5db9f6c92ecd24fdfa01a31c3e02d897a451a0f",
+    "totalValue": "$175",
+    "walletLifetime": "440 days",
+    "tokens": [
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3088",
+        "amount": "64.2154",
+        "usdValue": "$148.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.3900",
+        "amount": "0.0045",
+        "usdValue": "$13.99"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.4000",
+        "amount": "0.0147",
+        "usdValue": "$13.12"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9971",
+        "amount": "175.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MARCO",
+        "chain": "bsc",
+        "price": "$0.0015",
+        "amount": "0.8323",
+        "usdValue": ""
+      },
+      {
+        "symbol": "wkeyDAO",
+        "chain": "bsc",
+        "price": "$9.0587",
+        "amount": "0.0001",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xf5db9f6c92ecd24fdfa01a31c3e02d897a451a0f",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xd211…d545",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xdc92…74c2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x050f…1904",
+        "volume": "$203"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$108"
+      },
+      {
+        "name": "0xbb51…10e6",
+        "volume": "$101"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$51"
+      },
+      {
+        "name": "0xf6b9…07bc",
+        "volume": "$6"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1ae7…63a3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$6K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$234B"
+      },
+      {
+        "name": "NB",
+        "volume": "$40B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:40:12.103Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.5919466147658063,
+  "vaultPct": 0.00048193886142346994
+}

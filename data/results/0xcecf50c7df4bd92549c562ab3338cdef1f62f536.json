@@ -1,0 +1,91 @@
+{
+  "portfolio": {
+    "address": "0xcecf50c7df4bd92549c562ab3338cdef1f62f536",
+    "totalValue": "$21,364",
+    "walletLifetime": "282 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,151.1600",
+        "amount": "0.0032",
+        "usdValue": "$10.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,151.8200",
+        "amount": "0.0022",
+        "usdValue": "$6.85"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$21,347"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcecf50c7df4bd92549c562ab3338cdef1f62f536",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$56K"
+      },
+      {
+        "name": "0xbcbc…eb8f",
+        "volume": "$36K"
+      },
+      {
+        "name": "0xc6ff…f62b",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x931e…e3ef",
+        "volume": "$3K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x242e…a788",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$66K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$38K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:16:56.969Z",
+  "source": "base_aave",
+  "vaultBalance": 8.460073443298256,
+  "vaultPct": 0.012445447013667978
+}

@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0xc7afc22c5e4a76e0d8625dc53bd091e81abbadc5",
+    "totalValue": "$12,882",
+    "walletLifetime": "1750 days",
+    "tokens": [
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "19.2482",
+        "usdValue": "$19.25"
+      },
+      {
+        "symbol": "MegaDoge",
+        "chain": "matic",
+        "price": "$0.00009199",
+        "amount": "1,000.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.0781",
+        "usdValue": "$0.08"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$12,534"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DAI",
+        "usdValue": "$328"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc7afc22c5e4a76e0d8625dc53bd091e81abbadc5",
+    "topProtocols": [
+      {
+        "name": "0xaa23…e1eb",
+        "volume": "$107K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$95K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$67K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$66K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$39K"
+      },
+      {
+        "name": "0xf19f…6198",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xfe1d…f115",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x7e36…a683",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1224…0b22",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa4c4…4a76",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9210…f975",
+        "volume": "$911"
+      },
+      {
+        "name": "0xe690…71d6",
+        "volume": "$834"
+      },
+      {
+        "name": "0x28b6…0b3a",
+        "volume": "$758"
+      },
+      {
+        "name": "0xfa4a…f6cd",
+        "volume": "$553"
+      },
+      {
+        "name": "0xc2f9…17c3",
+        "volume": "$521"
+      },
+      {
+        "name": "0xb9af…0c2b",
+        "volume": "$517"
+      },
+      {
+        "name": "0x1689…12d8",
+        "volume": "$411"
+      },
+      {
+        "name": "0x466f…e812",
+        "volume": "$340"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$231K"
+      },
+      {
+        "name": "ZRX",
+        "volume": "$35K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$30K"
+      },
+      {
+        "name": "COMP",
+        "volume": "$30K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$25K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$24K"
+      },
+      {
+        "name": "MANA",
+        "volume": "$17K"
+      },
+      {
+        "name": "SNX",
+        "volume": "$13K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$5K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$3K"
+      },
+      {
+        "name": "AMPL",
+        "volume": "$3K"
+      },
+      {
+        "name": "NU",
+        "volume": "$2K"
+      },
+      {
+        "name": "AUDIO",
+        "volume": "$2K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$2K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:00:02.737Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.002928122745587,
+  "vaultPct": 0.0007442925756440801
+}

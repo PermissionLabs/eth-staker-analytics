@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0x755be6bea5aef3094f984ed0da9e4c296e40312c",
+    "totalValue": "$295",
+    "walletLifetime": "589 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.1600",
+        "amount": "0.0376",
+        "usdValue": "$117.56"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,128.1600",
+        "amount": "0.00007902",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.1600",
+        "amount": "0.00006174",
+        "usdValue": "$0.19"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.1880",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OX",
+        "chain": "base",
+        "price": "$0.00004724",
+        "amount": "5.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006792",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WAZ",
+        "chain": "base",
+        "price": "$0.0₆3773",
+        "amount": "69.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$166"
+      },
+      {
+        "protocol": "Sonne Finance",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x755be6bea5aef3094f984ed0da9e4c296e40312c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$80K"
+      },
+      {
+        "name": "Seamless Protocol",
+        "volume": "$77K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$60K"
+      },
+      {
+        "name": "Sonne Finance",
+        "volume": "$55K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$11K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$11K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$11K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$245M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$199"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$132"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$77"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$50"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$42"
+      },
+      {
+        "name": "Rango",
+        "volume": "$23"
+      },
+      {
+        "name": "Owlto Finance",
+        "volume": "$14"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$13"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$12M"
+      },
+      {
+        "name": "averick",
+        "volume": "$12"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$108K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$102K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$96K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$14"
+      },
+      {
+        "name": "axlUSDC",
+        "volume": "$13"
+      },
+      {
+        "name": "Cake",
+        "volume": "$11"
+      },
+      {
+        "name": "OVN",
+        "volume": "$10M"
+      },
+      {
+        "name": "AV",
+        "volume": "$10B"
+      },
+      {
+        "name": "SWAP",
+        "volume": "$3"
+      },
+      {
+        "name": "AERO",
+        "volume": "$3"
+      },
+      {
+        "name": "iZi",
+        "volume": "$3"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      },
+      {
+        "name": "WAZ",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:30:57.056Z",
+  "source": "moonwell",
+  "vaultBalance": 0.0517200933744575,
+  "vaultPct": 0.0009383176414863022
+}

@@ -1,0 +1,238 @@
+{
+  "portfolio": {
+    "address": "0x9996623cb9ede69562537a08d08d606d8d098b9b",
+    "totalValue": "$6,657,141",
+    "walletLifetime": "677 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.5800",
+        "amount": "1.1438",
+        "usdValue": "$3,583.01"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "272.7467",
+        "usdValue": "$272.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.5800",
+        "amount": "0.0201",
+        "usdValue": "$62.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.5800",
+        "amount": "0.0124",
+        "usdValue": "$38.87"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$6,252,162"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "ink",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "kBTC",
+        "usdValue": "$400,808"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDtb",
+        "usdValue": "$112"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDtb",
+        "usdValue": "$91"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "bera",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Terminal",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9996623cb9ede69562537a08d08d606d8d098b9b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$104M"
+      },
+      {
+        "name": "0x8eb0…fd0e",
+        "volume": "$26M"
+      },
+      {
+        "name": "0x9b28…7ca1",
+        "volume": "$17M"
+      },
+      {
+        "name": "0xbe00…089a",
+        "volume": "$11M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$9M"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$7M"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$5M"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$4M"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4M"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$4M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4M"
+      },
+      {
+        "name": "0xafc3…7d96",
+        "volume": "$3M"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$2M"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$2M"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$2M"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$2M"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$2M"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1M"
+      },
+      {
+        "name": "Dolomite",
+        "volume": "$911K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$115M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$32M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$24M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20M"
+      },
+      {
+        "name": "USDe",
+        "volume": "$16M"
+      },
+      {
+        "name": "GHO",
+        "volume": "$7M"
+      },
+      {
+        "name": "weETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDtb",
+        "volume": "$2M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "eBTC",
+        "volume": "$769K"
+      },
+      {
+        "name": "EURA",
+        "volume": "$180K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:10:32.282Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 579.195571058572,
+  "vaultPct": 0.10769390560256809
+}

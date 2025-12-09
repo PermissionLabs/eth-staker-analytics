@@ -1,0 +1,68 @@
+{
+  "portfolio": {
+    "address": "0x26a1f5ee1a04c6c9b3c0fefc84522293477ad245",
+    "totalValue": "$382",
+    "walletLifetime": "1424 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.5700",
+        "amount": "0.0115",
+        "usdValue": "$35.98"
+      },
+      {
+        "symbol": "MM",
+        "chain": "eth",
+        "price": "$1.0490",
+        "amount": "1.0000",
+        "usdValue": "$1.05"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$345"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x26a1f5ee1a04c6c9b3c0fefc84522293477ad245",
+    "topProtocols": [
+      {
+        "name": "0xd4b3…9172",
+        "volume": "$247"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$211"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$86"
+      },
+      {
+        "name": "0x2e18…791a",
+        "volume": "$64"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$16"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$699M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:00:18.901Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.105,
+  "vaultPct": 0.000019523388391252264
+}

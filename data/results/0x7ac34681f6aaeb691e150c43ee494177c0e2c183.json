@@ -1,0 +1,231 @@
+{
+  "portfolio": {
+    "address": "0x7ac34681f6aaeb691e150c43ee494177c0e2c183",
+    "totalValue": "$4,038,007",
+    "walletLifetime": "3074 days",
+    "tokens": [
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "703,310.9104",
+        "usdValue": "$5,535.06"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "plasma",
+        "price": "$1.0001",
+        "amount": "1,755.5079",
+        "usdValue": "$1,755.60"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3940",
+        "amount": "432.4186",
+        "usdValue": "$1,035.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.8100",
+        "amount": "0.3146",
+        "usdValue": "$984.26"
+      },
+      {
+        "symbol": "TRUE",
+        "chain": "base",
+        "price": "$0.0631",
+        "amount": "10,666.8000",
+        "usdValue": "$673.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.6900",
+        "amount": "0.2089",
+        "usdValue": "$653.39"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "era",
+        "price": "$3,128.8100",
+        "amount": "0.1840",
+        "usdValue": "$575.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,128.8100",
+        "amount": "0.1603",
+        "usdValue": "$501.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,128.8100",
+        "amount": "0.1477",
+        "usdValue": "$462.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,128.8100",
+        "amount": "0.0796",
+        "usdValue": "$249.18"
+      },
+      {
+        "symbol": "KERNEL",
+        "chain": "eth",
+        "price": "$0.0786",
+        "amount": "2,867.6200",
+        "usdValue": "$225.39"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,127.6900",
+        "amount": "0.0426",
+        "usdValue": "$133.23"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.4000",
+        "amount": "0.1152",
+        "usdValue": "$103.65"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "57.8260",
+        "usdValue": "$57.83"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "eth",
+        "price": "$0.8360",
+        "amount": "66.6538",
+        "usdValue": "$55.72"
+      },
+      {
+        "symbol": "LUSD",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "29.5414",
+        "usdValue": "$29.54"
+      },
+      {
+        "symbol": "SQUILL",
+        "chain": "eth",
+        "price": "$0.0757",
+        "amount": "333.0000",
+        "usdValue": "$25.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,127.6900",
+        "amount": "0.0066",
+        "usdValue": "$20.52"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3820",
+        "amount": "10.8336",
+        "usdValue": "$14.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.6900",
+        "amount": "0.0047",
+        "usdValue": "$14.55"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7982",
+        "amount": "1.0000",
+        "usdValue": "$13.80"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "plasma",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT0",
+        "usdValue": "$1,134,095"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,003,133"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$922,205"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$653,005"
+      },
+      {
+        "protocol": "Yield Basis",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$227,662"
+      },
+      {
+        "protocol": "mellow",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$71,628"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$8,045"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,225"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7ac34681f6aaeb691e150c43ee494177c0e2c183",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T22:55:01.752Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 320,
+  "vaultPct": 0.05949985033524499
+}

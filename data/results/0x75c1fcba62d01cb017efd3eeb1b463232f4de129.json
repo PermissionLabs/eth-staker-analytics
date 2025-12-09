@@ -1,0 +1,186 @@
+{
+  "portfolio": {
+    "address": "0x75c1fcba62d01cb017efd3eeb1b463232f4de129",
+    "totalValue": "$43,112",
+    "walletLifetime": "74 days",
+    "tokens": [
+      {
+        "symbol": "XPL",
+        "chain": "bsc",
+        "price": "$0.1740",
+        "amount": "45,040.2472",
+        "usdValue": "$7,837.00"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9791",
+        "amount": "7,000.0121",
+        "usdValue": "$6,853.68"
+      },
+      {
+        "symbol": "PAXG",
+        "chain": "eth",
+        "price": "$4,220.7857",
+        "amount": "0.6939",
+        "usdValue": "$2,928.88"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.1462",
+        "amount": "200.6971",
+        "usdValue": "$2,839.11"
+      },
+      {
+        "symbol": "TWT",
+        "chain": "bsc",
+        "price": "$1.0245",
+        "amount": "2,000.2618",
+        "usdValue": "$2,049.25"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1740",
+        "amount": "4,961.7140",
+        "usdValue": "$863.34"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.6000",
+        "amount": "0.7183",
+        "usdValue": "$652.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.6400",
+        "amount": "0.0420",
+        "usdValue": "$132.47"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$18,955"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x75c1fcba62d01cb017efd3eeb1b463232f4de129",
+    "topProtocols": [
+      {
+        "name": "0x8d16…e7a2",
+        "volume": "$86K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xecf0…40bf",
+        "volume": "$12K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x4438…2193",
+        "volume": "$10K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bridgers",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3259…3e84",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x68bd…8cfc",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8d11…e7a2",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8d18…e7a2",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6d07…196e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$46K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$29K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$26K"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$24K"
+      },
+      {
+        "name": "XPL",
+        "volume": "$16K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$10K"
+      },
+      {
+        "name": "TWT",
+        "volume": "$6K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:26:45.112Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.98139977,
+  "vaultPct": 0.00044913040315110815
+}

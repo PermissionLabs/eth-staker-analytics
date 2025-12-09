@@ -1,0 +1,136 @@
+{
+  "portfolio": {
+    "address": "0x711a7a461d30d6fe9852d9ff90ac71af3de5f02d",
+    "totalValue": "$568",
+    "walletLifetime": "388 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,157.8400",
+        "amount": "0.0010",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SALUKI",
+        "chain": "base",
+        "price": "$0.0₅5276",
+        "amount": "25.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$564"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x711a7a461d30d6fe9852d9ff90ac71af3de5f02d",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$570"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$550M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$186"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$74"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$20M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$10"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$985"
+      },
+      {
+        "name": "ETH",
+        "volume": "$405"
+      },
+      {
+        "name": "WETH",
+        "volume": "$40"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:43:19.553Z",
+  "source": "base_aave",
+  "vaultBalance": 0.0554268102299349,
+  "vaultPct": 0.0000815372862276659
+}

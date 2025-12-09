@@ -1,0 +1,64 @@
+{
+  "portfolio": {
+    "address": "0x2af33b28e9722eb5329522b508a09a565a227b4d",
+    "totalValue": "$2,836",
+    "walletLifetime": "118 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,170.4400",
+        "amount": "0.8638",
+        "usdValue": "$2,738.77"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0292",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$97"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2af33b28e9722eb5329522b508a09a565a227b4d",
+    "topProtocols": [
+      {
+        "name": "Mayan",
+        "volume": "$8K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$5K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$99"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:10:15.354Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.0000798290982378,
+  "vaultPct": 0.00007509383657634755
+}

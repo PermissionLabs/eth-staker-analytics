@@ -1,0 +1,138 @@
+{
+  "portfolio": {
+    "address": "0x8b2856fbd13d98b30c7bd47114284dffb7d223c9",
+    "totalValue": "$199,761",
+    "walletLifetime": "2671 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.3100",
+        "amount": "1.1517",
+        "usdValue": "$3,606.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,131.3100",
+        "amount": "0.7005",
+        "usdValue": "$2,193.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.3100",
+        "amount": "0.6470",
+        "usdValue": "$2,026.11"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2113",
+        "amount": "1,051.8578",
+        "usdValue": "$1,274.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.3400",
+        "amount": "0.0677",
+        "usdValue": "$212.17"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6714",
+        "amount": "203.4183",
+        "usdValue": "$136.57"
+      },
+      {
+        "symbol": "eUSD",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "94.7980",
+        "usdValue": "$94.79"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "2,584.5448",
+        "usdValue": "$26.18"
+      },
+      {
+        "symbol": "ALPHA",
+        "chain": "eth",
+        "price": "$0.0066",
+        "amount": "1,987.6295",
+        "usdValue": "$13.05"
+      },
+      {
+        "symbol": "VVV",
+        "chain": "base",
+        "price": "$1.1396",
+        "amount": "11.0000",
+        "usdValue": "$12.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$87,687"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$70,153"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$30,797"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbETH",
+        "usdValue": "$698"
+      },
+      {
+        "protocol": "AUTO Finance",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$413"
+      },
+      {
+        "protocol": "The Graph",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GRT",
+        "usdValue": "$379"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8b2856fbd13d98b30c7bd47114284dffb7d223c9",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T22:26:39.132Z",
+  "source": "moonwell",
+  "vaultBalance": 4.972456977228617,
+  "vaultPct": 0.09021144005841043
+}

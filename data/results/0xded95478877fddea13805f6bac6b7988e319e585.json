@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0xded95478877fddea13805f6bac6b7988e319e585",
+    "totalValue": "$228",
+    "walletLifetime": "1461 days",
+    "tokens": [
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3225",
+        "amount": "0.2224",
+        "usdValue": "$0.52"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "0.9354",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.5900",
+        "amount": "0.00003138",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "BCOIN",
+        "chain": "bsc",
+        "price": "$0.0071",
+        "amount": "3.4955",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.0168",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$227"
+      },
+      {
+        "protocol": "Affine DeFi",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xded95478877fddea13805f6bac6b7988e319e585",
+    "topProtocols": [
+      {
+        "name": "KyberSwap",
+        "volume": "$1M"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$102K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$85K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$43K"
+      },
+      {
+        "name": "Seawise",
+        "volume": "$20K"
+      },
+      {
+        "name": "squid",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x37e7…99ea",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x9d4e…cea8",
+        "volume": "$6K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$6K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xe84a…0c87",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x8571…a422",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa9ff…d82f",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x2244…9433",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$811K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$640K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$157K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$53K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$43K"
+      },
+      {
+        "name": "KLINK",
+        "volume": "$15K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$1K"
+      },
+      {
+        "name": "KUMAMI",
+        "volume": "$879K"
+      },
+      {
+        "name": "NC",
+        "volume": "$622"
+      },
+      {
+        "name": "POL",
+        "volume": "$272K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:17:20.881Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.2246786782786225,
+  "vaultPct": 0.00022771311895732407
+}

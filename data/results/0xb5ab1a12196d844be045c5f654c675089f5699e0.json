@@ -1,0 +1,100 @@
+{
+  "portfolio": {
+    "address": "0xb5ab1a12196d844be045c5f654c675089f5699e0",
+    "totalValue": "$13,272",
+    "walletLifetime": "651 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.6600",
+        "amount": "0.0583",
+        "usdValue": "$181.70"
+      },
+      {
+        "symbol": "GHX",
+        "chain": "eth",
+        "price": "$0.0115",
+        "amount": "6,607.7700",
+        "usdValue": "$75.92"
+      },
+      {
+        "symbol": "VAI (VAIOT)",
+        "chain": "eth",
+        "price": "$0.0094",
+        "amount": "1,198.6900",
+        "usdValue": "$11.31"
+      },
+      {
+        "symbol": "ILV",
+        "chain": "eth",
+        "price": "$7.0636",
+        "amount": "1.5185",
+        "usdValue": "$10.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,114.6600",
+        "amount": "0.0024",
+        "usdValue": "$7.38"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5800",
+        "amount": "0.5272",
+        "usdValue": "$7.16"
+      },
+      {
+        "symbol": "CSWAP",
+        "chain": "eth",
+        "price": "$0.0044",
+        "amount": "673.6800",
+        "usdValue": "$2.95"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6634",
+        "amount": "0.7274",
+        "usdValue": "$0.48"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$12,965"
+      },
+      {
+        "protocol": "Harvest",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "VIRTUAL",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EXTRA",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb5ab1a12196d844be045c5f654c675089f5699e0",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T01:13:14.285Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 11.372064821110719,
+  "vaultPct": 0.0021144879839337266
+}

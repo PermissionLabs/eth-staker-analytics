@@ -1,0 +1,214 @@
+{
+  "portfolio": {
+    "address": "0x6e139c98ab5963a3f3e3f18a3bc0b7b24192b5ea",
+    "totalValue": "$663",
+    "walletLifetime": "929 days",
+    "tokens": [
+      {
+        "symbol": "LBTC",
+        "chain": "eth",
+        "price": "$90,667.1773",
+        "amount": "0.0020",
+        "usdValue": "$181.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.6900",
+        "amount": "0.0236",
+        "usdValue": "$73.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.6900",
+        "amount": "0.0140",
+        "usdValue": "$43.79"
+      },
+      {
+        "symbol": "BSSB",
+        "chain": "eth",
+        "price": "$0.0167",
+        "amount": "2,240.7502",
+        "usdValue": "$37.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.6900",
+        "amount": "0.0059",
+        "usdValue": "$18.51"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "8.1300",
+        "usdValue": "$8.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,129.6900",
+        "amount": "0.0012",
+        "usdValue": "$3.63"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "7.6074",
+        "usdValue": "$0.94"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$293"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6e139c98ab5963a3f3e3f18a3bc0b7b24192b5ea",
+    "topProtocols": [
+      {
+        "name": "0x0000…0000",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$19K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$15K"
+      },
+      {
+        "name": "Angle Protocol",
+        "volume": "$10K"
+      },
+      {
+        "name": "Basilisk",
+        "volume": "$10K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$10K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$10K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$9K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$9K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$8K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$8K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$67K"
+      },
+      {
+        "name": "EURA",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "BSSB",
+        "volume": "$7K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$3K"
+      },
+      {
+        "name": "KEURA",
+        "volume": "$943"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:28:17.000Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09173974187130307,
+  "vaultPct": 0.0016643631634616356
+}

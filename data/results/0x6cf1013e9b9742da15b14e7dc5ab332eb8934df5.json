@@ -1,0 +1,257 @@
+{
+  "portfolio": {
+    "address": "0x6cf1013e9b9742da15b14e7dc5ab332eb8934df5",
+    "totalValue": "$38,104",
+    "walletLifetime": "123 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.7300",
+        "amount": "0.0063",
+        "usdValue": "$19.66"
+      },
+      {
+        "symbol": "BLACK",
+        "chain": "avax",
+        "price": "$0.0591",
+        "amount": "152.6939",
+        "usdValue": "$9.02"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,825.6000",
+        "amount": "0.00002921",
+        "usdValue": "$2.68"
+      },
+      {
+        "symbol": "WXPL",
+        "chain": "plasma",
+        "price": "$0.1730",
+        "amount": "11.2822",
+        "usdValue": "$1.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.7300",
+        "amount": "0.0002",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7200",
+        "amount": "0.0314",
+        "usdValue": "$0.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.7300",
+        "amount": "0.00007337",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1730",
+        "amount": "0.5535",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "xSILO",
+        "chain": "avax",
+        "price": "$0.0122",
+        "amount": "5.9511",
+        "usdValue": "$0.07"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$8,227"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "RLUSD",
+        "usdValue": "$8,189"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,741"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$6,323"
+      },
+      {
+        "protocol": "Almanak",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,573"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "cbLTC",
+        "usdValue": "$2,373"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "plasma",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstUSR",
+        "usdValue": "$1,916"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,499"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$158"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$71"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6cf1013e9b9742da15b14e7dc5ab332eb8934df5",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$48K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$36K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$25K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$25K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$22K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$16K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$14K"
+      },
+      {
+        "name": "Blackhole",
+        "volume": "$12K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$12K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$10K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$119K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$85K"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$45K"
+      },
+      {
+        "name": "cbLTC",
+        "volume": "$21K"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$16K"
+      },
+      {
+        "name": "EUROC",
+        "volume": "$12K"
+      },
+      {
+        "name": "KcbBTC",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$7K"
+      },
+      {
+        "name": "wstUSR",
+        "volume": "$6K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$775"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:54:50.357Z",
+  "source": "base_aave",
+  "vaultBalance": 3.4109767585080735,
+  "vaultPct": 0.0050178205659069455
+}

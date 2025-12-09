@@ -1,0 +1,73 @@
+{
+  "portfolio": {
+    "address": "0x874648926ca43c87b02a48fe41b61b419878d56b",
+    "totalValue": "$1,802",
+    "walletLifetime": "1566 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.1400",
+        "amount": "0.5805",
+        "usdValue": "$1,802.02"
+      },
+      {
+        "symbol": "MegaDoge",
+        "chain": "matic",
+        "price": "$0.00009099",
+        "amount": "1,000.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9817",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x874648926ca43c87b02a48fe41b61b419878d56b",
+    "topProtocols": [
+      {
+        "name": "KuCoin",
+        "volume": "$7K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcbf4…1fe3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:44:59.153Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.09426127185816,
+  "vaultPct": 0.00015725356028717803
+}

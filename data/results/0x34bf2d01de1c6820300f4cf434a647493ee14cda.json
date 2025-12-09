@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x34bf2d01de1c6820300f4cf434a647493ee14cda",
+    "totalValue": "$2,511",
+    "walletLifetime": "103 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "374.0114",
+        "usdValue": "$373.97"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1251",
+        "amount": "12.8098",
+        "usdValue": "$1.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.3500",
+        "amount": "0.0003",
+        "usdValue": "$1.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,155.6200",
+        "amount": "0.0003",
+        "usdValue": "$1.02"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.1000",
+        "amount": "0.0005",
+        "usdValue": "$0.43"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "bsc",
+        "price": "$14.1406",
+        "amount": "0.0161",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9971",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$1,042"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$947"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$144"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x34bf2d01de1c6820300f4cf434a647493ee14cda",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$3K"
+      },
+      {
+        "name": "Rango",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$902"
+      },
+      {
+        "name": "DODO",
+        "volume": "$598"
+      },
+      {
+        "name": "ZetaHub",
+        "volume": "$598"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$498"
+      },
+      {
+        "name": "0x0000…0d95",
+        "volume": "$410"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$373"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$371"
+      },
+      {
+        "name": "squid",
+        "volume": "$369"
+      },
+      {
+        "name": "0xf4cd…ec68",
+        "volume": "$346"
+      },
+      {
+        "name": "Revert",
+        "volume": "$342"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "BRZ",
+        "volume": "$4K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$909"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$417"
+      },
+      {
+        "name": "USDT",
+        "volume": "$310"
+      },
+      {
+        "name": "FOX",
+        "volume": "$167"
+      },
+      {
+        "name": "POL",
+        "volume": "$9"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:48:28.039Z",
+  "source": "base_aave",
+  "vaultBalance": 0.09141989229019008,
+  "vaultPct": 0.0001344859986285444
+}

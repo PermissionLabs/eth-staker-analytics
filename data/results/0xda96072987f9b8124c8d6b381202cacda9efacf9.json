@@ -1,0 +1,216 @@
+{
+  "portfolio": {
+    "address": "0xda96072987f9b8124c8d6b381202cacda9efacf9",
+    "totalValue": "$134,837",
+    "walletLifetime": "3037 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.0000",
+        "amount": "26.2948",
+        "usdValue": "$81,645.21"
+      },
+      {
+        "symbol": "SNI",
+        "chain": "matic",
+        "price": "$0.1947",
+        "amount": "42,247.5717",
+        "usdValue": "$8,227.18"
+      },
+      {
+        "symbol": "ZRX",
+        "chain": "eth",
+        "price": "$0.1403",
+        "amount": "39,441.5039",
+        "usdValue": "$5,534.39"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "4,367.5653",
+        "usdValue": "$4,367.13"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,105.0000",
+        "amount": "1.0000",
+        "usdValue": "$3,105.00"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1221",
+        "amount": "123.4590",
+        "usdValue": "$15.07"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.7500",
+        "amount": "2.2308",
+        "usdValue": "$8.37"
+      },
+      {
+        "symbol": "XDATA(old)",
+        "chain": "eth",
+        "price": "$0.0073",
+        "amount": "4.5857",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "IND",
+        "chain": "eth",
+        "price": "$0.0015",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7851",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "STEAK",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "124.2714",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "366.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$31,935"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xda96072987f9b8124c8d6b381202cacda9efacf9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x75b6…f44b",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x04ec…46f2",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x6055…2c76",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xc419…769b",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x6584…0556",
+        "volume": "$3K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xcf85…0948",
+        "volume": "$30"
+      },
+      {
+        "name": "Rango",
+        "volume": "$26"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$26"
+      },
+      {
+        "name": "0x27c9…47f8",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9ec2…7c6a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$66K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$23K"
+      },
+      {
+        "name": "SNI",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "POL",
+        "volume": "$26"
+      },
+      {
+        "name": "INDZRX",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:09:56.929Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 10,
+  "vaultPct": 0.001859370322976406
+}

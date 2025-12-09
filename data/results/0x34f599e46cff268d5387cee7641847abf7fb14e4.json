@@ -1,0 +1,121 @@
+{
+  "portfolio": {
+    "address": "0x34f599e46cff268d5387cee7641847abf7fb14e4",
+    "totalValue": "$27",
+    "walletLifetime": "500 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.4800",
+        "amount": "0.0075",
+        "usdValue": "$23.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.4800",
+        "amount": "0.0009",
+        "usdValue": "$2.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,110.7700",
+        "amount": "0.0003",
+        "usdValue": "$0.98"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3157",
+        "amount": "0.9053",
+        "usdValue": "$0.29"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x34f599e46cff268d5387cee7641847abf7fb14e4",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$2K"
+      },
+      {
+        "name": "Silo",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$381"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$128"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$104"
+      },
+      {
+        "name": "0x2b3b…7921",
+        "volume": "$104"
+      },
+      {
+        "name": "0xd87d…3cb2",
+        "volume": "$50"
+      },
+      {
+        "name": "0x8888…db70",
+        "volume": "$2"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$2"
+      },
+      {
+        "name": "0x4606…25f5",
+        "volume": "$2"
+      },
+      {
+        "name": "0xa587…a21f",
+        "volume": "$1"
+      },
+      {
+        "name": "0x4603…3098",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$2K"
+      },
+      {
+        "name": "OP",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$738"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:32:13.504Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.37914245041247685,
+  "vaultPct": 0.00007049662204775132
+}

@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0xebe9644fe327db22cd48cd9fabf7d410a7ae7785",
+    "totalValue": "$79,494",
+    "walletLifetime": "367 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "22,999.2701",
+        "usdValue": "$22,994.67"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "13,333.3598",
+        "usdValue": "$13,330.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.2500",
+        "amount": "0.9111",
+        "usdValue": "$2,878.30"
+      },
+      {
+        "symbol": "SKI",
+        "chain": "base",
+        "price": "$0.0175",
+        "amount": "33,806.6892",
+        "usdValue": "$590.27"
+      },
+      {
+        "symbol": "AXL",
+        "chain": "arb",
+        "price": "$0.1151",
+        "amount": "869.9715",
+        "usdValue": "$100.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$25,232"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$14,172"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$171"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xebe9644fe327db22cd48cd9fabf7d410a7ae7785",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$169K"
+      },
+      {
+        "name": "0x75b9…88ef",
+        "volume": "$97K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$54K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$21K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x6d70…1add",
+        "volume": "$14K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$12K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf9d6…27d0",
+        "volume": "$5"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6d98…eeae",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x419f…8ee1",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$242K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "SKI",
+        "volume": "$11K"
+      },
+      {
+        "name": "AXL",
+        "volume": "$906"
+      },
+      {
+        "name": "eUSD",
+        "volume": "$10"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$5B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:53:31.861Z",
+  "source": "base_aave",
+  "vaultBalance": 6,
+  "vaultPct": 0.00882648154090916
+}

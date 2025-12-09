@@ -1,0 +1,113 @@
+{
+  "portfolio": {
+    "address": "0xbad908bc158ef60ac7472f3fd978e65a51379b8e",
+    "totalValue": "$1,488,648",
+    "walletLifetime": "1497 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7869",
+        "amount": "2,407.3717",
+        "usdValue": "$33,190.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.5900",
+        "amount": "0.0178",
+        "usdValue": "$55.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,130.5900",
+        "amount": "0.0140",
+        "usdValue": "$43.84"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$998,807"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$251,525"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$149,109"
+      },
+      {
+        "protocol": "Silo",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$37,551"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "OP",
+        "usdValue": "$6,437"
+      },
+      {
+        "protocol": "Sky",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "SKY",
+        "usdValue": "$6,006"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$2,573"
+      },
+      {
+        "protocol": "Frax",
+        "chain": "frax",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "WFRAX",
+        "usdValue": "$2,041"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$1,054"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbad908bc158ef60ac7472f3fd978e65a51379b8e",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T20:27:41.278Z",
+  "source": "moonwell",
+  "vaultBalance": 98.01162043008364,
+  "vaultPct": 1.7781490039928103
+}

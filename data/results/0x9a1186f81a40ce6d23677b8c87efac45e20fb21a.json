@@ -1,0 +1,216 @@
+{
+  "portfolio": {
+    "address": "0x9a1186f81a40ce6d23677b8c87efac45e20fb21a",
+    "totalValue": "$6,754",
+    "walletLifetime": "167 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,126.7400",
+        "amount": "0.9165",
+        "usdValue": "$2,865.63"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4750",
+        "amount": "400.0010",
+        "usdValue": "$190.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.7400",
+        "amount": "0.0595",
+        "usdValue": "$186.16"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2115",
+        "amount": "675.5572",
+        "usdValue": "$142.88"
+      },
+      {
+        "symbol": "MKR",
+        "chain": "eth",
+        "price": "$1,258.4600",
+        "amount": "0.0548",
+        "usdValue": "$68.93"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6659",
+        "amount": "37.7643",
+        "usdValue": "$25.15"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "10.3444",
+        "usdValue": "$10.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.7400",
+        "amount": "0.0017",
+        "usdValue": "$5.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.7400",
+        "amount": "0.0008",
+        "usdValue": "$2.50"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,257"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9a1186f81a40ce6d23677b8c87efac45e20fb21a",
+    "topProtocols": [
+      {
+        "name": "CoW Swap",
+        "volume": "$76K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$6K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0080…60fc",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xd871…959e",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x32c7…40ff",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9548…94c7",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$504"
+      },
+      {
+        "name": "0xf4f9…7fd2",
+        "volume": "$500"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$487"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$475"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$394"
+      },
+      {
+        "name": "0x3980…a54d",
+        "volume": "$305"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$216"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$64K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$63K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$7K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$438"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$347"
+      },
+      {
+        "name": "ARB",
+        "volume": "$248M"
+      },
+      {
+        "name": "KR",
+        "volume": "$101"
+      },
+      {
+        "name": "AERO",
+        "volume": "$30"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:54:09.083Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.0016961173092216,
+  "vaultPct": 0.0001862524033165459
+}

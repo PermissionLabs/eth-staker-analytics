@@ -1,0 +1,205 @@
+{
+  "portfolio": {
+    "address": "0xbc89db600d76eda6e024513abcb8d9e125781c8b",
+    "totalValue": "$383,580",
+    "walletLifetime": "552 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.0000",
+        "amount": "0.0932",
+        "usdValue": "$291.40"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "8,045.0000",
+        "usdValue": "$229.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.0000",
+        "amount": "0.0229",
+        "usdValue": "$71.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.0000",
+        "amount": "0.0198",
+        "usdValue": "$61.98"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.1066",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "MONKA",
+        "chain": "monad",
+        "price": "$0.0₅7766",
+        "amount": "100.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7896",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FTW",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "60,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$312,833"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$70,093"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbc89db600d76eda6e024513abcb8d9e125781c8b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$544K"
+      },
+      {
+        "name": "0x7542…eade",
+        "volume": "$332K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$287K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$214K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$159K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$157K"
+      },
+      {
+        "name": "0xcef2…cee7",
+        "volume": "$156K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$121K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$121K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$110K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$110K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$100K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$72K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$71K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$445K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$238K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$232K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$220K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$78"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:55:18.105Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 100.00001167669784,
+  "vaultPct": 0.018593705400894604
+}

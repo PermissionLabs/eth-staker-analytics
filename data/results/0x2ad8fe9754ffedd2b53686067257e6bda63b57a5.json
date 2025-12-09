@@ -1,0 +1,182 @@
+{
+  "portfolio": {
+    "address": "0x2ad8fe9754ffedd2b53686067257e6bda63b57a5",
+    "totalValue": "$25,636",
+    "walletLifetime": "1397 days",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "eth",
+        "price": "$1.3790",
+        "amount": "13,517.0078",
+        "usdValue": "$18,639.95"
+      },
+      {
+        "symbol": "ZFI",
+        "chain": "base",
+        "price": "$0.0112",
+        "amount": "279,362.8129",
+        "usdValue": "$3,125.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.4700",
+        "amount": "0.0195",
+        "usdValue": "$61.00"
+      },
+      {
+        "symbol": "UDS",
+        "chain": "eth",
+        "price": "$2.4194",
+        "amount": "20.2957",
+        "usdValue": "$49.10"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$3,755"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2ad8fe9754ffedd2b53686067257e6bda63b57a5",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$369K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$201K"
+      },
+      {
+        "name": "0x7967…4224",
+        "volume": "$138K"
+      },
+      {
+        "name": "0x2258…ae69",
+        "volume": "$112K"
+      },
+      {
+        "name": "0xc3b9…4874",
+        "volume": "$98K"
+      },
+      {
+        "name": "0x912a…7166",
+        "volume": "$70K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$66K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$62K"
+      },
+      {
+        "name": "0xb299…fff6",
+        "volume": "$55K"
+      },
+      {
+        "name": "0x68e5…f1d5",
+        "volume": "$50K"
+      },
+      {
+        "name": "0x82b3…67bc",
+        "volume": "$46K"
+      },
+      {
+        "name": "LEGION",
+        "volume": "$43K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$39K"
+      },
+      {
+        "name": "0xa45e…e96b",
+        "volume": "$25K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x69ca…8207",
+        "volume": "$18K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$12K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$756K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$322K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$87K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$76K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$39K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$14K"
+      },
+      {
+        "name": "ZFI",
+        "volume": "$11K"
+      },
+      {
+        "name": "CRO",
+        "volume": "$3K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$285B"
+      },
+      {
+        "name": "NB",
+        "volume": "$184"
+      },
+      {
+        "name": "DEFI",
+        "volume": "$90"
+      },
+      {
+        "name": "UDS",
+        "volume": "$37"
+      },
+      {
+        "name": "SteamX",
+        "volume": "$20B"
+      },
+      {
+        "name": "VC",
+        "volume": "$15B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:04:14.001Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.4283457403750086,
+  "vaultPct": 0.00026558236806030537
+}

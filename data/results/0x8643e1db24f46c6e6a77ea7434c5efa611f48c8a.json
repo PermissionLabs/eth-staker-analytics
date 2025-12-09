@@ -1,0 +1,269 @@
+{
+  "portfolio": {
+    "address": "0x8643e1db24f46c6e6a77ea7434c5efa611f48c8a",
+    "totalValue": "$6,030",
+    "walletLifetime": "2982 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.6300",
+        "amount": "0.5064",
+        "usdValue": "$1,586.37"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "1,476.9359",
+        "usdValue": "$1,476.79"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "1,333.8404",
+        "usdValue": "$1,333.85"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$191.6864",
+        "amount": "4.0006",
+        "usdValue": "$766.86"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "bsc",
+        "price": "$5.6360",
+        "amount": "17.3960",
+        "usdValue": "$98.04"
+      },
+      {
+        "symbol": "REKT",
+        "chain": "eth",
+        "price": "$0.0₆3519",
+        "amount": "100,000,000.0000",
+        "usdValue": "$35.19"
+      },
+      {
+        "symbol": "ETHY",
+        "chain": "eth",
+        "price": "$3.1153",
+        "amount": "5.5063",
+        "usdValue": "$17.15"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$901.3000",
+        "amount": "0.0125",
+        "usdValue": "$11.27"
+      },
+      {
+        "symbol": "ATLAS",
+        "chain": "bsc",
+        "price": "$0.0004",
+        "amount": "28,472.1047",
+        "usdValue": "$11.06"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDe",
+        "usdValue": "$434"
+      },
+      {
+        "protocol": "EtherDelta",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$216"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ENA",
+        "usdValue": "$14"
+      },
+      {
+        "protocol": "Wault",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "HFS",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Chimpzee",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "CHMPZ",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "mtwaglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8643e1db24f46c6e6a77ea7434c5efa611f48c8a",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x37de…2452",
+        "volume": "$405K"
+      },
+      {
+        "name": "0xd1af…a56f",
+        "volume": "$355K"
+      },
+      {
+        "name": "Wault",
+        "volume": "$323K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$287K"
+      },
+      {
+        "name": "0xb5a9…d8ba",
+        "volume": "$270K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$187K"
+      },
+      {
+        "name": "0x8736…b0f3",
+        "volume": "$130K"
+      },
+      {
+        "name": "0x8a86…f434",
+        "volume": "$118K"
+      },
+      {
+        "name": "0x38a4…8a12",
+        "volume": "$100K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$99K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$94K"
+      },
+      {
+        "name": "0x5041…d471",
+        "volume": "$90K"
+      },
+      {
+        "name": "0xc540…e354",
+        "volume": "$78K"
+      },
+      {
+        "name": "0x286a…faab",
+        "volume": "$76K"
+      },
+      {
+        "name": "0x87f6…4dd3",
+        "volume": "$55K"
+      },
+      {
+        "name": "0x499f…dc0e",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x2593…ba55",
+        "volume": "$42K"
+      },
+      {
+        "name": "Mobox",
+        "volume": "$42K"
+      },
+      {
+        "name": "0x9123…1175",
+        "volume": "$40K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BUSD",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$553"
+      },
+      {
+        "name": "WEAPON",
+        "volume": "$226K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$207K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$124K"
+      },
+      {
+        "name": "UST",
+        "volume": "$81K"
+      },
+      {
+        "name": "Metis",
+        "volume": "$41K"
+      },
+      {
+        "name": "DOKI",
+        "volume": "$28K"
+      },
+      {
+        "name": "SRM",
+        "volume": "$28K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$25K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "KENS",
+        "volume": "$20K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$16K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:04:59.024Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.08172062337540627,
+  "vaultPct": 0.000015194890187936238
+}

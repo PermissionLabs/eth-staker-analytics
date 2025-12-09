@@ -1,0 +1,247 @@
+{
+  "portfolio": {
+    "address": "0x8f9d3ed947700a398a923ad1843723b939664b16",
+    "totalValue": "$512",
+    "walletLifetime": "924 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.5000",
+        "amount": "0.0074",
+        "usdValue": "$23.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,134.5800",
+        "amount": "0.0014",
+        "usdValue": "$4.54"
+      },
+      {
+        "symbol": "FRIEND",
+        "chain": "base",
+        "price": "$0.0240",
+        "amount": "103.4576",
+        "usdValue": "$2.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.5000",
+        "amount": "0.0006",
+        "usdValue": "$1.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,135.5000",
+        "amount": "0.0004",
+        "usdValue": "$1.25"
+      },
+      {
+        "symbol": "USDC(bridged)",
+        "chain": "era",
+        "price": "$0.9998",
+        "amount": "0.0043",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1389",
+        "amount": "1,277.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Bsop",
+        "chain": "base",
+        "price": "$0.00001903",
+        "amount": "5.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "0.0004",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$473"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8f9d3ed947700a398a923ad1843723b939664b16",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$586M"
+      },
+      {
+        "name": "erkly",
+        "volume": "$568"
+      },
+      {
+        "name": "OpenUSDT",
+        "volume": "$566M"
+      },
+      {
+        "name": "0x2f2a…85a7",
+        "volume": "$461"
+      },
+      {
+        "name": "0x7421…a971",
+        "volume": "$414"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$401"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$377"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$361"
+      },
+      {
+        "name": "Parallel",
+        "volume": "$355"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$353"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$324B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$299"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$299B"
+      },
+      {
+        "name": "inance",
+        "volume": "$263"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$246"
+      },
+      {
+        "name": "OKX",
+        "volume": "$220"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$865"
+      },
+      {
+        "name": "ZK",
+        "volume": "$587"
+      },
+      {
+        "name": "WETH",
+        "volume": "$405"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$351"
+      },
+      {
+        "name": "USR",
+        "volume": "$332"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$82"
+      },
+      {
+        "name": "SCR",
+        "volume": "$70"
+      },
+      {
+        "name": "FRIEND",
+        "volume": "$29"
+      },
+      {
+        "name": "ZPET",
+        "volume": "$17"
+      },
+      {
+        "name": "RESOLV",
+        "volume": "$17"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:45:12.311Z",
+  "source": "base_aave",
+  "vaultBalance": 0.21600007039419902,
+  "vaultPct": 0.00031775343902824615
+}

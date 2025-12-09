@@ -1,0 +1,164 @@
+{
+  "portfolio": {
+    "address": "0x59396258b790aa6bce931090d505eadd03aa743a",
+    "totalValue": "$3,179",
+    "walletLifetime": "2910 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,092.0100",
+        "amount": "0.0358",
+        "usdValue": "$110.66"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9783",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "STORJ",
+        "chain": "eth",
+        "price": "$0.1406",
+        "amount": "0.0006",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ERC20(old)",
+        "chain": "eth",
+        "price": "$0.0000137",
+        "amount": "0.9900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "NPXS(old)",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "63,193.0571",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,061"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DAI",
+        "usdValue": "$8"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x59396258b790aa6bce931090d505eadd03aa743a",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7df6…34af",
+        "volume": "$1K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$512B"
+      },
+      {
+        "name": "inance",
+        "volume": "$280B"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$257"
+      },
+      {
+        "name": "0x8696…44a1",
+        "volume": "$221"
+      },
+      {
+        "name": "Flexa",
+        "volume": "$194"
+      },
+      {
+        "name": "0x8d09…096d",
+        "volume": "$169"
+      },
+      {
+        "name": "0xa622…fe04",
+        "volume": "$108"
+      },
+      {
+        "name": "Velora",
+        "volume": "$48"
+      },
+      {
+        "name": "0xb1f7…1516",
+        "volume": "$14"
+      },
+      {
+        "name": "0x59a5…06e8",
+        "volume": "$14"
+      },
+      {
+        "name": "0x1222…d9ed",
+        "volume": "$13"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x007f…2da0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x004b…0197",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0052…e6be",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$1K"
+      },
+      {
+        "name": "AMP",
+        "volume": "$388B"
+      },
+      {
+        "name": "ERC20",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:03:58.287Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.8570030800231428,
+  "vaultPct": 0.00006435051219332487
+}

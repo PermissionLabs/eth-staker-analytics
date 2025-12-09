@@ -1,0 +1,205 @@
+{
+  "portfolio": {
+    "address": "0xae315f266a5235a2480cb3413c5f818894824683",
+    "totalValue": "$2,831",
+    "walletLifetime": "1538 days",
+    "tokens": [
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "10.6093",
+        "usdValue": "$143.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.9900",
+        "amount": "0.0132",
+        "usdValue": "$41.23"
+      },
+      {
+        "symbol": "SDEX",
+        "chain": "eth",
+        "price": "$0.0024",
+        "amount": "6,421.6974",
+        "usdValue": "$15.28"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "10.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "STRONG",
+        "chain": "eth",
+        "price": "$1.1315",
+        "amount": "0.0018",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,372"
+      },
+      {
+        "protocol": "VaporNodes",
+        "chain": "avax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "VPND",
+        "usdValue": "$168"
+      },
+      {
+        "protocol": "Olympus",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "OHM",
+        "usdValue": "$88"
+      },
+      {
+        "protocol": "VaporFi",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "VPND",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xae315f266a5235a2480cb3413c5f818894824683",
+    "topProtocols": [
+      {
+        "name": "StrongBlock",
+        "volume": "$30K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$12K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x2529…f2e4",
+        "volume": "$6K"
+      },
+      {
+        "name": "ThorFi",
+        "volume": "$5K"
+      },
+      {
+        "name": "VaporFi",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe1a0…917c",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Wonderland",
+        "volume": "$835"
+      },
+      {
+        "name": "0x967c…c2ff",
+        "volume": "$648"
+      },
+      {
+        "name": "0x5a07…1bfa",
+        "volume": "$598"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$500"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$473"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$470"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "STRONG",
+        "volume": "$40K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$16K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$9K"
+      },
+      {
+        "name": "VPND",
+        "volume": "$3K"
+      },
+      {
+        "name": "STRNGR",
+        "volume": "$3K"
+      },
+      {
+        "name": "WLD",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KSUSHI",
+        "volume": "$946"
+      },
+      {
+        "name": "VAPE",
+        "volume": "$350"
+      },
+      {
+        "name": "SLD",
+        "volume": "$182"
+      },
+      {
+        "name": "SDEX",
+        "volume": "$95"
+      },
+      {
+        "name": "V1",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:05:46.337Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.7481280185895249,
+  "vaultPct": 0.00013910470355525036
+}

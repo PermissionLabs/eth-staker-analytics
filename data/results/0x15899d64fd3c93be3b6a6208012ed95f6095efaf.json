@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0x15899d64fd3c93be3b6a6208012ed95f6095efaf",
+    "totalValue": "$115,625",
+    "walletLifetime": "3090 days",
+    "tokens": [
+      {
+        "symbol": "CRV",
+        "chain": "eth",
+        "price": "$0.3920",
+        "amount": "70,206.3238",
+        "usdValue": "$27,520.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,082.7100",
+        "amount": "4.1916",
+        "usdValue": "$12,921.59"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "338.6556",
+        "usdValue": "$338.62"
+      },
+      {
+        "symbol": "TURBO",
+        "chain": "eth",
+        "price": "$0.0022",
+        "amount": "103,829.4584",
+        "usdValue": "$225.62"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "9.0000",
+        "usdValue": "$9.00"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.8000",
+        "amount": "2.2081",
+        "usdValue": "$8.39"
+      },
+      {
+        "symbol": "MLN",
+        "chain": "eth",
+        "price": "$5.3800",
+        "amount": "0.1481",
+        "usdValue": "$0.80"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0289",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "ISLA",
+        "chain": "eth",
+        "price": "$0.0268",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9798",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MITx",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "23.8987",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kiln",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$60,146"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$10,517"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "CRV",
+        "usdValue": "$3,937"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x15899d64fd3c93be3b6a6208012ed95f6095efaf",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$200K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$65K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$55K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$44K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x2919…30b3",
+        "volume": "$4K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bittrex",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa3e7…f1e9",
+        "volume": "$866B"
+      },
+      {
+        "name": "ittrex",
+        "volume": "$377"
+      },
+      {
+        "name": "0x48f7…01ab",
+        "volume": "$156"
+      },
+      {
+        "name": "0x8ae0…20b6",
+        "volume": "$95B"
+      },
+      {
+        "name": "inance",
+        "volume": "$71"
+      },
+      {
+        "name": "0xa97a…5bd0",
+        "volume": "$66B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$347K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$86K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$48K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$27K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$7K"
+      },
+      {
+        "name": "TUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "NFAi v1",
+        "volume": "$2K"
+      },
+      {
+        "name": "OMG",
+        "volume": "$1K"
+      },
+      {
+        "name": "TURBO",
+        "volume": "$295"
+      },
+      {
+        "name": "LPT",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:58:45.519Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.0746166156402284,
+  "vaultPct": 0.00023086632781904685
+}

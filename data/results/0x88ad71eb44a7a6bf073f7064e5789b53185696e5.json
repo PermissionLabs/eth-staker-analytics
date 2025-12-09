@@ -1,0 +1,111 @@
+{
+  "portfolio": {
+    "address": "0x88ad71eb44a7a6bf073f7064e5789b53185696e5",
+    "totalValue": "$11,227",
+    "walletLifetime": "1022 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.9921",
+        "amount": "57.7900",
+        "usdValue": "$808.61"
+      },
+      {
+        "symbol": "JASMY",
+        "chain": "eth",
+        "price": "$0.0070",
+        "amount": "22,838.4126",
+        "usdValue": "$159.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,147.1500",
+        "amount": "0.0139",
+        "usdValue": "$43.88"
+      },
+      {
+        "symbol": "UTK",
+        "chain": "eth",
+        "price": "$0.0149",
+        "amount": "1,315.0496",
+        "usdValue": "$19.54"
+      },
+      {
+        "symbol": "ILV",
+        "chain": "eth",
+        "price": "$7.2424",
+        "amount": "1.8818",
+        "usdValue": "$13.63"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001002",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$10,181"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x88ad71eb44a7a6bf073f7064e5789b53185696e5",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$360"
+      },
+      {
+        "name": "UTK",
+        "volume": "$123"
+      },
+      {
+        "name": "ILV",
+        "volume": "$114"
+      },
+      {
+        "name": "JASMY",
+        "volume": "$114B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:52:38.972Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.9496762564569625,
+  "vaultPct": 0.0002214848258215931
+}

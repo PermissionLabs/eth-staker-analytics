@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "address": "0xb3db8c6bd5e00b75d4c4c0e004e3b94df0d39aa9",
+    "totalValue": "$153,844",
+    "walletLifetime": "74 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.1600",
+        "amount": "0.0283",
+        "usdValue": "$88.82"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$106,320"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$47,435"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb3db8c6bd5e00b75d4c4c0e004e3b94df0d39aa9",
+    "topProtocols": [
+      {
+        "name": "Kernel DAO",
+        "volume": "$104K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$85K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$64K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$45K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$128K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$90K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$80K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:19:09.030Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 13.893647722970904,
+  "vaultPct": 0.15496404538748823
+}

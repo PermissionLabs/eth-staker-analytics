@@ -1,0 +1,296 @@
+{
+  "portfolio": {
+    "address": "0xae2a8f7b87e822e526691d75df62b1813430ebf9",
+    "totalValue": "$1,747",
+    "walletLifetime": "1309 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,128.1000",
+        "amount": "0.1777",
+        "usdValue": "$555.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.1000",
+        "amount": "0.0625",
+        "usdValue": "$195.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.1000",
+        "amount": "0.0584",
+        "usdValue": "$182.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,128.1000",
+        "amount": "0.0521",
+        "usdValue": "$163.00"
+      },
+      {
+        "symbol": "mUSD",
+        "chain": "linea",
+        "price": "$0.9998",
+        "amount": "69.0965",
+        "usdValue": "$69.09"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,907.9900",
+        "amount": "0.0004",
+        "usdValue": "$40.21"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "4,368.6869",
+        "usdValue": "$34.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,128.1000",
+        "amount": "0.0101",
+        "usdValue": "$31.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,128.1000",
+        "amount": "0.0075",
+        "usdValue": "$23.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,128.1000",
+        "amount": "0.0064",
+        "usdValue": "$19.96"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3195",
+        "amount": "18.0501",
+        "usdValue": "$5.77"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.3000",
+        "amount": "0.0050",
+        "usdValue": "$4.54"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "0.1743",
+        "usdValue": "$2.37"
+      },
+      {
+        "symbol": "wstASTR",
+        "chain": "soneium",
+        "price": "$0.0137",
+        "amount": "119.3482",
+        "usdValue": "$1.64"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$314"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "soneium",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$94"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$8"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Radiant Capital",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RDNT(old)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Sonus",
+        "chain": "soneium",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "SONUS",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Angle Protocol",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Lynex",
+        "chain": "linea",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "LYNX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "waveX",
+        "chain": "soneium",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "StakeStone",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xae2a8f7b87e822e526691d75df62b1813430ebf9",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$58K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$22K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$18K"
+      },
+      {
+        "name": "WOO Network",
+        "volume": "$7K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$7K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$6K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$4K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$44K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$42K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$6K"
+      },
+      {
+        "name": "EURA",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:16:12.094Z",
+  "source": "moonwell",
+  "vaultBalance": 0.098235389097848,
+  "vaultPct": 0.0017822086658162146
+}

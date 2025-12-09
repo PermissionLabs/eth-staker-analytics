@@ -1,0 +1,327 @@
+{
+  "portfolio": {
+    "address": "0x8ab14281b890f5cc3357193cf638d9b3fc655a3c",
+    "totalValue": "$13,656",
+    "walletLifetime": "1686 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,156.8700",
+        "amount": "0.0162",
+        "usdValue": "$51.16"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "metis",
+        "price": "$3,157.3400",
+        "amount": "0.0057",
+        "usdValue": "$17.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.8700",
+        "amount": "0.0027",
+        "usdValue": "$8.44"
+      },
+      {
+        "symbol": "KISHU",
+        "chain": "eth",
+        "price": "$0.0₁₀4324",
+        "amount": "185,215,035,545.5317",
+        "usdValue": "$8.01"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "scrl",
+        "price": "$91,820.1400",
+        "amount": "0.00008204",
+        "usdValue": "$7.53"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "avax",
+        "price": "$3,156.8700",
+        "amount": "0.0018",
+        "usdValue": "$5.66"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0930",
+        "amount": "60.1657",
+        "usdValue": "$5.60"
+      },
+      {
+        "symbol": "m.USDC",
+        "chain": "metis",
+        "price": "$0.9998",
+        "amount": "4.3251",
+        "usdValue": "$4.32"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,157.3400",
+        "amount": "0.0007",
+        "usdValue": "$2.35"
+      },
+      {
+        "symbol": "xECP",
+        "chain": "linea",
+        "price": "$0.0519",
+        "amount": "36.1217",
+        "usdValue": "$1.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,156.8700",
+        "amount": "0.0005",
+        "usdValue": "$1.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,156.8700",
+        "amount": "0.0005",
+        "usdValue": "$1.44"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8000",
+        "amount": "0.0906",
+        "usdValue": "$1.25"
+      },
+      {
+        "symbol": "DOVA",
+        "chain": "eth",
+        "price": "$0.00006669",
+        "amount": "16,938.6479",
+        "usdValue": "$1.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,157.3400",
+        "amount": "0.0002",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,157.3400",
+        "amount": "0.0002",
+        "usdValue": "$0.63"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,156.8700",
+        "amount": "0.0002",
+        "usdValue": "$0.57"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "62.8848",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0333",
+        "amount": "14.9649",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1252",
+        "amount": "3.7559",
+        "usdValue": "$0.47"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0410",
+        "amount": "10.6546",
+        "usdValue": "$0.44"
+      },
+      {
+        "symbol": "Metis",
+        "chain": "metis",
+        "price": "$6.5800",
+        "amount": "0.0282",
+        "usdValue": "$0.19"
+      },
+      {
+        "symbol": "MANA",
+        "chain": "matic",
+        "price": "$0.1548",
+        "amount": "1.1878",
+        "usdValue": "$0.18"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$11,415"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,989"
+      },
+      {
+        "protocol": "Gamma",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$69"
+      },
+      {
+        "protocol": "Rollup Finance",
+        "chain": "era",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$27"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8ab14281b890f5cc3357193cf638d9b3fc655a3c",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$157K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$98K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$63K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$39K"
+      },
+      {
+        "name": "0xf1e4…ed71",
+        "volume": "$34K"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$33K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$33K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x0736…bc48",
+        "volume": "$20K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x0f77…7150",
+        "volume": "$12K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$9K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$307K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$95K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$38K"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$19K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$18K"
+      },
+      {
+        "name": "KISHU",
+        "volume": "$12K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$12K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$11K"
+      },
+      {
+        "name": "KUNI",
+        "volume": "$9K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "POL",
+        "volume": "$6K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$6K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$5K"
+      },
+      {
+        "name": "ALCX",
+        "volume": "$5K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:06:00.499Z",
+  "source": "base_aave",
+  "vaultBalance": 4.868748664294502,
+  "vaultPct": 0.007162320035453593
+}

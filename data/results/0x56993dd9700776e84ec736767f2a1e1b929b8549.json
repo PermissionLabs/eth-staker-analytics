@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0x56993dd9700776e84ec736767f2a1e1b929b8549",
+    "totalValue": "$531",
+    "walletLifetime": "2979 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.0200",
+        "amount": "0.0183",
+        "usdValue": "$57.31"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "44.4758",
+        "usdValue": "$44.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.5000",
+        "amount": "0.0066",
+        "usdValue": "$20.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.5000",
+        "amount": "0.0026",
+        "usdValue": "$8.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,129.0200",
+        "amount": "0.0005",
+        "usdValue": "$1.65"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "0.2365",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "1.2581",
+        "usdValue": "$0.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$398"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x56993dd9700776e84ec736767f2a1e1b929b8549",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$344"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$341"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$333"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$271"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$264"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$246"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$186B"
+      },
+      {
+        "name": "inance",
+        "volume": "$148"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$106"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$981"
+      },
+      {
+        "name": "inch",
+        "volume": "$75"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$794"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$564"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$540"
+      },
+      {
+        "name": "WETH",
+        "volume": "$398"
+      },
+      {
+        "name": "USDT",
+        "volume": "$360"
+      },
+      {
+        "name": "USDt",
+        "volume": "$198"
+      },
+      {
+        "name": "m.USDT",
+        "volume": "$102"
+      },
+      {
+        "name": "USDC",
+        "volume": "$77"
+      },
+      {
+        "name": "STG",
+        "volume": "$63"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:27:06.006Z",
+  "source": "moonwell",
+  "vaultBalance": 0.12462679120632786,
+  "vaultPct": 0.0022610074568906163
+}

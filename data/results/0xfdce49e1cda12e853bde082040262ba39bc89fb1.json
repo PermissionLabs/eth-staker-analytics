@@ -1,0 +1,163 @@
+{
+  "portfolio": {
+    "address": "0xfdce49e1cda12e853bde082040262ba39bc89fb1",
+    "totalValue": "$33,140",
+    "walletLifetime": "926 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.4500",
+        "amount": "0.2203",
+        "usdValue": "$684.84"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "457.2344",
+        "usdValue": "$457.14"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.5000",
+        "amount": "0.0577",
+        "usdValue": "$51.58"
+      },
+      {
+        "symbol": "MTV",
+        "chain": "bsc",
+        "price": "$0.0003",
+        "amount": "100.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MONAI",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "128.7099",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$31,946"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfdce49e1cda12e853bde082040262ba39bc89fb1",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$35K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x0b86…df33",
+        "volume": "$5K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$5K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$152"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$100"
+      },
+      {
+        "name": "0xb323…f3c5",
+        "volume": "$100"
+      },
+      {
+        "name": "0xbdda…8894",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x54a9…785a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x042f…785a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6bd3…c660",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$55K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "RAIL",
+        "volume": "$800M"
+      },
+      {
+        "name": "ONAI",
+        "volume": "$94B"
+      },
+      {
+        "name": "NB",
+        "volume": "$20M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:53:54.994Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.5,
+  "vaultPct": 0.0004648425807441015
+}

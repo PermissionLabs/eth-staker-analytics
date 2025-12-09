@@ -1,0 +1,163 @@
+{
+  "portfolio": {
+    "address": "0xaa9d173bd5d42c0e1739983e2e70ecd8204bf835",
+    "totalValue": "$364",
+    "walletLifetime": "1312 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.0300",
+        "amount": "0.0250",
+        "usdValue": "$78.39"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "10.5805",
+        "usdValue": "$1.31"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7928",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$283"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "LDO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaa9d173bd5d42c0e1739983e2e70ecd8204bf835",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd5c0…d821",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x30f2…cb40",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3c24…6b63",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$1K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$1K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$706"
+      },
+      {
+        "name": "0x6081…fe80",
+        "volume": "$48"
+      },
+      {
+        "name": "0xad1f…aac1",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe309…712b",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa125…187a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "POL",
+        "volume": "$15K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$11K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$8K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:06:51.267Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.28112731108476846,
+  "vaultPct": 0.00005227197792091745
+}

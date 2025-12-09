@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0x3cc8da27c9d213620ea6cc4803861ba61299b742",
+    "totalValue": "$157,310",
+    "walletLifetime": "1377 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7628",
+        "amount": "1,724.8412",
+        "usdValue": "$23,738.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.3200",
+        "amount": "0.6067",
+        "usdValue": "$1,895.07"
+      },
+      {
+        "symbol": "FI",
+        "chain": "eth",
+        "price": "$0.0002",
+        "amount": "30,643.1299",
+        "usdValue": "$7.49"
+      },
+      {
+        "symbol": "SERGOSHI",
+        "chain": "base",
+        "price": "$0.0₅2641",
+        "amount": "1,763,884.6352",
+        "usdValue": "$4.66"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.3000",
+        "amount": "0.00005271",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7894",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "ChainLink",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LINK",
+        "usdValue": "$60,410"
+      },
+      {
+        "protocol": "stake.link",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LINK",
+        "usdValue": "$57,981"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "RLUSD",
+        "usdValue": "$12,318"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$955"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3cc8da27c9d213620ea6cc4803861ba61299b742",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$188K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$101K"
+      },
+      {
+        "name": "ChainLink",
+        "volume": "$90K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$69K"
+      },
+      {
+        "name": "stake.link",
+        "volume": "$30K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$13K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x16cc…ef31",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x5772…66dc",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$584"
+      },
+      {
+        "name": "0x5cfa…862b",
+        "volume": "$26"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "LINK",
+        "volume": "$457K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$54K"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$47K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "SDL",
+        "volume": "$3K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "SXT",
+        "volume": "$2K"
+      },
+      {
+        "name": "FI",
+        "volume": "$584"
+      },
+      {
+        "name": "SERGOSHI",
+        "volume": "$26"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:57:43.155Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.2,
+  "vaultPct": 0.000037187406459528126
+}

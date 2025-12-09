@@ -1,0 +1,112 @@
+{
+  "portfolio": {
+    "address": "0x0995e2903f648a3e8fd289e6d9ed7cfcd683e364",
+    "totalValue": "$636",
+    "walletLifetime": "1286 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.7200",
+        "amount": "0.0255",
+        "usdValue": "$80.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,158.4900",
+        "amount": "0.0010",
+        "usdValue": "$3.16"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.9000",
+        "amount": "0.00001328",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "NCASH",
+        "chain": "arb",
+        "price": "$0.0056",
+        "amount": "1.0500",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9971",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$552"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0995e2903f648a3e8fd289e6d9ed7cfcd683e364",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$305B"
+      },
+      {
+        "name": "inance",
+        "volume": "$167B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$156"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$16B"
+      },
+      {
+        "name": "0x18a9…8bef",
+        "volume": "$2"
+      },
+      {
+        "name": "0x2555…ad74",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$641B"
+      },
+      {
+        "name": "NB",
+        "volume": "$9"
+      },
+      {
+        "name": "Cake",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:19:57.509Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.1617284749272845,
+  "vaultPct": 0.000012143842233956746
+}

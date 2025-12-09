@@ -1,0 +1,138 @@
+{
+  "portfolio": {
+    "address": "0x297ecf9ee853f1ef5b1017528c7311b8c695971b",
+    "totalValue": "$531",
+    "walletLifetime": "378 days",
+    "tokens": [
+      {
+        "symbol": "COW",
+        "chain": "base",
+        "price": "$0.1976",
+        "amount": "193.8361",
+        "usdValue": "$38.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,162.1200",
+        "amount": "0.0010",
+        "usdValue": "$3.16"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "0.0023",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1403",
+        "amount": "1,010.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$489"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x297ecf9ee853f1ef5b1017528c7311b8c695971b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$657"
+      },
+      {
+        "name": "0x6729…c681",
+        "volume": "$518"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$330"
+      },
+      {
+        "name": "0x94db…0c74",
+        "volume": "$247"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$244B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$222M"
+      },
+      {
+        "name": "amo",
+        "volume": "$142B"
+      },
+      {
+        "name": "inance",
+        "volume": "$1311"
+      },
+      {
+        "name": "inch",
+        "volume": "$91"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$63"
+      },
+      {
+        "name": "0xedfe…6675",
+        "volume": "$49"
+      },
+      {
+        "name": "squid",
+        "volume": "$44"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$40"
+      },
+      {
+        "name": "0xc285…6a61",
+        "volume": "$311"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$509"
+      },
+      {
+        "name": "COW",
+        "volume": "$192"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:38:12.438Z",
+  "source": "base_aave",
+  "vaultBalance": 0.15456750823530996,
+  "vaultPct": 0.000227381209710548
+}

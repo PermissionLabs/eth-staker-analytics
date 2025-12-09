@@ -1,0 +1,247 @@
+{
+  "portfolio": {
+    "address": "0xe3d827b0e8ae48789c1ba55b335895398c706885",
+    "totalValue": "$244,183",
+    "walletLifetime": "1622 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.4600",
+        "amount": "0.0499",
+        "usdValue": "$156.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.4600",
+        "amount": "0.0098",
+        "usdValue": "$30.77"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$903.4000",
+        "amount": "0.0107",
+        "usdValue": "$9.62"
+      },
+      {
+        "symbol": "IBIT",
+        "chain": "eth",
+        "price": "$0.0₅176",
+        "amount": "4,625,309.8155",
+        "usdValue": "$8.14"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0027",
+        "amount": "2,773.1514",
+        "usdValue": "$7.37"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "5.9157",
+        "usdValue": "$5.92"
+      },
+      {
+        "symbol": "ANON",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "2,479.2969",
+        "usdValue": "$1.69"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1248",
+        "amount": "6.7270",
+        "usdValue": "$0.84"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.2899",
+        "amount": "0.2942",
+        "usdValue": "$0.67"
+      },
+      {
+        "symbol": "OMNI(layerzero)",
+        "chain": "arb",
+        "price": "$0.00001008",
+        "amount": "63,459.5438",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,132.4800",
+        "amount": "0.0002",
+        "usdValue": "$0.52"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$243,958"
+      },
+      {
+        "protocol": "Camelot",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "GRAIL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Beets",
+        "chain": "ftm",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Multichain)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LINK",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stabl.fi",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe3d827b0e8ae48789c1ba55b335895398c706885",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$761K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$473K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$429K"
+      },
+      {
+        "name": "Gamma",
+        "volume": "$344K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$336K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$292K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$67K"
+      },
+      {
+        "name": "0xff76…c7b6",
+        "volume": "$52K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$50K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$875K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$837K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$565K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$530K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$327K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$311K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$284K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$247K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$231K"
+      },
+      {
+        "name": "crvUSD",
+        "volume": "$216K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$156K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$129K"
+      },
+      {
+        "name": "KcrvUSD",
+        "volume": "$106K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$103K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$98K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:33:35.927Z",
+  "source": "base_aave",
+  "vaultBalance": 20.016861168591063,
+  "vaultPct": 0.029446409268585067
+}

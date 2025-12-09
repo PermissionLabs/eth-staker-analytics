@@ -1,0 +1,171 @@
+{
+  "portfolio": {
+    "address": "0xa45d3b37116b0443e3fcd6f92d096ed9d0f066c3",
+    "totalValue": "$22,748",
+    "walletLifetime": "778 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.7000",
+        "amount": "0.0974",
+        "usdValue": "$87.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.9200",
+        "amount": "0.0188",
+        "usdValue": "$58.62"
+      },
+      {
+        "symbol": "YFI",
+        "chain": "bsc",
+        "price": "$3,680.0000",
+        "amount": "0.0054",
+        "usdValue": "$19.91"
+      },
+      {
+        "symbol": "EOS",
+        "chain": "bsc",
+        "price": "$0.1786",
+        "amount": "23.1618",
+        "usdValue": "$4.14"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0296",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7876",
+        "amount": "8.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$22,578"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa45d3b37116b0443e3fcd6f92d096ed9d0f066c3",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$69K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$53K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x8d1e…3bf1",
+        "volume": "$22K"
+      },
+      {
+        "name": "THORChain",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x2d38…647b",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xe186…41e8",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xc390…5751",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x7413…f80d",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x3b0a…40ed",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x160d…36dd",
+        "volume": "$4K"
+      },
+      {
+        "name": "THORSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bridgers",
+        "volume": "$310B"
+      },
+      {
+        "name": "inance",
+        "volume": "$50"
+      },
+      {
+        "name": "0x494f…668e",
+        "volume": "$29"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$147K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$122K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$2K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$355"
+      },
+      {
+        "name": "YFI",
+        "volume": "$50"
+      },
+      {
+        "name": "EOS",
+        "volume": "$19"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:56:16.737Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 18.714910287125175,
+  "vaultPct": 0.0034797948785046406
+}

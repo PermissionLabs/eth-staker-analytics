@@ -1,0 +1,302 @@
+{
+  "portfolio": {
+    "address": "0xf1048afcb005b81afbe5e5854a0d7c6f3fb8af28",
+    "totalValue": "$5,555",
+    "walletLifetime": "1362 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "op",
+        "price": "$90,938.1200",
+        "amount": "0.0066",
+        "usdValue": "$600.96"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$900.2900",
+        "amount": "0.1000",
+        "usdValue": "$90.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.3300",
+        "amount": "0.0140",
+        "usdValue": "$43.99"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "25.0000",
+        "usdValue": "$25.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,131.3300",
+        "amount": "0.0054",
+        "usdValue": "$16.99"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,131.3300",
+        "amount": "0.0033",
+        "usdValue": "$10.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.5500",
+        "amount": "0.0033",
+        "usdValue": "$10.21"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2084",
+        "amount": "6.5668",
+        "usdValue": "$7.94"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,938.1200",
+        "amount": "0.00007627",
+        "usdValue": "$6.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,131.5500",
+        "amount": "0.0016",
+        "usdValue": "$4.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.5500",
+        "amount": "0.0013",
+        "usdValue": "$4.06"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1238",
+        "amount": "27.2660",
+        "usdValue": "$3.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "rari",
+        "price": "$3,134.3500",
+        "amount": "0.0005",
+        "usdValue": "$1.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.3300",
+        "amount": "0.0004",
+        "usdValue": "$1.25"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "matic",
+        "price": "$0.5988",
+        "amount": "1.9714",
+        "usdValue": "$1.18"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.9000",
+        "usdValue": "$0.90"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,936"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ENA",
+        "usdValue": "$1,813"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBNB",
+        "usdValue": "$539"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "era",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ZK",
+        "usdValue": "$382"
+      },
+      {
+        "protocol": "Native",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USD₮0",
+        "usdValue": "$50"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "OMNIX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "BlasterSwap V3",
+        "chain": "blast",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf1048afcb005b81afbe5e5854a0d7c6f3fb8af28",
+    "topProtocols": [
+      {
+        "name": "Across V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Kim",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$3K"
+      },
+      {
+        "name": "Liquifi",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$3K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$2K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bebop",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x82f5…0daa",
+        "volume": "$2K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$7K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDB",
+        "volume": "$2K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:15:22.085Z",
+  "source": "moonwell",
+  "vaultBalance": 0.08884899920353033,
+  "vaultPct": 0.0016119186556273187
+}

@@ -1,0 +1,85 @@
+{
+  "portfolio": {
+    "address": "0xf5ac4bed87540f47d43e78bc42f0c0597cb8fb6e",
+    "totalValue": "$53",
+    "walletLifetime": "340 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,094.2800",
+        "amount": "0.0171",
+        "usdValue": "$52.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,094.2800",
+        "amount": "0.00006554",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "COVID",
+        "chain": "base",
+        "price": "$0.0₆2014",
+        "amount": "2,050.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xf5ac4bed87540f47d43e78bc42f0c0597cb8fb6e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xb14a…b783",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa209…9315",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:26:28.020Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11999999999999994,
+  "vaultPct": 0.00017652963081818312
+}

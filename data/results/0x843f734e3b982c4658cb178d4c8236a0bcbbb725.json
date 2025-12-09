@@ -1,0 +1,158 @@
+{
+  "portfolio": {
+    "address": "0x843f734e3b982c4658cb178d4c8236a0bcbbb725",
+    "totalValue": "$556,378",
+    "walletLifetime": "167 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.3900",
+        "amount": "19.0651",
+        "usdValue": "$59,604.90"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "TBA",
+        "chain": "matic",
+        "price": "$0.0₉5899",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "4.2000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Eth2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$300,178"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$146,136"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$50,200"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$258"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x843f734e3b982c4658cb178d4c8236a0bcbbb725",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$632K"
+      },
+      {
+        "name": "0xbeca…206b",
+        "volume": "$442K"
+      },
+      {
+        "name": "Figment",
+        "volume": "$305K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$256K"
+      },
+      {
+        "name": "StakeWise",
+        "volume": "$105K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$25K"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$938"
+      },
+      {
+        "name": "0xcc7b…2530",
+        "volume": "$237"
+      },
+      {
+        "name": "0xa22c…3e8d",
+        "volume": "$122"
+      },
+      {
+        "name": "0x4a49…fe45",
+        "volume": "$17"
+      },
+      {
+        "name": "0x34ae…a5e5",
+        "volume": "$17"
+      },
+      {
+        "name": "0x77fd…7a8b",
+        "volume": "$7"
+      },
+      {
+        "name": "0xf120…cb9d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9247…e4c5",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:19:50.715Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 14.73595882118653,
+  "vaultPct": 0.16435883773121984
+}

@@ -1,0 +1,241 @@
+{
+  "portfolio": {
+    "address": "0x760f36100e68056afdac6a1f29a42b25a61955ee",
+    "totalValue": "$33,884",
+    "walletLifetime": "1646 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.0700",
+        "amount": "1.4988",
+        "usdValue": "$4,652.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.0700",
+        "amount": "0.1706",
+        "usdValue": "$529.58"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.3000",
+        "amount": "0.5403",
+        "usdValue": "$482.09"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,165.2500",
+        "amount": "0.0004",
+        "usdValue": "$35.00"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$90,165.2500",
+        "amount": "0.0002",
+        "usdValue": "$16.39"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,104.0700",
+        "amount": "0.0040",
+        "usdValue": "$12.43"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,118.0200",
+        "amount": "0.0001",
+        "usdValue": "$12.27"
+      },
+      {
+        "symbol": "RON",
+        "chain": "ron",
+        "price": "$0.1690",
+        "amount": "47.4886",
+        "usdValue": "$8.03"
+      },
+      {
+        "symbol": "APRS",
+        "chain": "ron",
+        "price": "$0.92",
+        "amount": "617.64",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$28,130"
+      },
+      {
+        "protocol": "Apeiron",
+        "chain": "ron",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "APRS",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x760f36100e68056afdac6a1f29a42b25a61955ee",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$632K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$133K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$119K"
+      },
+      {
+        "name": "0x992b…c5c5",
+        "volume": "$93K"
+      },
+      {
+        "name": "Ape Bond",
+        "volume": "$85K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$71K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$53K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$45K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$41K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$40K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$37K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$36K"
+      },
+      {
+        "name": "0xd267…9a4b",
+        "volume": "$35K"
+      },
+      {
+        "name": "0xab78…e1bc",
+        "volume": "$35K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x63f3…f2fd",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$26K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$803K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$177K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$151K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$142K"
+      },
+      {
+        "name": "FET",
+        "volume": "$122K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$96K"
+      },
+      {
+        "name": "SOL",
+        "volume": "$79K"
+      },
+      {
+        "name": "INJ",
+        "volume": "$74K"
+      },
+      {
+        "name": "OLAS",
+        "volume": "$70K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$65K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$64K"
+      },
+      {
+        "name": "MANTA",
+        "volume": "$61K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "SEILOR",
+        "volume": "$42K"
+      },
+      {
+        "name": "MAVIA",
+        "volume": "$38K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$36K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$33K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:15:47.836Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 9.01070800326479,
+  "vaultPct": 0.001675424305027654
+}

@@ -1,0 +1,168 @@
+{
+  "portfolio": {
+    "address": "0xdfb6e138b49024169ea087d16801318c29f914bd",
+    "totalValue": "$22,622",
+    "walletLifetime": "266 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,136.5000",
+        "amount": "0.0200",
+        "usdValue": "$62.73"
+      },
+      {
+        "symbol": "wstETH",
+        "chain": "base",
+        "price": "$3,828.1698",
+        "amount": "0.0007",
+        "usdValue": "$2.63"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8082",
+        "amount": "0.1000",
+        "usdValue": "$1.38"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "1.1690",
+        "usdValue": "$1.17"
+      },
+      {
+        "symbol": "USDS",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.0031",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$22,033"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$521"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdfb6e138b49024169ea087d16801318c29f914bd",
+    "topProtocols": [
+      {
+        "name": "0x2bc1…8583",
+        "volume": "$16K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$13K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x777f…686b",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$720"
+      },
+      {
+        "name": "0x51f0…13a2",
+        "volume": "$155"
+      },
+      {
+        "name": "Spark",
+        "volume": "$82"
+      },
+      {
+        "name": "0xd0f5…6d62",
+        "volume": "$70"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$4"
+      },
+      {
+        "name": "0x6319…feb9",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x19a1…abcb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa5e2…0c53",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc651…f1e9",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xd25c…76a4",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$27K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$24K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "SPK",
+        "volume": "$165"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$165"
+      },
+      {
+        "name": "LINK",
+        "volume": "$141"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:13:16.907Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6.906398523158586,
+  "vaultPct": 0.0012841552452609155
+}

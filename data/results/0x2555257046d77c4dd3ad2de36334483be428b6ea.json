@@ -1,0 +1,57 @@
+{
+  "portfolio": {
+    "address": "0x2555257046d77c4dd3ad2de36334483be428b6ea",
+    "totalValue": "$82,303",
+    "walletLifetime": "227 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.9900",
+        "amount": "0.2740",
+        "usdValue": "$856.98"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$81,446"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2555257046d77c4dd3ad2de36334483be428b6ea",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$62K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$42K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$104K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:15:38.880Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 29.006064893219918,
+  "vaultPct": 0.005393301624878092
+}

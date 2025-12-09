@@ -1,0 +1,216 @@
+{
+  "portfolio": {
+    "address": "0x8f25a0b89590ebc0b14705f9afe78ba8139d0413",
+    "totalValue": "$21,335",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,094.7000",
+        "amount": "3.8780",
+        "usdValue": "$12,001.21"
+      },
+      {
+        "symbol": "wstETH",
+        "chain": "base",
+        "price": "$3,775.2947",
+        "amount": "0.8657",
+        "usdValue": "$3,268.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "swell",
+        "price": "$3,094.7000",
+        "amount": "0.0237",
+        "usdValue": "$73.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,094.8800",
+        "amount": "0.0090",
+        "usdValue": "$27.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,094.7000",
+        "amount": "0.0085",
+        "usdValue": "$26.36"
+      },
+      {
+        "symbol": "SWELL",
+        "chain": "swell",
+        "price": "$0.0023",
+        "amount": "418.1196",
+        "usdValue": "$0.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,094.8800",
+        "amount": "0.0000791",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,094.7000",
+        "amount": "0.000027",
+        "usdValue": "$0.08"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0289",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9771",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$4,549"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "USDe",
+        "usdValue": "$1,380"
+      },
+      {
+        "protocol": "Swell",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "SWELL",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Swell",
+        "chain": "swell",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SWELL",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8f25a0b89590ebc0b14705f9afe78ba8139d0413",
+    "topProtocols": [
+      {
+        "name": "Swell",
+        "volume": "$30K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x0bcd…1d10",
+        "volume": "$5K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$4K"
+      },
+      {
+        "name": "aori",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf72c…59a4",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$938"
+      },
+      {
+        "name": "ybit",
+        "volume": "$728"
+      },
+      {
+        "name": "Velodrome V3",
+        "volume": "$500"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$283"
+      },
+      {
+        "name": "Swell Bridge",
+        "volume": "$13B"
+      },
+      {
+        "name": "inance",
+        "volume": "$6"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$46K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$3K"
+      },
+      {
+        "name": "SWELL",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$999"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$581"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:00:58.223Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.918606433400707,
+  "vaultPct": 0.010245759204286681
+}

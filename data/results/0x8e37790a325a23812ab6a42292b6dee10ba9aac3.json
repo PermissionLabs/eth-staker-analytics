@@ -1,0 +1,295 @@
+{
+  "portfolio": {
+    "address": "0x8e37790a325a23812ab6a42292b6dee10ba9aac3",
+    "totalValue": "$12,171",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,158.9900",
+        "amount": "0.0279",
+        "usdValue": "$87.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,158.9900",
+        "amount": "0.0277",
+        "usdValue": "$87.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.3800",
+        "amount": "0.0200",
+        "usdValue": "$63.31"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "sonic",
+        "price": "$0.9999",
+        "amount": "39.8314",
+        "usdValue": "$39.83"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,158.9900",
+        "amount": "0.0047",
+        "usdValue": "$14.86"
+      },
+      {
+        "symbol": "USDC.e",
+        "chain": "gravity",
+        "price": "$0.9999",
+        "amount": "13.7914",
+        "usdValue": "$13.79"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "9.0000",
+        "usdValue": "$9.00"
+      },
+      {
+        "symbol": "SONIC",
+        "chain": "ftm",
+        "price": "$0.0₅4036",
+        "amount": "565,576.5123",
+        "usdValue": "$2.28"
+      },
+      {
+        "symbol": "QUICK",
+        "chain": "matic",
+        "price": "$0.0122",
+        "amount": "158.9638",
+        "usdValue": "$1.94"
+      },
+      {
+        "symbol": "WPOL",
+        "chain": "matic",
+        "price": "$0.1248",
+        "amount": "6.4379",
+        "usdValue": "$0.80"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1248",
+        "amount": "3.7200",
+        "usdValue": "$0.46"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Camelot",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$6,556"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$4,890"
+      },
+      {
+        "protocol": "Camelot V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$327"
+      },
+      {
+        "protocol": "Beets",
+        "chain": "ftm",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC.e(Wormhole)",
+        "usdValue": "$51"
+      },
+      {
+        "protocol": "Shadow Exchange",
+        "chain": "sonic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "wS",
+        "usdValue": "$16"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Gamma",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Beets",
+        "chain": "sonic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "S",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LFJ",
+        "chain": "avax",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "AVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Equalizer",
+        "chain": "ftm",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "EQUAL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8e37790a325a23812ab6a42292b6dee10ba9aac3",
+    "topProtocols": [
+      {
+        "name": "Camelot V3",
+        "volume": "$58K"
+      },
+      {
+        "name": "Camelot",
+        "volume": "$35K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$26K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$8K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$6K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$5K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$3K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xcb39…8bc6",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9b35…5e15",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe95d…3554",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$71K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$47K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$35K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "KVIRTUAL",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$4K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$4K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$3K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:45:45.162Z",
+  "source": "base_aave",
+  "vaultBalance": 0.44181815316931683,
+  "vaultPct": 0.0006499499622312586
+}

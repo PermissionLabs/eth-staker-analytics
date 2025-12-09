@@ -1,0 +1,294 @@
+{
+  "portfolio": {
+    "address": "0x84f7a201d6e90f4a20c0babcf4935fe0c3149943",
+    "totalValue": "$10,932",
+    "walletLifetime": "1294 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.8100",
+        "amount": "1.9697",
+        "usdValue": "$6,119.48"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,106.8100",
+        "amount": "0.3174",
+        "usdValue": "$986.04"
+      },
+      {
+        "symbol": "wBETH",
+        "chain": "eth",
+        "price": "$3,374.6582",
+        "amount": "0.1916",
+        "usdValue": "$646.42"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.8000",
+        "amount": "0.0823",
+        "usdValue": "$73.58"
+      },
+      {
+        "symbol": "BTC",
+        "chain": "merlin",
+        "price": "$90,126.5600",
+        "amount": "0.0003",
+        "usdValue": "$30.20"
+      },
+      {
+        "symbol": "MERL",
+        "chain": "merlin",
+        "price": "$0.3466",
+        "amount": "82.6508",
+        "usdValue": "$28.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,106.8100",
+        "amount": "0.0036",
+        "usdValue": "$11.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,106.8100",
+        "amount": "0.0030",
+        "usdValue": "$9.40"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,795"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,207"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Zircuit",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Reya",
+        "chain": "reya",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "StakeStone",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "mtwCARROT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x84f7a201d6e90f4a20c0babcf4935fe0c3149943",
+    "topProtocols": [
+      {
+        "name": "Bitget",
+        "volume": "$47K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$26K"
+      },
+      {
+        "name": "Puffer Finance",
+        "volume": "$25K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$21K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$14K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$13K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$10K"
+      },
+      {
+        "name": "Pencils Protocol",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xc3ca…9c26",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x0f0e…213f",
+        "volume": "$8K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$7K"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$7K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x349a…6ef8",
+        "volume": "$6K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$5K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$56K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$49K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$43K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "wBETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSD0",
+        "volume": "$2K"
+      },
+      {
+        "name": "MAV",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:11:08.945Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.5301214515086896,
+  "vaultPct": 0.005912757132646478
+}

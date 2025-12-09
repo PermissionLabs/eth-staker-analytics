@@ -1,0 +1,97 @@
+{
+  "portfolio": {
+    "address": "0xf41c3a4da244a700724216668f26f47a3175e1b9",
+    "totalValue": "$36,764",
+    "walletLifetime": "20 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.1300",
+        "amount": "0.0073",
+        "usdValue": "$22.85"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Euler",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$19,274"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$17,468"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf41c3a4da244a700724216668f26f47a3175e1b9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$83K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$47K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$27K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$10K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$10K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$5K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2207…78a7",
+        "volume": "$31B"
+      },
+      {
+        "name": "inance",
+        "volume": "$31M"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$104K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$90K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:18:17.463Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 10.57080299005497,
+  "vaultPct": 0.001965503736973847
+}

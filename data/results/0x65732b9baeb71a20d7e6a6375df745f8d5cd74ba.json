@@ -1,0 +1,140 @@
+{
+  "portfolio": {
+    "address": "0x65732b9baeb71a20d7e6a6375df745f8d5cd74ba",
+    "totalValue": "$8,095",
+    "walletLifetime": "409 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.4000",
+        "amount": "0.0210",
+        "usdValue": "$65.24"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1379",
+        "amount": "1,020.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.00001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,021"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$8"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x65732b9baeb71a20d7e6a6375df745f8d5cd74ba",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$45K"
+      },
+      {
+        "name": "0x9faa…cba8",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x0092…73a4",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x6432…9b75",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xc256…89c5",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4a82…444c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc256…09c5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb69e…8a92",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$47K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$19K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$8K"
+      },
+      {
+        "name": "SNLANTHRAX",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:34:53.644Z",
+  "source": "base_aave",
+  "vaultBalance": 2.245924021460378,
+  "vaultPct": 0.0033039344862840826
+}

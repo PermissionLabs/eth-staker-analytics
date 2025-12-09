@@ -1,0 +1,188 @@
+{
+  "portfolio": {
+    "address": "0x34151947fbbf04b3fe49f6b0261dcbc2cf588a4f",
+    "totalValue": "$42,247",
+    "walletLifetime": "1307 days",
+    "tokens": [
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5600",
+        "amount": "10.5181",
+        "usdValue": "$142.63"
+      },
+      {
+        "symbol": "BUSD",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "104.0000",
+        "usdValue": "$104.02"
+      },
+      {
+        "symbol": "BEAM",
+        "chain": "eth",
+        "price": "$0.0033",
+        "amount": "14,920.1816",
+        "usdValue": "$49.19"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.4000",
+        "amount": "0.0130",
+        "usdValue": "$11.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.0700",
+        "amount": "0.0002",
+        "usdValue": "$0.69"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$41,765"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$141"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$34"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x34151947fbbf04b3fe49f6b0261dcbc2cf588a4f",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$75K"
+      },
+      {
+        "name": "0xf59e…56c7",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x25f2…8539",
+        "volume": "$42K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$31K"
+      },
+      {
+        "name": "0x7ac8…025f",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xe482…cf63",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xa96c…c96d",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xb7c2…6c4f",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe41f…8c6b",
+        "volume": "$3K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6f1e…c751",
+        "volume": "$895"
+      },
+      {
+        "name": "0x8087…5327",
+        "volume": "$499"
+      },
+      {
+        "name": "WEEX",
+        "volume": "$386"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$287"
+      },
+      {
+        "name": "0x03f6…5573",
+        "volume": "$200B"
+      },
+      {
+        "name": "inance",
+        "volume": "$120B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$110K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$80K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$42K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$17K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$345B"
+      },
+      {
+        "name": "USD",
+        "volume": "$202B"
+      },
+      {
+        "name": "EAM",
+        "volume": "$111B"
+      },
+      {
+        "name": "NB",
+        "volume": "$6M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:02:18.093Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 13.445499405191185,
+  "vaultPct": 0.0025000162571609413
+}

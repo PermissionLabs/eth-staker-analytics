@@ -1,0 +1,260 @@
+{
+  "portfolio": {
+    "address": "0xa8f2de67636e34edd67a3c5069efe5b3ead23356",
+    "totalValue": "$159,078",
+    "walletLifetime": "1271 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.5500",
+        "amount": "3.9951",
+        "usdValue": "$12,582.73"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$91,535.3900",
+        "amount": "0.1142",
+        "usdValue": "$10,450.02"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,149.5500",
+        "amount": "1.1097",
+        "usdValue": "$3,495.17"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$196.1871",
+        "amount": "17.1656",
+        "usdValue": "$3,367.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,149.5500",
+        "amount": "0.2242",
+        "usdValue": "$706.06"
+      },
+      {
+        "symbol": "DEGEN",
+        "chain": "base",
+        "price": "$0.0015",
+        "amount": "366,073.3161",
+        "usdValue": "$537.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,150.2100",
+        "amount": "0.0504",
+        "usdValue": "$158.72"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "136.4584",
+        "usdValue": "$136.47"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,149.5500",
+        "amount": "0.0283",
+        "usdValue": "$89.05"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "45.0000",
+        "usdValue": "$45.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$79,607"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$22,421"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$14,952"
+      },
+      {
+        "protocol": "Alchemix",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ALCX",
+        "usdValue": "$7,063"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,121"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$296"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa8f2de67636e34edd67a3c5069efe5b3ead23356",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$387K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$129K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$109K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$92K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$82K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$59K"
+      },
+      {
+        "name": "0x",
+        "volume": "$55K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$37K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$35K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$35K"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$29K"
+      },
+      {
+        "name": "0xe073…a679",
+        "volume": "$27K"
+      },
+      {
+        "name": "Alchemix",
+        "volume": "$17K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$16K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$16K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$14K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$546K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$295K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$120K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$114K"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$67K"
+      },
+      {
+        "name": "MKR",
+        "volume": "$56K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$34K"
+      },
+      {
+        "name": "GHST",
+        "volume": "$33K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "ALCX",
+        "volume": "$30K"
+      },
+      {
+        "name": "YFI",
+        "volume": "$22K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "GNO",
+        "volume": "$5K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:09:24.446Z",
+  "source": "base_aave",
+  "vaultBalance": 9.68221153744437,
+  "vaultPct": 0.014243310235071738
+}

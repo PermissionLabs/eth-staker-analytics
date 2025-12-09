@@ -1,0 +1,306 @@
+{
+  "portfolio": {
+    "address": "0x3e743dc17996cd530ca18fcca963e6b5ff62a5a4",
+    "totalValue": "$46,905",
+    "walletLifetime": "1119 days",
+    "tokens": [
+      {
+        "symbol": "APE",
+        "chain": "ape",
+        "price": "$0.2375",
+        "amount": "3,863.1734",
+        "usdValue": "$917.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.4600",
+        "amount": "0.0766",
+        "usdValue": "$239.11"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2723",
+        "amount": "445.3659",
+        "usdValue": "$121.27"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "100.0000",
+        "usdValue": "$99.99"
+      },
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅857",
+        "amount": "11,527,971.3000",
+        "usdValue": "$98.79"
+      },
+      {
+        "symbol": "PORTAL",
+        "chain": "eth",
+        "price": "$0.0186",
+        "amount": "3,854.3381",
+        "usdValue": "$71.69"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "eth",
+        "price": "$0.0459",
+        "amount": "1,451.9261",
+        "usdValue": "$66.64"
+      },
+      {
+        "symbol": "RSR",
+        "chain": "eth",
+        "price": "$0.0033",
+        "amount": "20,183.9626",
+        "usdValue": "$65.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,123.7000",
+        "amount": "0.0088",
+        "usdValue": "$27.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,122.4600",
+        "amount": "0.0088",
+        "usdValue": "$27.48"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.1000",
+        "amount": "0.0200",
+        "usdValue": "$17.93"
+      },
+      {
+        "symbol": "BOND",
+        "chain": "eth",
+        "price": "$0.0896",
+        "amount": "176.9353",
+        "usdValue": "$15.85"
+      },
+      {
+        "symbol": "ENJ",
+        "chain": "eth",
+        "price": "$0.0401",
+        "amount": "394.7495",
+        "usdValue": "$15.83"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "122.1158",
+        "usdValue": "$15.09"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3183",
+        "amount": "42.8238",
+        "usdValue": "$13.63"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0328",
+        "amount": "253.9400",
+        "usdValue": "$8.33"
+      },
+      {
+        "symbol": "DRV",
+        "chain": "eth",
+        "price": "$0.0370",
+        "amount": "207.8801",
+        "usdValue": "$7.70"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0962",
+        "amount": "77.7382",
+        "usdValue": "$7.48"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7628",
+        "amount": "0.5102",
+        "usdValue": "$7.02"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$0.9999",
+        "amount": "5.5606",
+        "usdValue": "$5.56"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$40,487"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$1,468"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$1,176"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$1,000"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$723"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "sonic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wS",
+        "usdValue": "$201"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3e743dc17996cd530ca18fcca963e6b5ff62a5a4",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$80K"
+      },
+      {
+        "name": "0x5455…7e91",
+        "volume": "$39K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$18K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$14K"
+      },
+      {
+        "name": "ApeStake",
+        "volume": "$9K"
+      },
+      {
+        "name": "Polygon Staking",
+        "volume": "$8K"
+      },
+      {
+        "name": "apecoin",
+        "volume": "$4K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$3K"
+      },
+      {
+        "name": "MySonic",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$117K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$38K"
+      },
+      {
+        "name": "APE",
+        "volume": "$17K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$10K"
+      },
+      {
+        "name": "S",
+        "volume": "$9K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$8K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$7K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$7K"
+      },
+      {
+        "name": "POL",
+        "volume": "$6K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$5K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$5K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$4K"
+      },
+      {
+        "name": "SAND",
+        "volume": "$4K"
+      },
+      {
+        "name": "OCEAN",
+        "volume": "$2K"
+      },
+      {
+        "name": "IMX",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:01:14.540Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 12.200110750521043,
+  "vaultPct": 0.0022684523866544236
+}

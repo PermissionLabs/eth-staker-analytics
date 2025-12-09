@@ -1,0 +1,92 @@
+{
+  "portfolio": {
+    "address": "0x4df7286c6149df28a64a9366bf1a07ce02e6d198",
+    "totalValue": "$553",
+    "walletLifetime": "1386 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.7800",
+        "amount": "0.0009",
+        "usdValue": "$2.83"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "1.0000",
+        "usdValue": "$1.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$549"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4df7286c6149df28a64a9366bf1a07ce02e6d198",
+    "topProtocols": [
+      {
+        "name": "0xc81b…7277",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$923B"
+      },
+      {
+        "name": "inance",
+        "volume": "$439B"
+      },
+      {
+        "name": "0xfe66…d19f",
+        "volume": "$185"
+      },
+      {
+        "name": "0xfbaf…f950",
+        "volume": "$34"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$5K"
+      },
+      {
+        "name": "HOT",
+        "volume": "$3K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$199"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:53:48.048Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.17570660896658283,
+  "vaultPct": 0.00003267036542632842
+}

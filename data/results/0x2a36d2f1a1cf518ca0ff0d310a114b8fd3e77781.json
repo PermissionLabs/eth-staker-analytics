@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0x2a36d2f1a1cf518ca0ff0d310a114b8fd3e77781",
+    "totalValue": "$7,701",
+    "walletLifetime": "1577 days",
+    "tokens": [
+      {
+        "symbol": "KCS",
+        "chain": "eth",
+        "price": "$10.2460",
+        "amount": "10.5326",
+        "usdValue": "$107.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.2900",
+        "amount": "0.0340",
+        "usdValue": "$106.16"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,125.4500",
+        "amount": "0.0158",
+        "usdValue": "$49.50"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0390",
+        "amount": "162.3197",
+        "usdValue": "$6.33"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9884",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "0.0007",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SHIB (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "150.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$7,431"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2a36d2f1a1cf518ca0ff0d310a114b8fd3e77781",
+    "topProtocols": [
+      {
+        "name": "0xbd5b…f657",
+        "volume": "$7K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x263e…03a6",
+        "volume": "$306"
+      },
+      {
+        "name": "0xc089…04f1",
+        "volume": "$56K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$44"
+      },
+      {
+        "name": "0x0e8a…e4c6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…0801",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$627"
+      },
+      {
+        "name": "WETH",
+        "volume": "$56K"
+      },
+      {
+        "name": "CS",
+        "volume": "$44"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:51:31.224Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.015934199231488,
+  "vaultPct": 0.00015137214940357422
+}

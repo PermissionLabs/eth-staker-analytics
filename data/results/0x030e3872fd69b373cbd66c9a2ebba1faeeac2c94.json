@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0x030e3872fd69b373cbd66c9a2ebba1faeeac2c94",
+    "totalValue": "$640,077",
+    "walletLifetime": "669 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.0100",
+        "amount": "2.6977",
+        "usdValue": "$8,449.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.5300",
+        "amount": "0.0298",
+        "usdValue": "$93.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.0100",
+        "amount": "0.0189",
+        "usdValue": "$59.10"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "47.0705",
+        "usdValue": "$47.06"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "eth",
+        "price": "$1.2087",
+        "amount": "25.6482",
+        "usdValue": "$31.00"
+      },
+      {
+        "symbol": "FXN",
+        "chain": "eth",
+        "price": "$31.2524",
+        "amount": "0.1338",
+        "usdValue": "$4.18"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "166.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$526,461"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$104,932"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x030e3872fd69b373cbd66c9a2ebba1faeeac2c94",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$6M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$1M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$529K"
+      },
+      {
+        "name": "Ethereal",
+        "volume": "$500K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$396K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$265K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$217K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$86K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$80K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$30K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xc67a…0297",
+        "volume": "$20K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x3767…bdb8",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xeece…6e69",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$7M"
+      },
+      {
+        "name": "USDe",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$804K"
+      },
+      {
+        "name": "USDf",
+        "volume": "$210K"
+      },
+      {
+        "name": "lvlUSD",
+        "volume": "$161K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$1K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$659"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$258"
+      },
+      {
+        "name": "FXN",
+        "volume": "$14"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:59:07.314Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 104.5,
+  "vaultPct": 0.019430419875103445
+}

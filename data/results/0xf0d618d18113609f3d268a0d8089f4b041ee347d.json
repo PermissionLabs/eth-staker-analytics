@@ -1,0 +1,380 @@
+{
+  "portfolio": {
+    "address": "0xf0d618d18113609f3d268a0d8089f4b041ee347d",
+    "totalValue": "$18,698",
+    "walletLifetime": "1692 days",
+    "tokens": [
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1045",
+        "amount": "3,007.0291",
+        "usdValue": "$3,321.33"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.6307",
+        "amount": "102.2225",
+        "usdValue": "$1,393.36"
+      },
+      {
+        "symbol": "CX",
+        "chain": "eth",
+        "price": "$0.0525",
+        "amount": "12,947.5617",
+        "usdValue": "$680.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.8600",
+        "amount": "0.1990",
+        "usdValue": "$617.96"
+      },
+      {
+        "symbol": "EMP",
+        "chain": "arb",
+        "price": "$14.7616",
+        "amount": "14.1023",
+        "usdValue": "$208.17"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$27.8380",
+        "amount": "6.6596",
+        "usdValue": "$185.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.8600",
+        "amount": "0.0314",
+        "usdValue": "$97.45"
+      },
+      {
+        "symbol": "EEFI",
+        "chain": "eth",
+        "price": "$18.3270",
+        "amount": "4.0000",
+        "usdValue": "$73.31"
+      },
+      {
+        "symbol": "PURR",
+        "chain": "hyper",
+        "price": "$0.0660",
+        "amount": "941.3756",
+        "usdValue": "$62.18"
+      },
+      {
+        "symbol": "UBTC",
+        "chain": "hyper",
+        "price": "$89,676.6850",
+        "amount": "0.0007",
+        "usdValue": "$61.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,104.8600",
+        "amount": "0.0139",
+        "usdValue": "$43.29"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$889.8000",
+        "amount": "0.0467",
+        "usdValue": "$41.58"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1,501.0000",
+        "usdValue": "$39.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.8600",
+        "amount": "0.0082",
+        "usdValue": "$25.58"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "24.9444",
+        "usdValue": "$24.94"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "22.0000",
+        "usdValue": "$22.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,104.8600",
+        "amount": "0.0047",
+        "usdValue": "$14.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,104.8600",
+        "amount": "0.0042",
+        "usdValue": "$13.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$5,534"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,558"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "plasma",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT0",
+        "usdValue": "$2,114"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$515"
+      },
+      {
+        "protocol": "HypurrFi",
+        "chain": "hyper",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "kHYPE",
+        "usdValue": "$479"
+      },
+      {
+        "protocol": "Project X",
+        "chain": "hyper",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$274"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$128"
+      },
+      {
+        "protocol": "HyperLend",
+        "chain": "hyper",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstHYPE",
+        "usdValue": "$79"
+      },
+      {
+        "protocol": "Maverick V2",
+        "chain": "era",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ZK",
+        "usdValue": "$54"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$17"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Bulla",
+        "chain": "bera",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "BULLA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "BeraHub",
+        "chain": "bera",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WBERA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Smilee",
+        "chain": "bera",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BERA",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf0d618d18113609f3d268a0d8089f4b041ee347d",
+    "topProtocols": [
+      {
+        "name": "BEX",
+        "volume": "$59K"
+      },
+      {
+        "name": "0x0676…eb52",
+        "volume": "$33K"
+      },
+      {
+        "name": "Kodiak",
+        "volume": "$32K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$31K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$30K"
+      },
+      {
+        "name": "Mantle Reward Station",
+        "volume": "$29K"
+      },
+      {
+        "name": "0xc716…50b4",
+        "volume": "$26K"
+      },
+      {
+        "name": "Ooga Booga",
+        "volume": "$24K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$20K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x3795…030f",
+        "volume": "$13K"
+      },
+      {
+        "name": "aori",
+        "volume": "$11K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$9K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$9K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$129K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$56K"
+      },
+      {
+        "name": "MNT",
+        "volume": "$56K"
+      },
+      {
+        "name": "HONEY",
+        "volume": "$49K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$40K"
+      },
+      {
+        "name": "BYUSD",
+        "volume": "$27K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$23K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDbr",
+        "volume": "$12K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$9K"
+      },
+      {
+        "name": "uniBTC",
+        "volume": "$8K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$8K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:28:00.809Z",
+  "source": "base_aave",
+  "vaultBalance": 1.9001944071459762,
+  "vaultPct": 0.0027953384764687972
+}

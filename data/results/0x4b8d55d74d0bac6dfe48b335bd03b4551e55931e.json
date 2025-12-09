@@ -1,0 +1,101 @@
+{
+  "portfolio": {
+    "address": "0x4b8d55d74d0bac6dfe48b335bd03b4551e55931e",
+    "totalValue": "$423",
+    "walletLifetime": "342 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.6100",
+        "amount": "0.0138",
+        "usdValue": "$43.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.6100",
+        "amount": "0.0010",
+        "usdValue": "$3.05"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆139",
+        "amount": "1,231.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$377"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4b8d55d74d0bac6dfe48b335bd03b4551e55931e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x6f37…e24e",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa209…9315",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:35:24.533Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11999999999999988,
+  "vaultPct": 0.00017652963081818304
+}

@@ -1,0 +1,200 @@
+{
+  "portfolio": {
+    "address": "0xdda7af6411c859588c9103ea59870df3dc3fc6ef",
+    "totalValue": "$17,130",
+    "walletLifetime": "1405 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.6700",
+        "amount": "0.0114",
+        "usdValue": "$35.27"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6000",
+        "amount": "0.5000",
+        "usdValue": "$6.80"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9996",
+        "amount": "50,222.0000",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "GALA(old)",
+        "chain": "eth",
+        "price": "$0.0039",
+        "amount": "0.1711",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7843",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$17,088"
+      },
+      {
+        "protocol": "Blur",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BLUR",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdda7af6411c859588c9103ea59870df3dc3fc6ef",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$59K"
+      },
+      {
+        "name": "0xb1b4…d237",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x8443…affe",
+        "volume": "$24K"
+      },
+      {
+        "name": "0xbd00…30a2",
+        "volume": "$14K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x9476…dc54",
+        "volume": "$11K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$9K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$9K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xf517…5d82",
+        "volume": "$6K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$6K"
+      },
+      {
+        "name": "X2Y2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x74a1…9852",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$1K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$772"
+      },
+      {
+        "name": "0x0fc5…faea",
+        "volume": "$687"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$152K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$42K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$9K"
+      },
+      {
+        "name": "GALA",
+        "volume": "$3K"
+      },
+      {
+        "name": "BLUR",
+        "volume": "$895M"
+      },
+      {
+        "name": "YRIA",
+        "volume": "$637"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$98"
+      },
+      {
+        "name": "POL",
+        "volume": "$86M"
+      },
+      {
+        "name": "ILK",
+        "volume": "$73"
+      },
+      {
+        "name": "LINK",
+        "volume": "$43"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$9B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:06:18.867Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.002149704204161,
+  "vaultPct": 0.0005582108065129612
+}

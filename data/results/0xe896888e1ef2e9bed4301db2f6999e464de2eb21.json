@@ -1,0 +1,210 @@
+{
+  "portfolio": {
+    "address": "0xe896888e1ef2e9bed4301db2f6999e464de2eb21",
+    "totalValue": "$3,363",
+    "walletLifetime": "445 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.4000",
+        "amount": "0.2697",
+        "usdValue": "$845.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.1800",
+        "amount": "0.0654",
+        "usdValue": "$204.85"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "87.2647",
+        "usdValue": "$87.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.1800",
+        "amount": "0.0149",
+        "usdValue": "$46.81"
+      },
+      {
+        "symbol": "ATH",
+        "chain": "arb",
+        "price": "$0.0135",
+        "amount": "2,470.4311",
+        "usdValue": "$33.39"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "30.0008",
+        "usdValue": "$30.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "9.4195",
+        "usdValue": "$9.42"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,133.4000",
+        "amount": "0.0005",
+        "usdValue": "$1.65"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,357"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$412"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$322"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "StakeStone",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe896888e1ef2e9bed4301db2f6999e464de2eb21",
+    "topProtocols": [
+      {
+        "name": "Crypto.com",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$953"
+      },
+      {
+        "name": "0xd4bd…f37c",
+        "volume": "$723"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$422"
+      },
+      {
+        "name": "StakeWise",
+        "volume": "$357"
+      },
+      {
+        "name": "orpho",
+        "volume": "$259"
+      },
+      {
+        "name": "0xf9a7…fc32",
+        "volume": "$237"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$237"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$134"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$100M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$94"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$43"
+      },
+      {
+        "name": "0x9f24…ab60",
+        "volume": "$37"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$33"
+      },
+      {
+        "name": "0x0000…89be",
+        "volume": "$32"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$207"
+      },
+      {
+        "name": "USDC",
+        "volume": "$154"
+      },
+      {
+        "name": "ATH",
+        "volume": "$133"
+      },
+      {
+        "name": "WETH",
+        "volume": "$66"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:25:58.609Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09954212423396264,
+  "vaultPct": 0.0018059157504513692
+}

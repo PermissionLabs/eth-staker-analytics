@@ -1,0 +1,171 @@
+{
+  "portfolio": {
+    "address": "0xc84398c7905d7f3ef61555ed845616132d64eb09",
+    "totalValue": "$37,943",
+    "walletLifetime": "194 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,159.9400",
+        "amount": "0.0186",
+        "usdValue": "$58.79"
+      },
+      {
+        "symbol": "mUSD",
+        "chain": "linea",
+        "price": "$0.9998",
+        "amount": "19.3565",
+        "usdValue": "$19.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.9400",
+        "amount": "0.0032",
+        "usdValue": "$10.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,160.1500",
+        "amount": "0.0010",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.9400",
+        "amount": "0.0004",
+        "usdValue": "$1.39"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$0.9998",
+        "amount": "0.3960",
+        "usdValue": "$0.40"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$33,944"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USD₮0",
+        "usdValue": "$2,382"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$1,524"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc84398c7905d7f3ef61555ed845616132d64eb09",
+    "topProtocols": [
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$40K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$5K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x9dd2…7b30",
+        "volume": "$2K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4df5…b5da",
+        "volume": "$11M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$4"
+      },
+      {
+        "name": "0xe66a…a346",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc901…3e73",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x39ae…6371",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$80K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$51m"
+      },
+      {
+        "name": "USD",
+        "volume": "$19"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:50:37.158Z",
+  "source": "base_aave",
+  "vaultBalance": 5.9965691430085215,
+  "vaultPct": 0.00882143447492503
+}

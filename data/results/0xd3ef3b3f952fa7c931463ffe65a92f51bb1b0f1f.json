@@ -1,0 +1,293 @@
+{
+  "portfolio": {
+    "address": "0xd3ef3b3f952fa7c931463ffe65a92f51bb1b0f1f",
+    "totalValue": "$47,124",
+    "walletLifetime": "3022 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.0000",
+        "amount": "0.1002",
+        "usdValue": "$312.48"
+      },
+      {
+        "symbol": "CLEAR",
+        "chain": "matic",
+        "price": "$0.0146",
+        "amount": "2,162.3134",
+        "usdValue": "$31.49"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6200",
+        "amount": "0.8485",
+        "usdValue": "$11.56"
+      },
+      {
+        "symbol": "RAIDER",
+        "chain": "matic",
+        "price": "$0.0022",
+        "amount": "2,511.5424",
+        "usdValue": "$5.45"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "2.0000",
+        "usdValue": "$2.00"
+      },
+      {
+        "symbol": "AIDOGE",
+        "chain": "arb",
+        "price": "$0.0₁₀1785",
+        "amount": "110,981,954,928.6400",
+        "usdValue": "$1.98"
+      },
+      {
+        "symbol": "GONE",
+        "chain": "matic",
+        "price": "$0.0₆5751",
+        "amount": "1,071,095.0000",
+        "usdValue": "$0.62"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "3.1946",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1316",
+        "amount": "29,577,464.0000",
+        "usdValue": "$0.39"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$46,741"
+      },
+      {
+        "protocol": "Chikn",
+        "chain": "avax",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "EGG",
+        "usdValue": "$8"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "EtherDelta",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Inverse",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "INV",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Abracadabra",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SPELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "QUICK(old)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hatchy Pocket",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "unknown",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Wonderland",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "TIME (Wonderland)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Klima DAO",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KLIMA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "vEmpire DDAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "VEMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd3ef3b3f952fa7c931463ffe65a92f51bb1b0f1f",
+    "topProtocols": [
+      {
+        "name": "Aave",
+        "volume": "$655K"
+      },
+      {
+        "name": "BENQI",
+        "volume": "$398K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$306K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$277K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$264K"
+      },
+      {
+        "name": "Stryke",
+        "volume": "$223K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$206K"
+      },
+      {
+        "name": "0x31ef…0a09",
+        "volume": "$204K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$172K"
+      },
+      {
+        "name": "Wonderland",
+        "volume": "$155K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$149K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$141K"
+      },
+      {
+        "name": "0x7ceb…f619",
+        "volume": "$118K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$92K"
+      },
+      {
+        "name": "Aavegotchi",
+        "volume": "$90K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$869K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$659K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$514K"
+      },
+      {
+        "name": "DAI.e",
+        "volume": "$463K"
+      },
+      {
+        "name": "KUSDT.e",
+        "volume": "$344K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$327K"
+      },
+      {
+        "name": "KUSDC.e",
+        "volume": "$204K"
+      },
+      {
+        "name": "LINK.e",
+        "volume": "$203K"
+      },
+      {
+        "name": "KAVAX",
+        "volume": "$163K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$151K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$115K"
+      },
+      {
+        "name": "GHST",
+        "volume": "$104K"
+      },
+      {
+        "name": "LUNA",
+        "volume": "$104K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:02:04.012Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 14.892894414092446,
+  "vaultPct": 0.002769140589678458
+}

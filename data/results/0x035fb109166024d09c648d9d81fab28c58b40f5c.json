@@ -1,0 +1,234 @@
+{
+  "portfolio": {
+    "address": "0x035fb109166024d09c648d9d81fab28c58b40f5c",
+    "totalValue": "$138,733",
+    "walletLifetime": "956 days",
+    "tokens": [
+      {
+        "symbol": "wstETH",
+        "chain": "base",
+        "price": "$3,828.7156",
+        "amount": "2.6678",
+        "usdValue": "$10,214.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.0100",
+        "amount": "0.2176",
+        "usdValue": "$682.20"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "eth",
+        "price": "$1.2199",
+        "amount": "118.1311",
+        "usdValue": "$144.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.6900",
+        "amount": "0.0208",
+        "usdValue": "$65.34"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1222",
+        "amount": "4.0000",
+        "usdValue": "$4.49"
+      },
+      {
+        "symbol": "USDA (Angle USD)",
+        "chain": "base",
+        "price": "$0.9966",
+        "amount": "1.2748",
+        "usdValue": "$1.27"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1248",
+        "amount": "0.9946",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "NCASH",
+        "chain": "arb",
+        "price": "$0.0055",
+        "amount": "2.1000",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "Bsop",
+        "chain": "base",
+        "price": "$0.00001908",
+        "amount": "5.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.00004",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7922",
+        "amount": "3.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$94,752"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$32,607"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$262"
+      },
+      {
+        "protocol": "Angle Protocol",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x035fb109166024d09c648d9d81fab28c58b40f5c",
+    "topProtocols": [
+      {
+        "name": "0xd105…9b8d",
+        "volume": "$1M"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1M"
+      },
+      {
+        "name": "Angle Protocol",
+        "volume": "$550K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$470K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$298K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$185K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$109K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$105K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$80K"
+      },
+      {
+        "name": "0xaf75…76a7",
+        "volume": "$66K"
+      },
+      {
+        "name": "0x48a7…35d6",
+        "volume": "$55K"
+      },
+      {
+        "name": "0xe6c1…6cbe",
+        "volume": "$43K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "MwstETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "KETH",
+        "volume": "$708K"
+      },
+      {
+        "name": "EURA",
+        "volume": "$606K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$514K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$370K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$70K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$57K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDA",
+        "volume": "$4K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$140M"
+      },
+      {
+        "name": "NT",
+        "volume": "$2"
+      },
+      {
+        "name": "USD",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:07:29.373Z",
+  "source": "base_aave",
+  "vaultBalance": 42.39108736303312,
+  "vaultPct": 0.062360691684813244
+}

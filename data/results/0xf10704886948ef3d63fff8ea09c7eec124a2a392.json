@@ -1,0 +1,260 @@
+{
+  "portfolio": {
+    "address": "0xf10704886948ef3d63fff8ea09c7eec124a2a392",
+    "totalValue": "$50,921",
+    "walletLifetime": "641 days",
+    "tokens": [
+      {
+        "symbol": "WLFI",
+        "chain": "eth",
+        "price": "$0.1508",
+        "amount": "14,671.3213",
+        "usdValue": "$2,212.13"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "753.1157",
+        "usdValue": "$753.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.5100",
+        "amount": "0.0853",
+        "usdValue": "$266.24"
+      },
+      {
+        "symbol": "Block",
+        "chain": "eth",
+        "price": "$0.0168",
+        "amount": "8,000.0000",
+        "usdValue": "$134.53"
+      },
+      {
+        "symbol": "USDf",
+        "chain": "eth",
+        "price": "$0.9990",
+        "amount": "10.0201",
+        "usdValue": "$10.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,120.5100",
+        "amount": "0.0019",
+        "usdValue": "$5.90"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$21,860"
+      },
+      {
+        "protocol": "World Liberty Financial",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "WLFI",
+        "usdValue": "$20,911"
+      },
+      {
+        "protocol": "Falcon Finance",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDf",
+        "usdValue": "$3,065"
+      },
+      {
+        "protocol": "Blockstreet",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "Block",
+        "usdValue": "$1,033"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDf",
+        "usdValue": "$628"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$37"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf10704886948ef3d63fff8ea09c7eec124a2a392",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$143K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$100K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$76K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$28K"
+      },
+      {
+        "name": "World Liberty Financial",
+        "volume": "$11K"
+      },
+      {
+        "name": "Pepecoin",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x612e…663d",
+        "volume": "$9K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x607f…1ba0",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x450b…e5f2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1cc7…8f8a",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x2fb8…d31c",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x35ab…33f9",
+        "volume": "$4K"
+      },
+      {
+        "name": "Falcon Finance",
+        "volume": "$4K"
+      },
+      {
+        "name": "Blockstreet",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x94d8…a7a2",
+        "volume": "$3K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Pionex",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$299K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$146K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$24K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$17K"
+      },
+      {
+        "name": "pepecoin",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDf",
+        "volume": "$11K"
+      },
+      {
+        "name": "WLFI",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$10K"
+      },
+      {
+        "name": "QF",
+        "volume": "$8K"
+      },
+      {
+        "name": "Block",
+        "volume": "$7K"
+      },
+      {
+        "name": "KXMW",
+        "volume": "$6K"
+      },
+      {
+        "name": "SHARP",
+        "volume": "$6K"
+      },
+      {
+        "name": "VERTAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "mUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "DOGEI",
+        "volume": "$1K"
+      },
+      {
+        "name": "SPX",
+        "volume": "$1K"
+      },
+      {
+        "name": "WOJAK",
+        "volume": "$519B"
+      },
+      {
+        "name": "OOE",
+        "volume": "$400"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:31:14.410Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6.997788081767156,
+  "vaultPct": 0.001301147948571584
+}

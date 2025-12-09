@@ -1,0 +1,149 @@
+{
+  "portfolio": {
+    "address": "0x6b4e77e22a1d3b2113b1e15cbc5e02ecd6847552",
+    "totalValue": "$236,946",
+    "walletLifetime": "1026 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.8100",
+        "amount": "0.3433",
+        "usdValue": "$1,064.72"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$235,879"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6b4e77e22a1d3b2113b1e15cbc5e02ecd6847552",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$144K"
+      },
+      {
+        "name": "0xf8ed…af5f",
+        "volume": "$114K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$61K"
+      },
+      {
+        "name": "0xd6c9…e4b3",
+        "volume": "$42K"
+      },
+      {
+        "name": "0xa7b9…74fc",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x96fd…0bcd",
+        "volume": "$35K"
+      },
+      {
+        "name": "0xb198…d9f3",
+        "volume": "$27K"
+      },
+      {
+        "name": "ApeStake",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xc48a…5472",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x3f3d…0b02",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x6521…9003",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf57d…0dd5",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x36d1…10e1",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x7fce…33be",
+        "volume": "$879"
+      },
+      {
+        "name": "0xb986…3461",
+        "volume": "$284"
+      },
+      {
+        "name": "0xb7cd…8e08",
+        "volume": "$162"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$281K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$127K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$62K"
+      },
+      {
+        "name": "APE",
+        "volume": "$30K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$29K"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$9K"
+      },
+      {
+        "name": "MONKY",
+        "volume": "$17"
+      },
+      {
+        "name": "J3FF",
+        "volume": "$16B"
+      },
+      {
+        "name": "ASED",
+        "volume": "$2"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:57:31.958Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 7.57,
+  "vaultPct": 0.0014075433344931394
+}

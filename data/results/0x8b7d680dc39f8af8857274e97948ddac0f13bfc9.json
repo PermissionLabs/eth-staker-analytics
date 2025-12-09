@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0x8b7d680dc39f8af8857274e97948ddac0f13bfc9",
+    "totalValue": "$5,070",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.8200",
+        "amount": "0.0777",
+        "usdValue": "$243.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.7700",
+        "amount": "0.0434",
+        "usdValue": "$135.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,135.8200",
+        "amount": "0.0195",
+        "usdValue": "$61.15"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$906.7000",
+        "amount": "0.0222",
+        "usdValue": "$20.16"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9693",
+        "amount": "4.5958",
+        "usdValue": "$4.45"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "比特币",
+        "chain": "bsc",
+        "price": "$0.0374",
+        "amount": "0.0707",
+        "usdValue": ""
+      },
+      {
+        "symbol": "QAI",
+        "chain": "bsc",
+        "price": "$0.00004677",
+        "amount": "12.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1391",
+        "amount": "2,232.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Web3.0",
+        "chain": "bsc",
+        "price": "$0.00004457",
+        "amount": "3.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRUMP",
+        "chain": "base",
+        "price": "$0.00001586",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,970"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$1,627"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8b7d680dc39f8af8857274e97948ddac0f13bfc9",
+    "topProtocols": [
+      {
+        "name": "TRANCHESS V2",
+        "volume": "$12K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$10K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x9b55…3def",
+        "volume": "$4K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$4K"
+      },
+      {
+        "name": "Eclipse Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$3K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$3K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$3K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$3K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$22K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$14K"
+      },
+      {
+        "name": "stoneQUEEN",
+        "volume": "$12K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "staYSTONE",
+        "volume": "$7K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "DUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$1K"
+      },
+      {
+        "name": "turPSTONE",
+        "volume": "$687"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:48:49.982Z",
+  "source": "base_aave",
+  "vaultBalance": 0.9470380948614165,
+  "vaultPct": 0.0013931690438053453
+}

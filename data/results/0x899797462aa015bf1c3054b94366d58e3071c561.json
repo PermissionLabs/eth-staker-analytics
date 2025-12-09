@@ -1,0 +1,141 @@
+{
+  "portfolio": {
+    "address": "0x899797462aa015bf1c3054b94366d58e3071c561",
+    "totalValue": "$4,024",
+    "walletLifetime": "2130 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.9101",
+        "amount": "25.0024",
+        "usdValue": "$347.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.1400",
+        "amount": "0.1038",
+        "usdValue": "$327.03"
+      },
+      {
+        "symbol": "MANA",
+        "chain": "eth",
+        "price": "$0.1530",
+        "amount": "50.0000",
+        "usdValue": "$7.65"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,342"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x899797462aa015bf1c3054b94366d58e3071c561",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x45cb…6685",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xfe5c…6547",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6731…4e89",
+        "volume": "$880"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$622"
+      },
+      {
+        "name": "0xf5a6…6747",
+        "volume": "$310"
+      },
+      {
+        "name": "0xde3b…5941",
+        "volume": "$202"
+      },
+      {
+        "name": "0x20ef…101a",
+        "volume": "$165"
+      },
+      {
+        "name": "0x4c4c…df38",
+        "volume": "$46"
+      },
+      {
+        "name": "0xfae4…b72f",
+        "volume": "$17"
+      },
+      {
+        "name": "0xce75…a2c4",
+        "volume": "$15"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$937"
+      },
+      {
+        "name": "ENJ",
+        "volume": "$683M"
+      },
+      {
+        "name": "ANA",
+        "volume": "$115B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:10:11.612Z",
+  "source": "lido_steth",
+  "vaultBalance": 1,
+  "vaultPct": 0.0000750878423816016
+}

@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0xc8c5445df1be35d5db2ddfb1c38736630e674318",
+    "totalValue": "$269",
+    "walletLifetime": "918 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,100.9600",
+        "amount": "0.0085",
+        "usdValue": "$26.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.9600",
+        "amount": "0.0028",
+        "usdValue": "$8.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,100.9600",
+        "amount": "0.0013",
+        "usdValue": "$4.05"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "999.5005",
+        "usdValue": "$2.63"
+      },
+      {
+        "symbol": "USDC(bridged)",
+        "chain": "era",
+        "price": "$1.0000",
+        "amount": "1.0300",
+        "usdValue": "$1.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,101.9700",
+        "amount": "0.0003",
+        "usdValue": "$0.99"
+      },
+      {
+        "symbol": "BASO",
+        "chain": "base",
+        "price": "$0.00003439",
+        "amount": "7,662.2620",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8356",
+        "amount": "0.2952",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$223"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc8c5445df1be35d5db2ddfb1c38736630e674318",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$673"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$464"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$416M"
+      },
+      {
+        "name": "erkly",
+        "volume": "$409"
+      },
+      {
+        "name": "OpenUSDT",
+        "volume": "$408B"
+      },
+      {
+        "name": "inance",
+        "volume": "$340"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$309B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$308"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$308"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$306M"
+      },
+      {
+        "name": "0x2f2a…85a7",
+        "volume": "$300"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$263"
+      },
+      {
+        "name": "itget",
+        "volume": "$212"
+      },
+      {
+        "name": "0x7421…a971",
+        "volume": "$206"
+      },
+      {
+        "name": "Velocore",
+        "volume": "$202"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$864"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$812"
+      },
+      {
+        "name": "ZK",
+        "volume": "$756"
+      },
+      {
+        "name": "USDC",
+        "volume": "$612"
+      },
+      {
+        "name": "USR",
+        "volume": "$315"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$165"
+      },
+      {
+        "name": "WETH",
+        "volume": "$75"
+      },
+      {
+        "name": "SCR",
+        "volume": "$63"
+      },
+      {
+        "name": "RESOLV",
+        "volume": "$15"
+      },
+      {
+        "name": "ZPET",
+        "volume": "$5"
+      },
+      {
+        "name": "Cake",
+        "volume": "$2"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$1B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:15:28.774Z",
+  "source": "base_aave",
+  "vaultBalance": 0.09905453779444652,
+  "vaultPct": 0.00014571717489766185
+}

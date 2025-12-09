@@ -1,0 +1,131 @@
+{
+  "portfolio": {
+    "address": "0xf8d72c6e9e7e78246095bb0ac80a26b1966a1a58",
+    "totalValue": "$604",
+    "walletLifetime": "929 days",
+    "tokens": [
+      {
+        "symbol": "LBTC",
+        "chain": "eth",
+        "price": "$90,771.4132",
+        "amount": "0.0020",
+        "usdValue": "$181.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.9900",
+        "amount": "0.0212",
+        "usdValue": "$66.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.4800",
+        "amount": "0.0064",
+        "usdValue": "$20.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9997",
+        "amount": "10.0000",
+        "usdValue": "$10.00"
+      },
+      {
+        "symbol": "BSSB",
+        "chain": "eth",
+        "price": "$0.0167",
+        "amount": "501.0305",
+        "usdValue": "$8.36"
+      },
+      {
+        "symbol": "BTC",
+        "chain": "merlin",
+        "price": "$90,658.7900",
+        "amount": "0.00005072",
+        "usdValue": "$4.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,128.9900",
+        "amount": "0.0013",
+        "usdValue": "$3.98"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "1.0000",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.4800",
+        "amount": "0.0002",
+        "usdValue": "$0.74"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$306"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf8d72c6e9e7e78246095bb0ac80a26b1966a1a58",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T00:32:34.256Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09576620219258936,
+  "vaultPct": 0.0017374121180498223
+}

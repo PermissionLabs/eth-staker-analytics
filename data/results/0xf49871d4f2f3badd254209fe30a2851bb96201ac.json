@@ -1,0 +1,164 @@
+{
+  "portfolio": {
+    "address": "0xf49871d4f2f3badd254209fe30a2851bb96201ac",
+    "totalValue": "$632",
+    "walletLifetime": "1112 days",
+    "tokens": [
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2124",
+        "amount": "307.1232",
+        "usdValue": "$65.23"
+      },
+      {
+        "symbol": "FLR",
+        "chain": "flr",
+        "price": "$0.0130",
+        "amount": "4,723.9262",
+        "usdValue": "$61.55"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "eth",
+        "price": "$0.1040",
+        "amount": "462.2218",
+        "usdValue": "$48.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.1400",
+        "amount": "0.0029",
+        "usdValue": "$9.01"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9918",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$448"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf49871d4f2f3badd254209fe30a2851bb96201ac",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$11K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$10K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$456"
+      },
+      {
+        "name": "0x1bf5…ab10",
+        "volume": "$295B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$295"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$276"
+      },
+      {
+        "name": "0xa894…ffda",
+        "volume": "$202"
+      },
+      {
+        "name": "0xb71b…bacb",
+        "volume": "$120"
+      },
+      {
+        "name": "StakeWise",
+        "volume": "$95"
+      },
+      {
+        "name": "0x1c60…30fc",
+        "volume": "$47"
+      },
+      {
+        "name": "0x7fe8…1efe",
+        "volume": "$13"
+      },
+      {
+        "name": "0x368d…1511",
+        "volume": "$9"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5edc…3039",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x11cd…ff34",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x37c7…baf6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xaa45…c590",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$138"
+      },
+      {
+        "name": "CRO",
+        "volume": "$51B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:19:39.549Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.14050725944227282,
+  "vaultPct": 0.000010550386950472185
+}

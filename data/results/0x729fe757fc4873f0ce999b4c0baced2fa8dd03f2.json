@@ -1,0 +1,90 @@
+{
+  "portfolio": {
+    "address": "0x729fe757fc4873f0ce999b4c0baced2fa8dd03f2",
+    "totalValue": "$3",
+    "walletLifetime": "83 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,172.1300",
+        "amount": "0.0010",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.1000",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.00001",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x729fe757fc4873f0ce999b4c0baced2fa8dd03f2",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x9c67…5127",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x32e3…f59f",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x2b3b…7921",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xea77…ea4d",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf2cc…cdff",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$6K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:34:07.819Z",
+  "source": "base_aave",
+  "vaultBalance": 0.7519987097223242,
+  "vaultPct": 0.0011062504550252668
+}

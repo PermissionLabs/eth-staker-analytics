@@ -1,0 +1,202 @@
+{
+  "portfolio": {
+    "address": "0x4846292476a6a62d189ccd4324fbb77916dddd0f",
+    "totalValue": "$1,369",
+    "walletLifetime": "1100 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,156.7200",
+        "amount": "0.0650",
+        "usdValue": "$205.03"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.4000",
+        "amount": "0.0452",
+        "usdValue": "$41.11"
+      },
+      {
+        "symbol": "USDC(bridged)",
+        "chain": "era",
+        "price": "$0.9999",
+        "amount": "39.6794",
+        "usdValue": "$39.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.9400",
+        "amount": "0.0100",
+        "usdValue": "$31.56"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "3.9731",
+        "usdValue": "$3.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,156.9400",
+        "amount": "0.0009",
+        "usdValue": "$2.88"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "era",
+        "price": "$3,156.9400",
+        "amount": "0.0005",
+        "usdValue": "$1.61"
+      },
+      {
+        "symbol": "Dubbz",
+        "chain": "base",
+        "price": "$0.0092",
+        "amount": "117.1977",
+        "usdValue": "$1.08"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,006"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$36"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4846292476a6a62d189ccd4324fbb77916dddd0f",
+    "topProtocols": [
+      {
+        "name": "0xb90b…c269",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9740…c35c",
+        "volume": "$2K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xd435…576c",
+        "volume": "$1K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$875"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$678"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$674"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$598B"
+      },
+      {
+        "name": "inance",
+        "volume": "$532"
+      },
+      {
+        "name": "0x8216…4fd7",
+        "volume": "$472"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$456"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$449M"
+      },
+      {
+        "name": "eson",
+        "volume": "$335M"
+      },
+      {
+        "name": "oi",
+        "volume": "$277"
+      },
+      {
+        "name": "0x9ea5…07f8",
+        "volume": "$270M"
+      },
+      {
+        "name": "averick",
+        "volume": "$267"
+      },
+      {
+        "name": "0x151b…e96d",
+        "volume": "$230"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$223"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "Dubbz",
+        "volume": "$598"
+      },
+      {
+        "name": "WETH",
+        "volume": "$450"
+      },
+      {
+        "name": "POL",
+        "volume": "$319"
+      },
+      {
+        "name": "USDT",
+        "volume": "$154"
+      },
+      {
+        "name": "BNB",
+        "volume": "$11"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:17:02.714Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.3,
+  "vaultPct": 0.00002252635271448048
+}

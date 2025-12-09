@@ -1,0 +1,160 @@
+{
+  "portfolio": {
+    "address": "0x98b2e9c9709339ef85300c0a4f2444f470c6a837",
+    "totalValue": "$28,128",
+    "walletLifetime": "1773 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.0000",
+        "amount": "0.0176",
+        "usdValue": "$54.90"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.8000",
+        "amount": "0.0400",
+        "usdValue": "$35.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,117.7400",
+        "amount": "0.0026",
+        "usdValue": "$7.99"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "0.0664",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7894",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$18,868"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,984"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,177"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x98b2e9c9709339ef85300c0a4f2444f470c6a837",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x6a5b…f555",
+        "volume": "$24K"
+      },
+      {
+        "name": "0xa034…7687",
+        "volume": "$20K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$16K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xafea…e47d",
+        "volume": "$7K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7880…62fc",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "HTX",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x499f…edd7",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$74K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$50K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$31K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$43"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:53:20.911Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.8405406788915126,
+  "vaultPct": 0.0007140987362514537
+}

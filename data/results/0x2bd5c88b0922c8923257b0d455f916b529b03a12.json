@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0x2bd5c88b0922c8923257b0d455f916b529b03a12",
+    "totalValue": "$28,873",
+    "walletLifetime": "92 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "430.0020",
+        "usdValue": "$430.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "226.1488",
+        "usdValue": "$226.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.1600",
+        "amount": "0.0006",
+        "usdValue": "$1.95"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "xdai",
+        "price": "$3,130.3400",
+        "amount": "0.0006",
+        "usdValue": "$1.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.4600",
+        "amount": "0.00003488",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "0.0047",
+        "usdValue": ""
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "0.0006",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$20,865"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$7,348"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2bd5c88b0922c8923257b0d455f916b529b03a12",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$53K"
+      },
+      {
+        "name": "0xb233…c460",
+        "volume": "$10K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x09c3…d818",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x2b3f…5dbb",
+        "volume": "$5K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x31e9…bde6",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xcbf9…33e9",
+        "volume": "$1K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$598"
+      },
+      {
+        "name": "0xf37b…80ef",
+        "volume": "$571"
+      },
+      {
+        "name": "0x4d7f…9abb",
+        "volume": "$462"
+      },
+      {
+        "name": "0xea1d…f84a",
+        "volume": "$3031"
+      },
+      {
+        "name": "inch",
+        "volume": "$178"
+      },
+      {
+        "name": "0x7236…8045",
+        "volume": "$157"
+      },
+      {
+        "name": "0x85ac…255f",
+        "volume": "$98"
+      },
+      {
+        "name": "0xb65b…aba3",
+        "volume": "$93"
+      },
+      {
+        "name": "DeBank L2",
+        "volume": "$90"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$55K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$6K"
+      },
+      {
+        "name": "MKR",
+        "volume": "$5K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$4K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$1K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$585"
+      },
+      {
+        "name": "RPL",
+        "volume": "$487"
+      },
+      {
+        "name": "PYUSD",
+        "volume": "$440"
+      },
+      {
+        "name": "crvUSD",
+        "volume": "$400"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$200"
+      },
+      {
+        "name": "CRV",
+        "volume": "$63"
+      },
+      {
+        "name": "AL",
+        "volume": "$19"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$4"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:16:39.881Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5.716602958548961,
+  "vaultPct": 0.001062928188936506
+}

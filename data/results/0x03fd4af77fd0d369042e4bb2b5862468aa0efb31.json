@@ -1,0 +1,170 @@
+{
+  "portfolio": {
+    "address": "0x03fd4af77fd0d369042e4bb2b5862468aa0efb31",
+    "totalValue": "$2,739",
+    "walletLifetime": "203 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,123.1600",
+        "amount": "0.0109",
+        "usdValue": "$34.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.8200",
+        "amount": "0.00006814",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "0.0002",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Swell",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,253"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,186"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "PENDLE",
+        "usdValue": "$240"
+      },
+      {
+        "protocol": "Renzo",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$25"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ezETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x03fd4af77fd0d369042e4bb2b5862468aa0efb31",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$3K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$1K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$1K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$462"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$462"
+      },
+      {
+        "name": "DeBank L2",
+        "volume": "$40"
+      },
+      {
+        "name": "0xf924…8c9c",
+        "volume": "$38"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$34"
+      },
+      {
+        "name": "0x1645…e725",
+        "volume": "$2"
+      },
+      {
+        "name": "0x40f4…3e15",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$924"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:02:27.644Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.3486366144474431,
+  "vaultPct": 0.0038885497331021496
+}

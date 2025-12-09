@@ -1,0 +1,63 @@
+{
+  "portfolio": {
+    "address": "0xbb1c53097715b0c4f199d11039d1758f4b3f9c9c",
+    "totalValue": "$664",
+    "walletLifetime": "981 days",
+    "tokens": [
+      {
+        "symbol": "RLB",
+        "chain": "eth",
+        "price": "$0.0581",
+        "amount": "1,124.5891",
+        "usdValue": "$65.30"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "eth",
+        "price": "$0.0970",
+        "amount": "111.5865",
+        "usdValue": "$10.82"
+      },
+      {
+        "symbol": "UBT",
+        "chain": "eth",
+        "price": "$0.0350",
+        "amount": "126.3312",
+        "usdValue": "$4.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.6400",
+        "amount": "0.0003",
+        "usdValue": "$0.89"
+      },
+      {
+        "symbol": "SPCT",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "11,135.6302",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$582"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbb1c53097715b0c4f199d11039d1758f4b3f9c9c",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T13:00:49.859Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.1845,
+  "vaultPct": 0.000013853706919405496
+}

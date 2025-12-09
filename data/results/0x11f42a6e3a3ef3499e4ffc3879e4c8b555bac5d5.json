@@ -1,0 +1,228 @@
+{
+  "portfolio": {
+    "address": "0x11f42a6e3a3ef3499e4ffc3879e4c8b555bac5d5",
+    "totalValue": "$267,140",
+    "walletLifetime": "1459 days",
+    "tokens": [
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$190.7410",
+        "amount": "94.4100",
+        "usdValue": "$18,007.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.9500",
+        "amount": "0.2018",
+        "usdValue": "$627.69"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$63,712"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$63,477"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$47,111"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$46,647"
+      },
+      {
+        "protocol": "Origami Finance",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "SKY",
+        "usdValue": "$20,443"
+      },
+      {
+        "protocol": "Hyperbeat",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$7,115"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x11f42a6e3a3ef3499e4ffc3879e4c8b555bac5d5",
+    "topProtocols": [
+      {
+        "name": "CoW Swap",
+        "volume": "$333K"
+      },
+      {
+        "name": "0xd267…9a4b",
+        "volume": "$174K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$114K"
+      },
+      {
+        "name": "Sky",
+        "volume": "$70K"
+      },
+      {
+        "name": "0xab78…e1bc",
+        "volume": "$56K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x0869…1944",
+        "volume": "$49K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$47K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$40K"
+      },
+      {
+        "name": "Origami Finance",
+        "volume": "$27K"
+      },
+      {
+        "name": "Definitive",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xdcdb…4965",
+        "volume": "$15K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$14K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x079a…dc63",
+        "volume": "$8K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x561b…8bfe",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$554K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$221K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$164K"
+      },
+      {
+        "name": "SKY",
+        "volume": "$123K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$80K"
+      },
+      {
+        "name": "MKR",
+        "volume": "$47K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$27K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$3K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$2K"
+      },
+      {
+        "name": "COW",
+        "volume": "$2K"
+      },
+      {
+        "name": "PLU",
+        "volume": "$2K"
+      },
+      {
+        "name": "CRO",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:53:49.982Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 18.726671073946733,
+  "vaultPct": 0.2088696045935957
+}

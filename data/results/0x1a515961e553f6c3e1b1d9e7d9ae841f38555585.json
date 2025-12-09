@@ -1,0 +1,213 @@
+{
+  "portfolio": {
+    "address": "0x1a515961e553f6c3e1b1d9e7d9ae841f38555585",
+    "totalValue": "$514,113",
+    "walletLifetime": "812 days",
+    "tokens": [
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4690",
+        "amount": "301.6726",
+        "usdValue": "$141.48"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "81.1750",
+        "usdValue": "$81.18"
+      },
+      {
+        "symbol": "OMNI",
+        "chain": "eth",
+        "price": "$1.2200",
+        "amount": "28.9133",
+        "usdValue": "$35.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.5100",
+        "amount": "0.0080",
+        "usdValue": "$24.71"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.7000",
+        "amount": "0.0212",
+        "usdValue": "$18.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.5100",
+        "amount": "0.0003",
+        "usdValue": "$0.83"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "10.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9995",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "4.2000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$376,001"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$123,704"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$13,955"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$150"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1a515961e553f6c3e1b1d9e7d9ae841f38555585",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$1M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$587K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$581K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$290K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x8aff…17ee",
+        "volume": "$30K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xc173…99cc",
+        "volume": "$15K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$10K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb458…6bbd",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$1K"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$826"
+      },
+      {
+        "name": "0x9f84…6645",
+        "volume": "$600"
+      },
+      {
+        "name": "Omni Network",
+        "volume": "$596B"
+      },
+      {
+        "name": "inance",
+        "volume": "$163"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$62K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$13K"
+      },
+      {
+        "name": "OMNI",
+        "volume": "$596"
+      },
+      {
+        "name": "NB",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:13:41.072Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.386888699420993,
+  "vaultPct": 0.0006297480334927551
+}

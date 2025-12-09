@@ -1,0 +1,40 @@
+{
+  "portfolio": {
+    "address": "0x1e4e65084825484eacd2bc7dd9c096bdaeaf4581",
+    "totalValue": "$2",
+    "walletLifetime": "142 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.0100",
+        "amount": "0.0006",
+        "usdValue": "$1.82"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x1e4e65084825484eacd2bc7dd9c096bdaeaf4581",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$664"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$300"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$764"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:37:22.872Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05282371398606507,
+  "vaultPct": 0.000009821884613508311
+}

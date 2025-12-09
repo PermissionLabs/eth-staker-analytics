@@ -1,0 +1,130 @@
+{
+  "portfolio": {
+    "address": "0xa2b597bd338e039bb9dbe84a71829b151e67b4c6",
+    "totalValue": "$3,008",
+    "walletLifetime": "1704 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.6000",
+        "amount": "1.1017",
+        "usdValue": "$985.55"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7500",
+        "amount": "18.4801",
+        "usdValue": "$254.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.3300",
+        "amount": "0.0035",
+        "usdValue": "$11.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.6800",
+        "amount": "0.00002788",
+        "usdValue": "$0.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,757"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa2b597bd338e039bb9dbe84a71829b151e67b4c6",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x87c2…0e0e",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4d88…de4c",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "000Bridgers",
+        "volume": "$981"
+      },
+      {
+        "name": "0xe1a0…917c",
+        "volume": "$248"
+      },
+      {
+        "name": "0xea67…8ec8",
+        "volume": "$225"
+      },
+      {
+        "name": "0x045c…8952",
+        "volume": "$196"
+      },
+      {
+        "name": "0xa832…7b8d",
+        "volume": "$39"
+      },
+      {
+        "name": "0xc066…8b8c",
+        "volume": "$9"
+      },
+      {
+        "name": "0xb42f…ead6",
+        "volume": "$4"
+      },
+      {
+        "name": "0xa2b5…b4c6",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$981"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$248"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:17:58.023Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.203663473306742,
+  "vaultPct": 0.00022380561411172598
+}

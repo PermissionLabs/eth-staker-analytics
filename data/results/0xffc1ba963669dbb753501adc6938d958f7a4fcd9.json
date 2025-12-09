@@ -1,0 +1,188 @@
+{
+  "portfolio": {
+    "address": "0xffc1ba963669dbb753501adc6938d958f7a4fcd9",
+    "totalValue": "$810",
+    "walletLifetime": "901 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.3300",
+        "amount": "0.1709",
+        "usdValue": "$529.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.3300",
+        "amount": "0.0301",
+        "usdValue": "$93.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$173"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$13"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xffc1ba963669dbb753501adc6938d958f7a4fcd9",
+    "topProtocols": [
+      {
+        "name": "EraLend",
+        "volume": "$30K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$28K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x0541…9aa4",
+        "volume": "$5K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "Goal3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$5K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$864"
+      },
+      {
+        "name": "Overnight.fi",
+        "volume": "$690"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$647"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$642"
+      },
+      {
+        "name": "Zora Bridge",
+        "volume": "$605"
+      },
+      {
+        "name": "0x391e…a604",
+        "volume": "$579"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$579"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$468"
+      },
+      {
+        "name": "0x370d…f876",
+        "volume": "$425"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$74K"
+      },
+      {
+        "name": "KzkUSD",
+        "volume": "$5K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$758"
+      },
+      {
+        "name": "USDC",
+        "volume": "$645"
+      },
+      {
+        "name": "ZK",
+        "volume": "$438"
+      },
+      {
+        "name": "USDT",
+        "volume": "$328"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$299"
+      },
+      {
+        "name": "ARD",
+        "volume": "$52"
+      },
+      {
+        "name": "NATO",
+        "volume": "$6"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:17:39.139Z",
+  "source": "base_aave",
+  "vaultBalance": 0.055000608010945445,
+  "vaultPct": 0.00008091030855789841
+}

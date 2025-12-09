@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0xbf5738f3a1d9d3d30b130745882ef37b8f8367ba",
+    "totalValue": "$1,376",
+    "walletLifetime": "744 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.5900",
+        "amount": "0.0003",
+        "usdValue": "$0.88"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "30.2707",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1988",
+        "amount": "0.0834",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "ZETA",
+        "chain": "eth",
+        "price": "$0.0844",
+        "amount": "1.0450",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "0.0748",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.0040",
+        "usdValue": ""
+      },
+      {
+        "symbol": "weirdo",
+        "chain": "base",
+        "price": "$0.0₅4742",
+        "amount": "420.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,375"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbf5738f3a1d9d3d30b130745882ef37b8f8367ba",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$35K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$27K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$2K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x734a…dbb7",
+        "volume": "$2K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x706a…e483",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$1K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x9ccc…b294",
+        "volume": "$6270"
+      },
+      {
+        "name": "x",
+        "volume": "$442"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$55K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$1K"
+      },
+      {
+        "name": "am",
+        "volume": "$328"
+      },
+      {
+        "name": "SAND",
+        "volume": "$116M"
+      },
+      {
+        "name": "AMO",
+        "volume": "$98"
+      },
+      {
+        "name": "OP",
+        "volume": "$59"
+      },
+      {
+        "name": "GRT",
+        "volume": "$40"
+      },
+      {
+        "name": "PRO",
+        "volume": "$35"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$21"
+      },
+      {
+        "name": "UNI",
+        "volume": "$19"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:36:49.504Z",
+  "source": "moonwell",
+  "vaultBalance": 0.4310959776706453,
+  "vaultPct": 0.007821040810841234
+}

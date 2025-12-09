@@ -1,0 +1,87 @@
+{
+  "portfolio": {
+    "address": "0x9c04b6f0f277090af615b5e940f710ebf45269a7",
+    "totalValue": "$12,140",
+    "walletLifetime": "120 days",
+    "tokens": [
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "41.8391",
+        "usdValue": "$5.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.9000",
+        "amount": "0.0001",
+        "usdValue": "$0.38"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$12,135"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9c04b6f0f277090af615b5e940f710ebf45269a7",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$17K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x5b14…fb53",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xfa0b…81b9",
+        "volume": "$34B"
+      },
+      {
+        "name": "ridgers",
+        "volume": "$25B"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$49"
+      },
+      {
+        "name": "POL",
+        "volume": "$10M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:01:59.084Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.87284265,
+  "vaultPct": 0.00029080339847194426
+}

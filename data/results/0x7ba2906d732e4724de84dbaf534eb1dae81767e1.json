@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "address": "0x7ba2906d732e4724de84dbaf534eb1dae81767e1",
+    "totalValue": "$22,543",
+    "walletLifetime": "240 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.3300",
+        "amount": "0.0002",
+        "usdValue": "$0.70"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4890",
+        "amount": "0.4268",
+        "usdValue": "$0.21"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$22,539"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7ba2906d732e4724de84dbaf534eb1dae81767e1",
+    "topProtocols": [
+      {
+        "name": "Kelp DAO",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xb44f…1310",
+        "volume": "$14K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x264b…97b5",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa182…0e84",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$37K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:16:04.499Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 6.625039452282062,
+  "vaultPct": 0.07389297143902311
+}

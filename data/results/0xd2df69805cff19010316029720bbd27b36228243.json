@@ -1,0 +1,176 @@
+{
+  "portfolio": {
+    "address": "0xd2df69805cff19010316029720bbd27b36228243",
+    "totalValue": "$313",
+    "walletLifetime": "603 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.6500",
+        "amount": "0.0099",
+        "usdValue": "$31.08"
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1387",
+        "amount": "1,000.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$282"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd2df69805cff19010316029720bbd27b36228243",
+    "topProtocols": [
+      {
+        "name": "LayerBank",
+        "volume": "$1K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1047…0cc5",
+        "volume": "$914"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$788M"
+      },
+      {
+        "name": "endi Finance",
+        "volume": "$732B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$699"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$608"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$560"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$544"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$423B"
+      },
+      {
+        "name": "inance",
+        "volume": "$421M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$379M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$339"
+      },
+      {
+        "name": "0x2748…4c21",
+        "volume": "$337B"
+      },
+      {
+        "name": "WOWMAX",
+        "volume": "$268"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$241"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$240"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$238"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$760"
+      },
+      {
+        "name": "DAI",
+        "volume": "$730"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$643"
+      },
+      {
+        "name": "axlUSDC",
+        "volume": "$427"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$202"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$31"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:07:14.723Z",
+  "source": "moonwell",
+  "vaultBalance": 0.08848509559764817,
+  "vaultPct": 0.0016053166340352937
+}

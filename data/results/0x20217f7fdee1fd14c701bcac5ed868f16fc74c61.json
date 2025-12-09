@@ -1,0 +1,242 @@
+{
+  "portfolio": {
+    "address": "0x20217f7fdee1fd14c701bcac5ed868f16fc74c61",
+    "totalValue": "$868",
+    "walletLifetime": "1585 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.2800",
+        "amount": "0.0677",
+        "usdValue": "$210.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.5600",
+        "amount": "0.0414",
+        "usdValue": "$128.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.2800",
+        "amount": "0.0116",
+        "usdValue": "$35.93"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "era",
+        "price": "$1.0015",
+        "amount": "16.2608",
+        "usdValue": "$16.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,108.5600",
+        "amount": "0.0039",
+        "usdValue": "$12.04"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3900",
+        "amount": "7.1034",
+        "usdValue": "$9.87"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.5000",
+        "amount": "0.0082",
+        "usdValue": "$7.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,111.7900",
+        "amount": "0.0022",
+        "usdValue": "$6.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,108.5600",
+        "amount": "0.0021",
+        "usdValue": "$6.50"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "0.2126",
+        "usdValue": "$2.89"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "5.6797",
+        "usdValue": "$0.70"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3214",
+        "amount": "1.8674",
+        "usdValue": "$0.60"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$417"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Element",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "ReactorFusion",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x20217f7fdee1fd14c701bcac5ed868f16fc74c61",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$7K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$7K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$5K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xc9a8…7c32",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x36fe…d933",
+        "volume": "$2K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$2K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$2K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6f47…dd5b",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$7K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "OP",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$866M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:58:33.510Z",
+  "source": "base_aave",
+  "vaultBalance": 0.15,
+  "vaultPct": 0.00022066203852272903
+}

@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x2dbdf369f002ced963bcbe6c56f210be57b080b1",
+    "totalValue": "$8,855",
+    "walletLifetime": "3005 days",
+    "tokens": [
+      {
+        "symbol": "BNB(Legacy)",
+        "chain": "eth",
+        "price": "$1,023.1733",
+        "amount": "0.1500",
+        "usdValue": "$153.48"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "100.0000",
+        "usdValue": "$99.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.8400",
+        "amount": "0.0069",
+        "usdValue": "$21.65"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$190.6055",
+        "amount": "0.1049",
+        "usdValue": "$19.99"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2815",
+        "amount": "53.0000",
+        "usdValue": "$14.92"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.7700",
+        "amount": "2.2825",
+        "usdValue": "$8.61"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "5.9576",
+        "usdValue": "$5.96"
+      },
+      {
+        "symbol": "PNT",
+        "chain": "eth",
+        "price": "$0.0007",
+        "amount": "1,785.0000",
+        "usdValue": "$1.33"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$7,371"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$1,158"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2dbdf369f002ced963bcbe6c56f210be57b080b1",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$28K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x3272…3ea8",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x709f…9926",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7d44…8d5f",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bitstamp",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x80fb…ab03",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x895a…bc54",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5b2d…e905",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x901c…e8c7",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8e89…a9ba",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0086…dffb",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe6f7…d224",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xc1b3…aa8b",
+        "volume": "$939"
+      },
+      {
+        "name": "0x0089…30c8",
+        "volume": "$740M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$609"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$57K"
+      },
+      {
+        "name": "KAAVE",
+        "volume": "$11K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "AIDBNB",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:27:15.671Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.3576858426718088,
+  "vaultPct": 0.0002524440763789175
+}

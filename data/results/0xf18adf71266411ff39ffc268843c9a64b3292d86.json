@@ -1,0 +1,284 @@
+{
+  "portfolio": {
+    "address": "0xf18adf71266411ff39ffc268843c9a64b3292d86",
+    "totalValue": "$88,048",
+    "walletLifetime": "1643 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.5300",
+        "amount": "0.1067",
+        "usdValue": "$333.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.5300",
+        "amount": "0.0821",
+        "usdValue": "$256.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,130.9800",
+        "amount": "0.0163",
+        "usdValue": "$51.18"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "xdai",
+        "price": "$1.0002",
+        "amount": "10.2857",
+        "usdValue": "$10.29"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "uni",
+        "price": "$0.9999",
+        "amount": "10.0000",
+        "usdValue": "$10.00"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "422.9601",
+        "usdValue": "$4.27"
+      },
+      {
+        "symbol": "BLONDE",
+        "chain": "base",
+        "price": "$0.0₆9198",
+        "amount": "1,685,690.1999",
+        "usdValue": "$1.55"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2210",
+        "amount": "1.0115",
+        "usdValue": "$1.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.5300",
+        "amount": "0.0002",
+        "usdValue": "$0.75"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "5.4106",
+        "usdValue": "$0.67"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$77,308"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$10,064"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Camelot",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GRAIL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "stMATIC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Velodrome",
+        "chain": "op",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "wstETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "TokenSets",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "QUICK(old)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf18adf71266411ff39ffc268843c9a64b3292d86",
+    "topProtocols": [
+      {
+        "name": "Balancer V2",
+        "volume": "$128K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$122K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$119K"
+      },
+      {
+        "name": "0x83a5…15be",
+        "volume": "$78K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$71K"
+      },
+      {
+        "name": "Velodrome",
+        "volume": "$64K"
+      },
+      {
+        "name": "0x9ef8…022f",
+        "volume": "$52K"
+      },
+      {
+        "name": "Velodrome V2",
+        "volume": "$49K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$34K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x",
+        "volume": "$31K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$27K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x031d…afcc",
+        "volume": "$23K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$21K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$14K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$186K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$127K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$107K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$91K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$77K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$58K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$47K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$46K"
+      },
+      {
+        "name": "POL",
+        "volume": "$37K"
+      },
+      {
+        "name": "BAL",
+        "volume": "$25K"
+      },
+      {
+        "name": "TITAN",
+        "volume": "$24K"
+      },
+      {
+        "name": "KmooBIFI",
+        "volume": "$20K"
+      },
+      {
+        "name": "OP",
+        "volume": "$20K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:40:34.200Z",
+  "source": "moonwell",
+  "vaultBalance": 17.760031087142746,
+  "vaultPct": 0.32220650418703894
+}

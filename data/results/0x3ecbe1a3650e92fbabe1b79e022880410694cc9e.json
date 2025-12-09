@@ -1,0 +1,99 @@
+{
+  "portfolio": {
+    "address": "0x3ecbe1a3650e92fbabe1b79e022880410694cc9e",
+    "totalValue": "$9,258",
+    "walletLifetime": "419 days",
+    "tokens": [
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4758",
+        "amount": "620.8356",
+        "usdValue": "$295.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,094.8500",
+        "amount": "0.0044",
+        "usdValue": "$13.63"
+      },
+      {
+        "symbol": "ITRUMP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "80.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,949"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3ecbe1a3650e92fbabe1b79e022880410694cc9e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x8a4d…de53",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x1d0a…52b4",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8cba…5563",
+        "volume": "$4K"
+      },
+      {
+        "name": "Go",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd811…36bc",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$793"
+      },
+      {
+        "name": "0x9378…9f5f",
+        "volume": "$6"
+      },
+      {
+        "name": "0xf25f…fb03",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$793"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:21:00.665Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.190007889749552,
+  "vaultPct": 0.0007790776323237314
+}

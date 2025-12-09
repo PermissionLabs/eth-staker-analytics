@@ -1,0 +1,117 @@
+{
+  "portfolio": {
+    "address": "0x71bbd6ca75bcc84228c60fdccfc67c1896aca205",
+    "totalValue": "$34,571",
+    "walletLifetime": "1501 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.3900",
+        "amount": "0.0330",
+        "usdValue": "$102.54"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "18.5231",
+        "usdValue": "$18.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.3900",
+        "amount": "0.0026",
+        "usdValue": "$8.14"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "7.7879",
+        "usdValue": "$7.79"
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1379",
+        "amount": "2,010.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$34,434"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x71bbd6ca75bcc84228c60fdccfc67c1896aca205",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$776K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$243K"
+      },
+      {
+        "name": "0x0e97…fb8f",
+        "volume": "$185K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$146K"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5b2f…703f",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$784K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$583K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$196K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$58K"
+      },
+      {
+        "name": "ARPA",
+        "volume": "$163"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:34:45.120Z",
+  "source": "base_aave",
+  "vaultBalance": 9.906091007556583,
+  "vaultPct": 0.014572654903460734
+}

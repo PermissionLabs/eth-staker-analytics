@@ -1,0 +1,262 @@
+{
+  "portfolio": {
+    "address": "0x95f468a49610deb29c11e0bf7d42d6e7d44ae0d2",
+    "totalValue": "$1,672",
+    "walletLifetime": "3852 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,148.8000",
+        "amount": "0.0446",
+        "usdValue": "$140.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,148.1400",
+        "amount": "0.0365",
+        "usdValue": "$115.03"
+      },
+      {
+        "symbol": "Daram",
+        "chain": "eth",
+        "price": "$0.0₆1861",
+        "amount": "5,000,000.0000",
+        "usdValue": "$0.93"
+      },
+      {
+        "symbol": "SEAM",
+        "chain": "base",
+        "price": "$0.41",
+        "amount": "2.91",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$676"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$376"
+      },
+      {
+        "protocol": "Karak",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$279"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$82"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SEAM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "veSync",
+        "chain": "era",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wrsETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "mtwCARROT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x95f468a49610deb29c11e0bf7d42d6e7d44ae0d2",
+    "topProtocols": [
+      {
+        "name": "0x07c9…422e",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$1K"
+      },
+      {
+        "name": "Seamless Protocol",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x95f4…e0d2",
+        "volume": "$1K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$759"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$741"
+      },
+      {
+        "name": "EchoDEX",
+        "volume": "$620"
+      },
+      {
+        "name": "Swell",
+        "volume": "$616K"
+      },
+      {
+        "name": "elp DAO",
+        "volume": "$602"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$575"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$573"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$565"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$542"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$489"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$477"
+      },
+      {
+        "name": "0x1e0b…9b45",
+        "volume": "$477"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$476"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$974"
+      },
+      {
+        "name": "ZK",
+        "volume": "$953"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$484"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$436"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$347"
+      },
+      {
+        "name": "USDC",
+        "volume": "$257"
+      },
+      {
+        "name": "Daram",
+        "volume": "$51"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$41"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:32:21.704Z",
+  "source": "moonwell",
+  "vaultBalance": 0.11275217415875738,
+  "vaultPct": 0.002045575466446221
+}

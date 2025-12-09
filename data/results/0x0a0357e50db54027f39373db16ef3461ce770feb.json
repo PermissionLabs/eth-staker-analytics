@@ -1,0 +1,260 @@
+{
+  "portfolio": {
+    "address": "0x0a0357e50db54027f39373db16ef3461ce770feb",
+    "totalValue": "$397,274",
+    "walletLifetime": "1739 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,236.5400",
+        "amount": "1.1117",
+        "usdValue": "$100,317.08"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.6692",
+        "amount": "2,947.8193",
+        "usdValue": "$40,294.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,110.2300",
+        "amount": "3.1689",
+        "usdValue": "$9,855.97"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "4,000.0000",
+        "usdValue": "$3,999.60"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2110",
+        "amount": "8,000.1135",
+        "usdValue": "$1,688.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.2300",
+        "amount": "0.2185",
+        "usdValue": "$679.47"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$85,592"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$83,168"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DAI",
+        "usdValue": "$54,610"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$13,493"
+      },
+      {
+        "protocol": "The Graph",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GRT",
+        "usdValue": "$2,125"
+      },
+      {
+        "protocol": "The Graph",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GRT",
+        "usdValue": "$993"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$404"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "AAVE",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Polycat",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WPOL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0a0357e50db54027f39373db16ef3461ce770feb",
+    "topProtocols": [
+      {
+        "name": "GMX",
+        "volume": "$2M"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$166K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$163K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$122K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$108K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$91K"
+      },
+      {
+        "name": "The Graph",
+        "volume": "$87K"
+      },
+      {
+        "name": "0x0000…006e",
+        "volume": "$80K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$80K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$54K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$50K"
+      },
+      {
+        "name": "0xf825…d54c",
+        "volume": "$49K"
+      },
+      {
+        "name": "Polycat",
+        "volume": "$42K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$38K"
+      },
+      {
+        "name": "0xe68b…637c",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x0000…1010",
+        "volume": "$31K"
+      },
+      {
+        "name": "0x2a88…5922",
+        "volume": "$24K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$612K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$361K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$346K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$215K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$173K"
+      },
+      {
+        "name": "KGMX",
+        "volume": "$146K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$140K"
+      },
+      {
+        "name": "POL",
+        "volume": "$139K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$102K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$76K"
+      },
+      {
+        "name": "esGMX",
+        "volume": "$68K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$67K"
+      },
+      {
+        "name": "KFISH",
+        "volume": "$43K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$21K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:21:09.300Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 25.393820555271688,
+  "vaultPct": 0.004721651632746042
+}

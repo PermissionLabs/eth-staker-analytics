@@ -1,0 +1,75 @@
+{
+  "portfolio": {
+    "address": "0xa6842d639fd146ce77b7548088e3a9c31cfab562",
+    "totalValue": "$24,313",
+    "walletLifetime": "63 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.0000",
+        "amount": "0.0818",
+        "usdValue": "$257.23"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$91,314.3100",
+        "amount": "0.0007",
+        "usdValue": "$66.84"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0283",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$23,989"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa6842d639fd146ce77b7548088e3a9c31cfab562",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$28K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x5b14…fb53",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$22K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:04:06.282Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.723896370480196,
+  "vaultPct": 0.0008783472720086834
+}

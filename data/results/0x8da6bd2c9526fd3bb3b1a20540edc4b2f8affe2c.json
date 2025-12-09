@@ -1,0 +1,248 @@
+{
+  "portfolio": {
+    "address": "0x8da6bd2c9526fd3bb3b1a20540edc4b2f8affe2c",
+    "totalValue": "$1,908,658",
+    "walletLifetime": "2920 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.9900",
+        "amount": "7.4140",
+        "usdValue": "$23,042.55"
+      },
+      {
+        "symbol": "ENS",
+        "chain": "eth",
+        "price": "$11.2200",
+        "amount": "278.5327",
+        "usdValue": "$3,125.14"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Eth2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,413,087"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$423,700"
+      },
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$35,812"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$7,617"
+      },
+      {
+        "protocol": "Octant",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "GLM",
+        "usdValue": "$2,219"
+      },
+      {
+        "protocol": "Obol Collective",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "OBOL",
+        "usdValue": "$30"
+      },
+      {
+        "protocol": "Hedgey",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "NET",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Alchemix V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8da6bd2c9526fd3bb3b1a20540edc4b2f8affe2c",
+    "topProtocols": [
+      {
+        "name": "1inch",
+        "volume": "$5M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "Compound",
+        "volume": "$849K"
+      },
+      {
+        "name": "Eth2",
+        "volume": "$820K"
+      },
+      {
+        "name": "0xfeff…eb04",
+        "volume": "$586K"
+      },
+      {
+        "name": "0x6ce3…1e40",
+        "volume": "$525K"
+      },
+      {
+        "name": "0xbf42…5fce",
+        "volume": "$487K"
+      },
+      {
+        "name": "Alchemix V2",
+        "volume": "$415K"
+      },
+      {
+        "name": "ArbiNYAN",
+        "volume": "$269K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$221K"
+      },
+      {
+        "name": "Alchemix",
+        "volume": "$200K"
+      },
+      {
+        "name": "0xb3c6…b63b",
+        "volume": "$200K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$197K"
+      },
+      {
+        "name": "NodeSet",
+        "volume": "$168K"
+      },
+      {
+        "name": "0xa74c…9a4e",
+        "volume": "$163K"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$153K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$144K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$4M"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$454K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$400K"
+      },
+      {
+        "name": "alUSD",
+        "volume": "$159K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$159K"
+      },
+      {
+        "name": "USDS",
+        "volume": "$42K"
+      },
+      {
+        "name": "MKR",
+        "volume": "$31K"
+      },
+      {
+        "name": "RPL",
+        "volume": "$30K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$25K"
+      },
+      {
+        "name": "alETH",
+        "volume": "$23K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$21K"
+      },
+      {
+        "name": "OP",
+        "volume": "$17K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$9K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:55:08.014Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 95.73866836101705,
+  "vaultPct": 0.01780136387117553
+}

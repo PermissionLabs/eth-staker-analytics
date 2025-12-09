@@ -1,0 +1,150 @@
+{
+  "portfolio": {
+    "address": "0x2ee8d94b327c58f26d7e39296f21acece3fceb70",
+    "totalValue": "$91,492",
+    "walletLifetime": "755 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.0400",
+        "amount": "0.0907",
+        "usdValue": "$281.60"
+      },
+      {
+        "symbol": "QKC",
+        "chain": "eth",
+        "price": "$0.0042",
+        "amount": "45,911.0000",
+        "usdValue": "$194.43"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1220",
+        "amount": "964.0892",
+        "usdValue": "$117.62"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7853",
+        "amount": "6.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Boe",
+        "chain": "base",
+        "price": "$0.0000268",
+        "amount": "0.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.0168",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Blue",
+        "chain": "base",
+        "price": "$0.00001267",
+        "amount": "0.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004632",
+        "amount": "0.0690",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$90,898"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2ee8d94b327c58f26d7e39296f21acece3fceb70",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$171K"
+      },
+      {
+        "name": "0xea40…e936",
+        "volume": "$104K"
+      },
+      {
+        "name": "0x347c…6eb4",
+        "volume": "$49K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$44K"
+      },
+      {
+        "name": "0xc452…8977",
+        "volume": "$31K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x756d…78a8",
+        "volume": "$5K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x47fd…0866",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb890…bc6c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$366K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$95K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "POL",
+        "volume": "$886B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:23:38.367Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 43.183012713835666,
+  "vaultPct": 0.008029321229681887
+}

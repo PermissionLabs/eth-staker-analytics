@@ -1,0 +1,206 @@
+{
+  "portfolio": {
+    "address": "0xfc9eec12c7c2584e4f9c88780122380157e3361a",
+    "totalValue": "$277,211",
+    "walletLifetime": "1687 days",
+    "tokens": [
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.6010",
+        "amount": "2,724.7594",
+        "usdValue": "$1,637.61"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6792",
+        "amount": "35.3738",
+        "usdValue": "$200.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.6600",
+        "amount": "0.0535",
+        "usdValue": "$168.51"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$30.3190",
+        "amount": "0.1883",
+        "usdValue": "$5.71"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$215,769"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$59,423"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "CRV",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Koi",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "MUTE",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Synthetix",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "SNX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "GHO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfc9eec12c7c2584e4f9c88780122380157e3361a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$737K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$731K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$410K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$218K"
+      },
+      {
+        "name": "0xef95…b333",
+        "volume": "$135K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$98K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$75K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$73K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$65K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$62K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$60K"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$56K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$775K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$465K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$456K"
+      },
+      {
+        "name": "POL",
+        "volume": "$220K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$168K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$120K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$113K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$94K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$91K"
+      },
+      {
+        "name": "SNX",
+        "volume": "$52K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$37K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$35K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:51:42.508Z",
+  "source": "base_aave",
+  "vaultBalance": 30.000051943417997,
+  "vaultPct": 0.044132484117482496
+}

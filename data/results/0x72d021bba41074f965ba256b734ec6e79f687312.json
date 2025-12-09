@@ -1,0 +1,97 @@
+{
+  "portfolio": {
+    "address": "0x72d021bba41074f965ba256b734ec6e79f687312",
+    "totalValue": "$10",
+    "walletLifetime": "300 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.9700",
+        "amount": "0.0031",
+        "usdValue": "$9.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,133.1800",
+        "amount": "0.0002",
+        "usdValue": "$0.61"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7912",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.00001",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x72d021bba41074f965ba256b734ec6e79f687312",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$35K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$26K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$4K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$584M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$305B"
+      },
+      {
+        "name": "inance",
+        "volume": "$108B"
+      },
+      {
+        "name": "0xb42f…ead6",
+        "volume": "$6"
+      },
+      {
+        "name": "0xc613…4b78",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$47K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$37K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:26:07.708Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.846629271878465,
+  "vaultPct": 0.000715230831162316
+}

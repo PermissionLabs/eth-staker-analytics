@@ -1,0 +1,185 @@
+{
+  "portfolio": {
+    "address": "0xb1cb386635b20214b74638ea6a2ed8f4c462e39c",
+    "totalValue": "$13,583",
+    "walletLifetime": "1673 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.1800",
+        "amount": "0.0086",
+        "usdValue": "$26.85"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1241",
+        "amount": "4.7043",
+        "usdValue": "$0.58"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9819",
+        "amount": "9,222.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "LEMX",
+        "chain": "bsc",
+        "price": "$37.3305",
+        "amount": "0.00001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WOOF",
+        "chain": "shib",
+        "price": "$0.0002",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004632",
+        "amount": "0.0690",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "DLG",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.1000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "PIG",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "1.5800",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$13,493"
+      },
+      {
+        "protocol": "Polygon Staking",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$62"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb1cb386635b20214b74638ea6a2ed8f4c462e39c",
+    "topProtocols": [
+      {
+        "name": "0x520e…420f",
+        "volume": "$29K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xe13a…22fc",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x100a…38e5",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "Poloniex",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x59a5…06e8",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0f0a…eca9",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3810…b873",
+        "volume": "$960"
+      },
+      {
+        "name": "0xdd3d…ceee",
+        "volume": "$953"
+      },
+      {
+        "name": "0xeba8…4cb1",
+        "volume": "$858"
+      },
+      {
+        "name": "0x9740…c35c",
+        "volume": "$491"
+      },
+      {
+        "name": "Polygon Staking",
+        "volume": "$286"
+      },
+      {
+        "name": "0xfd15…0afb",
+        "volume": "$113"
+      },
+      {
+        "name": "0xf866…62ea",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$42K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$3K"
+      },
+      {
+        "name": "CRO",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$776B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:00:15.878Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.8793612651659335,
+  "vaultPct": 0.00029129286722007024
+}

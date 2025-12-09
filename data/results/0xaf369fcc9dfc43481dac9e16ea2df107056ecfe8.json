@@ -1,0 +1,216 @@
+{
+  "portfolio": {
+    "address": "0xaf369fcc9dfc43481dac9e16ea2df107056ecfe8",
+    "totalValue": "$50,031",
+    "walletLifetime": "528 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,152.7700",
+        "amount": "0.1859",
+        "usdValue": "$585.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,156.6100",
+        "amount": "0.1207",
+        "usdValue": "$380.85"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.7000",
+        "amount": "0.2249",
+        "usdValue": "$204.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,152.7700",
+        "amount": "0.0465",
+        "usdValue": "$146.75"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$0.9998",
+        "amount": "32.5987",
+        "usdValue": "$32.59"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "10.5346",
+        "usdValue": "$10.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$23,959"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BNB",
+        "usdValue": "$22,885"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$1,824"
+      },
+      {
+        "protocol": "Bracket",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaf369fcc9dfc43481dac9e16ea2df107056ecfe8",
+    "topProtocols": [
+      {
+        "name": "Venus",
+        "volume": "$542K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$375K"
+      },
+      {
+        "name": "0xe958…280b",
+        "volume": "$307K"
+      },
+      {
+        "name": "0x5f0b…db06",
+        "volume": "$175K"
+      },
+      {
+        "name": "0x1c76…5046",
+        "volume": "$163K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$117K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$110K"
+      },
+      {
+        "name": "0xbdaa…8b6e",
+        "volume": "$80K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$80K"
+      },
+      {
+        "name": "0xe72e…3ca2",
+        "volume": "$73K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$73K"
+      },
+      {
+        "name": "0xd030…45d9",
+        "volume": "$70K"
+      },
+      {
+        "name": "0xcea8…85af",
+        "volume": "$69K"
+      },
+      {
+        "name": "0x7d84…9c52",
+        "volume": "$63K"
+      },
+      {
+        "name": "0x7786…b8ca",
+        "volume": "$60K"
+      },
+      {
+        "name": "0x3cf6…c03f",
+        "volume": "$57K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$55K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$569K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$421K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$252K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$119K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$98K"
+      },
+      {
+        "name": "KWBNB",
+        "volume": "$43K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$31K"
+      },
+      {
+        "name": "osETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$2K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$421"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:13:25.885Z",
+  "source": "base_aave",
+  "vaultBalance": 14.655474785940143,
+  "vaultPct": 0.021559379611893383
+}

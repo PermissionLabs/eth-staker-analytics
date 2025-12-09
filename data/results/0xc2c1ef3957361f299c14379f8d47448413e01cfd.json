@@ -1,0 +1,87 @@
+{
+  "portfolio": {
+    "address": "0xc2c1ef3957361f299c14379f8d47448413e01cfd",
+    "totalValue": "$968",
+    "walletLifetime": "1093 days",
+    "tokens": [
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅85",
+        "amount": "1,920,239.3279",
+        "usdValue": "$16.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.0000",
+        "amount": "0.0009",
+        "usdValue": "$2.64"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$949"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc2c1ef3957361f299c14379f8d47448413e01cfd",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$225"
+      },
+      {
+        "name": "0x85c6…7851",
+        "volume": "$121B"
+      },
+      {
+        "name": "inance",
+        "volume": "$92"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$32B"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$237"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$171"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:58:47.821Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.076,
+  "vaultPct": 0.000005706676021001722
+}

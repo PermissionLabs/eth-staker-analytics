@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0x80d0694f1530780e0fe6fd735813d9551b67c714",
+    "totalValue": "$32,918",
+    "walletLifetime": "3810 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.6817",
+        "amount": "400.0000",
+        "usdValue": "$5,472.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.0300",
+        "amount": "0.0486",
+        "usdValue": "$151.00"
+      },
+      {
+        "symbol": "eUSDT",
+        "chain": "flr",
+        "price": "$0.9628",
+        "amount": "22.2594",
+        "usdValue": "$21.43"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$19,311"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$7,950"
+      },
+      {
+        "protocol": "stake.link",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LINK",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "flare",
+        "chain": "flr",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WFLR",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "NURI Exchange",
+        "chain": "scrl",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "NURI",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x80d0694f1530780e0fe6fd735813d9551b67c714",
+    "topProtocols": [
+      {
+        "name": "NURI Exchange",
+        "volume": "$211K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$166K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$104K"
+      },
+      {
+        "name": "WOWMAX",
+        "volume": "$101K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$37K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$36K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$27K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$23K"
+      },
+      {
+        "name": "zkSync Bridge",
+        "volume": "$20K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$19K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$17K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$17K"
+      },
+      {
+        "name": "0xe1d6…782b",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$14K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$13K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "wstETH",
+        "volume": "$340K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$317K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$65K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$46K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$44K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$29K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$11K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$10K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:15:32.360Z",
+  "source": "lido_steth",
+  "vaultBalance": 6.158184800010158,
+  "vaultPct": 0.0004624048096199376
+}

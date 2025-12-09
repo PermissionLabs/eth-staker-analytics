@@ -1,0 +1,49 @@
+{
+  "portfolio": {
+    "address": "0xc858c8592dc56069a01dd3c0a8ad49204dfc285b",
+    "totalValue": "$844",
+    "walletLifetime": "1475 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,143.7800",
+        "amount": "0.1075",
+        "usdValue": "$337.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,143.7800",
+        "amount": "0.1031",
+        "usdValue": "$324.11"
+      },
+      {
+        "symbol": "LTC",
+        "chain": "bsc",
+        "price": "$83.7300",
+        "amount": "2.0585",
+        "usdValue": "$172.36"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc858c8592dc56069a01dd3c0a8ad49204dfc285b",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T13:31:25.541Z",
+  "source": "base_aave",
+  "vaultBalance": 0.10088697909315561,
+  "vaultPct": 0.00014841284311397106
+}

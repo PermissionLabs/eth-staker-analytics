@@ -1,0 +1,146 @@
+{
+  "portfolio": {
+    "address": "0x85968819638f972a2e5ecd7561bbf282cf5b412e",
+    "totalValue": "$1,515",
+    "walletLifetime": "101 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.5600",
+        "amount": "0.0135",
+        "usdValue": "$42.06"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1222",
+        "amount": "0.9994",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0272",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "LAÏKA",
+        "chain": "base",
+        "price": "$0.00001957",
+        "amount": "6.9000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$1,472"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x85968819638f972a2e5ecd7561bbf282cf5b412e",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2134…ce04",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4f15…ee6d",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$315"
+      },
+      {
+        "name": "0xd653…39d6",
+        "volume": "$315"
+      },
+      {
+        "name": "Relay",
+        "volume": "$65M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$48"
+      },
+      {
+        "name": "0xc106…7741",
+        "volume": "$48"
+      },
+      {
+        "name": "0x3c7d…928c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x48a5…2116",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x09af…da16",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfaf8…db84",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5f47…74c7",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KAMON",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:39:58.989Z",
+  "source": "base_aave",
+  "vaultBalance": 0.27135274579080726,
+  "vaultPct": 0.0003991816669662627
+}

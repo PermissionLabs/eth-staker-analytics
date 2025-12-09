@@ -1,0 +1,194 @@
+{
+  "portfolio": {
+    "address": "0x02153ebe18bc66c57e540423e69a881a70823d40",
+    "totalValue": "$1,000",
+    "walletLifetime": "1260 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.3000",
+        "amount": "0.0319",
+        "usdValue": "$99.62"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1230",
+        "amount": "4.4927",
+        "usdValue": "$0.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,125.3000",
+        "amount": "0.00007999",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.3000",
+        "amount": "0.00007997",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.3000",
+        "amount": "0.00007992",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.3000",
+        "amount": "0.00001098",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7500",
+        "amount": "0.0005",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1386",
+        "amount": "2,021.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "UMA",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "UMA",
+        "usdValue": "$461"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$438"
+      },
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x02153ebe18bc66c57e540423e69a881a70823d40",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$2K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$2K"
+      },
+      {
+        "name": "Eclipse Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "Parallel",
+        "volume": "$1K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa1a1…82bc",
+        "volume": "$1K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$908"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$809"
+      },
+      {
+        "name": "Relay",
+        "volume": "$680"
+      },
+      {
+        "name": "UMA",
+        "volume": "$664"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$525"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$485"
+      },
+      {
+        "name": "OKX",
+        "volume": "$476"
+      },
+      {
+        "name": "Sentiment",
+        "volume": "$452"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$406"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUMA",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$895"
+      },
+      {
+        "name": "WETH",
+        "volume": "$229"
+      },
+      {
+        "name": "POL",
+        "volume": "$132"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:26:06.054Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.3511089980580967,
+  "vaultPct": 0.00006528416511192056
+}

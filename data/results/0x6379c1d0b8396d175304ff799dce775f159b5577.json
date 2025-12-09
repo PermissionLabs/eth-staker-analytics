@@ -1,0 +1,142 @@
+{
+  "portfolio": {
+    "address": "0x6379c1d0b8396d175304ff799dce775f159b5577",
+    "totalValue": "$235,053",
+    "walletLifetime": "641 days",
+    "tokens": [
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6366",
+        "amount": "22,475.2491",
+        "usdValue": "$126,684.05"
+      },
+      {
+        "symbol": "wTAO",
+        "chain": "eth",
+        "price": "$294.6943",
+        "amount": "194.3449",
+        "usdValue": "$57,272.34"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3240",
+        "amount": "299.7134",
+        "usdValue": "$696.54"
+      },
+      {
+        "symbol": "LOCK",
+        "chain": "eth",
+        "price": "$0.1190",
+        "amount": "2,317.9633",
+        "usdValue": "$275.80"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$43,856"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$6,052"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6379c1d0b8396d175304ff799dce775f159b5577",
+    "topProtocols": [
+      {
+        "name": "0x38e2…26c0",
+        "volume": "$606K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$315K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x20dd…5968",
+        "volume": "$1K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$450"
+      },
+      {
+        "name": "0xb983…4dfa",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4640…0560",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x97ed…2f47",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x59e1…9e1d",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$630K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$217K"
+      },
+      {
+        "name": "wTAO",
+        "volume": "$63K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$20K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$1K"
+      },
+      {
+        "name": "LOCK",
+        "volume": "$356"
+      },
+      {
+        "name": "ETH",
+        "volume": "$223B"
+      },
+      {
+        "name": "NB",
+        "volume": "$34"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:08:42.634Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 13.937352803441337,
+  "vaultPct": 0.002591470018357084
+}

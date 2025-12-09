@@ -1,0 +1,192 @@
+{
+  "portfolio": {
+    "address": "0xc717b6919d2681bd9936da7ff71c6b0f8cd6d40b",
+    "totalValue": "$231,089",
+    "walletLifetime": "2982 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.6100",
+        "amount": "5.8600",
+        "usdValue": "$18,198.74"
+      },
+      {
+        "symbol": "PIGGY",
+        "chain": "base",
+        "price": "$0.0₅4587",
+        "amount": "425,663,359.6218",
+        "usdValue": "$1,952.56"
+      },
+      {
+        "symbol": "KABOSU (kabosutoken.io)",
+        "chain": "bsc",
+        "price": "$0.0₈4386",
+        "amount": "426,638,171,856.7280",
+        "usdValue": "$1,871.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.6100",
+        "amount": "0.4128",
+        "usdValue": "$1,281.85"
+      },
+      {
+        "symbol": "TRUMP (magatrumponbase.com)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "333,330.7866",
+        "usdValue": "$314.50"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "63.0726",
+        "usdValue": "$63.07"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$204,485"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,869"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc717b6919d2681bd9936da7ff71c6b0f8cd6d40b",
+    "topProtocols": [
+      {
+        "name": "0x362a…f73a",
+        "volume": "$4M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4M"
+      },
+      {
+        "name": "0xd911…b15c",
+        "volume": "$2M"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1M"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x375e…21d0",
+        "volume": "$701K"
+      },
+      {
+        "name": "0x046c…d59d",
+        "volume": "$407K"
+      },
+      {
+        "name": "0xc4e1…9ab4",
+        "volume": "$394K"
+      },
+      {
+        "name": "0x0d71…58fb",
+        "volume": "$371K"
+      },
+      {
+        "name": "0x918a…3e87",
+        "volume": "$366K"
+      },
+      {
+        "name": "0x368d…1511",
+        "volume": "$150K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$142K"
+      },
+      {
+        "name": "0xe517…43b3",
+        "volume": "$125K"
+      },
+      {
+        "name": "0x8b6e…f5ce",
+        "volume": "$115K"
+      },
+      {
+        "name": "0x0e1d…6938",
+        "volume": "$107K"
+      },
+      {
+        "name": "0x7f36…990f",
+        "volume": "$100K"
+      },
+      {
+        "name": "0x9886…0f14",
+        "volume": "$68K"
+      },
+      {
+        "name": "0xd61a…a23d",
+        "volume": "$57K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$9M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4M"
+      },
+      {
+        "name": "KWBNB",
+        "volume": "$27K"
+      },
+      {
+        "name": "KwOXEN",
+        "volume": "$14K"
+      },
+      {
+        "name": "KPIGGY",
+        "volume": "$4K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$1K"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$85"
+      },
+      {
+        "name": "NB",
+        "volume": "$8"
+      },
+      {
+        "name": "AGENT47",
+        "volume": "$6"
+      },
+      {
+        "name": "NATO",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:20:43.028Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.760566124515556,
+  "vaultPct": 0.0005132914726538215
+}

@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0x03aa3d77b778e307834f6ad64d92efedd6e6928c",
+    "totalValue": "$5,548",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.6600",
+        "amount": "0.1015",
+        "usdValue": "$318.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.4800",
+        "amount": "0.0011",
+        "usdValue": "$3.36"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,825.6000",
+        "amount": "0.00002218",
+        "usdValue": "$2.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,131.4800",
+        "amount": "0.0004",
+        "usdValue": "$1.33"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,223"
+      },
+      {
+        "protocol": "Superform",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x03aa3d77b778e307834f6ad64d92efedd6e6928c",
+    "topProtocols": [
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$61K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$39K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$19K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$16K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$15K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$13K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$9K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$148K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "KezETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:56:39.798Z",
+  "source": "base_aave",
+  "vaultBalance": 1.663312725087282,
+  "vaultPct": 0.0024468665107903677
+}

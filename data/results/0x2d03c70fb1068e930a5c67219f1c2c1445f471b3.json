@@ -1,0 +1,197 @@
+{
+  "portfolio": {
+    "address": "0x2d03c70fb1068e930a5c67219f1c2c1445f471b3",
+    "totalValue": "$73,255",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "uni",
+        "price": "$1.0000",
+        "amount": "18.2993",
+        "usdValue": "$18.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,125.4100",
+        "amount": "0.0033",
+        "usdValue": "$10.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.4100",
+        "amount": "0.0020",
+        "usdValue": "$6.11"
+      },
+      {
+        "symbol": "SOL",
+        "chain": "uni",
+        "price": "$134.4936",
+        "amount": "0.0235",
+        "usdValue": "$3.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.4100",
+        "amount": "0.0009",
+        "usdValue": "$2.68"
+      },
+      {
+        "symbol": "CATX",
+        "chain": "uni",
+        "price": "$0.0005",
+        "amount": "10.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9881",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6359",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7896",
+        "amount": "2.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$54,443"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$18,771"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2d03c70fb1068e930a5c67219f1c2c1445f471b3",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$2M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$627K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$155K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$59K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$40K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$31K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$27K"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$16K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xc106…7741",
+        "volume": "$11K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x2286…ade6",
+        "volume": "$9K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$680K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$98K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$77K"
+      },
+      {
+        "name": "SOL",
+        "volume": "$57K"
+      },
+      {
+        "name": "KSOL",
+        "volume": "$15K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDai",
+        "volume": "$644"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:56:27.183Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6.729471783559413,
+  "vaultPct": 0.0012512580123657476
+}

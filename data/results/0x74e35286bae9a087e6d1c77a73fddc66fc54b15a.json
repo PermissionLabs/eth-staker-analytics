@@ -1,0 +1,311 @@
+{
+  "portfolio": {
+    "address": "0x74e35286bae9a087e6d1c77a73fddc66fc54b15a",
+    "totalValue": "$431",
+    "walletLifetime": "1065 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.9900",
+        "amount": "0.0207",
+        "usdValue": "$65.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.9900",
+        "amount": "0.0132",
+        "usdValue": "$41.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,160.2900",
+        "amount": "0.0114",
+        "usdValue": "$35.94"
+      },
+      {
+        "symbol": "STG",
+        "chain": "linea",
+        "price": "$0.1220",
+        "amount": "10.4045",
+        "usdValue": "$1.27"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "100.0000",
+        "usdValue": "$0.80"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.4000",
+        "amount": "0.0006",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "CROAK (CROAK by Efrogs)",
+        "chain": "linea",
+        "price": "$0.0004",
+        "amount": "596.8483",
+        "usdValue": "$0.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,160.2900",
+        "amount": "0.00005786",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "nova",
+        "price": "$0.9999",
+        "amount": "0.1503",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "USDC(bridged)",
+        "chain": "era",
+        "price": "$0.9998",
+        "amount": "0.1481",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "SEAM",
+        "chain": "base",
+        "price": "$0.02",
+        "amount": "0.10",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$283"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SEAM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Angle Protocol",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Superfluid",
+        "chain": "op",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Shoebill Finance",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Segment Finance",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Etherex",
+        "chain": "linea",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Polynomial",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "sUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Accumulated Finance",
+        "chain": "zeta",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stZETA",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x74e35286bae9a087e6d1c77a73fddc66fc54b15a",
+    "topProtocols": [
+      {
+        "name": "xBank",
+        "volume": "$116K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$81K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$81K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$54K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$37K"
+      },
+      {
+        "name": "Angle Protocol",
+        "volume": "$28K"
+      },
+      {
+        "name": "0x20f8…d013",
+        "volume": "$28K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$28K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$27K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$24K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "zkDX",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x1d49…52c2",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x206a…7416",
+        "volume": "$18K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$12K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$11K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$429K"
+      },
+      {
+        "name": "KEURA",
+        "volume": "$29K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "EURA",
+        "volume": "$15K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:03:32.517Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07517602567863814,
+  "vaultPct": 0.0001105899671619021
+}

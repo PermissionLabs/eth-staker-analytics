@@ -1,0 +1,153 @@
+{
+  "portfolio": {
+    "address": "0xf7d0c7128a10b800e8998bcc0ef36017b0da2b72",
+    "totalValue": "$3,703",
+    "walletLifetime": "1766 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.9200",
+        "amount": "0.1129",
+        "usdValue": "$350.18"
+      },
+      {
+        "symbol": "APE",
+        "chain": "ape",
+        "price": "$0.2353",
+        "amount": "735.8454",
+        "usdValue": "$173.14"
+      },
+      {
+        "symbol": "IMX",
+        "chain": "eth",
+        "price": "$0.2894",
+        "amount": "128.6411",
+        "usdValue": "$37.23"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.3000",
+        "amount": "0.0129",
+        "usdValue": "$11.51"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9808",
+        "amount": "80,222.0000",
+        "usdValue": "$0.79"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,131"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf7d0c7128a10b800e8998bcc0ef36017b0da2b72",
+    "topProtocols": [
+      {
+        "name": "0x82f0…04fc",
+        "volume": "$12K"
+      },
+      {
+        "name": "ApeStake",
+        "volume": "$6K"
+      },
+      {
+        "name": "Sorare",
+        "volume": "$4K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x1414…7080",
+        "volume": "$1K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x7ae3…1a78",
+        "volume": "$1K"
+      },
+      {
+        "name": "apecoin",
+        "volume": "$998B"
+      },
+      {
+        "name": "inance",
+        "volume": "$897B"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$498"
+      },
+      {
+        "name": "0x7702…63de",
+        "volume": "$479B"
+      },
+      {
+        "name": "0x3765…a3d3",
+        "volume": "$263B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "APE",
+        "volume": "$10K"
+      },
+      {
+        "name": "QNT",
+        "volume": "$259B"
+      },
+      {
+        "name": "IMX",
+        "volume": "$134B"
+      },
+      {
+        "name": "NB",
+        "volume": "$114B"
+      },
+      {
+        "name": "ASED",
+        "volume": "$2"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:52:26.393Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.8884859976732009,
+  "vaultPct": 0.00006671449655154536
+}

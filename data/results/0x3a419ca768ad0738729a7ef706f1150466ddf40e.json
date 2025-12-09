@@ -1,0 +1,133 @@
+{
+  "portfolio": {
+    "address": "0x3a419ca768ad0738729a7ef706f1150466ddf40e",
+    "totalValue": "$1,567",
+    "walletLifetime": "606 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.4600",
+        "amount": "0.0040",
+        "usdValue": "$12.54"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "19.7154",
+        "usdValue": "$2.43"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.8000",
+        "amount": "0.0017",
+        "usdValue": "$1.52"
+      },
+      {
+        "symbol": "SATX",
+        "chain": "bsc",
+        "price": "$0.00002925",
+        "amount": "13,893.8333",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "0.0002",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,550"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3a419ca768ad0738729a7ef706f1150466ddf40e",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x3f79…05e6",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xfc2a…004d",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x03b5…bccd",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x598f…67b0",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8aea…d245",
+        "volume": "$62"
+      },
+      {
+        "name": "SatoshiDEX",
+        "volume": "$3"
+      },
+      {
+        "name": "0x6856…6b41",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$15K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$40"
+      },
+      {
+        "name": "POL",
+        "volume": "$16"
+      },
+      {
+        "name": "SATX",
+        "volume": "$3B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:53:00.164Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.45565572571228447,
+  "vaultPct": 0.005082196984425096
+}

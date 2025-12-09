@@ -1,0 +1,272 @@
+{
+  "portfolio": {
+    "address": "0x979c8590414ddeb53c2a9b6d37ea0c27eb26887b",
+    "totalValue": "$1,370",
+    "walletLifetime": "2904 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "bob",
+        "price": "$3,130.4700",
+        "amount": "0.1287",
+        "usdValue": "$402.76"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$899.4900",
+        "amount": "0.1399",
+        "usdValue": "$125.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.4700",
+        "amount": "0.0270",
+        "usdValue": "$84.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,130.0900",
+        "amount": "0.0213",
+        "usdValue": "$66.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.4700",
+        "amount": "0.0097",
+        "usdValue": "$30.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,130.0900",
+        "amount": "0.0079",
+        "usdValue": "$24.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.8900",
+        "amount": "0.0029",
+        "usdValue": "$8.97"
+      },
+      {
+        "symbol": "ZRC",
+        "chain": "zircuit",
+        "price": "$0.0070",
+        "amount": "374.5000",
+        "usdValue": "$2.62"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.2000",
+        "amount": "0.0025",
+        "usdValue": "$2.29"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2113",
+        "amount": "0.9674",
+        "usdValue": "$1.17"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$315"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$286"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "SWELL",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "Rollup Finance",
+        "chain": "era",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Sovryn",
+        "chain": "bob",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SOV",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Shoebill Finance",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x979c8590414ddeb53c2a9b6d37ea0c27eb26887b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$18K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$18K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$11K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$9K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$9K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$6K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7967…256a",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1d49…52c2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x95c6…5349",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$96K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$777"
+      },
+      {
+        "name": "xSolvBTC",
+        "volume": "$687"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$526"
+      },
+      {
+        "name": "ZK",
+        "volume": "$376"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$236"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$180"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:27:55.840Z",
+  "source": "moonwell",
+  "vaultBalance": 0.08929654155937622,
+  "vaultPct": 0.0016200380703538574
+}

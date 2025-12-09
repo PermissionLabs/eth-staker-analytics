@@ -1,0 +1,152 @@
+{
+  "portfolio": {
+    "address": "0x572372831a9d6b2e3ee8fa284505599e6125fea9",
+    "totalValue": "$1,462",
+    "walletLifetime": "1390 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.4800",
+        "amount": "0.0159",
+        "usdValue": "$49.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,105.3100",
+        "amount": "0.0064",
+        "usdValue": "$19.86"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1220",
+        "amount": "1.1331",
+        "usdValue": "$0.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.3100",
+        "amount": "0.00002743",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "WPOL",
+        "chain": "matic",
+        "price": "$0.1220",
+        "amount": "0.2652",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅843",
+        "amount": "1,434.4993",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "LGNS",
+        "chain": "matic",
+        "price": "$7.6505",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9739",
+        "amount": "2,000.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WW",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LUCI",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "4,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$1,019"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDe",
+        "usdValue": "$309"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$50"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$15"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x572372831a9d6b2e3ee8fa284505599e6125fea9",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T05:30:38.521Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05861929558740381,
+  "vaultPct": 0.000010899497856900044
+}

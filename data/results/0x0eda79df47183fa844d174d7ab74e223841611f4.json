@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x0eda79df47183fa844d174d7ab74e223841611f4",
+    "totalValue": "$50,955",
+    "walletLifetime": "1638 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,068.9400",
+        "amount": "0.1785",
+        "usdValue": "$16,077.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.1700",
+        "amount": "0.0857",
+        "usdValue": "$266.13"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5400",
+        "amount": "15.2561",
+        "usdValue": "$206.57"
+      },
+      {
+        "symbol": "TYBG",
+        "chain": "base",
+        "price": "$0.00002466",
+        "amount": "7,234,015.6971",
+        "usdValue": "$178.39"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5945",
+        "amount": "170.6103",
+        "usdValue": "$101.43"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.5000",
+        "amount": "0.0677",
+        "usdValue": "$60.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.1700",
+        "amount": "0.0156",
+        "usdValue": "$48.55"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$17,926"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$16,066"
+      },
+      {
+        "protocol": "Fei Protocol",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "TRIBE(fei.money)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Rari Capital",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "TRIBE(fei.money)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Wonderland",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "TIME (Wonderland)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0eda79df47183fa844d174d7ab74e223841611f4",
+    "topProtocols": [
+      {
+        "name": "LFJ",
+        "volume": "$108K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$59K"
+      },
+      {
+        "name": "SpookySwap",
+        "volume": "$52K"
+      },
+      {
+        "name": "Yearn V2",
+        "volume": "$49K"
+      },
+      {
+        "name": "Wonderland",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x781f…80c3",
+        "volume": "$42K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$36K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$34K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$32K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$19K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x03be…9e4c",
+        "volume": "$17K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$16K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$16K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$12K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$172K"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$151K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$65K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$65K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$56K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$43K"
+      },
+      {
+        "name": "KDAI.e",
+        "volume": "$33K"
+      },
+      {
+        "name": "KFTM",
+        "volume": "$22K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:19:33.081Z",
+  "source": "lido_steth",
+  "vaultBalance": 4.860118572480069,
+  "vaultPct": 0.000364935817326278
+}

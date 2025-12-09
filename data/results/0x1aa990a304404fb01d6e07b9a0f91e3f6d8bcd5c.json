@@ -1,0 +1,138 @@
+{
+  "portfolio": {
+    "address": "0x1aa990a304404fb01d6e07b9a0f91e3f6d8bcd5c",
+    "totalValue": "$466",
+    "walletLifetime": "160 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "328.0010",
+        "usdValue": "$327.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.9400",
+        "amount": "0.0143",
+        "usdValue": "$44.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.9400",
+        "amount": "0.0108",
+        "usdValue": "$33.56"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "uni",
+        "price": "$1.0001",
+        "amount": "22.0756",
+        "usdValue": "$22.08"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "18.3756",
+        "usdValue": "$18.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,108.4100",
+        "amount": "0.0059",
+        "usdValue": "$18.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.9400",
+        "amount": "0.0004",
+        "usdValue": "$1.38"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x1aa990a304404fb01d6e07b9a0f91e3f6d8bcd5c",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$72K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$25K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$6K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x05ff…f381",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0000…89be",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$34K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$29K"
+      },
+      {
+        "name": "KSOL",
+        "volume": "$19K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$14K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$593B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:44:12.026Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.5018996094441442,
+  "vaultPct": 0.00009332172389138905
+}

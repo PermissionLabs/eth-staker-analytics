@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0x5aa466024c81f7c94c466b75f537f78afb3b4fce",
+    "totalValue": "$310",
+    "walletLifetime": "367 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,094.1500",
+        "amount": "0.00009809",
+        "usdValue": "$0.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,093.9100",
+        "amount": "0.00007711",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$889.9000",
+        "amount": "0.0002",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,094.1500",
+        "amount": "0.00002137",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "CZGOAT",
+        "chain": "bsc",
+        "price": "$0.0002",
+        "amount": "9.3271",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MAGA(unknown)",
+        "chain": "bsc",
+        "price": "$0.0₉5488",
+        "amount": "748,332.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.00001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$309"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5aa466024c81f7c94c466b75f537f78afb3b4fce",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x6530…9a8b",
+        "volume": "$2K"
+      },
+      {
+        "name": "Superform",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb8f1…493b",
+        "volume": "$939M"
+      },
+      {
+        "name": "itosis",
+        "volume": "$672"
+      },
+      {
+        "name": "Owlto Finance",
+        "volume": "$628"
+      },
+      {
+        "name": "0xa78f…cde4",
+        "volume": "$537m"
+      },
+      {
+        "name": "imic",
+        "volume": "$502"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$500B"
+      },
+      {
+        "name": "itget",
+        "volume": "$468"
+      },
+      {
+        "name": "Rango",
+        "volume": "$467"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$462B"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$383m"
+      },
+      {
+        "name": "alancer V2",
+        "volume": "$312"
+      },
+      {
+        "name": "0x2cff…2680",
+        "volume": "$284"
+      },
+      {
+        "name": "0xae50…fe12",
+        "volume": "$279"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "KweETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "NB",
+        "volume": "$583"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:20:26.003Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.197085637574463,
+  "vaultPct": 0.000036645518559084025
+}

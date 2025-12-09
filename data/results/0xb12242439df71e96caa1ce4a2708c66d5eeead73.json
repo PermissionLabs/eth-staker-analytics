@@ -1,0 +1,168 @@
+{
+  "portfolio": {
+    "address": "0xb12242439df71e96caa1ce4a2708c66d5eeead73",
+    "totalValue": "$78,449",
+    "walletLifetime": "1898 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "24,000.0015",
+        "usdValue": "$24,000.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.3700",
+        "amount": "0.0944",
+        "usdValue": "$295.40"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$54,133"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb12242439df71e96caa1ce4a2708c66d5eeead73",
+    "topProtocols": [
+      {
+        "name": "0xbcea…761f",
+        "volume": "$701K"
+      },
+      {
+        "name": "0x2acd…3a75",
+        "volume": "$649K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$552K"
+      },
+      {
+        "name": "0x38ae…32ed",
+        "volume": "$470K"
+      },
+      {
+        "name": "0x73dc…6485",
+        "volume": "$338K"
+      },
+      {
+        "name": "0xff3d…6180",
+        "volume": "$250K"
+      },
+      {
+        "name": "0xfcc2…f2ab",
+        "volume": "$247K"
+      },
+      {
+        "name": "0x5507…ae95",
+        "volume": "$233K"
+      },
+      {
+        "name": "0x266d…271e",
+        "volume": "$227K"
+      },
+      {
+        "name": "0x7054…5e4b",
+        "volume": "$198K"
+      },
+      {
+        "name": "0xf4b8…cf62",
+        "volume": "$150K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$145K"
+      },
+      {
+        "name": "0xcc6c…0cdb",
+        "volume": "$112K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$107K"
+      },
+      {
+        "name": "0xd954…6df2",
+        "volume": "$100K"
+      },
+      {
+        "name": "0x1577…e13a",
+        "volume": "$100K"
+      },
+      {
+        "name": "0x07aa…7da1",
+        "volume": "$85K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$80K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$77K"
+      },
+      {
+        "name": "0x6016…a6d3",
+        "volume": "$76K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$3M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$759K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$23K"
+      },
+      {
+        "name": "J3FF",
+        "volume": "$45"
+      },
+      {
+        "name": "AYAZ",
+        "volume": "$5"
+      },
+      {
+        "name": "TOMI",
+        "volume": "$4"
+      },
+      {
+        "name": "SKYA",
+        "volume": "$3B"
+      },
+      {
+        "name": "ASED",
+        "volume": "$2"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:15:10.173Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 22.5,
+  "vaultPct": 0.004183583226696913
+}

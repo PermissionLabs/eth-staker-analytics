@@ -1,0 +1,271 @@
+{
+  "portfolio": {
+    "address": "0x1e45d9c4da6461737a45ca8b2bc325daa26f9083",
+    "totalValue": "$2,331",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "tBTC",
+        "chain": "eth",
+        "price": "$89,952.1824",
+        "amount": "0.0023",
+        "usdValue": "$209.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.4300",
+        "amount": "0.0082",
+        "usdValue": "$25.49"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3181",
+        "amount": "27.0877",
+        "usdValue": "$8.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.4300",
+        "amount": "0.0014",
+        "usdValue": "$4.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,107.4300",
+        "amount": "0.0009",
+        "usdValue": "$2.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,107.4300",
+        "amount": "0.0009",
+        "usdValue": "$2.78"
+      },
+      {
+        "symbol": "USDG",
+        "chain": "ink",
+        "price": "$0.9999",
+        "amount": "1.0277",
+        "usdValue": "$1.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,107.4300",
+        "amount": "0.0003",
+        "usdValue": "$0.93"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "0.3713",
+        "usdValue": "$0.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "katana",
+        "price": "$3,107.4300",
+        "amount": "0.00004903",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "USDC.e",
+        "chain": "soneium",
+        "price": "$1.0000",
+        "amount": "0.0809",
+        "usdValue": "$0.08"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$655"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$606"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$218"
+      },
+      {
+        "protocol": "YO",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$218"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "ink",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDG",
+        "usdValue": "$130"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$127"
+      },
+      {
+        "protocol": "Kyo Finance",
+        "chain": "soneium",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$122"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "katana",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "vbUSDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1e45d9c4da6461737a45ca8b2bc325daa26f9083",
+    "topProtocols": [
+      {
+        "name": "LI.FI",
+        "volume": "$8K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$6K"
+      },
+      {
+        "name": "Summer.fi",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$2K"
+      },
+      {
+        "name": "YO",
+        "volume": "$2K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$983"
+      },
+      {
+        "name": "0x9ccc…b294",
+        "volume": "$771"
+      },
+      {
+        "name": "Enso",
+        "volume": "$769"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$753"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$709K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$605"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$536"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "KEURC",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$623"
+      },
+      {
+        "name": "vbUSDC",
+        "volume": "$411"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$400"
+      },
+      {
+        "name": "OP",
+        "volume": "$10"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:15:55.862Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.06433800192682246,
+  "vaultPct": 0.0007175996721325032
+}

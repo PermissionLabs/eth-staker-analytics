@@ -1,0 +1,256 @@
+{
+  "portfolio": {
+    "address": "0xbfd0e95dd0c2094ea2b0e8b4d689f3465818d509",
+    "totalValue": "$1,750",
+    "walletLifetime": "1279 days",
+    "tokens": [
+      {
+        "symbol": "W",
+        "chain": "op",
+        "price": "$0.0402",
+        "amount": "1,043.2191",
+        "usdValue": "$41.90"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "5,243.9691",
+        "usdValue": "$41.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.5200",
+        "amount": "0.0038",
+        "usdValue": "$11.88"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.4000",
+        "amount": "0.0083",
+        "usdValue": "$7.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,109.9200",
+        "amount": "0.0010",
+        "usdValue": "$3.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,109.9200",
+        "amount": "0.0010",
+        "usdValue": "$3.09"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "1.0073",
+        "usdValue": "$1.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,110.5200",
+        "amount": "0.0003",
+        "usdValue": "$0.81"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0324",
+        "amount": "8.2296",
+        "usdValue": "$0.27"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1229",
+        "amount": "1.8047",
+        "usdValue": "$0.22"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ezETH",
+        "usdValue": "$1,269"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$175"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$116"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$69"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Renzo",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "REZ",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbfd0e95dd0c2094ea2b0e8b4d689f3465818d509",
+    "topProtocols": [
+      {
+        "name": "EraLend",
+        "volume": "$11K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$5K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$3K"
+      },
+      {
+        "name": "Loanshark",
+        "volume": "$3K"
+      },
+      {
+        "name": "Basilisk",
+        "volume": "$3K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$2K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8a4a…64c1",
+        "volume": "$1K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$1K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4408…0a80",
+        "volume": "$1K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6ea7…cdf0",
+        "volume": "$943"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$30K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$839"
+      },
+      {
+        "name": "ZKJ",
+        "volume": "$761"
+      },
+      {
+        "name": "WETH",
+        "volume": "$420"
+      },
+      {
+        "name": "W",
+        "volume": "$203"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$122"
+      },
+      {
+        "name": "SCR",
+        "volume": "$62"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$29B"
+      },
+      {
+        "name": "NB",
+        "volume": "$25"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:19:21.883Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.056,
+  "vaultPct": 0.000010412473808667874
+}

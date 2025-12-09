@@ -1,0 +1,124 @@
+{
+  "portfolio": {
+    "address": "0xdea119687ccad1083d1df22f3dacb175c52aafda",
+    "totalValue": "$62,751",
+    "walletLifetime": "434 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7498",
+        "amount": "270.2206",
+        "usdValue": "$3,715.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.5800",
+        "amount": "0.0637",
+        "usdValue": "$199.07"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7897",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$32,413"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$26,414"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$10"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdea119687ccad1083d1df22f3dacb175c52aafda",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$35K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$15K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$75K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:03:02.179Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 5.609693717870997,
+  "vaultPct": 0.06256822176863029
+}

@@ -1,0 +1,190 @@
+{
+  "portfolio": {
+    "address": "0x7d0043c6a9ecf598ded7c6c96e55bd2ab397afea",
+    "totalValue": "$4,160",
+    "walletLifetime": "1510 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,149.1800",
+        "amount": "0.2200",
+        "usdValue": "$692.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.1800",
+        "amount": "0.0484",
+        "usdValue": "$152.29"
+      },
+      {
+        "symbol": "SOS",
+        "chain": "eth",
+        "price": "$0.0₈1747",
+        "amount": "2,708,334.4365",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANFD",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "120,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "166.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "GROW",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.1000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,930"
+      },
+      {
+        "protocol": "Olympus",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "OHM (V1)",
+        "usdValue": "$385"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7d0043c6a9ecf598ded7c6c96e55bd2ab397afea",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$6K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$2K"
+      },
+      {
+        "name": "Olympus",
+        "volume": "$2K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$1K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$599"
+      },
+      {
+        "name": "0x165c…5e14",
+        "volume": "$121"
+      },
+      {
+        "name": "ENS",
+        "volume": "$20"
+      },
+      {
+        "name": "0x3b48…aee0",
+        "volume": "$16"
+      },
+      {
+        "name": "disperse",
+        "volume": "$1"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf866…62ea",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe140…ec2a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8c85…6a6a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1355…7309",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x223e…63d1",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x219e…2cf6",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "SOS",
+        "volume": "$16"
+      },
+      {
+        "name": "ANFD",
+        "volume": "$1"
+      },
+      {
+        "name": "V1",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:17:08.135Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.8,
+  "vaultPct": 0.000060070273905281295
+}

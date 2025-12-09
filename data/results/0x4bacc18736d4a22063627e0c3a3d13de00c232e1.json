@@ -1,0 +1,191 @@
+{
+  "portfolio": {
+    "address": "0x4bacc18736d4a22063627e0c3a3d13de00c232e1",
+    "totalValue": "$6,683",
+    "walletLifetime": "897 days",
+    "tokens": [
+      {
+        "symbol": "QUBE",
+        "chain": "eth",
+        "price": "$0.0001",
+        "amount": "30,467.8413",
+        "usdValue": "$3.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.1900",
+        "amount": "0.0002",
+        "usdValue": "$0.52"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.5000",
+        "amount": "0.0001",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8000",
+        "amount": "0.0016",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1249",
+        "amount": "0.0753",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9987",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6,494"
+      },
+      {
+        "protocol": "MetaMask Swaps",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$185"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4bacc18736d4a22063627e0c3a3d13de00c232e1",
+    "topProtocols": [
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$7K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x42ee…5276",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x00ba…c0f3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb233…c460",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3ad6…d9c3",
+        "volume": "$324"
+      },
+      {
+        "name": "0xfe74…90b8",
+        "volume": "$316"
+      },
+      {
+        "name": "0xd191…763f",
+        "volume": "$171M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$146"
+      },
+      {
+        "name": "0x6004…9b01",
+        "volume": "$144"
+      },
+      {
+        "name": "0x3247…b307",
+        "volume": "$97"
+      },
+      {
+        "name": "0xd4ce…e872",
+        "volume": "$35"
+      },
+      {
+        "name": "0x384d…b3bb",
+        "volume": "$35"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$19B"
+      },
+      {
+        "name": "inance",
+        "volume": "$7M"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$4"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "QUBE",
+        "volume": "$171"
+      },
+      {
+        "name": "APEMAX",
+        "volume": "$164B"
+      },
+      {
+        "name": "NB",
+        "volume": "$67"
+      },
+      {
+        "name": "POL",
+        "volume": "$13M"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$7"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:37:50.860Z",
+  "source": "lido_steth",
+  "vaultBalance": 2,
+  "vaultPct": 0.0001501756847632032
+}

@@ -1,0 +1,223 @@
+{
+  "portfolio": {
+    "address": "0xb02c46a168144d153f455db75dbf5f063988a253",
+    "totalValue": "$17,482",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9997",
+        "amount": "4,828.7392",
+        "usdValue": "$4,827.29"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "arb",
+        "price": "$0.8370",
+        "amount": "3,320.0641",
+        "usdValue": "$2,778.89"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2135",
+        "amount": "4,788.8238",
+        "usdValue": "$1,022.41"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3860",
+        "amount": "548.2811",
+        "usdValue": "$759.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.3100",
+        "amount": "0.0618",
+        "usdValue": "$193.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.3100",
+        "amount": "0.0333",
+        "usdValue": "$104.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.3100",
+        "amount": "0.0329",
+        "usdValue": "$103.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,133.5600",
+        "amount": "0.0283",
+        "usdValue": "$88.59"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,133.3100",
+        "amount": "0.0088",
+        "usdValue": "$27.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,133.5600",
+        "amount": "0.0068",
+        "usdValue": "$21.40"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "17.9180",
+        "usdValue": "$17.92"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,359"
+      },
+      {
+        "protocol": "Etherex",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,552"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$571"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb02c46a168144d153f455db75dbf5f063988a253",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$24K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$14K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$7K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x1ee2…51db",
+        "volume": "$6K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$6K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$6K"
+      },
+      {
+        "name": "Mitosis",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x6f06…986e",
+        "volume": "$5K"
+      },
+      {
+        "name": "Etherex",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4b17…823f",
+        "volume": "$4K"
+      },
+      {
+        "name": "NILE",
+        "volume": "$4K"
+      },
+      {
+        "name": "Karak",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$57K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$44K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "FDUSD",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:20:55.879Z",
+  "source": "moonwell",
+  "vaultBalance": 0.4982161454562105,
+  "vaultPct": 0.00903875008829238
+}

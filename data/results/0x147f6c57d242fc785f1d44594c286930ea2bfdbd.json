@@ -1,0 +1,186 @@
+{
+  "portfolio": {
+    "address": "0x147f6c57d242fc785f1d44594c286930ea2bfdbd",
+    "totalValue": "$11,590",
+    "walletLifetime": "1757 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.7200",
+        "amount": "0.0673",
+        "usdValue": "$210.93"
+      },
+      {
+        "symbol": "OMNOM",
+        "chain": "doge",
+        "price": "$0.0₈4998",
+        "amount": "24,570,897,205.9271",
+        "usdValue": "$122.81"
+      },
+      {
+        "symbol": "DOGE",
+        "chain": "doge",
+        "price": "$0.1436",
+        "amount": "12.0036",
+        "usdValue": "$1.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,135.6600",
+        "amount": "0.0001",
+        "usdValue": "$0.33"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0118",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "YODE",
+        "chain": "doge",
+        "price": "$0.0015",
+        "amount": "0.9978",
+        "usdValue": ""
+      },
+      {
+        "symbol": "YUZU",
+        "chain": "doge",
+        "price": "$0.0000",
+        "amount": "0.0005",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$11,254"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x147f6c57d242fc785f1d44594c286930ea2bfdbd",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$446K"
+      },
+      {
+        "name": "0x79cc…b005",
+        "volume": "$197K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$178K"
+      },
+      {
+        "name": "0x83a6…4158",
+        "volume": "$54K"
+      },
+      {
+        "name": "0x395e…64ac",
+        "volume": "$54K"
+      },
+      {
+        "name": "0xeb05…b8ac",
+        "volume": "$37K"
+      },
+      {
+        "name": "Liquity",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xfae3…0beb",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xca1f…7f93",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x6070…207a",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x11cb…9456",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xffb1…99e9",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4d7f…9abb",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8c04…6804",
+        "volume": "$3K"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$476K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$357K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$200K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "LUSD",
+        "volume": "$13K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$9K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:00:53.024Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 9.988194196819112,
+  "vaultPct": 0.0018571751869690617
+}

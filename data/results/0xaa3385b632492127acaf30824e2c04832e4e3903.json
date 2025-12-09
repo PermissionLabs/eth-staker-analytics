@@ -1,0 +1,242 @@
+{
+  "portfolio": {
+    "address": "0xaa3385b632492127acaf30824e2c04832e4e3903",
+    "totalValue": "$6,783",
+    "walletLifetime": "159 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,134.3900",
+        "amount": "0.0052",
+        "usdValue": "$16.17"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7500",
+        "amount": "0.3752",
+        "usdValue": "$5.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,134.3900",
+        "amount": "0.0009",
+        "usdValue": "$2.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,134.3900",
+        "amount": "0.0007",
+        "usdValue": "$2.04"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "avax",
+        "price": "$0.9999",
+        "amount": "0.2354",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9958",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CATX",
+        "chain": "uni",
+        "price": "$0.0005",
+        "amount": "10.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USI",
+        "chain": "base",
+        "price": "$0.0₆7226",
+        "amount": "100.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "EDOG",
+        "chain": "base",
+        "price": "$0.0₅5637",
+        "amount": "6.6600",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "400.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "EUL",
+        "chain": "base",
+        "price": "$0.02",
+        "amount": "0.00",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "EUROC",
+        "usdValue": "$3,847"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,895"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVAX",
+        "usdValue": "$15"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "EUL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "uni",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "EUL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaa3385b632492127acaf30824e2c04832e4e3903",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$10K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xf5a8…e3fc",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "EUROC",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "KcbBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$2K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$653"
+      },
+      {
+        "name": "EURC",
+        "volume": "$180"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:06:30.763Z",
+  "source": "base_aave",
+  "vaultBalance": 0.6304395351659917,
+  "vaultPct": 0.0009274271533003297
+}

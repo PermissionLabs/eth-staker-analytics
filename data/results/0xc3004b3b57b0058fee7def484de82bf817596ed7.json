@@ -1,0 +1,146 @@
+{
+  "portfolio": {
+    "address": "0xc3004b3b57b0058fee7def484de82bf817596ed7",
+    "totalValue": "$634",
+    "walletLifetime": "778 days",
+    "tokens": [
+      {
+        "symbol": "14903 Promenade",
+        "chain": "xdai",
+        "price": "$50.4000",
+        "amount": "1.0000",
+        "usdValue": "$50.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,097.8000",
+        "amount": "0.0113",
+        "usdValue": "$35.15"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "11.9278",
+        "usdValue": "$11.93"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "7.4689",
+        "usdValue": "$7.47"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "0.1000",
+        "usdValue": "$0.10"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9785",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7825",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$269"
+      },
+      {
+        "protocol": "Uniswap V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$260"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc3004b3b57b0058fee7def484de82bf817596ed7",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$376"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$245M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$232"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$212"
+      },
+      {
+        "name": "0x7df6…34af",
+        "volume": "$166"
+      },
+      {
+        "name": "0xe8c9…3ac1",
+        "volume": "$50"
+      },
+      {
+        "name": "RealT RMM",
+        "volume": "$7"
+      },
+      {
+        "name": "0xa449…6df0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$22414903"
+      },
+      {
+        "name": "Promenade",
+        "volume": "$50"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:06:23.442Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.08128147701183193,
+  "vaultPct": 0.0000061032507344082105
+}

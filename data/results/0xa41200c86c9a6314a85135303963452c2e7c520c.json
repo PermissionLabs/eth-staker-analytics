@@ -1,0 +1,224 @@
+{
+  "portfolio": {
+    "address": "0xa41200c86c9a6314a85135303963452c2e7c520c",
+    "totalValue": "$654,203",
+    "walletLifetime": "330 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,007.9900",
+        "amount": "0.5260",
+        "usdValue": "$47,347.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.9800",
+        "amount": "0.1956",
+        "usdValue": "$606.60"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LBTC",
+        "usdValue": "$364,080"
+      },
+      {
+        "protocol": "40 Acres",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$100,372"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$68,282"
+      },
+      {
+        "protocol": "40 Acres",
+        "chain": "avax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$61,123"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "plume",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC.e",
+        "usdValue": "$10,569"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$1,700"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "avax",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa41200c86c9a6314a85135303963452c2e7c520c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$718K"
+      },
+      {
+        "name": "Sui Bridge",
+        "volume": "$571K"
+      },
+      {
+        "name": "ChainLink",
+        "volume": "$476K"
+      },
+      {
+        "name": "Interport Finance",
+        "volume": "$475K"
+      },
+      {
+        "name": "Etherex",
+        "volume": "$211K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$194K"
+      },
+      {
+        "name": "Avant",
+        "volume": "$156K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$153K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$107K"
+      },
+      {
+        "name": "LAGOON",
+        "volume": "$107K"
+      },
+      {
+        "name": "0xffb3…cac2",
+        "volume": "$106K"
+      },
+      {
+        "name": "Enso",
+        "volume": "$106K"
+      },
+      {
+        "name": "0x26d8…1324",
+        "volume": "$106K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$101K"
+      },
+      {
+        "name": "40 Acres",
+        "volume": "$100K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$99K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$972K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$952K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$702K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$209K"
+      },
+      {
+        "name": "avUSD",
+        "volume": "$156K"
+      },
+      {
+        "name": "pUSD",
+        "volume": "$40K"
+      },
+      {
+        "name": "REX",
+        "volume": "$16K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$14K"
+      },
+      {
+        "name": "REX33",
+        "volume": "$11K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "xREX",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$617"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$592"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:54:40.948Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 34.93,
+  "vaultPct": 0.0064947805381565865
+}

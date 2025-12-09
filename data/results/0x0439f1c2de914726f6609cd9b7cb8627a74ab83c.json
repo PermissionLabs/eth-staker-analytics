@@ -1,0 +1,122 @@
+{
+  "portfolio": {
+    "address": "0x0439f1c2de914726f6609cd9b7cb8627a74ab83c",
+    "totalValue": "$20,358",
+    "walletLifetime": "367 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.3100",
+        "amount": "4.4948",
+        "usdValue": "$14,029.75"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7527",
+        "amount": "250.9522",
+        "usdValue": "$3,451.27"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "2,761.8681",
+        "usdValue": "$2,761.32"
+      },
+      {
+        "symbol": "CPOOL",
+        "chain": "eth",
+        "price": "$0.0380",
+        "amount": "3,039.9246",
+        "usdValue": "$115.59"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "STEAK",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "124.2714",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x0439f1c2de914726f6609cd9b7cb8627a74ab83c",
+    "topProtocols": [
+      {
+        "name": "0x74de…f9a1",
+        "volume": "$48K"
+      },
+      {
+        "name": "OmniBridge",
+        "volume": "$21K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$17K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x41a5…3e98",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x21c0…fc3f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$111K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$6K"
+      },
+      {
+        "name": "CPOOL",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:45:22.188Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5,
+  "vaultPct": 0.000929685161488203
+}

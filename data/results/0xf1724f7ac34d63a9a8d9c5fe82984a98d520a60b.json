@@ -1,0 +1,286 @@
+{
+  "portfolio": {
+    "address": "0xf1724f7ac34d63a9a8d9c5fe82984a98d520a60b",
+    "totalValue": "$805,375",
+    "walletLifetime": "1785 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.5500",
+        "amount": "35.5807",
+        "usdValue": "$110,391.06"
+      },
+      {
+        "symbol": "HSK",
+        "chain": "eth",
+        "price": "$0.2943",
+        "amount": "10,296.0000",
+        "usdValue": "$3,030.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,102.5500",
+        "amount": "0.2261",
+        "usdValue": "$701.57"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.3000",
+        "amount": "0.5784",
+        "usdValue": "$514.95"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Balancer V2",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$493,964"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$123,432"
+      },
+      {
+        "protocol": "PancakeSwap",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ASTER",
+        "usdValue": "$49,095"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETHFI",
+        "usdValue": "$15,059"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$7,952"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$486"
+      },
+      {
+        "protocol": "Treehouse",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$405"
+      },
+      {
+        "protocol": "Renzo",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$157"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Parallel",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "katana",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "vbETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Yei Finance",
+        "chain": "sei",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH(Stargate)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "katana",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "KAT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf1724f7ac34d63a9a8d9c5fe82984a98d520a60b",
+    "topProtocols": [
+      {
+        "name": "Etherex",
+        "volume": "$45M"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$19M"
+      },
+      {
+        "name": "Aster",
+        "volume": "$10M"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$7M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5M"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$4M"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$3M"
+      },
+      {
+        "name": "0x785b…46fb",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x93db…e999",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$2M"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$2M"
+      },
+      {
+        "name": "Parallel",
+        "volume": "$2M"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1M"
+      },
+      {
+        "name": "Agglayer Unified Bridge",
+        "volume": "$1M"
+      },
+      {
+        "name": "Lista DAO",
+        "volume": "$1M"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x6bf2…5c65",
+        "volume": "$1M"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$38M"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$26M"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$20M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$17M"
+      },
+      {
+        "name": "weETH",
+        "volume": "$7M"
+      },
+      {
+        "name": "vbETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$188K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$59K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$56K"
+      },
+      {
+        "name": "REX",
+        "volume": "$52K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$7K"
+      },
+      {
+        "name": "REZ",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:31:56.857Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 36.51146989260744,
+  "vaultPct": 0.40723395255281997
+}

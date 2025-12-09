@@ -1,0 +1,248 @@
+{
+  "portfolio": {
+    "address": "0xa6518d2258d7e4d537f9c062893e7b756ecb9149",
+    "totalValue": "$1,317",
+    "walletLifetime": "1139 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,162.7700",
+        "amount": "0.0182",
+        "usdValue": "$57.58"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$911.3000",
+        "amount": "0.0494",
+        "usdValue": "$44.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,162.7700",
+        "amount": "0.0112",
+        "usdValue": "$35.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,162.7700",
+        "amount": "0.0062",
+        "usdValue": "$19.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,162.7700",
+        "amount": "0.0054",
+        "usdValue": "$16.94"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1319",
+        "amount": "8.0446",
+        "usdValue": "$9.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,162.7700",
+        "amount": "0.0021",
+        "usdValue": "$6.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,162.7700",
+        "amount": "0.0004",
+        "usdValue": "$1.39"
+      },
+      {
+        "symbol": "WASTR",
+        "chain": "astar",
+        "price": "$0.0127",
+        "amount": "100.0000",
+        "usdValue": "$1.27"
+      },
+      {
+        "symbol": "KAVA",
+        "chain": "kava",
+        "price": "$0.1059",
+        "amount": "10.0387",
+        "usdValue": "$1.06"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0968",
+        "amount": "6.9610",
+        "usdValue": "$0.67"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1252",
+        "amount": "3.9566",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,162.7700",
+        "amount": "0.0001",
+        "usdValue": "$0.47"
+      },
+      {
+        "symbol": "KNC",
+        "chain": "scrl",
+        "price": "$0.2669",
+        "amount": "0.9596",
+        "usdValue": "$0.26"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$643"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$348"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$128"
+      },
+      {
+        "protocol": "lendle.xyz",
+        "chain": "mnt",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WMNT",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Buffer Finance",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BFR",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa6518d2258d7e4d537f9c062893e7b756ecb9149",
+    "topProtocols": [
+      {
+        "name": "Multichain",
+        "volume": "$51K"
+      },
+      {
+        "name": "Valas",
+        "volume": "$32K"
+      },
+      {
+        "name": "Gamma",
+        "volume": "$21K"
+      },
+      {
+        "name": "RAMSES",
+        "volume": "$18K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xd353…294a",
+        "volume": "$11K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x2a42…32f9",
+        "volume": "$9K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xfd8c…1760",
+        "volume": "$9K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xb800…1ec1",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xc564…afbe",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "DAI",
+        "volume": "$56K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$26K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$22K"
+      },
+      {
+        "name": "KDAI",
+        "volume": "$18K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$17K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$12K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$4K"
+      },
+      {
+        "name": "OP",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:39:58.150Z",
+  "source": "base_aave",
+  "vaultBalance": 0.2,
+  "vaultPct": 0.0002942160513636387
+}

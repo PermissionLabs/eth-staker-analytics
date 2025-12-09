@@ -1,0 +1,102 @@
+{
+  "portfolio": {
+    "address": "0x8619203d46eaae59a766cfd7a62687b0409b911c",
+    "totalValue": "$4,590",
+    "walletLifetime": "199 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "6.1263",
+        "usdValue": "$6.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.1200",
+        "amount": "0.0009",
+        "usdValue": "$2.89"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,125.1200",
+        "amount": "0.0003",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,580"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8619203d46eaae59a766cfd7a62687b0409b911c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xbb8f…c160",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$1K"
+      },
+      {
+        "name": "0000x1695…87ad",
+        "volume": "$73"
+      },
+      {
+        "name": "0x9da8…2c69",
+        "volume": "$7"
+      },
+      {
+        "name": "0x1695…87ad",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x16c3…b9dc",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfaf8…db84",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:17:12.644Z",
+  "source": "base_aave",
+  "vaultBalance": 2.1995087433148544,
+  "vaultPct": 0.0032356538869894778
+}

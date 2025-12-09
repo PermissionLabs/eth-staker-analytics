@@ -1,0 +1,192 @@
+{
+  "portfolio": {
+    "address": "0x981268f0dcecaf802f748b1b78c9f1276d12c802",
+    "totalValue": "$1,365",
+    "walletLifetime": "553 days",
+    "tokens": [
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4915",
+        "amount": "800.0010",
+        "usdValue": "$393.19"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.1000",
+        "amount": "0.0089",
+        "usdValue": "$8.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,139.6900",
+        "amount": "0.0018",
+        "usdValue": "$5.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,141.9200",
+        "amount": "0.0010",
+        "usdValue": "$3.06"
+      },
+      {
+        "symbol": "cbETH",
+        "chain": "base",
+        "price": "$3,498.1568",
+        "amount": "0.0001",
+        "usdValue": "$0.45"
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LYD",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "19,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "ITRUMP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "80.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$954"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x981268f0dcecaf802f748b1b78c9f1276d12c802",
+    "topProtocols": [
+      {
+        "name": "0x2bc1…7e6a",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3bcc…86a9",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1d41…8ba5",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xca82…e44b",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x891f…094c",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$959"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$555B"
+      },
+      {
+        "name": "inance",
+        "volume": "$465"
+      },
+      {
+        "name": "0xa904…ed36",
+        "volume": "$300"
+      },
+      {
+        "name": "0x6e63…d961",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4a82…444c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf25f…fb03",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "SolvBTC.b",
+        "volume": "$2K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$1K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$929"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$599"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:18:16.311Z",
+  "source": "base_aave",
+  "vaultBalance": 0.4020000418692167,
+  "vaultPct": 0.0005913743248338919
+}

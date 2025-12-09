@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0xd92456d117390ec0d29e5af2e53c4180e5c4cd5b",
+    "totalValue": "$7,394",
+    "walletLifetime": "798 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.0900",
+        "amount": "0.0014",
+        "usdValue": "$4.52"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.3000",
+        "amount": "0.0014",
+        "usdValue": "$1.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.0900",
+        "amount": "0.0003",
+        "usdValue": "$1.01"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$7,383"
+      },
+      {
+        "protocol": "Onyx",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "XCN",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd92456d117390ec0d29e5af2e53c4180e5c4cd5b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$85K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$63K"
+      },
+      {
+        "name": "0x3090…f2da",
+        "volume": "$54K"
+      },
+      {
+        "name": "Onyx",
+        "volume": "$31K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$26K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x0e97…fb8f",
+        "volume": "$17K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$17K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x848f…4712",
+        "volume": "$6K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$5K"
+      },
+      {
+        "name": "Flexa",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x7bd3…7f51",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$180K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$83K"
+      },
+      {
+        "name": "KTA",
+        "volume": "$81K"
+      },
+      {
+        "name": "XCN",
+        "volume": "$60K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$24K"
+      },
+      {
+        "name": "AAA",
+        "volume": "$19K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$9K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$8K"
+      },
+      {
+        "name": "AMP",
+        "volume": "$8K"
+      },
+      {
+        "name": "RIZE",
+        "volume": "$7K"
+      },
+      {
+        "name": "COOKIE",
+        "volume": "$5K"
+      },
+      {
+        "name": "CRAFT",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$1K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$488B"
+      },
+      {
+        "name": "aseShake",
+        "volume": "$479"
+      },
+      {
+        "name": "POL",
+        "volume": "$405B"
+      },
+      {
+        "name": "EPRO",
+        "volume": "$319B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:28:11.697Z",
+  "source": "base_aave",
+  "vaultBalance": 6.026877167444676,
+  "vaultPct": 0.00886602001129622
+}

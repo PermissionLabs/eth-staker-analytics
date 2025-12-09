@@ -1,0 +1,98 @@
+{
+  "portfolio": {
+    "address": "0xbe14fcdee53bd1fae02fbb69bc8c07540dfbc4b5",
+    "totalValue": "$4,088",
+    "walletLifetime": "606 days",
+    "tokens": [
+      {
+        "symbol": "VADER",
+        "chain": "base",
+        "price": "$0.0047",
+        "amount": "3,462.9857",
+        "usdValue": "$16.31"
+      },
+      {
+        "symbol": "AIXBT",
+        "chain": "base",
+        "price": "$0.0405",
+        "amount": "375.0000",
+        "usdValue": "$15.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,145.5100",
+        "amount": "0.0040",
+        "usdValue": "$12.46"
+      },
+      {
+        "symbol": "GAME",
+        "chain": "base",
+        "price": "$0.0183",
+        "amount": "636.9504",
+        "usdValue": "$11.65"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,728.2400",
+        "amount": "0.0001",
+        "usdValue": "$9.17"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8619",
+        "amount": "4.5731",
+        "usdValue": "$3.94"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,145.5100",
+        "amount": "0.0009",
+        "usdValue": "$2.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,145.5100",
+        "amount": "0.0003",
+        "usdValue": "$0.95"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "0.6668",
+        "usdValue": "$0.67"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "1.5000",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,015"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbe14fcdee53bd1fae02fbb69bc8c07540dfbc4b5",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T13:21:22.198Z",
+  "source": "base_aave",
+  "vaultBalance": 2.2859398445047026,
+  "vaultPct": 0.003362800973524919
+}

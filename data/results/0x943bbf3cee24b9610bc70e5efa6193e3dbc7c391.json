@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x943bbf3cee24b9610bc70e5efa6193e3dbc7c391",
+    "totalValue": "$1,939",
+    "walletLifetime": "710 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.2800",
+        "amount": "0.1535",
+        "usdValue": "$479.14"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,122.2800",
+        "amount": "0.0740",
+        "usdValue": "$231.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.2800",
+        "amount": "0.0441",
+        "usdValue": "$137.69"
+      },
+      {
+        "symbol": "USDbC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "122.2653",
+        "usdValue": "$122.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.2800",
+        "amount": "0.0095",
+        "usdValue": "$29.79"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8439",
+        "amount": "19.0300",
+        "usdValue": "$16.06"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1293",
+        "amount": "295,774,647.0000",
+        "usdValue": "$3.82"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$799"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$120"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x943bbf3cee24b9610bc70e5efa6193e3dbc7c391",
+    "topProtocols": [
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$11K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$8K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$6K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$3K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$3K"
+      },
+      {
+        "name": "Seamless Protocol",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xaa99…a839",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$898"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$471K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$261B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$246"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$193"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$138"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$1380"
+      },
+      {
+        "name": "x",
+        "volume": "$116"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$114"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$46K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$12K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$88"
+      },
+      {
+        "name": "toby",
+        "volume": "$2B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:14:28.782Z",
+  "source": "moonwell",
+  "vaultBalance": 0.24871282203753817,
+  "vaultPct": 0.004512204316648009
+}

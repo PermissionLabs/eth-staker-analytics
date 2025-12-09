@@ -1,0 +1,261 @@
+{
+  "portfolio": {
+    "address": "0xad5fe2c49fa171d23064b09379facd1e0586e4b3",
+    "totalValue": "$2,492",
+    "walletLifetime": "1039 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.0100",
+        "amount": "0.1104",
+        "usdValue": "$346.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,134.0100",
+        "amount": "0.1087",
+        "usdValue": "$340.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,134.0100",
+        "amount": "0.1077",
+        "usdValue": "$337.42"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1048",
+        "amount": "10.5356",
+        "usdValue": "$11.64"
+      },
+      {
+        "symbol": "NOB",
+        "chain": "eth",
+        "price": "$0.0₆1432",
+        "amount": "39,263,398.0147",
+        "usdValue": "$5.62"
+      },
+      {
+        "symbol": "STG",
+        "chain": "arb",
+        "price": "$0.1208",
+        "amount": "35.0000",
+        "usdValue": "$4.23"
+      },
+      {
+        "symbol": "KING",
+        "chain": "arb",
+        "price": "$437.1193",
+        "amount": "0.0094",
+        "usdValue": "$4.11"
+      },
+      {
+        "symbol": "LIBERTAS",
+        "chain": "era",
+        "price": "$1.5567",
+        "amount": "2.1494",
+        "usdValue": "$3.35"
+      },
+      {
+        "symbol": "atETH",
+        "chain": "gravity",
+        "price": "$3,272.2437",
+        "amount": "0.0010",
+        "usdValue": "$3.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "dbk",
+        "price": "$3,134.0100",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "rari",
+        "price": "$3,131.8200",
+        "amount": "0.0006",
+        "usdValue": "$1.89"
+      },
+      {
+        "symbol": "OKB",
+        "chain": "xlayer",
+        "price": "$110.6500",
+        "amount": "0.0171",
+        "usdValue": "$1.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,134.0100",
+        "amount": "0.0006",
+        "usdValue": "$1.88"
+      },
+      {
+        "symbol": "OCW",
+        "chain": "eth",
+        "price": "$0.0003",
+        "amount": "5,055.6593",
+        "usdValue": "$1.66"
+      },
+      {
+        "symbol": "WETH(Wormhole)",
+        "chain": "klay",
+        "price": "$3,133.3600",
+        "amount": "0.0005",
+        "usdValue": "$1.57"
+      },
+      {
+        "symbol": "SWELL",
+        "chain": "swell",
+        "price": "$0.0023",
+        "amount": "539.5583",
+        "usdValue": "$1.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "boba",
+        "price": "$3,134.0100",
+        "amount": "0.0004",
+        "usdValue": "$1.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$941"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "unknown",
+        "usdValue": "$444"
+      },
+      {
+        "protocol": "Maverick",
+        "chain": "era",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "MAV",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Human Passport",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GTC",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Zada Finance",
+        "chain": "scrl",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xad5fe2c49fa171d23064b09379facd1e0586e4b3",
+    "topProtocols": [
+      {
+        "name": "LI.FI",
+        "volume": "$131K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$130K"
+      },
+      {
+        "name": "Fly",
+        "volume": "$80K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$51K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$45K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$43K"
+      },
+      {
+        "name": "Mitosis",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$27K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$27K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$25K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$22K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$522K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$160K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$68K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$57K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$39K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$33K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$29K"
+      },
+      {
+        "name": "DCB",
+        "volume": "$25K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:00:08.098Z",
+  "source": "base_aave",
+  "vaultBalance": 0.30000000000000004,
+  "vaultPct": 0.0004413240770454581
+}

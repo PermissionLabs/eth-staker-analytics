@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0xb3ef380dec9966f5ceafb654fae6accc6ebeabb7",
+    "totalValue": "$197,125",
+    "walletLifetime": "638 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$91,020.0200",
+        "amount": "0.9980",
+        "usdValue": "$90,837.78"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.7010",
+        "amount": "604.6763",
+        "usdValue": "$17,959.49"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8123",
+        "amount": "932.8147",
+        "usdValue": "$12,884.32"
+      },
+      {
+        "symbol": "GEOD",
+        "chain": "matic",
+        "price": "$0.1412",
+        "amount": "30,444.9038",
+        "usdValue": "$4,297.60"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "1,533.4979",
+        "usdValue": "$1,533.59"
+      },
+      {
+        "symbol": "TRVL",
+        "chain": "base",
+        "price": "$0.0025",
+        "amount": "124,477.5543",
+        "usdValue": "$306.00"
+      },
+      {
+        "symbol": "SPECTRA",
+        "chain": "eth",
+        "price": "$0.0083",
+        "amount": "33,138.9823",
+        "usdValue": "$276.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.6600",
+        "amount": "0.0825",
+        "usdValue": "$258.20"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "UXPL",
+        "usdValue": "$47,793"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "unknown",
+        "usdValue": "$20,732"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb3ef380dec9966f5ceafb654fae6accc6ebeabb7",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Velora",
+        "volume": "$986K"
+      },
+      {
+        "name": "0xdbc9…4aed",
+        "volume": "$350K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$283K"
+      },
+      {
+        "name": "0xd0cd…7123",
+        "volume": "$225K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$208K"
+      },
+      {
+        "name": "0x279d…a5d8",
+        "volume": "$197K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$135K"
+      },
+      {
+        "name": "0x0fde…5014",
+        "volume": "$93K"
+      },
+      {
+        "name": "Go",
+        "volume": "$86K"
+      },
+      {
+        "name": "Synapse",
+        "volume": "$86K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$86K"
+      },
+      {
+        "name": "0x1d74…a9ce",
+        "volume": "$77K"
+      },
+      {
+        "name": "Spectra",
+        "volume": "$76K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$74K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1M"
+      },
+      {
+        "name": "GHO",
+        "volume": "$645K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$477K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$250K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$186K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$176K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$173K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$93K"
+      },
+      {
+        "name": "KRSR",
+        "volume": "$41K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$39K"
+      },
+      {
+        "name": "NEAR",
+        "volume": "$25K"
+      },
+      {
+        "name": "LPT",
+        "volume": "$24K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:34:46.924Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 7.220712161861394,
+  "vaultPct": 0.0013425977904519884
+}

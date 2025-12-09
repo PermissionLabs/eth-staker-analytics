@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0xf8514563c9f191e1056131cd9f9cbd5495de283a",
+    "totalValue": "$353,623",
+    "walletLifetime": "1268 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.0200",
+        "amount": "0.5083",
+        "usdValue": "$1,576.38"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$189.8315",
+        "amount": "1.0000",
+        "usdValue": "$189.83"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9993",
+        "amount": "175.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OHNO",
+        "chain": "base",
+        "price": "$0.00005169",
+        "amount": "10.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7836",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "4.2000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$351,236"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$621"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf8514563c9f191e1056131cd9f9cbd5495de283a",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$4M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$762K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$400K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$181K"
+      },
+      {
+        "name": "0x77d5…031b",
+        "volume": "$152K"
+      },
+      {
+        "name": "0xbeb5…26d7",
+        "volume": "$65K"
+      },
+      {
+        "name": "0x919f…efde",
+        "volume": "$63K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$63K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$45K"
+      },
+      {
+        "name": "0x6f1c…6168",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x9e28…7527",
+        "volume": "$42K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x0b4b…01ce",
+        "volume": "$24K"
+      },
+      {
+        "name": "UniswapX",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xfbee…8737",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x0634…506e",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x763c…4275",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x5050…2edf",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$420K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$344K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$125K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$100K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$62K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$450B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:15:48.616Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 33.00342535688851,
+  "vaultPct": 0.006136558966516551
+}

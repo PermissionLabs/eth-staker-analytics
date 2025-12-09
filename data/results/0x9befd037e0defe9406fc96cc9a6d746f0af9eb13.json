@@ -1,0 +1,109 @@
+{
+  "portfolio": {
+    "address": "0x9befd037e0defe9406fc96cc9a6d746f0af9eb13",
+    "totalValue": "$202,822",
+    "walletLifetime": "393 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.6300",
+        "amount": "65.2406",
+        "usdValue": "$202,743.70"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "77.9532",
+        "usdValue": "$77.96"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0276",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.0048",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x9befd037e0defe9406fc96cc9a6d746f0af9eb13",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$514K"
+      },
+      {
+        "name": "0x4fea…e4c3",
+        "volume": "$200K"
+      },
+      {
+        "name": "0x7d40…c3fe",
+        "volume": "$200K"
+      },
+      {
+        "name": "0x4604…9aa5",
+        "volume": "$120K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$99K"
+      },
+      {
+        "name": "0xe7ae…c55d",
+        "volume": "$55K"
+      },
+      {
+        "name": "0x5594…ed53",
+        "volume": "$50K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$295"
+      },
+      {
+        "name": "0x0166…49ee",
+        "volume": "$77"
+      },
+      {
+        "name": "0x7abe…0eb1",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$201K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:44:46.007Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 178.1852688416071,
+  "vaultPct": 0.03313124008756567
+}

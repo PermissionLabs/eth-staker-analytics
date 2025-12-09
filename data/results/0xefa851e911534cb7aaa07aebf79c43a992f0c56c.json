@@ -1,0 +1,151 @@
+{
+  "portfolio": {
+    "address": "0xefa851e911534cb7aaa07aebf79c43a992f0c56c",
+    "totalValue": "$17,328",
+    "walletLifetime": "1347 days",
+    "tokens": [
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2102",
+        "amount": "872.0383",
+        "usdValue": "$183.30"
+      },
+      {
+        "symbol": "STRK",
+        "chain": "eth",
+        "price": "$0.1080",
+        "amount": "655.7678",
+        "usdValue": "$70.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.9900",
+        "amount": "0.0040",
+        "usdValue": "$12.42"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9961",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1224",
+        "amount": "0.0002",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7855",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "50.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$17,061"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xefa851e911534cb7aaa07aebf79c43a992f0c56c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$31K"
+      },
+      {
+        "name": "0x18eb…22ea",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x56c6…15a6",
+        "volume": "$6K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x26c0…b69c",
+        "volume": "$3K"
+      },
+      {
+        "name": "inance",
+        "volume": "$884B"
+      },
+      {
+        "name": "ridgers",
+        "volume": "$692m"
+      },
+      {
+        "name": "imic",
+        "volume": "$400"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$241"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$51K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$14K"
+      },
+      {
+        "name": "POL",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$966M"
+      },
+      {
+        "name": "ANA",
+        "volume": "$416"
+      },
+      {
+        "name": "STRK",
+        "volume": "$405M"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$294"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:53:31.038Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 8.531917231064341,
+  "vaultPct": 0.0015863993697532068
+}

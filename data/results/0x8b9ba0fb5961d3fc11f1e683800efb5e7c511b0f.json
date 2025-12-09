@@ -1,0 +1,196 @@
+{
+  "portfolio": {
+    "address": "0x8b9ba0fb5961d3fc11f1e683800efb5e7c511b0f",
+    "totalValue": "$5,667",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,150.8700",
+        "amount": "0.1470",
+        "usdValue": "$463.14"
+      },
+      {
+        "symbol": "BTCB",
+        "chain": "bsc",
+        "price": "$91,535.4300",
+        "amount": "0.0019",
+        "usdValue": "$177.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,150.8700",
+        "amount": "0.0028",
+        "usdValue": "$8.84"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$911.6000",
+        "amount": "0.0038",
+        "usdValue": "$3.50"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,522.3700",
+        "amount": "0.00001118",
+        "usdValue": "$1.02"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,150.8700",
+        "amount": "0.0002",
+        "usdValue": "$0.66"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,822"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,574"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$615"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aArbARB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8b9ba0fb5961d3fc11f1e683800efb5e7c511b0f",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$92K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$83K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$28K"
+      },
+      {
+        "name": "0x",
+        "volume": "$19K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x4637…959e",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$6K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "Fly",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$328"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$142K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$103K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$56K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "XRP",
+        "volume": "$1K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$711B"
+      },
+      {
+        "name": "TCB",
+        "volume": "$699B"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$657"
+      },
+      {
+        "name": "AERO",
+        "volume": "$427"
+      },
+      {
+        "name": "DOT",
+        "volume": "$234"
+      },
+      {
+        "name": "GIGL",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:17:31.468Z",
+  "source": "base_aave",
+  "vaultBalance": 0.7217482791250803,
+  "vaultPct": 0.0010617496438134124
+}

@@ -1,0 +1,123 @@
+{
+  "portfolio": {
+    "address": "0x33b3e68192c8ab20edcbd01049c135891d1342f1",
+    "totalValue": "$3,913",
+    "walletLifetime": "420 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,132.6700",
+        "amount": "0.8000",
+        "usdValue": "$2,506.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.6700",
+        "amount": "0.1000",
+        "usdValue": "$313.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,132.5500",
+        "amount": "0.1000",
+        "usdValue": "$313.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.6700",
+        "amount": "0.0975",
+        "usdValue": "$305.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,131.4600",
+        "amount": "0.0500",
+        "usdValue": "$156.57"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$318"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x33b3e68192c8ab20edcbd01049c135891d1342f1",
+    "topProtocols": [
+      {
+        "name": "Fuel",
+        "volume": "$6K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$3K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$3K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:25:23.429Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09915287619098867,
+  "vaultPct": 0.0017988539243445959
+}

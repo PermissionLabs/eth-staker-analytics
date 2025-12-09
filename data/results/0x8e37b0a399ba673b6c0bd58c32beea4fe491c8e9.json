@@ -1,0 +1,181 @@
+{
+  "portfolio": {
+    "address": "0x8e37b0a399ba673b6c0bd58c32beea4fe491c8e9",
+    "totalValue": "$45,854",
+    "walletLifetime": "294 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.6300",
+        "amount": "0.3444",
+        "usdValue": "$1,071.25"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8351",
+        "amount": "57.0719",
+        "usdValue": "$47.66"
+      },
+      {
+        "symbol": "SD",
+        "chain": "eth",
+        "price": "$0.2421",
+        "amount": "0.1999",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9963",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "RICKY",
+        "chain": "base",
+        "price": "$0.0₅4523",
+        "amount": "6.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7863",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "IDG",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.3345",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$44,735"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8e37b0a399ba673b6c0bd58c32beea4fe491c8e9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$87K"
+      },
+      {
+        "name": "0xdf31…78cc",
+        "volume": "$24K"
+      },
+      {
+        "name": "0xc3af…98e5",
+        "volume": "$9K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$7K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x9bf8…82a2",
+        "volume": "$958"
+      },
+      {
+        "name": "0xb8dc…5565",
+        "volume": "$29"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$2"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb8df…5565",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$72K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$23K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$2K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$137"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:19:56.981Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6.83456136745401,
+  "vaultPct": 0.001270798057720503
+}

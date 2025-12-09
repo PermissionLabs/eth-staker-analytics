@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0x4c74762cf0fff6e10000a5dc6553f489c50e44bb",
+    "totalValue": "$24,162",
+    "walletLifetime": "2045 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.7100",
+        "amount": "0.1693",
+        "usdValue": "$525.08"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0945",
+        "amount": "13.7036",
+        "usdValue": "$1.29"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.3371",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0945",
+        "amount": "0.9503",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "KAVA",
+        "chain": "kava",
+        "price": "$0.1048",
+        "amount": "0.5000",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9996",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRM",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "7,900.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "TOR",
+        "chain": "ftm",
+        "price": "$0.0000",
+        "amount": "0.3461",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$23,613"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "sonic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wS",
+        "usdValue": "$22"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4c74762cf0fff6e10000a5dc6553f489c50e44bb",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$68K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x2d58…631a",
+        "volume": "$6K"
+      },
+      {
+        "name": "Anchor",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$598B"
+      },
+      {
+        "name": "inance",
+        "volume": "$208M"
+      },
+      {
+        "name": "ySonic",
+        "volume": "$190"
+      },
+      {
+        "name": "0xd0b1…6341",
+        "volume": "$189B"
+      },
+      {
+        "name": "0x9b35…5e15",
+        "volume": "$157"
+      },
+      {
+        "name": "Avalon Finance",
+        "volume": "$142"
+      },
+      {
+        "name": "0x1844…32fa",
+        "volume": "$123M"
+      },
+      {
+        "name": "0x59a5…06e8",
+        "volume": "$105"
+      },
+      {
+        "name": "0xbedc…cd82",
+        "volume": "$104M"
+      },
+      {
+        "name": "oonpot",
+        "volume": "$104B"
+      },
+      {
+        "name": "eets",
+        "volume": "$10"
+      },
+      {
+        "name": "0x21be…4c83",
+        "volume": "$7"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$40K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$38K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$19K"
+      },
+      {
+        "name": "beFTM",
+        "volume": "$827"
+      },
+      {
+        "name": "FTM",
+        "volume": "$667"
+      },
+      {
+        "name": "S",
+        "volume": "$438"
+      },
+      {
+        "name": "WFTM",
+        "volume": "$17"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:58:43.240Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.300123749721672,
+  "vaultPct": 0.00079955224853585
+}

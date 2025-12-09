@@ -1,0 +1,222 @@
+{
+  "portfolio": {
+    "address": "0xcdd3186868cddf0edcdb51aa35c2b34b8815b2a4",
+    "totalValue": "$401",
+    "walletLifetime": "320 days",
+    "tokens": [
+      {
+        "symbol": "PLSPAD",
+        "chain": "eth",
+        "price": "$0.0003",
+        "amount": "241,432.1199",
+        "usdValue": "$64.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.0600",
+        "amount": "0.0099",
+        "usdValue": "$30.82"
+      },
+      {
+        "symbol": "ORCL",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "11,182.0857",
+        "usdValue": "$21.30"
+      },
+      {
+        "symbol": "WHITE",
+        "chain": "eth",
+        "price": "$0.0001",
+        "amount": "150,394.1000",
+        "usdValue": "$17.76"
+      },
+      {
+        "symbol": "CTF",
+        "chain": "matic",
+        "price": "$0.1035",
+        "amount": "115.9260",
+        "usdValue": "$12.00"
+      },
+      {
+        "symbol": "TVK",
+        "chain": "eth",
+        "price": "$0.0105",
+        "amount": "982.6207",
+        "usdValue": "$10.36"
+      },
+      {
+        "symbol": "VEE",
+        "chain": "eth",
+        "price": "$0.0094",
+        "amount": "1,070.4125",
+        "usdValue": "$10.09"
+      },
+      {
+        "symbol": "AGI",
+        "chain": "eth",
+        "price": "$0.0171",
+        "amount": "164.5550",
+        "usdValue": "$2.81"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1,128.4337",
+        "usdValue": "$2.10"
+      },
+      {
+        "symbol": "CIK",
+        "chain": "base",
+        "price": "$0.0₆777",
+        "amount": "2,533,348.5465",
+        "usdValue": "$1.97"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "14.8414",
+        "usdValue": "$1.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.0600",
+        "amount": "0.0002",
+        "usdValue": "$0.51"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$223"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcdd3186868cddf0edcdb51aa35c2b34b8815b2a4",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$278"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$262"
+      },
+      {
+        "name": "inch",
+        "volume": "$132"
+      },
+      {
+        "name": "0xa2fd…3808",
+        "volume": "$112"
+      },
+      {
+        "name": "0x053b…436c",
+        "volume": "$106"
+      },
+      {
+        "name": "ungee",
+        "volume": "$901"
+      },
+      {
+        "name": "0x4095…2367",
+        "volume": "$630"
+      },
+      {
+        "name": "x",
+        "volume": "$30"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$5M"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$585"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$216"
+      },
+      {
+        "name": "PLSPAD",
+        "volume": "$112"
+      },
+      {
+        "name": "ORCL",
+        "volume": "$106"
+      },
+      {
+        "name": "POL",
+        "volume": "$97"
+      },
+      {
+        "name": "CTF",
+        "volume": "$91"
+      },
+      {
+        "name": "WHITE",
+        "volume": "$60"
+      },
+      {
+        "name": "TVK",
+        "volume": "$53"
+      },
+      {
+        "name": "VEE",
+        "volume": "$42"
+      },
+      {
+        "name": "CIK",
+        "volume": "$26"
+      },
+      {
+        "name": "AGI",
+        "volume": "$11"
+      },
+      {
+        "name": "SKYA",
+        "volume": "$8M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$5"
+      },
+      {
+        "name": "WELL",
+        "volume": "$4B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:18:02.700Z",
+  "source": "moonwell",
+  "vaultBalance": 0.06974548065845092,
+  "vaultPct": 0.001265338297863284
+}

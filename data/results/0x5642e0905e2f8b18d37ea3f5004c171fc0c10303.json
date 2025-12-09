@@ -1,0 +1,136 @@
+{
+  "portfolio": {
+    "address": "0x5642e0905e2f8b18d37ea3f5004c171fc0c10303",
+    "totalValue": "$591",
+    "walletLifetime": "949 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.5900",
+        "amount": "0.0089",
+        "usdValue": "$27.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.5900",
+        "amount": "0.0049",
+        "usdValue": "$15.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.5900",
+        "amount": "0.0011",
+        "usdValue": "$3.53"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2029",
+        "amount": "1.8834",
+        "usdValue": "$2.27"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.3600",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$540"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5642e0905e2f8b18d37ea3f5004c171fc0c10303",
+    "topProtocols": [
+      {
+        "name": "0x2f8e…9ce2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1f90…c326",
+        "volume": "$2K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$928"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$702"
+      },
+      {
+        "name": "orpho",
+        "volume": "$684"
+      },
+      {
+        "name": "0xdafe…8bc5",
+        "volume": "$271"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$117M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$1"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$5"
+      },
+      {
+        "name": "WELL",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:04:37.281Z",
+  "source": "moonwell",
+  "vaultBalance": 0.16907178616381857,
+  "vaultPct": 0.003067338616087228
+}

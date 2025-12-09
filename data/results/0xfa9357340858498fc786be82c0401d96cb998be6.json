@@ -1,0 +1,203 @@
+{
+  "portfolio": {
+    "address": "0xfa9357340858498fc786be82c0401d96cb998be6",
+    "totalValue": "$901",
+    "walletLifetime": "2758 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,120.0500",
+        "amount": "0.1000",
+        "usdValue": "$312.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "248.9183",
+        "usdValue": "$248.89"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "43.7547",
+        "usdValue": "$5.40"
+      },
+      {
+        "symbol": "SUSHI",
+        "chain": "eth",
+        "price": "$0.3320",
+        "amount": "0.5502",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1385",
+        "amount": "1,001.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.0000465",
+        "amount": "0.0690",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SPORK",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "649.8375",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$323"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$10"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfa9357340858498fc786be82c0401d96cb998be6",
+    "topProtocols": [
+      {
+        "name": "Maker",
+        "volume": "$410K"
+      },
+      {
+        "name": "0x98f7…1aca",
+        "volume": "$113K"
+      },
+      {
+        "name": "0xe9cb…860c",
+        "volume": "$91K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$71K"
+      },
+      {
+        "name": "0x1f5f…60e9",
+        "volume": "$59K"
+      },
+      {
+        "name": "0xad3a…a3cd",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x8ef7…8e5f",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x9ff4…e49b",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x8271…6976",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x88f8…0570",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x32b0…eefc",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x8516…6c9e",
+        "volume": "$11K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$7K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x9991…87de",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4ea6…71a8",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf9ee…d349",
+        "volume": "$952"
+      },
+      {
+        "name": "0xc527…fbeb",
+        "volume": "$856"
+      },
+      {
+        "name": "0x1b2c…0b49",
+        "volume": "$579B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$484"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$846K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$197K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$30K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$12K"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$10K"
+      },
+      {
+        "name": "POL",
+        "volume": "$277"
+      },
+      {
+        "name": "SPORK",
+        "volume": "$13"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:25:22.733Z",
+  "source": "moonwell",
+  "vaultBalance": 0.0996718898356095,
+  "vaultPct": 0.0018082699873705056
+}

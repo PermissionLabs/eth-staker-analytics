@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0x68ff91b07038d9a2d765a1b1865322249f3e26ee",
+    "totalValue": "$6,884",
+    "walletLifetime": "1685 days",
+    "tokens": [
+      {
+        "symbol": "SFI(saffron.finance)",
+        "chain": "eth",
+        "price": "$323.7827",
+        "amount": "1.0214",
+        "usdValue": "$330.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.8300",
+        "amount": "0.0007",
+        "usdValue": "$2.10"
+      },
+      {
+        "symbol": "MIR",
+        "chain": "eth",
+        "price": "$0.0076",
+        "amount": "65.5076",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "ARMOR",
+        "chain": "eth",
+        "price": "$0.0003",
+        "amount": "529.9351",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9833",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOYS",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "0.0017",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ROOK",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "2.2669",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6,550"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x68ff91b07038d9a2d765a1b1865322249f3e26ee",
+    "topProtocols": [
+      {
+        "name": "0xbf1f…f299",
+        "volume": "$7K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$7K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x32ab…e1ca",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xce53…8c68",
+        "volume": "$102"
+      },
+      {
+        "name": "0xf8c5…08e4",
+        "volume": "$30"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x47bd…da7a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "KROOK",
+        "volume": "$928M"
+      },
+      {
+        "name": "IR",
+        "volume": "$738"
+      },
+      {
+        "name": "ARMOR",
+        "volume": "$597B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:53:16.980Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.0553795,
+  "vaultPct": 0.00015433401193037512
+}

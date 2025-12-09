@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0x16a619b22b9746b229e152f6fb82dbfb41ad9c23",
+    "totalValue": "$151,463",
+    "walletLifetime": "1079 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,113.2600",
+        "amount": "0.2088",
+        "usdValue": "$649.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,115.4600",
+        "amount": "0.2032",
+        "usdValue": "$632.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.4600",
+        "amount": "0.0646",
+        "usdValue": "$201.22"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.9000",
+        "amount": "0.0566",
+        "usdValue": "$50.73"
+      },
+      {
+        "symbol": "BSW",
+        "chain": "bsc",
+        "price": "$0.0033",
+        "amount": "4,603.0884",
+        "usdValue": "$15.34"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$149,536"
+      },
+      {
+        "protocol": "Convex",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$315"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$61"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x16a619b22b9746b229e152f6fb82dbfb41ad9c23",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x1b41…44c5",
+        "volume": "$320K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$316K"
+      },
+      {
+        "name": "0xdf91…e126",
+        "volume": "$275K"
+      },
+      {
+        "name": "0xdb7c…2b43",
+        "volume": "$221K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$193K"
+      },
+      {
+        "name": "0x3ceb…2475",
+        "volume": "$192K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$166K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$156K"
+      },
+      {
+        "name": "0x095e…5a18",
+        "volume": "$142K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$125K"
+      },
+      {
+        "name": "0x863a…1038",
+        "volume": "$120K"
+      },
+      {
+        "name": "0x6834…a408",
+        "volume": "$120K"
+      },
+      {
+        "name": "0x8a09…0f13",
+        "volume": "$119K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$111K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$106K"
+      },
+      {
+        "name": "0x4dcb…d6ad",
+        "volume": "$100K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$100K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$948K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$405K"
+      },
+      {
+        "name": "PYUSD",
+        "volume": "$390K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$132K"
+      },
+      {
+        "name": "ALT",
+        "volume": "$26K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$11K"
+      },
+      {
+        "name": "KTWT",
+        "volume": "$7K"
+      },
+      {
+        "name": "SFP",
+        "volume": "$3K"
+      },
+      {
+        "name": "BSW",
+        "volume": "$202"
+      },
+      {
+        "name": "esGMX",
+        "volume": "$5"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:06:09.026Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.36636715745835835,
+  "vaultPct": 0.00006812122198912956
+}

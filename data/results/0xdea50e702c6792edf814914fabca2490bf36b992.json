@@ -1,0 +1,214 @@
+{
+  "portfolio": {
+    "address": "0xdea50e702c6792edf814914fabca2490bf36b992",
+    "totalValue": "$17,147",
+    "walletLifetime": "339 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$89,919.6600",
+        "amount": "0.0363",
+        "usdValue": "$3,265.56"
+      },
+      {
+        "symbol": "USDf",
+        "chain": "eth",
+        "price": "$0.9990",
+        "amount": "3,048.2257",
+        "usdValue": "$3,045.06"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "linea",
+        "price": "$3,100.3300",
+        "amount": "0.3214",
+        "usdValue": "$996.49"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "600.0848",
+        "usdValue": "$600.02"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "137.8290",
+        "usdValue": "$137.82"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "108.6533",
+        "usdValue": "$108.65"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.5710",
+        "amount": "2.7809",
+        "usdValue": "$82.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,100.3300",
+        "amount": "0.0256",
+        "usdValue": "$79.31"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "hyper",
+        "price": "$1.0000",
+        "amount": "32.5964",
+        "usdValue": "$32.60"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5800",
+        "amount": "1.9946",
+        "usdValue": "$27.09"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "2,843.0553",
+        "usdValue": "$22.55"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,100.3300",
+        "amount": "0.0061",
+        "usdValue": "$18.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,101.3300",
+        "amount": "0.0057",
+        "usdValue": "$17.59"
+      },
+      {
+        "symbol": "wstETH",
+        "chain": "base",
+        "price": "$3,788.7563",
+        "amount": "0.0034",
+        "usdValue": "$12.84"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,329"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$1,620"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,608"
+      },
+      {
+        "protocol": "Project X",
+        "chain": "hyper",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$496"
+      },
+      {
+        "protocol": "HyperLend",
+        "chain": "hyper",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WHYPE",
+        "usdValue": "$473"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$370"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$211"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$193"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$191"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "linea",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$128"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$34"
+      },
+      {
+        "protocol": "Symbiotic",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$16"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdea50e702c6792edf814914fabca2490bf36b992",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T16:00:56.480Z",
+  "source": "base_aave",
+  "vaultBalance": 1.1718195316154185,
+  "vaultPct": 0.0017238405775133851
+}

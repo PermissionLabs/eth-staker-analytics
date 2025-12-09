@@ -1,0 +1,194 @@
+{
+  "portfolio": {
+    "address": "0x2af157024804553ac6f7241d3f7a9d8eb3ea3da4",
+    "totalValue": "$1,346",
+    "walletLifetime": "1497 days",
+    "tokens": [
+      {
+        "symbol": "MAVIA",
+        "chain": "eth",
+        "price": "$0.0527",
+        "amount": "4,827.1910",
+        "usdValue": "$254.43"
+      },
+      {
+        "symbol": "JOE",
+        "chain": "avax",
+        "price": "$0.0715",
+        "amount": "1,336.4254",
+        "usdValue": "$95.53"
+      },
+      {
+        "symbol": "0x0",
+        "chain": "eth",
+        "price": "$0.0100",
+        "amount": "4,595.9368",
+        "usdValue": "$46.18"
+      },
+      {
+        "symbol": "PNG",
+        "chain": "avax",
+        "price": "$0.0474",
+        "amount": "966.7748",
+        "usdValue": "$45.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.5200",
+        "amount": "0.0090",
+        "usdValue": "$28.04"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.9000",
+        "amount": "0.0075",
+        "usdValue": "$6.67"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5900",
+        "amount": "0.4565",
+        "usdValue": "$6.20"
+      },
+      {
+        "symbol": "CCAR",
+        "chain": "bsc",
+        "price": "$0.0001",
+        "amount": "0.7404",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$725"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$139"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2af157024804553ac6f7241d3f7a9d8eb3ea3da4",
+    "topProtocols": [
+      {
+        "name": "Alpaca Finance V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x2b3f…5dbb",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3bce…0158",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$766"
+      },
+      {
+        "name": "0xb233…c460",
+        "volume": "$417"
+      },
+      {
+        "name": "Pangolin",
+        "volume": "$374"
+      },
+      {
+        "name": "0x2b9e…e0d3",
+        "volume": "$201"
+      },
+      {
+        "name": "0xd40e…3b35",
+        "volume": "$128"
+      },
+      {
+        "name": "0x000f…5b1c",
+        "volume": "$65B"
+      },
+      {
+        "name": "inance",
+        "volume": "$41"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$9K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$5K"
+      },
+      {
+        "name": "MAVIA",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "JOE",
+        "volume": "$766"
+      },
+      {
+        "name": "PNG",
+        "volume": "$370"
+      },
+      {
+        "name": "x0",
+        "volume": "$364B"
+      },
+      {
+        "name": "NB",
+        "volume": "$98"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:15:35.742Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.51,
+  "vaultPct": 0.00009482788647179672
+}

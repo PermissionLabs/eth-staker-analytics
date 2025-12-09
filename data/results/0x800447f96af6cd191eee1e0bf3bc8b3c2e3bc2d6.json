@@ -1,0 +1,223 @@
+{
+  "portfolio": {
+    "address": "0x800447f96af6cd191eee1e0bf3bc8b3c2e3bc2d6",
+    "totalValue": "$1,218",
+    "walletLifetime": "1785 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.6200",
+        "amount": "0.1179",
+        "usdValue": "$367.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,113.2000",
+        "amount": "0.0112",
+        "usdValue": "$34.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.6200",
+        "amount": "0.0077",
+        "usdValue": "$23.91"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$902.9000",
+        "amount": "0.0063",
+        "usdValue": "$5.68"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "linea",
+        "price": "$1.0000",
+        "amount": "2.6335",
+        "usdValue": "$2.63"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "7.4312",
+        "usdValue": "$0.92"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "0.5523",
+        "usdValue": "$0.55"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$781"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x800447f96af6cd191eee1e0bf3bc8b3c2e3bc2d6",
+    "topProtocols": [
+      {
+        "name": "Mendi Finance",
+        "volume": "$62K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$51K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$27K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$26K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$19K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$15K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x4a4b…ebbe",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x9ff5…9be0",
+        "volume": "$15K"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x7421…a971",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x925d…baa9",
+        "volume": "$9K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x1d49…52c2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x439f…c9a7",
+        "volume": "$2K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$129K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$56K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$1K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$873"
+      },
+      {
+        "name": "ZETA",
+        "volume": "$16"
+      },
+      {
+        "name": "ZKPEPE",
+        "volume": "$11"
+      },
+      {
+        "name": "SAHARA",
+        "volume": "$7"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:11:55.730Z",
+  "source": "base_aave",
+  "vaultBalance": 0.25,
+  "vaultPct": 0.00036777006420454837
+}

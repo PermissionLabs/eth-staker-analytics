@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x4531cf2f54690f1fec36a3fb2b1d67d906e6b8b2",
+    "totalValue": "$113,568",
+    "walletLifetime": "3277 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$90,277.9900",
+        "amount": "0.9837",
+        "usdValue": "$88,804.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,117.3000",
+        "amount": "1.2807",
+        "usdValue": "$3,992.28"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2119",
+        "amount": "13,157.6147",
+        "usdValue": "$2,788.10"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6174",
+        "amount": "98.7687",
+        "usdValue": "$554.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.3000",
+        "amount": "0.0796",
+        "usdValue": "$248.11"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,253.9800",
+        "amount": "0.0020",
+        "usdValue": "$183.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,117.3000",
+        "amount": "0.0500",
+        "usdValue": "$155.84"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$16,759"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "UNI",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Lista DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4531cf2f54690f1fec36a3fb2b1d67d906e6b8b2",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$848K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$238K"
+      },
+      {
+        "name": "0x19b1…1001",
+        "volume": "$227K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$191K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$172K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$168K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$156K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$154K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$94K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$90K"
+      },
+      {
+        "name": "Lombard",
+        "volume": "$85K"
+      },
+      {
+        "name": "ChainLink",
+        "volume": "$85K"
+      },
+      {
+        "name": "0x0000…0d95",
+        "volume": "$81K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$59K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$59K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$52K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$630K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$454K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$376K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$369K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$352K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$107K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$6K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:53:08.678Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 4.934091818645549,
+  "vaultPct": 0.05503283542064113
+}

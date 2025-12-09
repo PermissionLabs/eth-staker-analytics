@@ -1,0 +1,231 @@
+{
+  "portfolio": {
+    "address": "0x109132cb27c09d39989a6ea743e200a4f5a9ec31",
+    "totalValue": "$2,712",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "wBETH",
+        "chain": "eth",
+        "price": "$3,389.5949",
+        "amount": "0.1498",
+        "usdValue": "$507.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,124.1600",
+        "amount": "0.0471",
+        "usdValue": "$147.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.1600",
+        "amount": "0.0347",
+        "usdValue": "$108.46"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "8,671.5619",
+        "usdValue": "$68.07"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3823",
+        "amount": "36.9073",
+        "usdValue": "$51.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.1600",
+        "amount": "0.0159",
+        "usdValue": "$49.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,124.1600",
+        "amount": "0.0098",
+        "usdValue": "$30.71"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.9000",
+        "amount": "0.0045",
+        "usdValue": "$4.01"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$0.9998",
+        "amount": "3.8946",
+        "usdValue": "$3.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,124.1600",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,124.1600",
+        "amount": "0.0008",
+        "usdValue": "$2.34"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,694"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$31"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$5"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x109132cb27c09d39989a6ea743e200a4f5a9ec31",
+    "topProtocols": [
+      {
+        "name": "ZeroLend",
+        "volume": "$15K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$10K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$8K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$7K"
+      },
+      {
+        "name": "SpaceFi",
+        "volume": "$5K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$4K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$3K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$3K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$3K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xbf39…3f11",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "wBETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:40:02.788Z",
+  "source": "moonwell",
+  "vaultBalance": 0.19666917632639958,
+  "vaultPct": 0.003568016715429539
+}

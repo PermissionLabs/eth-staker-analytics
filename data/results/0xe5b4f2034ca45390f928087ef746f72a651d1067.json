@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0xe5b4f2034ca45390f928087ef746f72a651d1067",
+    "totalValue": "$534,070",
+    "walletLifetime": "1743 days",
+    "tokens": [
+      {
+        "symbol": "XAUt",
+        "chain": "eth",
+        "price": "$4,186.0898",
+        "amount": "0.3750",
+        "usdValue": "$1,569.57"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.2000",
+        "amount": "0.4613",
+        "usdValue": "$414.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.5100",
+        "amount": "0.0851",
+        "usdValue": "$264.07"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "monad",
+        "price": "$1.0000",
+        "amount": "220.0000",
+        "usdValue": "$219.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,103.0700",
+        "amount": "0.0158",
+        "usdValue": "$48.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,103.1700",
+        "amount": "0.0105",
+        "usdValue": "$32.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.0700",
+        "amount": "0.0080",
+        "usdValue": "$24.77"
+      },
+      {
+        "symbol": "OG",
+        "chain": "bsc",
+        "price": "$13.0420",
+        "amount": "0.8200",
+        "usdValue": "$10.69"
+      },
+      {
+        "symbol": "ASR",
+        "chain": "bsc",
+        "price": "$7.4430",
+        "amount": "0.8300",
+        "usdValue": "$6.18"
+      },
+      {
+        "symbol": "SPK",
+        "chain": "eth",
+        "price": "$0.0244",
+        "amount": "242.8425",
+        "usdValue": "$5.92"
+      },
+      {
+        "symbol": "PSG",
+        "chain": "bsc",
+        "price": "$0.9030",
+        "amount": "5.4800",
+        "usdValue": "$4.95"
+      },
+      {
+        "symbol": "JUV",
+        "chain": "bsc",
+        "price": "$1.0355",
+        "amount": "4.6100",
+        "usdValue": "$4.77"
+      },
+      {
+        "symbol": "SXP",
+        "chain": "bsc",
+        "price": "$0.0166",
+        "amount": "167.6094",
+        "usdValue": "$2.78"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Alchemix V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$437,229"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$58,373"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBNB",
+        "usdValue": "$14,531"
+      },
+      {
+        "protocol": "Neverland",
+        "chain": "monad",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "gMON",
+        "usdValue": "$5,034"
+      },
+      {
+        "protocol": "Sky",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SKY",
+        "usdValue": "$3,923"
+      },
+      {
+        "protocol": "Alchemix V2",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$3,475"
+      },
+      {
+        "protocol": "Makina Finance",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$2,394"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BNB",
+        "usdValue": "$2,226"
+      },
+      {
+        "protocol": "Oasys Staking",
+        "chain": "oas",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "OAS",
+        "usdValue": "$2,197"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe5b4f2034ca45390f928087ef746f72a651d1067",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T15:52:30.257Z",
+  "source": "base_aave",
+  "vaultBalance": 0.10200200665682775,
+  "vaultPct": 0.00015005313814869724
+}

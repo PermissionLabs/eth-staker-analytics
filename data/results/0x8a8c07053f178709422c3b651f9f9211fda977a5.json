@@ -1,0 +1,82 @@
+{
+  "portfolio": {
+    "address": "0x8a8c07053f178709422c3b651f9f9211fda977a5",
+    "totalValue": "$46",
+    "walletLifetime": "1795 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.9200",
+        "amount": "0.0100",
+        "usdValue": "$31.45"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "15.0000",
+        "usdValue": "$15.00"
+      },
+      {
+        "symbol": "STEAK",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "124.2714",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x8a8c07053f178709422c3b651f9f9211fda977a5",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$181K"
+      },
+      {
+        "name": "0x264b…97b5",
+        "volume": "$83K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$32K"
+      },
+      {
+        "name": "0xa16d…4c66",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xdb33…8236",
+        "volume": "$12K"
+      },
+      {
+        "name": "inance",
+        "volume": "$11"
+      },
+      {
+        "name": "0x9a35…6dbc",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$305K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$64K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:23:12.242Z",
+  "source": "lido_steth",
+  "vaultBalance": 42.07384484397764,
+  "vaultPct": 0.0031592342300325546
+}

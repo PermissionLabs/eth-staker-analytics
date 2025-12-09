@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0xe92e76f1358fbe89ea43a8b27ddb124161f810e5",
+    "totalValue": "$18,681",
+    "walletLifetime": "1316 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.9800",
+        "amount": "0.0110",
+        "usdValue": "$34.22"
+      },
+      {
+        "symbol": "APE(Anyswap)",
+        "chain": "bsc",
+        "price": "$1.3709",
+        "amount": "2.9927",
+        "usdValue": "$4.10"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1239",
+        "amount": "4.7210",
+        "usdValue": "$0.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,105.9800",
+        "amount": "0.00003465",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9812",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "0.0002",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0956",
+        "amount": "0.0058",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WFTM",
+        "chain": "ftm",
+        "price": "$0.0956",
+        "amount": "0.0013",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SUSHI",
+        "chain": "arb",
+        "price": "$0.3320",
+        "amount": "0.00004807",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FTW",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$18,641"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "ftm",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Multichain)",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe92e76f1358fbe89ea43a8b27ddb124161f810e5",
+    "topProtocols": [
+      {
+        "name": "Curve",
+        "volume": "$42K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$23K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$18K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xdc47…fc33",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$8K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$6K"
+      },
+      {
+        "name": "Across V1",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$5K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$555B"
+      },
+      {
+        "name": "alancer V2",
+        "volume": "$225"
+      },
+      {
+        "name": "0xd7a8…fd2d",
+        "volume": "$1291"
+      },
+      {
+        "name": "inch",
+        "volume": "$106"
+      },
+      {
+        "name": "Ape Bond",
+        "volume": "$69"
+      },
+      {
+        "name": "0x4c19…9cb2",
+        "volume": "$65"
+      },
+      {
+        "name": "0x4c9d…afd0",
+        "volume": "$35B"
+      },
+      {
+        "name": "eefy",
+        "volume": "$13B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$58K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$35K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$76"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$28"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$24"
+      },
+      {
+        "name": "FTM",
+        "volume": "$13"
+      },
+      {
+        "name": "POL",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:09:00.443Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.8360575538583115,
+  "vaultPct": 0.00043821696973406833
+}

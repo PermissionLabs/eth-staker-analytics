@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "address": "0x80bbec39ab855bffc6966ff38443ae383086e0b8",
+    "totalValue": "$217",
+    "walletLifetime": "343 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.3400",
+        "amount": "0.0010",
+        "usdValue": "$3.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.3400",
+        "amount": "0.00009408",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.2784",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "Bsop",
+        "chain": "base",
+        "price": "$0.00001886",
+        "amount": "6.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "20.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$213"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x80bbec39ab855bffc6966ff38443ae383086e0b8",
+    "topProtocols": [
+      {
+        "name": "0xb122…2066",
+        "volume": "$410"
+      },
+      {
+        "name": "Owlto Finance",
+        "volume": "$409B"
+      },
+      {
+        "name": "inance",
+        "volume": "$405"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$404"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$300"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$295"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$208"
+      },
+      {
+        "name": "0x1f49…6d86",
+        "volume": "$68"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$59"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$58"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$5B"
+      },
+      {
+        "name": "0xe158…81a6",
+        "volume": "$3"
+      },
+      {
+        "name": "0x85e1…5a1d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7a5c…3c3f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x04d7…0b33",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$961"
+      },
+      {
+        "name": "ETH",
+        "volume": "$446"
+      },
+      {
+        "name": "WETH",
+        "volume": "$108"
+      },
+      {
+        "name": "ANZ",
+        "volume": "$23"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:31:11.060Z",
+  "source": "base_aave",
+  "vaultBalance": 0.06860048035280054,
+  "vaultPct": 0.00010091681225524927
+}

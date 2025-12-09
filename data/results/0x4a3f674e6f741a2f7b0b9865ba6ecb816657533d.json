@@ -1,0 +1,167 @@
+{
+  "portfolio": {
+    "address": "0x4a3f674e6f741a2f7b0b9865ba6ecb816657533d",
+    "totalValue": "$171",
+    "walletLifetime": "121 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.9300",
+        "amount": "0.0450",
+        "usdValue": "$139.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.9300",
+        "amount": "0.0011",
+        "usdValue": "$3.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.9300",
+        "amount": "0.0010",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "0.0079",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.0037",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$25"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4a3f674e6f741a2f7b0b9865ba6ecb816657533d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x85ac…255f",
+        "volume": "$668"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$631"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$519"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$300"
+      },
+      {
+        "name": "Fly",
+        "volume": "$227"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$203"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$179"
+      },
+      {
+        "name": "Relay",
+        "volume": "$151"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$134"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$115"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$110"
+      },
+      {
+        "name": "0xc106…7741",
+        "volume": "$50"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$40"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$1K"
+      },
+      {
+        "name": "EUROC",
+        "volume": "$612"
+      },
+      {
+        "name": "WETH",
+        "volume": "$512"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$446"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$323"
+      },
+      {
+        "name": "GHO",
+        "volume": "$301"
+      },
+      {
+        "name": "USDC",
+        "volume": "$255"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:01:35.693Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11278782221590093,
+  "vaultPct": 0.0001659199384713323
+}

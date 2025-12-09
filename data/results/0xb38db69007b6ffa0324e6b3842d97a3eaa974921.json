@@ -1,0 +1,202 @@
+{
+  "portfolio": {
+    "address": "0xb38db69007b6ffa0324e6b3842d97a3eaa974921",
+    "totalValue": "$2,044",
+    "walletLifetime": "1332 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,153.6100",
+        "amount": "0.3441",
+        "usdValue": "$1,085.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,153.6100",
+        "amount": "0.0103",
+        "usdValue": "$32.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,154.4800",
+        "amount": "0.0037",
+        "usdValue": "$11.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,154.4800",
+        "amount": "0.0033",
+        "usdValue": "$10.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,153.6100",
+        "amount": "0.0027",
+        "usdValue": "$8.46"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "eth",
+        "price": "$1.4080",
+        "amount": "3.0219",
+        "usdValue": "$4.25"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1343",
+        "amount": "295,774,647.0000",
+        "usdValue": "$3.97"
+      },
+      {
+        "symbol": "GTC",
+        "chain": "eth",
+        "price": "$0.1400",
+        "amount": "25.0000",
+        "usdValue": "$3.50"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$883"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb38db69007b6ffa0324e6b3842d97a3eaa974921",
+    "topProtocols": [
+      {
+        "name": "ODOS",
+        "volume": "$37K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x",
+        "volume": "$13K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xf641…a3b2",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5f08…3020",
+        "volume": "$4K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x83f6…b30e",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$4K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bebop",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$57K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$39K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$9K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$3K"
+      },
+      {
+        "name": "KZK",
+        "volume": "$660"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$158"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$100"
+      },
+      {
+        "name": "GTC",
+        "volume": "$53"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:56:47.917Z",
+  "source": "base_aave",
+  "vaultBalance": 0.275,
+  "vaultPct": 0.00040454707062500324
+}

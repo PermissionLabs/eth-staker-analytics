@@ -1,0 +1,85 @@
+{
+  "portfolio": {
+    "address": "0xd6f6dcf7c6c793878caee0ee7a187c8d56cf24a1",
+    "totalValue": "$247",
+    "walletLifetime": "300 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8068",
+        "amount": "15.2579",
+        "usdValue": "$210.66"
+      },
+      {
+        "symbol": "PEPE",
+        "chain": "eth",
+        "price": "$0.0₅4791",
+        "amount": "7,577,788.2700",
+        "usdValue": "$36.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.6100",
+        "amount": "0.00005306",
+        "usdValue": "$0.16"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xd6f6dcf7c6c793878caee0ee7a187c8d56cf24a1",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$461K"
+      },
+      {
+        "name": "raken",
+        "volume": "$390K"
+      },
+      {
+        "name": "0x9f37…dea6",
+        "volume": "$85K"
+      },
+      {
+        "name": "0xb6a2…d052",
+        "volume": "$48"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xd153…e8a8",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$936"
+      },
+      {
+        "name": "LINK",
+        "volume": "$203"
+      },
+      {
+        "name": "PEPE",
+        "volume": "$73"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:30:28.976Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.21532,
+  "vaultPct": 0.000016167914221606458
+}

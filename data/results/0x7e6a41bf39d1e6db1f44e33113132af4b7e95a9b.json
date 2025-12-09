@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0x7e6a41bf39d1e6db1f44e33113132af4b7e95a9b",
+    "totalValue": "$14,007",
+    "walletLifetime": "712 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,782.3400",
+        "amount": "0.0032",
+        "usdValue": "$291.73"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "7.5677",
+        "usdValue": "$7.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.5600",
+        "amount": "0.0024",
+        "usdValue": "$7.41"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "cbBTC",
+        "usdValue": "$11,251"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WELL",
+        "usdValue": "$1,955"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MAMO",
+        "usdValue": "$488"
+      },
+      {
+        "protocol": "The Graph",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GRT",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Cypher",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "CYPR",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "op",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZORA",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7e6a41bf39d1e6db1f44e33113132af4b7e95a9b",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$196K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$176K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$38K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$13K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7455…62f9",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$1K"
+      },
+      {
+        "name": "Virtuals Protocol",
+        "volume": "$540"
+      },
+      {
+        "name": "0x3cb7…d56e",
+        "volume": "$363"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$356K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$59K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$15K"
+      },
+      {
+        "name": "MAMO",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$2K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDS",
+        "volume": "$554"
+      },
+      {
+        "name": "WMTX",
+        "volume": "$413"
+      },
+      {
+        "name": "RETT",
+        "volume": "$333"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$182"
+      },
+      {
+        "name": "PEPE",
+        "volume": "$119"
+      },
+      {
+        "name": "cbXRP",
+        "volume": "$99"
+      },
+      {
+        "name": "TYBG",
+        "volume": "$99"
+      },
+      {
+        "name": "LMWR",
+        "volume": "$95"
+      },
+      {
+        "name": "TRX",
+        "volume": "$80B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:37:35.187Z",
+  "source": "moonwell",
+  "vaultBalance": 0.22985780310739443,
+  "vaultPct": 0.004170132295149118
+}

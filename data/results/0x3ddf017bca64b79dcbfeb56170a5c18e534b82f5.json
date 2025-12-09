@@ -1,0 +1,63 @@
+{
+  "portfolio": {
+    "address": "0x3ddf017bca64b79dcbfeb56170a5c18e534b82f5",
+    "totalValue": "$32",
+    "walletLifetime": "610 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.9600",
+        "amount": "0.0102",
+        "usdValue": "$31.78"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0025",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x3ddf017bca64b79dcbfeb56170a5c18e534b82f5",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$272K"
+      },
+      {
+        "name": "0xd434…fe92",
+        "volume": "$187K"
+      },
+      {
+        "name": "0x7641…49ba",
+        "volume": "$85K"
+      },
+      {
+        "name": "0xa090…8984",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf057…0004",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$373K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$170K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:23:30.037Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 34.84667735529492,
+  "vaultPct": 0.006479287772876933
+}

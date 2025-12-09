@@ -1,0 +1,103 @@
+{
+  "portfolio": {
+    "address": "0xd05454ca789f084a3c88c68ad1820074f3666de7",
+    "totalValue": "$79,797",
+    "walletLifetime": "458 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.3400",
+        "amount": "4.8954",
+        "usdValue": "$15,197.11"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0013",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$64,600"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd05454ca789f084a3c88c68ad1820074f3666de7",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$149K"
+      },
+      {
+        "name": "0xa364…1d96",
+        "volume": "$71K"
+      },
+      {
+        "name": "0xd5c9…2d16",
+        "volume": "$23K"
+      },
+      {
+        "name": "ChainFlip",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x4e0e…8580",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x5d49…8320",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x70a9…844f",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xe8c6…1354",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf904…f9fb",
+        "volume": "$634"
+      },
+      {
+        "name": "0x5e33…9333",
+        "volume": "$633"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$182K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$107K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:31:12.935Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 25.679301881327547,
+  "vaultPct": 0.004774733183289264
+}

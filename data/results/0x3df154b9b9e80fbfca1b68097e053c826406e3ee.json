@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "address": "0x3df154b9b9e80fbfca1b68097e053c826406e3ee",
+    "totalValue": "$12,410",
+    "walletLifetime": "1689 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.4900",
+        "amount": "0.0082",
+        "usdValue": "$25.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.3200",
+        "amount": "0.0003",
+        "usdValue": "$0.96"
+      },
+      {
+        "symbol": "BOO",
+        "chain": "ftm",
+        "price": "$0.0343",
+        "amount": "5.0000",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,106.4900",
+        "amount": "0.00004693",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.3200",
+        "amount": "0.00002915",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1231",
+        "amount": "0.6941",
+        "usdValue": "$0.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$12,383"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3df154b9b9e80fbfca1b68097e053c826406e3ee",
+    "topProtocols": [
+      {
+        "name": "Velodrome V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$1M"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$591K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$586K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$415K"
+      },
+      {
+        "name": "0x48c9…1d72",
+        "volume": "$245K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$207K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$202K"
+      },
+      {
+        "name": "0x4f02…f4ff",
+        "volume": "$184K"
+      },
+      {
+        "name": "0x5fdc…227f",
+        "volume": "$170K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$165K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$106K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$106K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "ALCX",
+        "volume": "$798K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$678K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$319K"
+      },
+      {
+        "name": "BLUR",
+        "volume": "$270K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$138K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$59K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:19:47.070Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 3.658295150019394,
+  "vaultPct": 0.04080312290710731
+}

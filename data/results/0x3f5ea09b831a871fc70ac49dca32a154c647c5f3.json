@@ -1,0 +1,192 @@
+{
+  "portfolio": {
+    "address": "0x3f5ea09b831a871fc70ac49dca32a154c647c5f3",
+    "totalValue": "$1,950",
+    "walletLifetime": "1305 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,154.5600",
+        "amount": "0.4059",
+        "usdValue": "$1,280.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,154.5600",
+        "amount": "0.0820",
+        "usdValue": "$258.70"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "199.9204",
+        "usdValue": "$199.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,154.5600",
+        "amount": "0.0185",
+        "usdValue": "$58.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,154.5600",
+        "amount": "0.0173",
+        "usdValue": "$54.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,154.5600",
+        "amount": "0.0088",
+        "usdValue": "$27.81"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "15.9993",
+        "usdValue": "$16.00"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6871",
+        "amount": "0.6201",
+        "usdValue": "$3.53"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "2.5052",
+        "usdValue": "$2.51"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.6000",
+        "amount": "0.0021",
+        "usdValue": "$1.93"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$45"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3f5ea09b831a871fc70ac49dca32a154c647c5f3",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$12K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x9b9a…2d46",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf8d1…b403",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$868"
+      },
+      {
+        "name": "0xc626…15f7",
+        "volume": "$811"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$629"
+      },
+      {
+        "name": "0x8c41…984f",
+        "volume": "$594"
+      },
+      {
+        "name": "FTX",
+        "volume": "$536"
+      },
+      {
+        "name": "0xb1e6…3cad",
+        "volume": "$531"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$524"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$453"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$19K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$626"
+      },
+      {
+        "name": "USDT",
+        "volume": "$393"
+      },
+      {
+        "name": "rETH",
+        "volume": "$315"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$148"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:48:10.203Z",
+  "source": "base_aave",
+  "vaultBalance": 2.5903465607389182,
+  "vaultPct": 0.0038106076838199322
+}

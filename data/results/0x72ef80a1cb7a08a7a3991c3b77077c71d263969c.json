@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x72ef80a1cb7a08a7a3991c3b77077c71d263969c",
+    "totalValue": "$292,239",
+    "walletLifetime": "1430 days",
+    "tokens": [
+      {
+        "symbol": "rETH",
+        "chain": "base",
+        "price": "$3,573.9014",
+        "amount": "11.5391",
+        "usdValue": "$41,239.53"
+      },
+      {
+        "symbol": "rETH",
+        "chain": "op",
+        "price": "$3,566.9734",
+        "amount": "4.4971",
+        "usdValue": "$16,041.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.9600",
+        "amount": "0.0973",
+        "usdValue": "$302.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.9600",
+        "amount": "0.0519",
+        "usdValue": "$161.20"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$107,489"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$66,330"
+      },
+      {
+        "protocol": "dHEDGE",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$56,668"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3,739"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$167"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x72ef80a1cb7a08a7a3991c3b77077c71d263969c",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$6M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$299K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$290K"
+      },
+      {
+        "name": "mStable",
+        "volume": "$283K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$279K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$184K"
+      },
+      {
+        "name": "0x2791…4174",
+        "volume": "$147K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$131K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$81K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$71K"
+      },
+      {
+        "name": "Toros",
+        "volume": "$64K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$52K"
+      },
+      {
+        "name": "LlamaPay",
+        "volume": "$46K"
+      },
+      {
+        "name": "Flat Money",
+        "volume": "$46K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$5M"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$3M"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$401K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$286K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$198K"
+      },
+      {
+        "name": "rETH",
+        "volume": "$191K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$163K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$93K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$91K"
+      },
+      {
+        "name": "MTA",
+        "volume": "$91K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$83K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$60K"
+      },
+      {
+        "name": "mUSD",
+        "volume": "$28K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:32:56.353Z",
+  "source": "base_aave",
+  "vaultBalance": 10.307770159850955,
+  "vaultPct": 0.015163557173976454
+}

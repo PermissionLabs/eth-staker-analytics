@@ -1,0 +1,222 @@
+{
+  "portfolio": {
+    "address": "0x74aa8fa78c949224420e6be3ec76feac60778222",
+    "totalValue": "$152,839",
+    "walletLifetime": "363 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.0000",
+        "amount": "0.0029",
+        "usdValue": "$9.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.0000",
+        "amount": "0.0008",
+        "usdValue": "$2.54"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "0.8644",
+        "usdValue": "$0.86"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0008",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Euler",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$64,226"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$38,143"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-sUSDai-19FEB2026",
+        "usdValue": "$30,218"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-NUSD-26FEB2026",
+        "usdValue": "$20,071"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EUL",
+        "usdValue": "$167"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Usual",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USUAL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x74aa8fa78c949224420e6be3ec76feac60778222",
+    "topProtocols": [
+      {
+        "name": "Euler",
+        "volume": "$519K"
+      },
+      {
+        "name": "0x0427…023a",
+        "volume": "$513K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$467K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$160K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$136K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$121K"
+      },
+      {
+        "name": "Usual",
+        "volume": "$100K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$83K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$42K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$41K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$32K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$32K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$20K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$20K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$20K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$890K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$270K"
+      },
+      {
+        "name": "USD0",
+        "volume": "$260K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$226K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$225K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$165K"
+      },
+      {
+        "name": "RLP",
+        "volume": "$161K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$146K"
+      },
+      {
+        "name": "USR",
+        "volume": "$20K"
+      },
+      {
+        "name": "RESOLV",
+        "volume": "$877"
+      },
+      {
+        "name": "USUAL",
+        "volume": "$261"
+      },
+      {
+        "name": "USDf",
+        "volume": "$20"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:04:49.352Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 11.187722987736121,
+  "vaultPct": 0.12478327127783737
+}

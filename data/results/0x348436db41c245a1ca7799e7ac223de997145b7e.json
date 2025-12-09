@@ -1,0 +1,246 @@
+{
+  "portfolio": {
+    "address": "0x348436db41c245a1ca7799e7ac223de997145b7e",
+    "totalValue": "$1,233",
+    "walletLifetime": "890 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.2500",
+        "amount": "0.0507",
+        "usdValue": "$158.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.2500",
+        "amount": "0.0451",
+        "usdValue": "$141.00"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0328",
+        "amount": "2,744.0000",
+        "usdValue": "$89.87"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.2000",
+        "amount": "0.0131",
+        "usdValue": "$11.75"
+      },
+      {
+        "symbol": "BUSD",
+        "chain": "era",
+        "price": "$1.0009",
+        "amount": "9.9980",
+        "usdValue": "$10.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.2500",
+        "amount": "0.0028",
+        "usdValue": "$8.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.2500",
+        "amount": "0.0024",
+        "usdValue": "$7.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,125.2500",
+        "amount": "0.0022",
+        "usdValue": "$6.94"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6300",
+        "amount": "0.1870",
+        "usdValue": "$2.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,125.2500",
+        "amount": "0.0000104",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "ZKPEPE",
+        "chain": "era",
+        "price": "$0.0000",
+        "amount": "64,360.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$420"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$377"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x348436db41c245a1ca7799e7ac223de997145b7e",
+    "topProtocols": [
+      {
+        "name": "ReactorFusion",
+        "volume": "$25K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$24K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$12K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$11K"
+      },
+      {
+        "name": "MES Protocol",
+        "volume": "$8K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$6K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1d49…52c2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x70e0…9af6",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x206a…7416",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$702"
+      },
+      {
+        "name": "Fuel",
+        "volume": "$610"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$526M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$522"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$522B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$522"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$522"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$522"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$521"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$44K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$521B"
+      },
+      {
+        "name": "USD",
+        "volume": "$293"
+      },
+      {
+        "name": "SPACE",
+        "volume": "$30"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20"
+      },
+      {
+        "name": "ZKPEPE",
+        "volume": "$6"
+      },
+      {
+        "name": "NB",
+        "volume": "$3"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$2B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:33:45.020Z",
+  "source": "moonwell",
+  "vaultBalance": 0.11811786183326449,
+  "vaultPct": 0.002142920986827321
+}

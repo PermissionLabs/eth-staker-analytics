@@ -1,0 +1,159 @@
+{
+  "portfolio": {
+    "address": "0x71b2646bbd051ab2bf07d849b3d79031fc15ae30",
+    "totalValue": "$2,529",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.8600",
+        "amount": "0.0473",
+        "usdValue": "$148.35"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "16,204.2632",
+        "usdValue": "$127.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.8600",
+        "amount": "0.0321",
+        "usdValue": "$100.79"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3894",
+        "amount": "67.1615",
+        "usdValue": "$93.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,135.8600",
+        "amount": "0.0144",
+        "usdValue": "$45.19"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.3000",
+        "amount": "0.0126",
+        "usdValue": "$11.38"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$0.9999",
+        "amount": "3.5692",
+        "usdValue": "$3.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,135.8600",
+        "amount": "0.0009",
+        "usdValue": "$2.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,135.8600",
+        "amount": "0.0009",
+        "usdValue": "$2.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "dbk",
+        "price": "$3,135.8600",
+        "amount": "0.0006",
+        "usdValue": "$1.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,135.2300",
+        "amount": "0.0004",
+        "usdValue": "$1.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,136.9100",
+        "amount": "0.0003",
+        "usdValue": "$1.09"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$0.9999",
+        "amount": "0.8327",
+        "usdValue": "$0.83"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,857"
+      },
+      {
+        "protocol": "Superform",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "OP",
+        "usdValue": "$51"
+      },
+      {
+        "protocol": "Superform",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$44"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$29"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDbC",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x71b2646bbd051ab2bf07d849b3d79031fc15ae30",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T22:14:02.002Z",
+  "source": "moonwell",
+  "vaultBalance": 0.21635139683919913,
+  "vaultPct": 0.003925096015288346
+}

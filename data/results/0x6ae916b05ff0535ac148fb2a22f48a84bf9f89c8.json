@@ -1,0 +1,114 @@
+{
+  "portfolio": {
+    "address": "0x6ae916b05ff0535ac148fb2a22f48a84bf9f89c8",
+    "totalValue": "$1,260",
+    "walletLifetime": "871 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.9300",
+        "amount": "0.1209",
+        "usdValue": "$378.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.9300",
+        "amount": "0.0077",
+        "usdValue": "$24.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.9300",
+        "amount": "0.0058",
+        "usdValue": "$18.23"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$905.5000",
+        "amount": "0.0175",
+        "usdValue": "$15.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.5000",
+        "amount": "0.0032",
+        "usdValue": "$10.10"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "9.3557",
+        "usdValue": "$9.35"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$905.3400",
+        "amount": "0.0098",
+        "usdValue": "$8.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,131.5000",
+        "amount": "0.0012",
+        "usdValue": "$3.68"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "7.0665",
+        "usdValue": "$0.88"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.8315",
+        "usdValue": "$0.83"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$789"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "vooi",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6ae916b05ff0535ac148fb2a22f48a84bf9f89c8",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T08:42:29.834Z",
+  "source": "moonwell",
+  "vaultBalance": 0.24681872031135632,
+  "vaultPct": 0.004477841094378116
+}

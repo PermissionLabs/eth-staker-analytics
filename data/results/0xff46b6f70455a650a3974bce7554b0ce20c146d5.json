@@ -1,0 +1,165 @@
+{
+  "portfolio": {
+    "address": "0xff46b6f70455a650a3974bce7554b0ce20c146d5",
+    "totalValue": "$1,565",
+    "walletLifetime": "3328 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.9600",
+        "amount": "0.0134",
+        "usdValue": "$41.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.9600",
+        "amount": "0.0066",
+        "usdValue": "$20.57"
+      },
+      {
+        "symbol": "DATAFI",
+        "chain": "base",
+        "price": "$0.0004",
+        "amount": "10,908.6114",
+        "usdValue": "$3.87"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.5980",
+        "amount": "0.0640",
+        "usdValue": "$1.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,103.9600",
+        "amount": "0.0003",
+        "usdValue": "$0.91"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,322"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$175"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xff46b6f70455a650a3974bce7554b0ce20c146d5",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x120a…4b76",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$1K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$794"
+      },
+      {
+        "name": "0xd5b7…a1ab",
+        "volume": "$511"
+      },
+      {
+        "name": "0x82c2…b08e",
+        "volume": "$458"
+      },
+      {
+        "name": "0xb2e8…7e02",
+        "volume": "$351"
+      },
+      {
+        "name": "0xff46…46d5",
+        "volume": "$204B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$200"
+      },
+      {
+        "name": "0x81be…744e",
+        "volume": "$180"
+      },
+      {
+        "name": "0xd838…3c90",
+        "volume": "$168"
+      },
+      {
+        "name": "0xca8f…88e2",
+        "volume": "$158"
+      },
+      {
+        "name": "0x0000…89be",
+        "volume": "$105"
+      },
+      {
+        "name": "0x37de…a95a",
+        "volume": "$79"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$451"
+      },
+      {
+        "name": "AERO",
+        "volume": "$441"
+      },
+      {
+        "name": "DATAFI",
+        "volume": "$176"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$149"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:12:12.071Z",
+  "source": "base_aave",
+  "vaultBalance": 0.7684471970476937,
+  "vaultPct": 0.0011304474999841421
+}

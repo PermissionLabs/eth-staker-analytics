@@ -1,0 +1,88 @@
+{
+  "portfolio": {
+    "address": "0x5d9051c701a08154fa04db55ba90423254244660",
+    "totalValue": "$2,290",
+    "walletLifetime": "915 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.3700",
+        "amount": "0.4081",
+        "usdValue": "$1,268.45"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7472",
+        "amount": "74.3102",
+        "usdValue": "$1,021.56"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9814",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "PIG",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "73.0700",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x5d9051c701a08154fa04db55ba90423254244660",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$14K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$12K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$416"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x35a5…570c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$6K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$438B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:36:24.727Z",
+  "source": "lido_steth",
+  "vaultBalance": 6,
+  "vaultPct": 0.00045052705428960964
+}

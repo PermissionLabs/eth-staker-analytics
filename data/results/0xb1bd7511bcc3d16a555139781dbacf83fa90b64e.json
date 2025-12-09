@@ -1,0 +1,162 @@
+{
+  "portfolio": {
+    "address": "0xb1bd7511bcc3d16a555139781dbacf83fa90b64e",
+    "totalValue": "$1,863",
+    "walletLifetime": "1211 days",
+    "tokens": [
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0941",
+        "amount": "382.9000",
+        "usdValue": "$36.03"
+      },
+      {
+        "symbol": "MANTA",
+        "chain": "manta",
+        "price": "$0.0903",
+        "amount": "277.5500",
+        "usdValue": "$25.06"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "bsc",
+        "price": "$5.4780",
+        "amount": "1.0000",
+        "usdValue": "$5.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.3600",
+        "amount": "0.0005",
+        "usdValue": "$1.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.3600",
+        "amount": "0.0002",
+        "usdValue": "$0.77"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "eth",
+        "price": "$0.2107",
+        "amount": "2.6725",
+        "usdValue": "$0.56"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.0010",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.00002",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,793"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb1bd7511bcc3d16a555139781dbacf83fa90b64e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$11K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x5fc4…88e0",
+        "volume": "$9K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x4891…0307",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xcbe7…7eb0",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe799…fca0",
+        "volume": "$2K"
+      },
+      {
+        "name": "inance",
+        "volume": "$274"
+      },
+      {
+        "name": "0xfb71…7738",
+        "volume": "$208B"
+      },
+      {
+        "name": "0x4632…9c51",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "POL",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$18K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$8K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "MANTA",
+        "volume": "$446"
+      },
+      {
+        "name": "FTM",
+        "volume": "$274"
+      },
+      {
+        "name": "UNI",
+        "volume": "$10"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:25:47.144Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.0611174516290417,
+  "vaultPct": 0.000011363997577498614
+}

@@ -1,0 +1,153 @@
+{
+  "portfolio": {
+    "address": "0xd6f083536c23c6ed517b87e89d1482d537140edb",
+    "totalValue": "$34,400",
+    "walletLifetime": "2921 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,147.0000",
+        "amount": "0.4226",
+        "usdValue": "$1,329.93"
+      },
+      {
+        "symbol": "OMG",
+        "chain": "eth",
+        "price": "$0.0852",
+        "amount": "39.6750",
+        "usdValue": "$3.38"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "CP",
+        "chain": "matic",
+        "price": "$0.0₈1479",
+        "amount": "10.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AMB",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$33,066"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd6f083536c23c6ed517b87e89d1482d537140edb",
+    "topProtocols": [
+      {
+        "name": "Everstake",
+        "volume": "$83K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$45K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x5c6c…7b04",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x860a…048b",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x3358…f8f5",
+        "volume": "$6K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xe971…e1d7",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x88bc…e9bb",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xa6bc…0df6",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xfa3f…6322",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x84b7…6187",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x709c…f50e",
+        "volume": "$233"
+      },
+      {
+        "name": "0xeba8…4cb1",
+        "volume": "$61"
+      },
+      {
+        "name": "0x8820…fb58",
+        "volume": "$36"
+      },
+      {
+        "name": "0xc2ce…d1dd",
+        "volume": "$35"
+      },
+      {
+        "name": "0xe92a…3bc3",
+        "volume": "$32"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$184K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$6K"
+      },
+      {
+        "name": "KBAT",
+        "volume": "$1K"
+      },
+      {
+        "name": "OMG",
+        "volume": "$795"
+      },
+      {
+        "name": "LPT",
+        "volume": "$35"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:57:40.091Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 12.500053435503812,
+  "vaultPct": 0.002324222839359506
+}

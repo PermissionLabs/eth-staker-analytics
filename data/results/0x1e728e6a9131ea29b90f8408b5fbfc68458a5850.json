@@ -1,0 +1,123 @@
+{
+  "portfolio": {
+    "address": "0x1e728e6a9131ea29b90f8408b5fbfc68458a5850",
+    "totalValue": "$2,417",
+    "walletLifetime": "673 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.9100",
+        "amount": "0.0949",
+        "usdValue": "$295.26"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3740",
+        "amount": "1.5477",
+        "usdValue": "$3.67"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$2,118"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1e728e6a9131ea29b90f8408b5fbfc68458a5850",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x86f0…7e7e",
+        "volume": "$763"
+      },
+      {
+        "name": "0xe5b1…18ad",
+        "volume": "$396K"
+      },
+      {
+        "name": "elp DAO",
+        "volume": "$316"
+      },
+      {
+        "name": "0x98db…ef8b",
+        "volume": "$243"
+      },
+      {
+        "name": "0x36d9…e4b8",
+        "volume": "$208"
+      },
+      {
+        "name": "0x253d…492d",
+        "volume": "$151B"
+      },
+      {
+        "name": "inance",
+        "volume": "$104"
+      },
+      {
+        "name": "0xd8c0…5a5a",
+        "volume": "$53"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$19K"
+      },
+      {
+        "name": "ernel DAO",
+        "volume": "$19"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$7"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "KERNEL",
+        "volume": "$37"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$7M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:05:41.906Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.6245437315008588,
+  "vaultPct": 0.006965904497114694
+}

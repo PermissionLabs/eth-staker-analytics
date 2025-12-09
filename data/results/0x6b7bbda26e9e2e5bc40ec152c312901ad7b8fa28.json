@@ -1,0 +1,142 @@
+{
+  "portfolio": {
+    "address": "0x6b7bbda26e9e2e5bc40ec152c312901ad7b8fa28",
+    "totalValue": "$207,599",
+    "walletLifetime": "89 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,140.1600",
+        "amount": "66.0046",
+        "usdValue": "$207,265.02"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "148.5266",
+        "usdValue": "$18.49"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "0.5575",
+        "usdValue": "$0.56"
+      },
+      {
+        "symbol": "MetaMoon",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "372.8666",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$172"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$142"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6b7bbda26e9e2e5bc40ec152c312901ad7b8fa28",
+    "topProtocols": [
+      {
+        "name": "0xbf36…5b28",
+        "volume": "$393K"
+      },
+      {
+        "name": "0x53c9…5933",
+        "volume": "$158K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$154K"
+      },
+      {
+        "name": "0x66d9…0a7c",
+        "volume": "$34K"
+      },
+      {
+        "name": "0xa13c…5c1c",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x7c1e…5a0d",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x5fdd…d00a",
+        "volume": "$12K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$6K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x8190…31e3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xdb68…4196",
+        "volume": "$474"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$413"
+      },
+      {
+        "name": "0x8fe5…ecf3",
+        "volume": "$22"
+      },
+      {
+        "name": "0x4775…97eb",
+        "volume": "$5"
+      },
+      {
+        "name": "0xe866…40db",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$791K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$920"
+      },
+      {
+        "name": "POL",
+        "volume": "$22"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:07:19.754Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.10000000065635692,
+  "vaultPct": 0.00001859370335180512
+}

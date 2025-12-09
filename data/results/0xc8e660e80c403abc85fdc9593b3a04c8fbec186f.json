@@ -1,0 +1,136 @@
+{
+  "portfolio": {
+    "address": "0xc8e660e80c403abc85fdc9593b3a04c8fbec186f",
+    "totalValue": "$29,533",
+    "walletLifetime": "2881 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,101.3300",
+        "amount": "0.3065",
+        "usdValue": "$950.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.3300",
+        "amount": "0.1996",
+        "usdValue": "$619.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,100.8000",
+        "amount": "0.1235",
+        "usdValue": "$383.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,100.8000",
+        "amount": "0.1169",
+        "usdValue": "$362.39"
+      },
+      {
+        "symbol": "GNO",
+        "chain": "eth",
+        "price": "$125.8700",
+        "amount": "2.6500",
+        "usdValue": "$333.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.3300",
+        "amount": "0.1006",
+        "usdValue": "$312.07"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.3000",
+        "amount": "0.1889",
+        "usdValue": "$168.15"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2810",
+        "amount": "100.0000",
+        "usdValue": "$28.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,101.3300",
+        "amount": "0.0076",
+        "usdValue": "$23.71"
+      },
+      {
+        "symbol": "COW",
+        "chain": "xdai",
+        "price": "$0.1946",
+        "amount": "99.8070",
+        "usdValue": "$19.42"
+      },
+      {
+        "symbol": "CATE",
+        "chain": "bsc",
+        "price": "$0.0₇987",
+        "amount": "53,815,330.6614",
+        "usdValue": "$5.31"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "3.5414",
+        "usdValue": "$3.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$13,183"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$12,500"
+      },
+      {
+        "protocol": "API3",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "API3",
+        "usdValue": "$336"
+      },
+      {
+        "protocol": "Liquity",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LQTY",
+        "usdValue": "$287"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc8e660e80c403abc85fdc9593b3a04c8fbec186f",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T05:17:46.444Z",
+  "source": "moonwell",
+  "vaultBalance": 4.165893742547155,
+  "vaultPct": 0.0755785872791919
+}

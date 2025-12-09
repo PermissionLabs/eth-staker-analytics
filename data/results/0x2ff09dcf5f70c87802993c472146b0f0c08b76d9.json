@@ -1,0 +1,157 @@
+{
+  "portfolio": {
+    "address": "0x2ff09dcf5f70c87802993c472146b0f0c08b76d9",
+    "totalValue": "$225",
+    "walletLifetime": "1745 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.8000",
+        "amount": "0.0223",
+        "usdValue": "$20.08"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0226",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "MAGA(unknown)",
+        "chain": "bsc",
+        "price": "$0.0₉5459",
+        "amount": "430,134.7770",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FLOKITA",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "329.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "1,300.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$205"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2ff09dcf5f70c87802993c472146b0f0c08b76d9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$16M"
+      },
+      {
+        "name": "mimic",
+        "volume": "$4M"
+      },
+      {
+        "name": "0x37e8…2f66",
+        "volume": "$2M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2M"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x",
+        "volume": "$827K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$154K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa9fd…2f1e",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x618f…2bd7",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3263…ac67",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "000Binance",
+        "volume": "$999"
+      },
+      {
+        "name": "0x6000…bb71",
+        "volume": "$202"
+      },
+      {
+        "name": "0x3b0f…ac16",
+        "volume": "$125"
+      },
+      {
+        "name": "0x0000…89be",
+        "volume": "$100"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$20M"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$14M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$419K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$188"
+      },
+      {
+        "name": "Cake",
+        "volume": "$152"
+      },
+      {
+        "name": "BIFI",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:11:18.002Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.06444096195651916,
+  "vaultPct": 0.000011981961224600332
+}

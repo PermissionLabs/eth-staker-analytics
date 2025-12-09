@@ -1,0 +1,172 @@
+{
+  "portfolio": {
+    "address": "0xdf7e5c227e417d878b01795152a77214700fa13e",
+    "totalValue": "$1,150",
+    "walletLifetime": "981 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,158.3100",
+        "amount": "0.1809",
+        "usdValue": "$571.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.3100",
+        "amount": "0.0324",
+        "usdValue": "$102.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,158.3100",
+        "amount": "0.0002",
+        "usdValue": "$0.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,158.3100",
+        "amount": "0.0001",
+        "usdValue": "$0.33"
+      },
+      {
+        "symbol": "ZAT",
+        "chain": "era",
+        "price": "$0.0₉807",
+        "amount": "20,987,506.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$475"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdf7e5c227e417d878b01795152a77214700fa13e",
+    "topProtocols": [
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$5K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$3K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$941"
+      },
+      {
+        "name": "0x7379…a2ba",
+        "volume": "$710"
+      },
+      {
+        "name": "SpaceFi",
+        "volume": "$667"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$660"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$625"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$415"
+      },
+      {
+        "name": "Onchain",
+        "volume": "$329"
+      },
+      {
+        "name": "Velocore",
+        "volume": "$250"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$133K"
+      },
+      {
+        "name": "oi",
+        "volume": "$115"
+      },
+      {
+        "name": "zkSwap Finance",
+        "volume": "$112"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$547"
+      },
+      {
+        "name": "OBT",
+        "volume": "$30"
+      },
+      {
+        "name": "ZAT",
+        "volume": "$5"
+      },
+      {
+        "name": "USDC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:01:42.009Z",
+  "source": "base_aave",
+  "vaultBalance": 0.15,
+  "vaultPct": 0.00022066203852272903
+}

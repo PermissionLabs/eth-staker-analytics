@@ -1,0 +1,250 @@
+{
+  "portfolio": {
+    "address": "0x8c228fc6aea3ff02547e7b101f5fefcb62eeb336",
+    "totalValue": "$13,451",
+    "walletLifetime": "775 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,375.0100",
+        "amount": "0.0645",
+        "usdValue": "$5,833.21"
+      },
+      {
+        "symbol": "BTCB",
+        "chain": "bsc",
+        "price": "$90,375.0100",
+        "amount": "0.0021",
+        "usdValue": "$192.91"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "62.4022",
+        "usdValue": "$62.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.8900",
+        "amount": "0.0082",
+        "usdValue": "$25.73"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$5,332"
+      },
+      {
+        "protocol": "Maple",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,788"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "PENDLE",
+        "usdValue": "$114"
+      },
+      {
+        "protocol": "Recall",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "RECALL",
+        "usdValue": "$82"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8c228fc6aea3ff02547e7b101f5fefcb62eeb336",
+    "topProtocols": [
+      {
+        "name": "0xc509…0424",
+        "volume": "$73K"
+      },
+      {
+        "name": "0x19e5…10ed",
+        "volume": "$64K"
+      },
+      {
+        "name": "0x1ca4…b59b",
+        "volume": "$25K"
+      },
+      {
+        "name": "0xa79c…fc91",
+        "volume": "$25K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$19K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xccfb…01b6",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x35a3…45b9",
+        "volume": "$10K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$8K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$8K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$7K"
+      },
+      {
+        "name": "Maple",
+        "volume": "$7K"
+      },
+      {
+        "name": "UniswapX",
+        "volume": "$6K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x807c…bd38",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1ff4…3979",
+        "volume": "$5K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x11d3…ae5c",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4547…4ff6",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$310K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$54K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$27K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$8K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$6K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$4K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$3K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$2K"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "TONCOIN",
+        "volume": "$1K"
+      },
+      {
+        "name": "GTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "PEPE",
+        "volume": "$859"
+      },
+      {
+        "name": "FET",
+        "volume": "$784"
+      },
+      {
+        "name": "wTAO",
+        "volume": "$766"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:26:39.925Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.5654040016092146,
+  "vaultPct": 0.0174598738640866
+}

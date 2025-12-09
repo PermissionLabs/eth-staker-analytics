@@ -1,0 +1,307 @@
+{
+  "portfolio": {
+    "address": "0x0a453f46f8ae9a99b2b901a26b53e92be6c3c43e",
+    "totalValue": "$70,304",
+    "walletLifetime": "1192 days",
+    "tokens": [
+      {
+        "symbol": "KITE",
+        "chain": "op",
+        "price": "$0.9342",
+        "amount": "2,913.5114",
+        "usdValue": "$2,721.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,106.4700",
+        "amount": "0.1227",
+        "usdValue": "$381.13"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.2760",
+        "amount": "4.1166",
+        "usdValue": "$120.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.4700",
+        "amount": "0.0116",
+        "usdValue": "$36.01"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "op",
+        "price": "$3,106.4700",
+        "amount": "0.0092",
+        "usdValue": "$28.43"
+      },
+      {
+        "symbol": "CAP",
+        "chain": "base",
+        "price": "$9.3353",
+        "amount": "2.0000",
+        "usdValue": "$18.67"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "14.2728",
+        "usdValue": "$14.27"
+      },
+      {
+        "symbol": "$mfer",
+        "chain": "base",
+        "price": "$0.0031",
+        "amount": "4,000.0000",
+        "usdValue": "$12.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.8600",
+        "amount": "0.0021",
+        "usdValue": "$6.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,106.4700",
+        "amount": "0.0017",
+        "usdValue": "$5.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.8600",
+        "amount": "0.0011",
+        "usdValue": "$3.38"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$63,533"
+      },
+      {
+        "protocol": "HAI",
+        "chain": "op",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KITE",
+        "usdValue": "$2,673"
+      },
+      {
+        "protocol": "Hedgey",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "FLX",
+        "usdValue": "$681"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$56"
+      },
+      {
+        "protocol": "dYdX",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "DYDX",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "HyperLend",
+        "chain": "hyper",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "UETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hedgey",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "ODG",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0a453f46f8ae9a99b2b901a26b53e92be6c3c43e",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$431K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$364K"
+      },
+      {
+        "name": "0x2cde…62c7",
+        "volume": "$228K"
+      },
+      {
+        "name": "HAI",
+        "volume": "$218K"
+      },
+      {
+        "name": "0xd96f…9762",
+        "volume": "$195K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$165K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$161K"
+      },
+      {
+        "name": "0x",
+        "volume": "$138K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$132K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$112K"
+      },
+      {
+        "name": "0x60f9…1e50",
+        "volume": "$105K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$102K"
+      },
+      {
+        "name": "0xbdae…d07c",
+        "volume": "$67K"
+      },
+      {
+        "name": "0x4bbe…7e5c",
+        "volume": "$61K"
+      },
+      {
+        "name": "0xc2b5…7dac",
+        "volume": "$60K"
+      },
+      {
+        "name": "0xbea9…055a",
+        "volume": "$48K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$47K"
+      },
+      {
+        "name": "0xef21…c0d0",
+        "volume": "$38K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "FLX",
+        "volume": "$789K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$305K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$293K"
+      },
+      {
+        "name": "KITE",
+        "volume": "$224K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$207K"
+      },
+      {
+        "name": "KTAI",
+        "volume": "$106K"
+      },
+      {
+        "name": "KAIT",
+        "volume": "$73K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$64K"
+      },
+      {
+        "name": "WXDAI",
+        "volume": "$30K"
+      },
+      {
+        "name": "OP",
+        "volume": "$23K"
+      },
+      {
+        "name": "xDai",
+        "volume": "$15K"
+      },
+      {
+        "name": "HAMS",
+        "volume": "$14K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$10K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:00:31.908Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 25.89623343941249,
+  "vaultPct": 0.004815068793411281
+}

@@ -1,0 +1,79 @@
+{
+  "portfolio": {
+    "address": "0x37d5f05b3405364ba4f85b1b1b48ad13844d1f62",
+    "totalValue": "$820",
+    "walletLifetime": "909 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,143.5000",
+        "amount": "0.0052",
+        "usdValue": "$16.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,143.5000",
+        "amount": "0.0046",
+        "usdValue": "$14.38"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2103",
+        "amount": "2.7140",
+        "usdValue": "$3.28"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.3600",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$783"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x37d5f05b3405364ba4f85b1b1b48ad13844d1f62",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T00:22:38.277Z",
+  "source": "moonwell",
+  "vaultBalance": 0.24366226637469743,
+  "vaultPct": 0.004420575992556614
+}

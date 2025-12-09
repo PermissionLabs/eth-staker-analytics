@@ -1,0 +1,397 @@
+{
+  "portfolio": {
+    "address": "0x6da0ec240ce6e323c6e82fd90c5c4c47c7000aa0",
+    "totalValue": "$17,195",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,135.2100",
+        "amount": "0.0173",
+        "usdValue": "$54.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.2100",
+        "amount": "0.0129",
+        "usdValue": "$40.39"
+      },
+      {
+        "symbol": "USD0++",
+        "chain": "eth",
+        "price": "$0.9384",
+        "amount": "16.4383",
+        "usdValue": "$15.43"
+      },
+      {
+        "symbol": "WCT",
+        "chain": "op",
+        "price": "$0.0883",
+        "amount": "160.4399",
+        "usdValue": "$14.17"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.4020",
+        "amount": "2.9685",
+        "usdValue": "$7.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,135.9600",
+        "amount": "0.0017",
+        "usdValue": "$5.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,135.2100",
+        "amount": "0.0011",
+        "usdValue": "$3.55"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.6000",
+        "amount": "0.0031",
+        "usdValue": "$2.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,135.9600",
+        "amount": "0.0008",
+        "usdValue": "$2.36"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "uni",
+        "price": "$1.0001",
+        "amount": "1.7826",
+        "usdValue": "$1.78"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "0.1193",
+        "usdValue": "$1.63"
+      },
+      {
+        "symbol": "Moolah",
+        "chain": "bsc",
+        "price": "$0.0026",
+        "amount": "313.2900",
+        "usdValue": "$0.81"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "0.5892",
+        "usdValue": "$0.59"
+      },
+      {
+        "symbol": "DRV",
+        "chain": "eth",
+        "price": "$0.0368",
+        "amount": "14.7053",
+        "usdValue": "$0.54"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0966",
+        "amount": "3.1959",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "op",
+        "price": "$31.8500",
+        "amount": "0.0063",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,135.9600",
+        "amount": "0.00006042",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Fluid",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "wstETH",
+        "usdValue": "$3,660"
+      },
+      {
+        "protocol": "Lista DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$2,802"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,611"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,246"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$1,235"
+      },
+      {
+        "protocol": "Etherex",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "mUSD",
+        "usdValue": "$1,084"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "weETH",
+        "usdValue": "$947"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$897"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$753"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$737"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "uni",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$402"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$279"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$231"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$215"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$211"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$185"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "uni",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$178"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-sENA-5FEB2026",
+        "usdValue": "$150"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ENA",
+        "usdValue": "$96"
+      },
+      {
+        "protocol": "WalletConnect",
+        "chain": "op",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "WCT",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Usual",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "USUAL",
+        "usdValue": "$20"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6da0ec240ce6e323c6e82fd90c5c4c47c7000aa0",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$50K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$26K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$19K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x6da0…0aa0",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$12K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$9K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$5K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$5K"
+      },
+      {
+        "name": "Etherex",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$56K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$47K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$43K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$10K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$9K"
+      },
+      {
+        "name": "KEURC",
+        "volume": "$4K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:13:32.078Z",
+  "source": "moonwell",
+  "vaultBalance": 0.05418244093322943,
+  "vaultPct": 0.0009829901082805612
+}

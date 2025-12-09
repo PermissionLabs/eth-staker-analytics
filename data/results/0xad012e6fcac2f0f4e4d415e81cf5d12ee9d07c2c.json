@@ -1,0 +1,242 @@
+{
+  "portfolio": {
+    "address": "0xad012e6fcac2f0f4e4d415e81cf5d12ee9d07c2c",
+    "totalValue": "$8,863",
+    "walletLifetime": "996 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.9000",
+        "amount": "0.5123",
+        "usdValue": "$1,590.06"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.5000",
+        "amount": "0.1369",
+        "usdValue": "$122.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.9000",
+        "amount": "0.0257",
+        "usdValue": "$79.73"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "5.8012",
+        "usdValue": "$78.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,103.9000",
+        "amount": "0.0085",
+        "usdValue": "$26.32"
+      },
+      {
+        "symbol": "DEGEN",
+        "chain": "base",
+        "price": "$0.0015",
+        "amount": "11,625.8022",
+        "usdValue": "$17.14"
+      },
+      {
+        "symbol": "WEWE",
+        "chain": "base",
+        "price": "$0.0₅1137",
+        "amount": "4,344,853.7380",
+        "usdValue": "$4.94"
+      },
+      {
+        "symbol": "FOXY",
+        "chain": "linea",
+        "price": "$0.0006",
+        "amount": "5,000.0000",
+        "usdValue": "$2.95"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$4,375"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,563"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xad012e6fcac2f0f4e4d415e81cf5d12ee9d07c2c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$28M"
+      },
+      {
+        "name": "0x1a1e…7d31",
+        "volume": "$10M"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$1M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$1M"
+      },
+      {
+        "name": "dEURO",
+        "volume": "$875K"
+      },
+      {
+        "name": "0xdd3d…ceee",
+        "volume": "$653K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$499K"
+      },
+      {
+        "name": "0x7a3b…10fe",
+        "volume": "$486K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$474K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$329K"
+      },
+      {
+        "name": "0x6f67…e706",
+        "volume": "$263K"
+      },
+      {
+        "name": "0xb4ff…2fd1",
+        "volume": "$218K"
+      },
+      {
+        "name": "0x91a3…9a55",
+        "volume": "$215K"
+      },
+      {
+        "name": "0x4e3d…4575",
+        "volume": "$211K"
+      },
+      {
+        "name": "0x9320…82a5",
+        "volume": "$200K"
+      },
+      {
+        "name": "0xa745…1f92",
+        "volume": "$190K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$158K"
+      },
+      {
+        "name": "0x859c…064b",
+        "volume": "$127K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BTC.b",
+        "volume": "$16M"
+      },
+      {
+        "name": "USDt",
+        "volume": "$15M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11M"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$10M"
+      },
+      {
+        "name": "DAI.e",
+        "volume": "$4M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4M"
+      },
+      {
+        "name": "dEURO",
+        "volume": "$1M"
+      },
+      {
+        "name": "EURC",
+        "volume": "$770K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$716K"
+      },
+      {
+        "name": "USDT.e",
+        "volume": "$362K"
+      },
+      {
+        "name": "EURS",
+        "volume": "$332K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$150K"
+      },
+      {
+        "name": "Legacy Frax Dollar",
+        "volume": "$99K"
+      },
+      {
+        "name": "WBTC.e",
+        "volume": "$88K"
+      },
+      {
+        "name": "WLFI",
+        "volume": "$56K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$45K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$41K"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$22K"
+      },
+      {
+        "name": "BTC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:59:18.807Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.3414710933444987,
+  "vaultPct": 0.0004353661863071879
+}

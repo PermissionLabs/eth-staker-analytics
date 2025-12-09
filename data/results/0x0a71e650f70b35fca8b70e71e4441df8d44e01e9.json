@@ -1,0 +1,371 @@
+{
+  "portfolio": {
+    "address": "0x0a71e650f70b35fca8b70e71e4441df8d44e01e9",
+    "totalValue": "$8,481",
+    "walletLifetime": "1754 days",
+    "tokens": [
+      {
+        "symbol": "EURe",
+        "chain": "xdai",
+        "price": "$1.1629",
+        "amount": "849.7696",
+        "usdValue": "$988.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.2600",
+        "amount": "0.0679",
+        "usdValue": "$212.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,131.2600",
+        "amount": "0.0401",
+        "usdValue": "$125.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "mode",
+        "price": "$3,131.2600",
+        "amount": "0.0385",
+        "usdValue": "$120.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,131.2600",
+        "amount": "0.0344",
+        "usdValue": "$107.64"
+      },
+      {
+        "symbol": "SAFE",
+        "chain": "eth",
+        "price": "$0.1544",
+        "amount": "406.7055",
+        "usdValue": "$62.80"
+      },
+      {
+        "symbol": "USDC(bridged)",
+        "chain": "era",
+        "price": "$1.0000",
+        "amount": "33.7205",
+        "usdValue": "$33.72"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "eth",
+        "price": "$0.0458",
+        "amount": "685.0000",
+        "usdValue": "$31.37"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6673",
+        "amount": "46.2414",
+        "usdValue": "$30.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.2600",
+        "amount": "0.0069",
+        "usdValue": "$21.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,131.2600",
+        "amount": "0.0048",
+        "usdValue": "$15.10"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "13.0960",
+        "usdValue": "$13.09"
+      },
+      {
+        "symbol": "GNO",
+        "chain": "xdai",
+        "price": "$127.8365",
+        "amount": "0.0941",
+        "usdValue": "$12.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.2600",
+        "amount": "0.0037",
+        "usdValue": "$11.51"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2077",
+        "amount": "8.8694",
+        "usdValue": "$10.71"
+      },
+      {
+        "symbol": "TAIKO",
+        "chain": "taiko",
+        "price": "$0.1913",
+        "amount": "52.0000",
+        "usdValue": "$9.95"
+      },
+      {
+        "symbol": "PUFFER",
+        "chain": "eth",
+        "price": "$0.0729",
+        "amount": "70.0000",
+        "usdValue": "$5.11"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4830",
+        "amount": "5.4075",
+        "usdValue": "$2.61"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "255.0878",
+        "usdValue": "$2.58"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,283"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$320"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$53"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "SWELL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Convex",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "CVX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "uAD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "AAVE",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "AVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0a71e650f70b35fca8b70e71e4441df8d44e01e9",
+    "topProtocols": [
+      {
+        "name": "Aave",
+        "volume": "$228K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$95K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$64K"
+      },
+      {
+        "name": "0x0209…f21a",
+        "volume": "$50K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$40K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$28K"
+      },
+      {
+        "name": "0x981a…da38",
+        "volume": "$27K"
+      },
+      {
+        "name": "0xefc0…b7dd",
+        "volume": "$27K"
+      },
+      {
+        "name": "instadapp",
+        "volume": "$27K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$24K"
+      },
+      {
+        "name": "Sablier",
+        "volume": "$21K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$20K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$18K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$194K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$113K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$108K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$75K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$56K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$48K"
+      },
+      {
+        "name": "POL",
+        "volume": "$45K"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$45K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$45K"
+      },
+      {
+        "name": "PSP",
+        "volume": "$44K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$39K"
+      },
+      {
+        "name": "uAD",
+        "volume": "$32K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:10:58.762Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09999431018828563,
+  "vaultPct": 0.0018141194103926156
+}

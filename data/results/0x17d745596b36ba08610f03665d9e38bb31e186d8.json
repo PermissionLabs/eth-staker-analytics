@@ -1,0 +1,225 @@
+{
+  "portfolio": {
+    "address": "0x17d745596b36ba08610f03665d9e38bb31e186d8",
+    "totalValue": "$6,193",
+    "walletLifetime": "1117 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.8300",
+        "amount": "0.0063",
+        "usdValue": "$19.45"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.5000",
+        "amount": "0.0099",
+        "usdValue": "$8.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,102.8300",
+        "amount": "0.0013",
+        "usdValue": "$4.15"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "1.0652",
+        "usdValue": "$1.06"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.8135",
+        "usdValue": "$0.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.8300",
+        "amount": "0.00003828",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1218",
+        "amount": "0.8721",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7853",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$6,158"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBNB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x17d745596b36ba08610f03665d9e38bb31e186d8",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$39K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$15K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$15K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$6K"
+      },
+      {
+        "name": "squid",
+        "volume": "$3K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$3K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2286…ade6",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4576…c8b6",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xac3c…9e6c",
+        "volume": "$800"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$744B"
+      },
+      {
+        "name": "inance",
+        "volume": "$709K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$544B"
+      },
+      {
+        "name": "inch",
+        "volume": "$399"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$391"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BTCB",
+        "volume": "$25K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$23K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$16K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$12K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$6K"
+      },
+      {
+        "name": "KUSDe",
+        "volume": "$2K"
+      },
+      {
+        "name": "USD1",
+        "volume": "$2K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$1K"
+      },
+      {
+        "name": "SOL",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:25:56.918Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.040269825062513,
+  "vaultPct": 0.00019342468406090944
+}

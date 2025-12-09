@@ -1,0 +1,112 @@
+{
+  "portfolio": {
+    "address": "0x3583b2cb2ac54c396060cfdda550931ba87352f4",
+    "totalValue": "$141,436",
+    "walletLifetime": "102 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.00001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$93,456"
+      },
+      {
+        "protocol": "Revert",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$47,980"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3583b2cb2ac54c396060cfdda550931ba87352f4",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$352K"
+      },
+      {
+        "name": "Revert",
+        "volume": "$279K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$107K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$82K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$57K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$53K"
+      },
+      {
+        "name": "0xd86c…2805",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$28K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xd55c…e39e",
+        "volume": "$15K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$438K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$323K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$322K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$234K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:26:41.804Z",
+  "source": "base_aave",
+  "vaultBalance": 32.00917200873844,
+  "vaultPct": 0.04708806097915267
+}

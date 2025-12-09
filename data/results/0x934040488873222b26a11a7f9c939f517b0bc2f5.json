@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "address": "0x934040488873222b26a11a7f9c939f517b0bc2f5",
+    "totalValue": "$7,159",
+    "walletLifetime": "1095 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.5200",
+        "amount": "0.1320",
+        "usdValue": "$413.48"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.9254",
+        "amount": "21.8698",
+        "usdValue": "$304.55"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2396",
+        "amount": "55.0600",
+        "usdValue": "$13.19"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7300",
+        "amount": "0.4539",
+        "usdValue": "$6.23"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0283",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6,421"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x934040488873222b26a11a7f9c939f517b0bc2f5",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xc922…7fd5",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8822…b5ea",
+        "volume": "$737"
+      },
+      {
+        "name": "0xd892…9255",
+        "volume": "$204"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$199B"
+      },
+      {
+        "name": "inance",
+        "volume": "$188B"
+      },
+      {
+        "name": "0x266f…f02b",
+        "volume": "$7"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4d46…58cc",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$427"
+      },
+      {
+        "name": "LINK",
+        "volume": "$371"
+      },
+      {
+        "name": "FET",
+        "volume": "$65"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:03:08.233Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.04,
+  "vaultPct": 0.00015317919845846728
+}

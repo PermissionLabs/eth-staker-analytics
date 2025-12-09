@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0xec77b7dff6adb29208a2fd898e36e114ff3f9481",
+    "totalValue": "$7,878",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.0400",
+        "amount": "0.0490",
+        "usdValue": "$153.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,131.0400",
+        "amount": "0.0309",
+        "usdValue": "$96.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.0400",
+        "amount": "0.0283",
+        "usdValue": "$88.67"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.5000",
+        "amount": "0.0633",
+        "usdValue": "$56.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.0400",
+        "amount": "0.0070",
+        "usdValue": "$22.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.0400",
+        "amount": "0.0027",
+        "usdValue": "$8.35"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9545",
+        "amount": "4.9332",
+        "usdValue": "$4.71"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "1,057.0736",
+        "usdValue": "$2.77"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$5,278"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,254"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$912"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "SWELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xec77b7dff6adb29208a2fd898e36e114ff3f9481",
+    "topProtocols": [
+      {
+        "name": "TRANCHESS V2",
+        "volume": "$16K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$14K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$14K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$13K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$8K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$7K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$7K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xdd0b…c4c8",
+        "volume": "$7K"
+      },
+      {
+        "name": "MegaETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$30K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "stoneQUEEN",
+        "volume": "$16K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$14K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$9K"
+      },
+      {
+        "name": "staYSTONE",
+        "volume": "$7K"
+      },
+      {
+        "name": "DUSD",
+        "volume": "$7K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:27:11.693Z",
+  "source": "moonwell",
+  "vaultBalance": 0.2847425449759522,
+  "vaultPct": 0.005165863705972964
+}

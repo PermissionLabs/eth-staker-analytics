@@ -1,0 +1,90 @@
+{
+  "portfolio": {
+    "address": "0x5644ed5c5a856f556887f76ec0633ed209a9cce6",
+    "totalValue": "$17,716",
+    "walletLifetime": "1514 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.5300",
+        "amount": "0.5960",
+        "usdValue": "$1,851.94"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "245.0865",
+        "usdValue": "$30.39"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9878",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$15,833"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5644ed5c5a856f556887f76ec0633ed209a9cce6",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$9K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$4K"
+      },
+      {
+        "name": "inance",
+        "volume": "$440B"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$836"
+      },
+      {
+        "name": "POL",
+        "volume": "$213B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:57:03.405Z",
+  "source": "lido_steth",
+  "vaultBalance": 4.5,
+  "vaultPct": 0.00033789529071720726
+}

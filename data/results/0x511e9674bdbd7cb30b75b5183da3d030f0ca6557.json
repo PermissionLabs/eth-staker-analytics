@@ -1,0 +1,278 @@
+{
+  "portfolio": {
+    "address": "0x511e9674bdbd7cb30b75b5183da3d030f0ca6557",
+    "totalValue": "$2,344",
+    "walletLifetime": "655 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.4100",
+        "amount": "0.2037",
+        "usdValue": "$638.68"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3849",
+        "amount": "265.6799",
+        "usdValue": "$367.95"
+      },
+      {
+        "symbol": "TICKER",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "59,026.8018",
+        "usdValue": "$53.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.4100",
+        "amount": "0.0158",
+        "usdValue": "$49.45"
+      },
+      {
+        "symbol": "OBT",
+        "chain": "base",
+        "price": "$0.0024",
+        "amount": "10,599.9368",
+        "usdValue": "$25.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,136.2900",
+        "amount": "0.0041",
+        "usdValue": "$12.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "dbk",
+        "price": "$3,135.4100",
+        "amount": "0.0040",
+        "usdValue": "$12.54"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0890",
+        "amount": "129.2026",
+        "usdValue": "$11.50"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.4000",
+        "amount": "0.0093",
+        "usdValue": "$8.36"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1052",
+        "amount": "4.4925",
+        "usdValue": "$4.97"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "429.7169",
+        "usdValue": "$3.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "taiko",
+        "price": "$3,136.2900",
+        "amount": "0.0004",
+        "usdValue": "$1.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$481"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$325"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$319"
+      },
+      {
+        "protocol": "Sake",
+        "chain": "soneium",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$25"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Pencils Protocol",
+        "chain": "scrl",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "DAPP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "HandsNFT AI",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "unknown",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x511e9674bdbd7cb30b75b5183da3d030f0ca6557",
+    "topProtocols": [
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$385K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$166K"
+      },
+      {
+        "name": "0xeb47…ebd3",
+        "volume": "$138K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$105K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$103K"
+      },
+      {
+        "name": "WhiteBIT",
+        "volume": "$101K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$95K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$80K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$66K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$62K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$58K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$49K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$33K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$31K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$30K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$21K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$416K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$120K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$93K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$80K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$66K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$64K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$63K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$6K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:30:40.698Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09966245754231089,
+  "vaultPct": 0.0018080988645703651
+}

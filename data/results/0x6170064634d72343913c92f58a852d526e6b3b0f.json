@@ -1,0 +1,90 @@
+{
+  "portfolio": {
+    "address": "0x6170064634d72343913c92f58a852d526e6b3b0f",
+    "totalValue": "$6,774",
+    "walletLifetime": "312 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,094.1400",
+        "amount": "0.1163",
+        "usdValue": "$359.89"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9783",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3,240"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,170"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6170064634d72343913c92f58a852d526e6b3b0f",
+    "topProtocols": [
+      {
+        "name": "0x0bef…a29c",
+        "volume": "$374"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$374B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:04:33.902Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.490861352575843,
+  "vaultPct": 0.005474866099689873
+}

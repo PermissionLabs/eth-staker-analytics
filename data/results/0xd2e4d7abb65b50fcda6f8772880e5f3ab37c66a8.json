@@ -1,0 +1,160 @@
+{
+  "portfolio": {
+    "address": "0xd2e4d7abb65b50fcda6f8772880e5f3ab37c66a8",
+    "totalValue": "$232",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.9500",
+        "amount": "0.0058",
+        "usdValue": "$18.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.2100",
+        "amount": "0.0056",
+        "usdValue": "$17.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.9600",
+        "amount": "0.0005",
+        "usdValue": "$1.61"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2106",
+        "amount": "1.0645",
+        "usdValue": "$0.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,108.9500",
+        "amount": "0.00003425",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "EURA",
+        "chain": "matic",
+        "price": "$1.1629",
+        "amount": "0.0459",
+        "usdValue": "$0.05"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$195"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd2e4d7abb65b50fcda6f8772880e5f3ab37c66a8",
+    "topProtocols": [
+      {
+        "name": "0xbf9b…cadb",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xbea9…055a",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$755B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$692"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$633"
+      },
+      {
+        "name": "aori",
+        "volume": "$569"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$553"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$490"
+      },
+      {
+        "name": "OKX",
+        "volume": "$369"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$329"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$325"
+      },
+      {
+        "name": "0xff68…a57e",
+        "volume": "$3181"
+      },
+      {
+        "name": "inch",
+        "volume": "$301"
+      },
+      {
+        "name": "zkSwap Finance",
+        "volume": "$301"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$774"
+      },
+      {
+        "name": "USDT",
+        "volume": "$575"
+      },
+      {
+        "name": "USDC",
+        "volume": "$544"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$376"
+      },
+      {
+        "name": "USDt",
+        "volume": "$290"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$270"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T06:01:22.869Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1000172809112592,
+  "vaultPct": 0.00014713344728919258
+}

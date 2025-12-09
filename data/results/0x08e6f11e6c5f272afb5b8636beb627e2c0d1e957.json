@@ -1,0 +1,196 @@
+{
+  "portfolio": {
+    "address": "0x08e6f11e6c5f272afb5b8636beb627e2c0d1e957",
+    "totalValue": "$280",
+    "walletLifetime": "589 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.3600",
+        "amount": "0.0343",
+        "usdValue": "$106.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.3600",
+        "amount": "0.00005411",
+        "usdValue": "$0.17"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$162"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Sonne Finance",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "SONNE",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x08e6f11e6c5f272afb5b8636beb627e2c0d1e957",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$81K"
+      },
+      {
+        "name": "Seamless Protocol",
+        "volume": "$78K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$60K"
+      },
+      {
+        "name": "Sonne Finance",
+        "volume": "$55K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$11K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$11K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$11K"
+      },
+      {
+        "name": "orpho",
+        "volume": "$198"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$116"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$67"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$53"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$40"
+      },
+      {
+        "name": "Rango",
+        "volume": "$28"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$21"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$15"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$13M"
+      },
+      {
+        "name": "averick",
+        "volume": "$12B"
+      },
+      {
+        "name": "ase Swap",
+        "volume": "$5"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$110K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$100K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$98K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$25"
+      },
+      {
+        "name": "OVN",
+        "volume": "$11"
+      },
+      {
+        "name": "Cake",
+        "volume": "$10"
+      },
+      {
+        "name": "axlUSDC",
+        "volume": "$10M"
+      },
+      {
+        "name": "AV",
+        "volume": "$7B"
+      },
+      {
+        "name": "SWAP",
+        "volume": "$6"
+      },
+      {
+        "name": "AERO",
+        "volume": "$5"
+      },
+      {
+        "name": "iZi",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:26:43.818Z",
+  "source": "moonwell",
+  "vaultBalance": 0.05072489964863296,
+  "vaultPct": 0.0009202626116379063
+}

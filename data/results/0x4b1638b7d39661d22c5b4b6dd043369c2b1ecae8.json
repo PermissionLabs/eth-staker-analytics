@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "address": "0x4b1638b7d39661d22c5b4b6dd043369c2b1ecae8",
+    "totalValue": "$17,037",
+    "walletLifetime": "68 days",
+    "tokens": [
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6300",
+        "amount": "17.6109",
+        "usdValue": "$240.04"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2118",
+        "amount": "670.3331",
+        "usdValue": "$141.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.5100",
+        "amount": "0.0271",
+        "usdValue": "$84.44"
+      },
+      {
+        "symbol": "POL",
+        "chain": "eth",
+        "price": "$0.1227",
+        "amount": "2.0894",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1221",
+        "amount": "1.0002",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polygon Staking",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$15,666"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$904"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4b1638b7d39661d22c5b4b6dd043369c2b1ecae8",
+    "topProtocols": [
+      {
+        "name": "Polygon Staking",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x2a88…5922",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x0000…1010",
+        "volume": "$31K"
+      },
+      {
+        "name": "0xfa0b…81b9",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x9f6a…7de4",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8216…4fd7",
+        "volume": "$1K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe1a0…917c",
+        "volume": "$330"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$202"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$167"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$165"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x626f…c966",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe540…a42e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "POL",
+        "volume": "$65K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$330"
+      },
+      {
+        "name": "ARB",
+        "volume": "$206M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:07:23.252Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.2661996205568707,
+  "vaultPct": 0.0029690813316005245
+}

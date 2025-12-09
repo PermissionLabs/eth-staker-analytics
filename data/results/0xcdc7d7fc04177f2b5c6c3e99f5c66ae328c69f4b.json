@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0xcdc7d7fc04177f2b5c6c3e99f5c66ae328c69f4b",
+    "totalValue": "$9,436",
+    "walletLifetime": "438 days",
+    "tokens": [
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$192.2083",
+        "amount": "30.6431",
+        "usdValue": "$5,889.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.8700",
+        "amount": "0.3407",
+        "usdValue": "$1,065.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.8700",
+        "amount": "0.1584",
+        "usdValue": "$495.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.8700",
+        "amount": "0.0841",
+        "usdValue": "$262.82"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "arb",
+        "price": "$31.8500",
+        "amount": "7.9879",
+        "usdValue": "$254.42"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$613"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$404"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$383"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcdc7d7fc04177f2b5c6c3e99f5c66ae328c69f4b",
+    "topProtocols": [
+      {
+        "name": "Compound V3",
+        "volume": "$10M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x12d9…62b2",
+        "volume": "$1M"
+      },
+      {
+        "name": "Usual",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xc076…7eb9",
+        "volume": "$959K"
+      },
+      {
+        "name": "0x07d4…1b82",
+        "volume": "$956K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$809K"
+      },
+      {
+        "name": "0xbaa8…3401",
+        "volume": "$455K"
+      },
+      {
+        "name": "ChainLink",
+        "volume": "$400K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$254K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$141K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$68K"
+      },
+      {
+        "name": "0x849b…696b",
+        "volume": "$54K"
+      },
+      {
+        "name": "Merkl",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x34ef…dac0",
+        "volume": "$732"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "wstETH",
+        "volume": "$9M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4M"
+      },
+      {
+        "name": "METH",
+        "volume": "$2M"
+      },
+      {
+        "name": "GHO",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USD0",
+        "volume": "$797K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$394K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$141K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$11K"
+      },
+      {
+        "name": "eUSD",
+        "volume": "$8K"
+      },
+      {
+        "name": "USUAL",
+        "volume": "$4K"
+      },
+      {
+        "name": "COMP",
+        "volume": "$345"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$33"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:16:54.568Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.15004821758742054,
+  "vaultPct": 0.000027899520279755617
+}

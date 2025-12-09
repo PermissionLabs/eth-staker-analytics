@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0x7ad84f068e4f95646ea1f39ccb8bfa42ea5ddaba",
+    "totalValue": "$12,504",
+    "walletLifetime": "173 days",
+    "tokens": [
+      {
+        "symbol": "WALLET",
+        "chain": "base",
+        "price": "$0.0200",
+        "amount": "5,165.1274",
+        "usdValue": "$103.25"
+      },
+      {
+        "symbol": "WALLET",
+        "chain": "eth",
+        "price": "$0.0222",
+        "amount": "483.6899",
+        "usdValue": "$10.75"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "3.6347",
+        "usdValue": "$3.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.5500",
+        "amount": "0.0011",
+        "usdValue": "$3.55"
+      },
+      {
+        "symbol": "RAM",
+        "chain": "hyper",
+        "price": "$0.0263",
+        "amount": "11.2836",
+        "usdValue": "$0.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.7700",
+        "amount": "0.00007909",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "katana",
+        "price": "$3,124.5500",
+        "amount": "0.00007862",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3,325"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$3,103"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$1,702"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,686"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "monad",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "AUSD",
+        "usdValue": "$1,573"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$633"
+      },
+      {
+        "protocol": "Cypher Industries",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "CULT (cult.inc)",
+        "usdValue": "$188"
+      },
+      {
+        "protocol": "Symbiotic",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SPK",
+        "usdValue": "$161"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "monad",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "AUSD",
+        "usdValue": "$10"
+      },
+      {
+        "protocol": "Hyperbeat",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stream Finance",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "streamETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7ad84f068e4f95646ea1f39ccb8bfa42ea5ddaba",
+    "topProtocols": [
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$48K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$20K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$16K"
+      },
+      {
+        "name": "Gnosis Safe",
+        "volume": "$13K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$10K"
+      },
+      {
+        "name": "Stream Finance",
+        "volume": "$7K"
+      },
+      {
+        "name": "PoolTogether",
+        "volume": "$6K"
+      },
+      {
+        "name": "Yearn V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Upshift",
+        "volume": "$6K"
+      },
+      {
+        "name": "MegaETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x",
+        "volume": "$4K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$3K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$49K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "vbUSDC",
+        "volume": "$18K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$4K"
+      },
+      {
+        "name": "KPAXG",
+        "volume": "$3K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:10:02.355Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.9767977426738647,
+  "vaultPct": 0.010894801188880395
+}

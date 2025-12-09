@@ -1,0 +1,167 @@
+{
+  "portfolio": {
+    "address": "0xc9c66cb1a2463e72b08dfe76e12c66a2a212da16",
+    "totalValue": "$10,358",
+    "walletLifetime": "253 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.8500",
+        "amount": "0.0118",
+        "usdValue": "$36.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.8500",
+        "amount": "0.0028",
+        "usdValue": "$8.76"
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Impermax",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "kVCM",
+        "usdValue": "$7,339"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,974"
+      },
+      {
+        "protocol": "Impermax V3",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "wstETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc9c66cb1a2463e72b08dfe76e12c66a2a212da16",
+    "topProtocols": [
+      {
+        "name": "Impermax V3",
+        "volume": "$140K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$108K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x2157…01bd",
+        "volume": "$11K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$11K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$11K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xc8d4…7286",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$186"
+      },
+      {
+        "name": "Coinbase Commerce",
+        "volume": "$180"
+      },
+      {
+        "name": "0xdb4b…ed8f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfb1c…8f14",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1bc3…71b8",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb42c…3c09",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6447…ecab",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7811…c19c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$158K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$82K"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$41K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "kVCM",
+        "volume": "$7K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$1K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$27B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:53:53.751Z",
+  "source": "base_aave",
+  "vaultBalance": 1.4999999999999998,
+  "vaultPct": 0.00220662038522729
+}

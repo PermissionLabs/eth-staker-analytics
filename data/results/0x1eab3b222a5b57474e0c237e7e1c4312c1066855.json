@@ -1,0 +1,241 @@
+{
+  "portfolio": {
+    "address": "0x1eab3b222a5b57474e0c237e7e1c4312c1066855",
+    "totalValue": "$7,118",
+    "walletLifetime": "1323 days",
+    "tokens": [
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "928.7042",
+        "usdValue": "$928.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.0800",
+        "amount": "0.1093",
+        "usdValue": "$342.44"
+      },
+      {
+        "symbol": "MKR",
+        "chain": "eth",
+        "price": "$1,255.5800",
+        "amount": "0.0224",
+        "usdValue": "$28.11"
+      },
+      {
+        "symbol": "ENS",
+        "chain": "eth",
+        "price": "$11.2700",
+        "amount": "1.6541",
+        "usdValue": "$18.64"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "TKX",
+        "chain": "eth",
+        "price": "$1.8374",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BEND",
+        "chain": "eth",
+        "price": "$0.00009332",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004667",
+        "amount": "0.0690",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "4.2000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "GHO",
+        "usdValue": "$4,452"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$1,114"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "GHO",
+        "usdValue": "$141"
+      },
+      {
+        "protocol": "Spark",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$58"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$36"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1eab3b222a5b57474e0c237e7e1c4312c1066855",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$7B"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$1B"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$574M"
+      },
+      {
+        "name": "Compound",
+        "volume": "$232M"
+      },
+      {
+        "name": "0xd730…a959",
+        "volume": "$36M"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$30M"
+      },
+      {
+        "name": "0x4a2c…8f51",
+        "volume": "$6M"
+      },
+      {
+        "name": "Spark",
+        "volume": "$6M"
+      },
+      {
+        "name": "0xf14e…5b1d",
+        "volume": "$5M"
+      },
+      {
+        "name": "0xa945…21a5",
+        "volume": "$5M"
+      },
+      {
+        "name": "0x763d…71c8",
+        "volume": "$5M"
+      },
+      {
+        "name": "0x77d5…031b",
+        "volume": "$3M"
+      },
+      {
+        "name": "0xc91f…45d5",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x7265…11a5",
+        "volume": "$1M"
+      },
+      {
+        "name": "HTX",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x0ce0…108e",
+        "volume": "$1M"
+      },
+      {
+        "name": "000KHTX",
+        "volume": "$847K"
+      },
+      {
+        "name": "0x878d…1c9f",
+        "volume": "$700K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4B"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4B"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1B"
+      },
+      {
+        "name": "DAI",
+        "volume": "$75M"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$23M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$16M"
+      },
+      {
+        "name": "LINK",
+        "volume": "$11M"
+      },
+      {
+        "name": "MKR",
+        "volume": "$10M"
+      },
+      {
+        "name": "ENS",
+        "volume": "$1M"
+      },
+      {
+        "name": "COMP",
+        "volume": "$59K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:13:26.977Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.10074033675482497,
+  "vaultPct": 0.00001873135924885708
+}

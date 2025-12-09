@@ -1,0 +1,120 @@
+{
+  "portfolio": {
+    "address": "0x01a9bc5a97155a2737803da8f1573a5474169ddc",
+    "totalValue": "$3,698",
+    "walletLifetime": "802 days",
+    "tokens": [
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6900",
+        "amount": "83.9358",
+        "usdValue": "$1,149.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.6400",
+        "amount": "0.0111",
+        "usdValue": "$34.80"
+      },
+      {
+        "symbol": "NCASH",
+        "chain": "arb",
+        "price": "$0.0055",
+        "amount": "1.0500",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9872",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MILK",
+        "chain": "avax",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,514"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x01a9bc5a97155a2737803da8f1573a5474169ddc",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$686B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$365B"
+      },
+      {
+        "name": "inance",
+        "volume": "$339"
+      },
+      {
+        "name": "0x2555…ad74",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1c67…1139",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc059…9d99",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "AVAX",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$704"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:01:45.063Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.7523110184742687,
+  "vaultPct": 0.00005648941117713806
+}

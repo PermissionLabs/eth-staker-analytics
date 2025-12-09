@@ -1,0 +1,304 @@
+{
+  "portfolio": {
+    "address": "0x1aecd15f475e52b6987ae6c08dd86c12554b0088",
+    "totalValue": "$6,520",
+    "walletLifetime": "3610 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.3500",
+        "amount": "0.1223",
+        "usdValue": "$380.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,114.3500",
+        "amount": "0.0696",
+        "usdValue": "$216.64"
+      },
+      {
+        "symbol": "ROBERT",
+        "chain": "eth",
+        "price": "$0.00007248",
+        "amount": "1,442,165.7463",
+        "usdValue": "$104.53"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1680",
+        "amount": "295.2603",
+        "usdValue": "$49.60"
+      },
+      {
+        "symbol": "L3",
+        "chain": "eth",
+        "price": "$0.0120",
+        "amount": "3,707.6115",
+        "usdValue": "$44.45"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3227",
+        "amount": "137.4840",
+        "usdValue": "$44.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,114.3500",
+        "amount": "0.0119",
+        "usdValue": "$37.16"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3878",
+        "amount": "14.8555",
+        "usdValue": "$20.62"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.5000",
+        "amount": "0.0069",
+        "usdValue": "$6.20"
+      },
+      {
+        "symbol": "USDC.e",
+        "chain": "soneium",
+        "price": "$1.0000",
+        "amount": "5.0227",
+        "usdValue": "$5.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,114.3500",
+        "amount": "0.0016",
+        "usdValue": "$4.93"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1052",
+        "amount": "4.2383",
+        "usdValue": "$4.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,114.7400",
+        "amount": "0.0012",
+        "usdValue": "$3.73"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6200",
+        "amount": "0.2046",
+        "usdValue": "$2.79"
+      },
+      {
+        "symbol": "OKB",
+        "chain": "xlayer",
+        "price": "$110.9800",
+        "amount": "0.0181",
+        "usdValue": "$2.01"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1246",
+        "amount": "7.7045",
+        "usdValue": "$0.96"
+      },
+      {
+        "symbol": "BUILD",
+        "chain": "base",
+        "price": "$12.00",
+        "amount": "28,049,854.00",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FARTHER",
+        "chain": "base",
+        "price": "$0.01",
+        "amount": "299.96",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,122"
+      },
+      {
+        "protocol": "Sake",
+        "chain": "soneium",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,022"
+      },
+      {
+        "protocol": "Ethos",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$812"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$452"
+      },
+      {
+        "protocol": "Layer3",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "L3",
+        "usdValue": "$86"
+      },
+      {
+        "protocol": "Kaito AI",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "KAITO",
+        "usdValue": "$67"
+      },
+      {
+        "protocol": "Sablier",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "BUILD",
+        "usdValue": "$12"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1aecd15f475e52b6987ae6c08dd86c12554b0088",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$32K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$29K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$14K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$12K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x391e…a604",
+        "volume": "$11K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$9K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$6K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "LEGION",
+        "volume": "$6K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$121K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$42K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$33K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$11K"
+      },
+      {
+        "name": "SAHARA",
+        "volume": "$10K"
+      },
+      {
+        "name": "USD1",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$8K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:22:04.853Z",
+  "source": "base_aave",
+  "vaultBalance": 1.0011131933774944,
+  "vaultPct": 0.0014727178536178462
+}

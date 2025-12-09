@@ -1,0 +1,172 @@
+{
+  "portfolio": {
+    "address": "0x9bccdfd677d1971219def09d95c0a93521bc9a1d",
+    "totalValue": "$13,714",
+    "walletLifetime": "1107 days",
+    "tokens": [
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$188.9477",
+        "amount": "12.5667",
+        "usdValue": "$2,374.45"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4759",
+        "amount": "3,586.3630",
+        "usdValue": "$1,706.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,105.1200",
+        "amount": "0.0025",
+        "usdValue": "$7.69"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1219",
+        "amount": "37.5288",
+        "usdValue": "$4.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.1200",
+        "amount": "0.00001498",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$7,714"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,906"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9bccdfd677d1971219def09d95c0a93521bc9a1d",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$56K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$35K"
+      },
+      {
+        "name": "0x368d…1511",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x61bc…dedf",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xe9da…931b",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x95f9…a935",
+        "volume": "$9K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x76b2…d3c6",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x69b9…0962",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2e69…bcb3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd71b…7d20",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0000…f24f",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xeff6…a167",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ARB",
+        "volume": "$94K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$69K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$10K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$5B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:24:12.753Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.1,
+  "vaultPct": 0.00020453073552740468
+}

@@ -1,0 +1,253 @@
+{
+  "portfolio": {
+    "address": "0x6e856217877d66f9235e8e3c5e9d3d1a16c9b795",
+    "totalValue": "$1,455",
+    "walletLifetime": "1510 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.9100",
+        "amount": "0.1183",
+        "usdValue": "$373.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.9100",
+        "amount": "0.0502",
+        "usdValue": "$158.54"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$910.1600",
+        "amount": "0.1069",
+        "usdValue": "$97.25"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.4000",
+        "amount": "0.1035",
+        "usdValue": "$94.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,159.8200",
+        "amount": "0.0124",
+        "usdValue": "$39.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,159.9100",
+        "amount": "0.0113",
+        "usdValue": "$35.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,159.9100",
+        "amount": "0.0112",
+        "usdValue": "$35.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,159.9100",
+        "amount": "0.0112",
+        "usdValue": "$35.33"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1253",
+        "amount": "36.9662",
+        "usdValue": "$4.63"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$479"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$99"
+      },
+      {
+        "protocol": "Zada Finance",
+        "chain": "scrl",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hana Finance",
+        "chain": "taiko",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Locked",
+        "token": "ZERO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Meridian",
+        "chain": "taiko",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "TAIKO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Falcon Finance",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDf",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Lynex",
+        "chain": "linea",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "LYNX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stakeland",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MEME (Memecoin)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6e856217877d66f9235e8e3c5e9d3d1a16c9b795",
+    "topProtocols": [
+      {
+        "name": "Bitget",
+        "volume": "$22K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$14K"
+      },
+      {
+        "name": "LEGION",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$10K"
+      },
+      {
+        "name": "Falcon Finance",
+        "volume": "$6K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x61f8…2113",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe574…1378",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x1a44…728c",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "USD1",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDf",
+        "volume": "$12K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:02:53.078Z",
+  "source": "base_aave",
+  "vaultBalance": 0.151,
+  "vaultPct": 0.0002221331187795472
+}

@@ -1,0 +1,131 @@
+{
+  "portfolio": {
+    "address": "0x0e73201c368fc0c2067532f0a8780253b511d2b9",
+    "totalValue": "$15,619",
+    "walletLifetime": "1811 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.9000",
+        "amount": "0.1056",
+        "usdValue": "$329.36"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0291",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "WOOF",
+        "chain": "shib",
+        "price": "$0.0002",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$15,290"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0e73201c368fc0c2067532f0a8780253b511d2b9",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$78K"
+      },
+      {
+        "name": "0xc55e…e7fa",
+        "volume": "$10K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x942b…9cbf",
+        "volume": "$3K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$864M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$679B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$525"
+      },
+      {
+        "name": "0x06d4…f718",
+        "volume": "$317"
+      },
+      {
+        "name": "0xa216…5192",
+        "volume": "$271B"
+      },
+      {
+        "name": "inance",
+        "volume": "$135B"
+      },
+      {
+        "name": "0xe6c2…1b97",
+        "volume": "$74"
+      },
+      {
+        "name": "0x9b96…f7e5",
+        "volume": "$63B"
+      },
+      {
+        "name": "0x7d7b…2bf9",
+        "volume": "$14"
+      },
+      {
+        "name": "0x8737…87c3",
+        "volume": "$7"
+      },
+      {
+        "name": "0xb734…e67c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$106K"
+      },
+      {
+        "name": "POL",
+        "volume": "$582"
+      },
+      {
+        "name": "PEPE",
+        "volume": "$195"
+      },
+      {
+        "name": "SAND",
+        "volume": "$190"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$170"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:51:52.919Z",
+  "source": "lido_steth",
+  "vaultBalance": 4.797547649404634,
+  "vaultPct": 0.0003602375017167184
+}

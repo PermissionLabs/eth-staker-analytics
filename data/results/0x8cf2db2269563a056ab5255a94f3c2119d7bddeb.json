@@ -1,0 +1,158 @@
+{
+  "portfolio": {
+    "address": "0x8cf2db2269563a056ab5255a94f3c2119d7bddeb",
+    "totalValue": "$1,034,608",
+    "walletLifetime": "1288 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,136.4300",
+        "amount": "0.0928",
+        "usdValue": "$290.92"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,136.4300",
+        "amount": "0.0609",
+        "usdValue": "$191.00"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "4.1024",
+        "usdValue": "$4.10"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9881",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "TKX",
+        "chain": "eth",
+        "price": "$1.8340",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7915",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,025,331"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,791"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8cf2db2269563a056ab5255a94f3c2119d7bddeb",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$11M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3M"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$2M"
+      },
+      {
+        "name": "0xe6a4…fc38",
+        "volume": "$921K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$663K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$585K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$548K"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$50K"
+      },
+      {
+        "name": "0xb3ca…3fa4",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb44e…d3a1",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb3c7…3fa4",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$10M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$209B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:06:10.149Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.8008640425114355,
+  "vaultPct": 0.000520784347933749
+}

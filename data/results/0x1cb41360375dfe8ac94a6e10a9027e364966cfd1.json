@@ -1,0 +1,250 @@
+{
+  "portfolio": {
+    "address": "0x1cb41360375dfe8ac94a6e10a9027e364966cfd1",
+    "totalValue": "$99,826",
+    "walletLifetime": "1885 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.3600",
+        "amount": "1.2664",
+        "usdValue": "$3,937.70"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.9000",
+        "amount": "0.4847",
+        "usdValue": "$432.77"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1231",
+        "amount": "1,151.4405",
+        "usdValue": "$141.74"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3169",
+        "amount": "409.4263",
+        "usdValue": "$129.75"
+      },
+      {
+        "symbol": "HEGIC",
+        "chain": "eth",
+        "price": "$0.0237",
+        "amount": "3,396.8947",
+        "usdValue": "$80.65"
+      },
+      {
+        "symbol": "DFYN",
+        "chain": "matic",
+        "price": "$0.0023",
+        "amount": "5,738.0000",
+        "usdValue": "$13.46"
+      },
+      {
+        "symbol": "REAL",
+        "chain": "base",
+        "price": "$0.0129",
+        "amount": "928.6571",
+        "usdValue": "$12.01"
+      },
+      {
+        "symbol": "OM(meme)",
+        "chain": "eth",
+        "price": "$0.0658",
+        "amount": "150.0000",
+        "usdValue": "$9.87"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$94,217"
+      },
+      {
+        "protocol": "Polygon Staking",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$385"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$262"
+      },
+      {
+        "protocol": "MantraDAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "OM",
+        "usdValue": "$197"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1cb41360375dfe8ac94a6e10a9027e364966cfd1",
+    "topProtocols": [
+      {
+        "name": "MantraDAO",
+        "volume": "$885K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$401K"
+      },
+      {
+        "name": "0x27f7…d8b9",
+        "volume": "$317K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$207K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$152K"
+      },
+      {
+        "name": "0xd191…763f",
+        "volume": "$134K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$133K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$116K"
+      },
+      {
+        "name": "0xacd4…cf40",
+        "volume": "$99K"
+      },
+      {
+        "name": "0x47ab…24e5",
+        "volume": "$70K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$64K"
+      },
+      {
+        "name": "0x458b…76a6",
+        "volume": "$55K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$45K"
+      },
+      {
+        "name": "0xf541…fbe6",
+        "volume": "$39K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$39K"
+      },
+      {
+        "name": "Olympus",
+        "volume": "$38K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "OM",
+        "volume": "$872K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$815K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$404K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$352K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$266K"
+      },
+      {
+        "name": "BONDLY",
+        "volume": "$192K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$88K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$78K"
+      },
+      {
+        "name": "FXF",
+        "volume": "$73K"
+      },
+      {
+        "name": "MIST",
+        "volume": "$71K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$69K"
+      },
+      {
+        "name": "KXTM",
+        "volume": "$50K"
+      },
+      {
+        "name": "LABS",
+        "volume": "$50K"
+      },
+      {
+        "name": "RUNE",
+        "volume": "$40K"
+      },
+      {
+        "name": "GAINS",
+        "volume": "$38K"
+      },
+      {
+        "name": "WAS",
+        "volume": "$35K"
+      },
+      {
+        "name": "V1",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:11:40.790Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.9094684214116846,
+  "vaultPct": 0.0001691038592457086
+}

@@ -1,0 +1,268 @@
+{
+  "portfolio": {
+    "address": "0xf5f15691441775cf6874ff2dd3aabb954358565c",
+    "totalValue": "$2,806",
+    "walletLifetime": "905 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,130.1900",
+        "amount": "0.0273",
+        "usdValue": "$85.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.0700",
+        "amount": "0.0184",
+        "usdValue": "$57.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,130.1900",
+        "amount": "0.0165",
+        "usdValue": "$51.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.0700",
+        "amount": "0.0109",
+        "usdValue": "$34.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.0700",
+        "amount": "0.0106",
+        "usdValue": "$33.13"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "era",
+        "price": "$90,767.9274",
+        "amount": "0.0002",
+        "usdValue": "$17.63"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,130.0700",
+        "amount": "0.0020",
+        "usdValue": "$6.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,130.0700",
+        "amount": "0.0005",
+        "usdValue": "$1.47"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2073",
+        "amount": "0.3810",
+        "usdValue": "$0.46"
+      },
+      {
+        "symbol": "SEAM",
+        "chain": "base",
+        "price": "$0.31",
+        "amount": "2.19",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,322"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$190"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SEAM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf5f15691441775cf6874ff2dd3aabb954358565c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$788K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$260K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$128K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$37K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$36K"
+      },
+      {
+        "name": "0x0a97…19cf",
+        "volume": "$31K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$22K"
+      },
+      {
+        "name": "Seamless Protocol",
+        "volume": "$18K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$18K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$17K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$16K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$11K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$8K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x58fe…0b25",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$898K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$226K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$118K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$57K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$45K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$31K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$8K"
+      },
+      {
+        "name": "LUSD",
+        "volume": "$7K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$5K"
+      },
+      {
+        "name": "KrETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:13:30.607Z",
+  "source": "moonwell",
+  "vaultBalance": 0.059514856243147195,
+  "vaultPct": 0.001079731993891667
+}

@@ -1,0 +1,211 @@
+{
+  "portfolio": {
+    "address": "0xbd8eda2bf0389e55c88e4d982f9f7c1129b5cb0b",
+    "totalValue": "$10,969",
+    "walletLifetime": "1324 days",
+    "tokens": [
+      {
+        "symbol": "wstETH",
+        "chain": "arb",
+        "price": "$3,806.6060",
+        "amount": "1.1667",
+        "usdValue": "$4,441.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.9100",
+        "amount": "0.0129",
+        "usdValue": "$40.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,117.1800",
+        "amount": "0.0123",
+        "usdValue": "$38.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,117.9100",
+        "amount": "0.0054",
+        "usdValue": "$16.75"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.6000",
+        "amount": "0.0096",
+        "usdValue": "$8.63"
+      },
+      {
+        "symbol": "LUSD",
+        "chain": "op",
+        "price": "$0.9976",
+        "amount": "3.0474",
+        "usdValue": "$3.04"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "7.9150",
+        "usdValue": "$0.98"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "0.0177",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "WPOL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "0.0100",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006749",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$5,207"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,214"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbd8eda2bf0389e55c88e4d982f9f7c1129b5cb0b",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Ta-da",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa853…90b8",
+        "volume": "$3K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "MultiversX",
+        "volume": "$2K"
+      },
+      {
+        "name": "Immutable Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$531"
+      },
+      {
+        "name": "0xb604…cfcd",
+        "volume": "$531B"
+      },
+      {
+        "name": "inance",
+        "volume": "$515"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$419B"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$307"
+      },
+      {
+        "name": "0x2751…8ac2",
+        "volume": "$307B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$2K"
+      },
+      {
+        "name": "RARI",
+        "volume": "$555"
+      },
+      {
+        "name": "jEUR",
+        "volume": "$463"
+      },
+      {
+        "name": "sEUR",
+        "volume": "$123"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$21B"
+      },
+      {
+        "name": "NB",
+        "volume": "$7"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:17:31.948Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.35,
+  "vaultPct": 0.000026280744833560557
+}

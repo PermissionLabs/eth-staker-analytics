@@ -1,0 +1,189 @@
+{
+  "portfolio": {
+    "address": "0xbc4ba4cd24da0b57b43a93a641b9b3c183ae4280",
+    "totalValue": "$38,113",
+    "walletLifetime": "319 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.7800",
+        "amount": "0.0187",
+        "usdValue": "$58.03"
+      },
+      {
+        "symbol": "AIXBT",
+        "chain": "base",
+        "price": "$0.0398",
+        "amount": "142.5521",
+        "usdValue": "$5.67"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4766",
+        "amount": "10.1167",
+        "usdValue": "$4.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.4300",
+        "amount": "0.0002",
+        "usdValue": "$0.76"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "0.6173",
+        "usdValue": "$0.62"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$33,870"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$2,772"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,375"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$25"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbc4ba4cd24da0b57b43a93a641b9b3c183ae4280",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$185K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$155K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$72K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$64K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$60K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x",
+        "volume": "$45K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$42K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$29K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$685K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$373K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$333K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$257K"
+      },
+      {
+        "name": "COOKIE",
+        "volume": "$128K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$103K"
+      },
+      {
+        "name": "TOSHI",
+        "volume": "$98K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$89K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$89K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$52K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$32K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$29K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$21K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:07:46.162Z",
+  "source": "base_aave",
+  "vaultBalance": 0.849716452469456,
+  "vaultPct": 0.0012500010971214115
+}

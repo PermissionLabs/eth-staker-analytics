@@ -1,0 +1,145 @@
+{
+  "portfolio": {
+    "address": "0x6464876c5206c2db27a9926712d5789257828d14",
+    "totalValue": "$42,146",
+    "walletLifetime": "2096 days",
+    "tokens": [
+      {
+        "symbol": "TAOBOT",
+        "chain": "eth",
+        "price": "$0.1511",
+        "amount": "41,778.4836",
+        "usdValue": "$6,313.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.8400",
+        "amount": "0.0209",
+        "usdValue": "$65.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,120.8400",
+        "amount": "0.0002",
+        "usdValue": "$0.61"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.0010",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$35,767"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6464876c5206c2db27a9926712d5789257828d14",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$117K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$58K"
+      },
+      {
+        "name": "Staked.us",
+        "volume": "$42K"
+      },
+      {
+        "name": "0x",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x7674…ae87",
+        "volume": "$19K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x76c0…f3e8",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xdb62…8c6c",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x2177…1553",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8356…6ecc",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3812…cdff",
+        "volume": "$397"
+      },
+      {
+        "name": "0xe94f…ca0c",
+        "volume": "$396"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$159"
+      },
+      {
+        "name": "0x7575…9e25",
+        "volume": "$159"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$130"
+      },
+      {
+        "name": "0x76cf…f3e8",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$278K"
+      },
+      {
+        "name": "TAOBOT",
+        "volume": "$23K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$10K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:02:38.657Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 16.24977222928465,
+  "vaultPct": 0.0030214344238258034
+}

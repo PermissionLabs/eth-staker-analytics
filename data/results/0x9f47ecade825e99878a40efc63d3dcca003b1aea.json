@@ -1,0 +1,125 @@
+{
+  "portfolio": {
+    "address": "0x9f47ecade825e99878a40efc63d3dcca003b1aea",
+    "totalValue": "$4,715",
+    "walletLifetime": "714 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,142.6500",
+        "amount": "1.4099",
+        "usdValue": "$4,430.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,143.5000",
+        "amount": "0.0904",
+        "usdValue": "$284.07"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "DeFAI",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "640.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x9f47ecade825e99878a40efc63d3dcca003b1aea",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$115K"
+      },
+      {
+        "name": "0x0d5e…4af2",
+        "volume": "$46K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x5598…e953",
+        "volume": "$14K"
+      },
+      {
+        "name": "THORChain",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xe4dd…9f02",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x6c9f…cca3",
+        "volume": "$7K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xc249…c675",
+        "volume": "$869"
+      },
+      {
+        "name": "0xea34…c72d",
+        "volume": "$15"
+      },
+      {
+        "name": "0x5a82…32cf",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfd0d…bcd9",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf892…abe8",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$103K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$91K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$42K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$5K"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:22:35.178Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 15.89577532716938,
+  "vaultPct": 0.0029556132904039315
+}

@@ -1,0 +1,163 @@
+{
+  "portfolio": {
+    "address": "0x938c2b279225fd22db58864257d8b5db396d9e1d",
+    "totalValue": "$4,497",
+    "walletLifetime": "89 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.6100",
+        "amount": "0.0022",
+        "usdValue": "$6.71"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.8000",
+        "amount": "0.0030",
+        "usdValue": "$2.66"
+      },
+      {
+        "symbol": "LAÏKA",
+        "chain": "base",
+        "price": "$0.00001935",
+        "amount": "6.9000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,940"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$996"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$551"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x938c2b279225fd22db58864257d8b5db396d9e1d",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$31K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1203…f16f",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xec6e…1179",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x8af0…37bf",
+        "volume": "$5K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$3K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xfc6e…7a7a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf79d…d3fa",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd89e…b99c",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0000…f24f",
+        "volume": "$313"
+      },
+      {
+        "name": "0x30eb…c46c",
+        "volume": "$105"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$87"
+      },
+      {
+        "name": "0x596e…2785",
+        "volume": "$8"
+      },
+      {
+        "name": "0x3c7d…928c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1208…f16f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xd89a…b99c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$42K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$3"
+      },
+      {
+        "name": "KA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:20:41.931Z",
+  "source": "base_aave",
+  "vaultBalance": 1.641778353023347,
+  "vaultPct": 0.002415187721204136
+}

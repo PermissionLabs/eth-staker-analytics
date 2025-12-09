@@ -1,0 +1,111 @@
+{
+  "portfolio": {
+    "address": "0xcb6a16831909a8873287ac8def0339507f40ee0e",
+    "totalValue": "$76",
+    "walletLifetime": "51 days",
+    "tokens": [
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$30.6200",
+        "amount": "0.3432",
+        "usdValue": "$10.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.5900",
+        "amount": "0.0032",
+        "usdValue": "$10.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,156.8700",
+        "amount": "0.0025",
+        "usdValue": "$7.90"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$47"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcb6a16831909a8873287ac8def0339507f40ee0e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$32K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$9K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$7K"
+      },
+      {
+        "name": "squid",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xc106…7741",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$801"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$405"
+      },
+      {
+        "name": "0xcdd3…2af2",
+        "volume": "$396"
+      },
+      {
+        "name": "0x7ddb…efbc",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9488…2f36",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xeb58…f930",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x27ea…fc9e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$28K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:15:21.740Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1,
+  "vaultPct": 0.00014710802568181934
+}

@@ -1,0 +1,281 @@
+{
+  "portfolio": {
+    "address": "0x33367ff9b9acc76e5a87fb5432434e4d82596660",
+    "totalValue": "$25,746",
+    "walletLifetime": "1302 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.1100",
+        "amount": "0.0208",
+        "usdValue": "$64.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.1100",
+        "amount": "0.0183",
+        "usdValue": "$57.22"
+      },
+      {
+        "symbol": "GHST",
+        "chain": "matic",
+        "price": "$0.2090",
+        "amount": "53.8092",
+        "usdValue": "$11.25"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1241",
+        "amount": "29.7560",
+        "usdValue": "$3.69"
+      },
+      {
+        "symbol": "GHST",
+        "chain": "base",
+        "price": "$0.2069",
+        "amount": "9.6558",
+        "usdValue": "$2.00"
+      },
+      {
+        "symbol": "SDEX(Wormhole)",
+        "chain": "matic",
+        "price": "$0.0024",
+        "amount": "103.3729",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0291",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1387",
+        "amount": "1,020.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "DeFAI",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "640.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "esGMX",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "0.2568",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$22,535"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$1,575"
+      },
+      {
+        "protocol": "SmarDex",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "SDEX(Wormhole)",
+        "usdValue": "$1,442"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$42"
+      },
+      {
+        "protocol": "Clipper",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$14"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aArbARB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x33367ff9b9acc76e5a87fb5432434e4d82596660",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$44K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$9K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$9K"
+      },
+      {
+        "name": "CacaoSwap",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x442e…bae5",
+        "volume": "$7K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$6K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$5K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$1K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$824"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$704"
+      },
+      {
+        "name": "Allbridge",
+        "volume": "$164"
+      },
+      {
+        "name": "Aavegotchi",
+        "volume": "$126"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$115"
+      },
+      {
+        "name": "0xc106…7741",
+        "volume": "$105"
+      },
+      {
+        "name": "squid",
+        "volume": "$40"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "LINK",
+        "volume": "$29K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$22K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$19K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$18K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$8K"
+      },
+      {
+        "name": "GHST",
+        "volume": "$1K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$862M"
+      },
+      {
+        "name": "GLTR",
+        "volume": "$323"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:23:00.954Z",
+  "source": "base_aave",
+  "vaultBalance": 4.114767666881573,
+  "vaultPct": 0.006053153476143342
+}

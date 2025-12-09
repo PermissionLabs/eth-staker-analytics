@@ -1,0 +1,255 @@
+{
+  "portfolio": {
+    "address": "0x9f4d7b32942f90bb314d7af74e051f01c6d7cc83",
+    "totalValue": "$1,092",
+    "walletLifetime": "1262 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.8800",
+        "amount": "0.1055",
+        "usdValue": "$333.09"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "29,399.7264",
+        "usdValue": "$234.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,157.8800",
+        "amount": "0.0166",
+        "usdValue": "$52.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.8800",
+        "amount": "0.0120",
+        "usdValue": "$37.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,157.8800",
+        "amount": "0.0013",
+        "usdValue": "$4.16"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.5000",
+        "amount": "0.0015",
+        "usdValue": "$1.40"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "1.0000",
+        "usdValue": "$1.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$316"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$95"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Arbitrum Bridge",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Camelot",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "wstETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LFJ",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC.e",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9f4d7b32942f90bb314d7af74e051f01c6d7cc83",
+    "topProtocols": [
+      {
+        "name": "OKX DEX",
+        "volume": "$15K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$8K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$7K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$6K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$4K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf229…53ca",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x6985…71cd",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0d32…974c",
+        "volume": "$4K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$42K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$25K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$11K"
+      },
+      {
+        "name": "TOSHI",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$6K"
+      },
+      {
+        "name": "VFY",
+        "volume": "$5K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$3K"
+      },
+      {
+        "name": "KZRO",
+        "volume": "$3K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T11:03:11.445Z",
+  "source": "base_aave",
+  "vaultBalance": 0.09999999999999998,
+  "vaultPct": 0.00014710802568181932
+}

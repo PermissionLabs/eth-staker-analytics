@@ -1,0 +1,191 @@
+{
+  "portfolio": {
+    "address": "0x7c1216abffa1e8962a290dbf86e014817ac80328",
+    "totalValue": "$19,798",
+    "walletLifetime": "1600 days",
+    "tokens": [
+      {
+        "symbol": "INJ",
+        "chain": "eth",
+        "price": "$5.6000",
+        "amount": "238.8700",
+        "usdValue": "$1,337.67"
+      },
+      {
+        "symbol": "TONCOIN",
+        "chain": "eth",
+        "price": "$1.6302",
+        "amount": "803.5139",
+        "usdValue": "$1,309.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.7700",
+        "amount": "0.0993",
+        "usdValue": "$309.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,115.7700",
+        "amount": "0.0400",
+        "usdValue": "$124.55"
+      },
+      {
+        "symbol": "DEGEN",
+        "chain": "base",
+        "price": "$0.0015",
+        "amount": "46,189.6074",
+        "usdValue": "$68.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,115.7700",
+        "amount": "0.0197",
+        "usdValue": "$61.33"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.4000",
+        "amount": "0.0436",
+        "usdValue": "$39.06"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$16,545"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7c1216abffa1e8962a290dbf86e014817ac80328",
+    "topProtocols": [
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$89K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$28K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xf8e5…3a9c",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4ca1…8312",
+        "volume": "$4K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$1K"
+      },
+      {
+        "name": "Gelato",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x22ed…8669",
+        "volume": "$1K"
+      },
+      {
+        "name": "x",
+        "volume": "$880"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$40K"
+      },
+      {
+        "name": "RUNE",
+        "volume": "$36K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$36K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$35K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$19K"
+      },
+      {
+        "name": "SAND",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$12K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$10K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$8K"
+      },
+      {
+        "name": "ENJ",
+        "volume": "$5K"
+      },
+      {
+        "name": "TONCOIN",
+        "volume": "$5K"
+      },
+      {
+        "name": "POLS",
+        "volume": "$5K"
+      },
+      {
+        "name": "ANKR",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDP",
+        "volume": "$4K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$4K"
+      },
+      {
+        "name": "KDEGEN",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:53:56.116Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6.050313791879881,
+  "vaultPct": 0.0011249773909316298
+}

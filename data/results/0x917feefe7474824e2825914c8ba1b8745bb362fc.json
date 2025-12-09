@@ -1,0 +1,121 @@
+{
+  "portfolio": {
+    "address": "0x917feefe7474824e2825914c8ba1b8745bb362fc",
+    "totalValue": "$29",
+    "walletLifetime": "85 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,169.0500",
+        "amount": "0.0038",
+        "usdValue": "$12.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,169.0500",
+        "amount": "0.0020",
+        "usdValue": "$6.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,168.4800",
+        "amount": "0.0019",
+        "usdValue": "$6.06"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.6000",
+        "amount": "0.0053",
+        "usdValue": "$4.83"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x917feefe7474824e2825914c8ba1b8745bb362fc",
+    "topProtocols": [
+      {
+        "name": "Venus",
+        "volume": "$6K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x6846…888a",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$700"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$600"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$200"
+      },
+      {
+        "name": "inance",
+        "volume": "$9"
+      },
+      {
+        "name": "aori",
+        "volume": "$8"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BTCB",
+        "volume": "$7K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$4K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$14"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:13:50.007Z",
+  "source": "base_aave",
+  "vaultBalance": 0.5676420308201907,
+  "vaultPct": 0.0008350469844797671
+}

@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0x4509b8a5bcace979350e1561eced27bab2c658d5",
+    "totalValue": "$12,298",
+    "walletLifetime": "2573 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.7100",
+        "amount": "0.3836",
+        "usdValue": "$1,201.76"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,132.5000",
+        "amount": "0.2500",
+        "usdValue": "$783.13"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "330.6099",
+        "usdValue": "$330.58"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3218",
+        "amount": "103.8671",
+        "usdValue": "$241.16"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.9000",
+        "amount": "0.2667",
+        "usdValue": "$240.02"
+      },
+      {
+        "symbol": "sUSD",
+        "chain": "eth",
+        "price": "$0.9834",
+        "amount": "160.7732",
+        "usdValue": "$158.11"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4829",
+        "amount": "165.6157",
+        "usdValue": "$79.98"
+      },
+      {
+        "symbol": "Bonk(wormhole)",
+        "chain": "bsc",
+        "price": "$0.0₅954",
+        "amount": "2,551,317.2009",
+        "usdValue": "$24.34"
+      },
+      {
+        "symbol": "BAL",
+        "chain": "eth",
+        "price": "$0.6688",
+        "amount": "20.1171",
+        "usdValue": "$13.46"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4770",
+        "amount": "25.7691",
+        "usdValue": "$12.29"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "eth",
+        "price": "$0.0965",
+        "amount": "103.7571",
+        "usdValue": "$10.01"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$9,198"
+      },
+      {
+        "protocol": "Harvest",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "FARM",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4509b8a5bcace979350e1561eced27bab2c658d5",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$15K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$11K"
+      },
+      {
+        "name": "Cream",
+        "volume": "$7K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$6K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      },
+      {
+        "name": "GYSR",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x10f5…7ee9",
+        "volume": "$2K"
+      },
+      {
+        "name": "Zapper",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xfbdf…4ac1",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xc0a2…06fc",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$989"
+      },
+      {
+        "name": "Harvest",
+        "volume": "$985"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$982B"
+      },
+      {
+        "name": "inance",
+        "volume": "$903"
+      },
+      {
+        "name": "0xc602…cc27",
+        "volume": "$872K"
+      },
+      {
+        "name": "raken",
+        "volume": "$829"
+      },
+      {
+        "name": "0x3cc9…ca6d",
+        "volume": "$802"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$717"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$22K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$9K"
+      },
+      {
+        "name": "BAL",
+        "volume": "$9K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$8K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$990"
+      },
+      {
+        "name": "FEET",
+        "volume": "$450"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$323"
+      },
+      {
+        "name": "FTM",
+        "volume": "$311"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$226B"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$69"
+      },
+      {
+        "name": "FARM",
+        "volume": "$300"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:08:35.194Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.6,
+  "vaultPct": 0.00011156221937858436
+}

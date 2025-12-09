@@ -1,0 +1,142 @@
+{
+  "portfolio": {
+    "address": "0x4267fcb835e8703307f44009e9d3d226ab023157",
+    "totalValue": "$287,738",
+    "walletLifetime": "157 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.6600",
+        "amount": "0.0066",
+        "usdValue": "$20.62"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,114.6600",
+        "amount": "0.0022",
+        "usdValue": "$6.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,114.6600",
+        "amount": "0.0006",
+        "usdValue": "$1.97"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$155,347"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$132,334"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$27"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4267fcb835e8703307f44009e9d3d226ab023157",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$472K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$318K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$178K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$149K"
+      },
+      {
+        "name": "0x6e7f…5b50",
+        "volume": "$554M"
+      },
+      {
+        "name": "erkl",
+        "volume": "$383"
+      },
+      {
+        "name": "0x7f68…eb3a",
+        "volume": "$39B"
+      },
+      {
+        "name": "inance",
+        "volume": "$25"
+      },
+      {
+        "name": "ENS",
+        "volume": "$15"
+      },
+      {
+        "name": "0xb9fe…f332",
+        "volume": "$3"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$636K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$329K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$586"
+      },
+      {
+        "name": "SEAM",
+        "volume": "$439"
+      },
+      {
+        "name": "COMP",
+        "volume": "$71"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:13:17.209Z",
+  "source": "moonwell",
+  "vaultBalance": 29.250081206392323,
+  "vaultPct": 0.5306615943663257
+}

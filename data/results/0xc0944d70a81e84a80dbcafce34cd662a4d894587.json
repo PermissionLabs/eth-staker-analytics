@@ -1,0 +1,287 @@
+{
+  "portfolio": {
+    "address": "0xc0944d70a81e84a80dbcafce34cd662a4d894587",
+    "totalValue": "$881,852",
+    "walletLifetime": "1456 days",
+    "tokens": [
+      {
+        "symbol": "agETH",
+        "chain": "arb",
+        "price": "$3,291.2230",
+        "amount": "35.5633",
+        "usdValue": "$117,046.59"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3229",
+        "amount": "76,898.1969",
+        "usdValue": "$24,830.43"
+      },
+      {
+        "symbol": "OP",
+        "chain": "arb",
+        "price": "$0.3229",
+        "amount": "10,000.0000",
+        "usdValue": "$3,229.00"
+      },
+      {
+        "symbol": "BSW",
+        "chain": "bsc",
+        "price": "$0.0033",
+        "amount": "592,984.0708",
+        "usdValue": "$1,983.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,107.9700",
+        "amount": "0.4345",
+        "usdValue": "$1,350.34"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "arb",
+        "price": "$31.3400",
+        "amount": "13.8915",
+        "usdValue": "$435.36"
+      },
+      {
+        "symbol": "SFP",
+        "chain": "bsc",
+        "price": "$0.3314",
+        "amount": "1,232.6717",
+        "usdValue": "$408.53"
+      },
+      {
+        "symbol": "FRAX",
+        "chain": "op",
+        "price": "$0.7799",
+        "amount": "509.3528",
+        "usdValue": "$397.26"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$1.0000",
+        "amount": "339.5502",
+        "usdValue": "$339.55"
+      },
+      {
+        "symbol": "RBC",
+        "chain": "arb",
+        "price": "$0.0057",
+        "amount": "57,835.1447",
+        "usdValue": "$326.77"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.4000",
+        "amount": "0.3271",
+        "usdValue": "$292.87"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$461,283"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-hgETH-25JUN2026",
+        "usdValue": "$169,846"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$96,637"
+      },
+      {
+        "protocol": "Pangolin",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "PNG",
+        "usdValue": "$2,571"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$360"
+      },
+      {
+        "protocol": "Biswap",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BSW",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "DeltaPrime",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "UNI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "MantleETH",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ARB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc0944d70a81e84a80dbcafce34cd662a4d894587",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$11M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$1M"
+      },
+      {
+        "name": "OKX",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x292f…78c8",
+        "volume": "$1M"
+      },
+      {
+        "name": "Biswap",
+        "volume": "$903K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$786K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$730K"
+      },
+      {
+        "name": "DeltaPrime",
+        "volume": "$565K"
+      },
+      {
+        "name": "0x5ced…cead",
+        "volume": "$404K"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$334K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$321K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "OP",
+        "volume": "$5M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$4M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3M"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "ARB",
+        "volume": "$1M"
+      },
+      {
+        "name": "BSW",
+        "volume": "$805K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$550K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$504K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$364K"
+      },
+      {
+        "name": "cmETH",
+        "volume": "$297K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:52:00.491Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 136.21599101635678,
+  "vaultPct": 1.5192972670136704
+}

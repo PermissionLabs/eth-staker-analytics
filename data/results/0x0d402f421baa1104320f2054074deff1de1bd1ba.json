@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0x0d402f421baa1104320f2054074deff1de1bd1ba",
+    "totalValue": "$5,563,836",
+    "walletLifetime": "1326 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.3400",
+        "amount": "2.7096",
+        "usdValue": "$8,438.72"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LINK",
+        "usdValue": "$4,820,761"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$734,635"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0d402f421baa1104320f2054074deff1de1bd1ba",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$462M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$133M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$9M"
+      },
+      {
+        "name": "0x5792…4619",
+        "volume": "$8M"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$4M"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$3M"
+      },
+      {
+        "name": "0x49f3…a8e2",
+        "volume": "$1M"
+      },
+      {
+        "name": "FstSwap",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x72af…51e0",
+        "volume": "$950K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$775K"
+      },
+      {
+        "name": "0xd4bc…80e3",
+        "volume": "$765K"
+      },
+      {
+        "name": "0x59fa…2c87",
+        "volume": "$676K"
+      },
+      {
+        "name": "0xfcba…97c0",
+        "volume": "$653K"
+      },
+      {
+        "name": "0xbeb9…4273",
+        "volume": "$564K"
+      },
+      {
+        "name": "0xeff6…a167",
+        "volume": "$489K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$251K"
+      },
+      {
+        "name": "0xebe3…6813",
+        "volume": "$216K"
+      },
+      {
+        "name": "0x919f…efde",
+        "volume": "$142K"
+      },
+      {
+        "name": "0x73b1…d2c5",
+        "volume": "$126K"
+      },
+      {
+        "name": "0x38b1…f35c",
+        "volume": "$107K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$270M"
+      },
+      {
+        "name": "LINK",
+        "volume": "$151M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$115M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$61M"
+      },
+      {
+        "name": "LDO",
+        "volume": "$31M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$12M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "FIST",
+        "volume": "$1M"
+      },
+      {
+        "name": "TRX",
+        "volume": "$89K"
+      },
+      {
+        "name": "WDOGE",
+        "volume": "$81K"
+      },
+      {
+        "name": "KOSK",
+        "volume": "$28K"
+      },
+      {
+        "name": "LITE",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$370"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:55:42.204Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 73.77544985073347,
+  "vaultPct": 0.013717588201668794
+}

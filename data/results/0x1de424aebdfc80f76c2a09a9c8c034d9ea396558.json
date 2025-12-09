@@ -1,0 +1,58 @@
+{
+  "portfolio": {
+    "address": "0x1de424aebdfc80f76c2a09a9c8c034d9ea396558",
+    "totalValue": "$1,783",
+    "walletLifetime": "372 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.6600",
+        "amount": "0.5750",
+        "usdValue": "$1,783.36"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x1de424aebdfc80f76c2a09a9c8c034d9ea396558",
+    "topProtocols": [
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$15K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:41:18.834Z",
+  "source": "base_aave",
+  "vaultBalance": 3.425,
+  "vaultPct": 0.005038449879602312
+}

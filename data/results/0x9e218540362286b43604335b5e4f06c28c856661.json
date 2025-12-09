@@ -1,0 +1,209 @@
+{
+  "portfolio": {
+    "address": "0x9e218540362286b43604335b5e4f06c28c856661",
+    "totalValue": "$34,156",
+    "walletLifetime": "1648 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$907.2000",
+        "amount": "0.1899",
+        "usdValue": "$172.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,128.6700",
+        "amount": "0.0496",
+        "usdValue": "$155.26"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0967",
+        "amount": "1,507.4585",
+        "usdValue": "$145.77"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "7.3416",
+        "usdValue": "$0.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.6700",
+        "amount": "0.0002",
+        "usdValue": "$0.51"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-stETH-25DEC2025",
+        "usdValue": "$29,494"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$4,186"
+      },
+      {
+        "protocol": "Bunny",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BUNNY",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Rabbit Finance",
+        "chain": "bsc",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "BUSD",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9e218540362286b43604335b5e4f06c28c856661",
+    "topProtocols": [
+      {
+        "name": "Moonpot",
+        "volume": "$352K"
+      },
+      {
+        "name": "Rabbit Finance",
+        "volume": "$203K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$131K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$99K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$95K"
+      },
+      {
+        "name": "Alpaca Finance",
+        "volume": "$62K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$54K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$40K"
+      },
+      {
+        "name": "0xec90…52c3",
+        "volume": "$32K"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$30K"
+      },
+      {
+        "name": "Bunny",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$21K"
+      },
+      {
+        "name": "New Paradigm",
+        "volume": "$21K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$18K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$422K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$254K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$254K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$202K"
+      },
+      {
+        "name": "KSTONE",
+        "volume": "$93K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$24K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$11K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "BUNNY",
+        "volume": "$3K"
+      },
+      {
+        "name": "POTS",
+        "volume": "$2K"
+      },
+      {
+        "name": "MANTA",
+        "volume": "$2K"
+      },
+      {
+        "name": "LOOKS",
+        "volume": "$2K"
+      },
+      {
+        "name": "X2Y2",
+        "volume": "$1K"
+      },
+      {
+        "name": "S",
+        "volume": "$1K"
+      },
+      {
+        "name": "SOS",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:50:22.021Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.3084665475587731,
+  "vaultPct": 0.00009824992988469157
+}

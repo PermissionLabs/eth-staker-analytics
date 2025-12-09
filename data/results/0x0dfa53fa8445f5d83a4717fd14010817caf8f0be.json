@@ -1,0 +1,87 @@
+{
+  "portfolio": {
+    "address": "0x0dfa53fa8445f5d83a4717fd14010817caf8f0be",
+    "totalValue": "$761",
+    "walletLifetime": "319 days",
+    "tokens": [
+      {
+        "symbol": "INJ",
+        "chain": "eth",
+        "price": "$5.6400",
+        "amount": "51.3678",
+        "usdValue": "$289.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.7300",
+        "amount": "0.0100",
+        "usdValue": "$31.29"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$440"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0dfa53fa8445f5d83a4717fd14010817caf8f0be",
+    "topProtocols": [
+      {
+        "name": "0xb233…c460",
+        "volume": "$1K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8c8d…7465",
+        "volume": "$509"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$459"
+      },
+      {
+        "name": "0xcd00…735a",
+        "volume": "$148"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "INJ",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$968"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:53:00.876Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.13755322251866176,
+  "vaultPct": 0.000010328574691562647
+}

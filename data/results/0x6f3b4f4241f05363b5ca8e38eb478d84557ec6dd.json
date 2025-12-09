@@ -1,0 +1,140 @@
+{
+  "portfolio": {
+    "address": "0x6f3b4f4241f05363b5ca8e38eb478d84557ec6dd",
+    "totalValue": "$25,450",
+    "walletLifetime": "1084 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8347",
+        "amount": "384.8183",
+        "usdValue": "$5,323.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.4600",
+        "amount": "0.0077",
+        "usdValue": "$24.05"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6800",
+        "amount": "0.0004",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9904",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$16,771"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVAX",
+        "usdValue": "$3,332"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6f3b4f4241f05363b5ca8e38eb478d84557ec6dd",
+    "topProtocols": [
+      {
+        "name": "0x9bf8…82a2",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xffec…8ba4",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xcf0f…a7ad",
+        "volume": "$7K"
+      },
+      {
+        "name": "BENQI",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$6K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x31c7…360b",
+        "volume": "$427"
+      },
+      {
+        "name": "0xa89f…dd97",
+        "volume": "$427"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "NEXO",
+        "volume": "$13K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$13K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$854"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:10:55.812Z",
+  "source": "lido_steth",
+  "vaultBalance": 4.854416931399762,
+  "vaultPct": 0.0003645076933995235
+}

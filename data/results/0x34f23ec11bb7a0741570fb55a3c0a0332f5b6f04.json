@@ -1,0 +1,166 @@
+{
+  "portfolio": {
+    "address": "0x34f23ec11bb7a0741570fb55a3c0a0332f5b6f04",
+    "totalValue": "$13,208",
+    "walletLifetime": "285 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,108.6400",
+        "amount": "0.0050",
+        "usdValue": "$15.58"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$902.3000",
+        "amount": "0.0051",
+        "usdValue": "$4.62"
+      },
+      {
+        "symbol": "BTCB",
+        "chain": "bsc",
+        "price": "$90,182.2700",
+        "amount": "0.00001",
+        "usdValue": "$0.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,108.6400",
+        "amount": "0.0002",
+        "usdValue": "$0.77"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$13,079"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$107"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x34f23ec11bb7a0741570fb55a3c0a0332f5b6f04",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$77K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x065a…cf43",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xd38c…1330",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x6e2b…0664",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xaf64…0139",
+        "volume": "$6K"
+      },
+      {
+        "name": "0000x2b3b…7921",
+        "volume": "$967"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$501"
+      },
+      {
+        "name": "0xf68a…96d8",
+        "volume": "$500"
+      },
+      {
+        "name": "0x9da8…2c69",
+        "volume": "$212"
+      },
+      {
+        "name": "0x74b0…e811",
+        "volume": "$41"
+      },
+      {
+        "name": "0x4d30…16dc",
+        "volume": "$8"
+      },
+      {
+        "name": "0x0159…a32b",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x2b3b…7921",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6e22…0664",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6e20…0664",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x22c8…0139",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$84K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$65K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$17K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$744B"
+      },
+      {
+        "name": "TCB",
+        "volume": "$204B"
+      },
+      {
+        "name": "NB",
+        "volume": "$36"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:15:34.467Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11160313598704741,
+  "vaultPct": 0.00016417716994954147
+}

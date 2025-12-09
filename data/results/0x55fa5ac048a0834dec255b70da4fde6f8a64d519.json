@@ -1,0 +1,266 @@
+{
+  "portfolio": {
+    "address": "0x55fa5ac048a0834dec255b70da4fde6f8a64d519",
+    "totalValue": "$141,278",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,395.0600",
+        "amount": "0.1664",
+        "usdValue": "$15,043.62"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "6,358.8845",
+        "usdValue": "$6,358.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.6400",
+        "amount": "0.3530",
+        "usdValue": "$1,101.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,121.6400",
+        "amount": "0.0252",
+        "usdValue": "$78.66"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3970",
+        "amount": "14.4922",
+        "usdValue": "$34.74"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "base",
+        "price": "$2.3857",
+        "amount": "12.7912",
+        "usdValue": "$30.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,121.6400",
+        "amount": "0.0083",
+        "usdValue": "$25.99"
+      },
+      {
+        "symbol": "DRV",
+        "chain": "eth",
+        "price": "$0.0368",
+        "amount": "703.6309",
+        "usdValue": "$25.89"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$36,221"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$28,031"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$24,740"
+      },
+      {
+        "protocol": "YO",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "cbBTC",
+        "usdValue": "$8,959"
+      },
+      {
+        "protocol": "Trevee",
+        "chain": "sonic",
+        "category": "Yield",
+        "label": "Locked",
+        "token": "USDC",
+        "usdValue": "$6,337"
+      },
+      {
+        "protocol": "Kinetiq",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "kHYPE",
+        "usdValue": "$4,868"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$3,320"
+      },
+      {
+        "protocol": "MegaETH",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$2,650"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "HYPE",
+        "usdValue": "$2,624"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ZK",
+        "usdValue": "$288"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "frax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "frxETH",
+        "usdValue": "$192"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x55fa5ac048a0834dec255b70da4fde6f8a64d519",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$265K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$194K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$81K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$64K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$61K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$54K"
+      },
+      {
+        "name": "0x744a…2675",
+        "volume": "$53K"
+      },
+      {
+        "name": "0x2f4e…84ed",
+        "volume": "$48K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$45K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$43K"
+      },
+      {
+        "name": "Balancer V3",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$38K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$35K"
+      },
+      {
+        "name": "YO",
+        "volume": "$32K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$328K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$211K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$150K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$98K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$82K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$71K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$63K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$58K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$58K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$57K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$49K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:11:51.804Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 8.24103753307302,
+  "vaultPct": 0.0919171509008179
+}

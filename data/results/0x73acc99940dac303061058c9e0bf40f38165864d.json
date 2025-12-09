@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0x73acc99940dac303061058c9e0bf40f38165864d",
+    "totalValue": "$5,326",
+    "walletLifetime": "772 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.7200",
+        "amount": "0.0028",
+        "usdValue": "$8.71"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.6000",
+        "amount": "0.0040",
+        "usdValue": "$3.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.7200",
+        "amount": "0.0008",
+        "usdValue": "$2.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.7200",
+        "amount": "0.00003779",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "CORX",
+        "chain": "bsc",
+        "price": "$0.0076",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CZGOAT",
+        "chain": "bsc",
+        "price": "$0.0002",
+        "amount": "9.4217",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,309"
+      },
+      {
+        "protocol": "dYdX",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "DYDX",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x73acc99940dac303061058c9e0bf40f38165864d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$41K"
+      },
+      {
+        "name": "dYdX",
+        "volume": "$14K"
+      },
+      {
+        "name": "Go",
+        "volume": "$13K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xbe9a…d27a",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf6d7…cc56",
+        "volume": "$9K"
+      },
+      {
+        "name": "Rango",
+        "volume": "$7K"
+      },
+      {
+        "name": "THORChain",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7840…9af3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xd5bc…93cc",
+        "volume": "$4K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf277…da64",
+        "volume": "$3K"
+      },
+      {
+        "name": "mimic",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x91ef…f2fb",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x6639…5eba",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x9ec7…d9f2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2cff…2680",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6172…2941",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$46K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$44K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$28K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:22:28.335Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5.3426730206991015,
+  "vaultPct": 0.000993400766005462
+}

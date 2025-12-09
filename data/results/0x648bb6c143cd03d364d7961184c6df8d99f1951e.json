@@ -1,0 +1,176 @@
+{
+  "portfolio": {
+    "address": "0x648bb6c143cd03d364d7961184c6df8d99f1951e",
+    "totalValue": "$9,854",
+    "walletLifetime": "1490 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.1800",
+        "amount": "0.0511",
+        "usdValue": "$159.45"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6600",
+        "amount": "1.8564",
+        "usdValue": "$25.36"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.8000",
+        "amount": "0.0072",
+        "usdValue": "$6.42"
+      },
+      {
+        "symbol": "RING",
+        "chain": "bsc",
+        "price": "$0.8324",
+        "amount": "0.5863",
+        "usdValue": "$0.49"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9829",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$9,426"
+      },
+      {
+        "protocol": "Olympus",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "OHM",
+        "usdValue": "$235"
+      },
+      {
+        "protocol": "Abracadabra",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "MIM(multichain)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Wonderland",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "TIME (Wonderland)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x648bb6c143cd03d364d7961184c6df8d99f1951e",
+    "topProtocols": [
+      {
+        "name": "0xbfeb…8e6a",
+        "volume": "$12K"
+      },
+      {
+        "name": "Anchor",
+        "volume": "$10K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Olympus",
+        "volume": "$1K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$928K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$883"
+      },
+      {
+        "name": "Wonderland",
+        "volume": "$872K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$341K"
+      },
+      {
+        "name": "RING Financial",
+        "volume": "$298"
+      },
+      {
+        "name": "Abracadabra",
+        "volume": "$60"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5b92…20fb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe788…ee6c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x66ee…1a2a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "KAVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "KSTRONG",
+        "volume": "$766B"
+      },
+      {
+        "name": "NB",
+        "volume": "$687"
+      },
+      {
+        "name": "RING",
+        "volume": "$605M"
+      },
+      {
+        "name": "V1",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:58:14.820Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.649999,
+  "vaultPct": 0.0001989827072234019
+}

@@ -1,0 +1,285 @@
+{
+  "portfolio": {
+    "address": "0x0abe725fe500b62a9f65b252235d2f9815053dfb",
+    "totalValue": "$59,900",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USD0++",
+        "chain": "eth",
+        "price": "$0.9380",
+        "amount": "5,790.7675",
+        "usdValue": "$5,431.62"
+      },
+      {
+        "symbol": "USDe",
+        "chain": "eth",
+        "price": "$0.9993",
+        "amount": "2,152.5879",
+        "usdValue": "$2,151.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.6800",
+        "amount": "0.3552",
+        "usdValue": "$1,105.54"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,112.0600",
+        "amount": "0.2455",
+        "usdValue": "$763.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,113.7400",
+        "amount": "0.1591",
+        "usdValue": "$495.37"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.4703",
+        "amount": "41.7785",
+        "usdValue": "$228.54"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "138.8265",
+        "usdValue": "$138.81"
+      },
+      {
+        "symbol": "USUAL",
+        "chain": "eth",
+        "price": "$0.0250",
+        "amount": "2,859.9631",
+        "usdValue": "$71.50"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "38.9871",
+        "usdValue": "$38.98"
+      },
+      {
+        "symbol": "USD0",
+        "chain": "eth",
+        "price": "$0.9982",
+        "amount": "34.4015",
+        "usdValue": "$34.34"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6300",
+        "amount": "1.9115",
+        "usdValue": "$26.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.7400",
+        "amount": "0.0081",
+        "usdValue": "$25.31"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "eth",
+        "price": "$0.8250",
+        "amount": "14.8398",
+        "usdValue": "$12.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$19,065"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$18,944"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$4,872"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3,142"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,623"
+      },
+      {
+        "protocol": "Symbiotic",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$1,353"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-sENA-27NOV2025",
+        "usdValue": "$147"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USD0",
+        "usdValue": "$74"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0abe725fe500b62a9f65b252235d2f9815053dfb",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$480K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$90K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$67K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$55K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$45K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$28K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$27K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$27K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xd7aa…64fc",
+        "volume": "$17K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$17K"
+      },
+      {
+        "name": "squid",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x9103…3e9a",
+        "volume": "$15K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x9894…66d7",
+        "volume": "$14K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$477K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$98K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$82K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$76K"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$49K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$36K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$25K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$24K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$15K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:19:40.913Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.4782243874204836,
+  "vaultPct": 0.00533391857597675
+}

@@ -1,0 +1,286 @@
+{
+  "portfolio": {
+    "address": "0x4a91f2bf3ade1965f979779d78074ab4f6f93795",
+    "totalValue": "$4,909",
+    "walletLifetime": "724 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.3000",
+        "amount": "0.6434",
+        "usdValue": "$2,003.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.3500",
+        "amount": "0.0948",
+        "usdValue": "$295.02"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "284.1985",
+        "usdValue": "$284.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,112.3500",
+        "amount": "0.0783",
+        "usdValue": "$243.62"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "5,735.6448",
+        "usdValue": "$152.98"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "monad",
+        "price": "$1.0000",
+        "amount": "94.7016",
+        "usdValue": "$94.70"
+      },
+      {
+        "symbol": "m00n",
+        "chain": "monad",
+        "price": "$0.0₆2805",
+        "amount": "133,618,386.0000",
+        "usdValue": "$37.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,112.3500",
+        "amount": "0.0107",
+        "usdValue": "$33.32"
+      },
+      {
+        "symbol": "HST",
+        "chain": "monad",
+        "price": "$0.0023",
+        "amount": "12,334.7577",
+        "usdValue": "$28.10"
+      },
+      {
+        "symbol": "stableai",
+        "chain": "base",
+        "price": "$0.0₆439",
+        "amount": "12,163,383.6799",
+        "usdValue": "$5.34"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1596",
+        "amount": "28.0757",
+        "usdValue": "$4.48"
+      },
+      {
+        "symbol": "wowow",
+        "chain": "base",
+        "price": "$0.0₅1482",
+        "amount": "2,260,000.0000",
+        "usdValue": "$3.35"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,554"
+      },
+      {
+        "protocol": "Teller",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "DEGEN",
+        "usdValue": "$148"
+      },
+      {
+        "protocol": "Rebase",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stableai/WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4a91f2bf3ade1965f979779d78074ab4f6f93795",
+    "topProtocols": [
+      {
+        "name": "Rainbow Swap",
+        "volume": "$48K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$34K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$10K"
+      },
+      {
+        "name": "Degen",
+        "volume": "$9K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$9K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xb370…47e7",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x40f4…3fd1",
+        "volume": "$4K"
+      },
+      {
+        "name": "PartyDAO",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xd992…a55a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x555d…6fe6",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x858d…b5fe",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8143…945d",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa6f5…d697",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1bc4…f78b",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$51K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$44K"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$31K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "PROXY",
+        "volume": "$16K"
+      },
+      {
+        "name": "CLANKER",
+        "volume": "$8K"
+      },
+      {
+        "name": "ANON",
+        "volume": "$4"
+      },
+      {
+        "name": "K",
+        "volume": "$33B"
+      },
+      {
+        "name": "ITS",
+        "volume": "$3K"
+      },
+      {
+        "name": "OIL",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "BNKR",
+        "volume": "$2K"
+      },
+      {
+        "name": "wQUIL",
+        "volume": "$2K"
+      },
+      {
+        "name": "BURRITO",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$2K"
+      },
+      {
+        "name": "SPEC",
+        "volume": "$1K"
+      },
+      {
+        "name": "HORNY",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:06:12.844Z",
+  "source": "moonwell",
+  "vaultBalance": 0.2049196778512631,
+  "vaultPct": 0.0037176991816973274
+}

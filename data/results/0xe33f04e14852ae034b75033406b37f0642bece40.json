@@ -1,0 +1,181 @@
+{
+  "portfolio": {
+    "address": "0xe33f04e14852ae034b75033406b37f0642bece40",
+    "totalValue": "$2,016",
+    "walletLifetime": "108 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.7900",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.7900",
+        "amount": "0.0010",
+        "usdValue": "$2.98"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "arb",
+        "price": "$0.8240",
+        "amount": "0.1500",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,010"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe33f04e14852ae034b75033406b37f0642bece40",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$36K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x923b…4a73",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7bea…8941",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x07d8…cef1",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x344e…ad52",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$551"
+      },
+      {
+        "name": "0xe9da…931b",
+        "volume": "$501"
+      },
+      {
+        "name": "0x0000…f24f",
+        "volume": "$351B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$263"
+      },
+      {
+        "name": "Camelot",
+        "volume": "$1900"
+      },
+      {
+        "name": "x",
+        "volume": "$147"
+      },
+      {
+        "name": "0xf9a3…7338",
+        "volume": "$126"
+      },
+      {
+        "name": "THORSwap",
+        "volume": "$114"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$31K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$2K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$1K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$687"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$639"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$585"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$565"
+      },
+      {
+        "name": "LINK",
+        "volume": "$329"
+      },
+      {
+        "name": "AERO",
+        "volume": "$275"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:48:14.686Z",
+  "source": "base_aave",
+  "vaultBalance": 0.6231559805243525,
+  "vaultPct": 0.0009167124598675577
+}

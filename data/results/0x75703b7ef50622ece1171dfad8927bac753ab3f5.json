@@ -1,0 +1,167 @@
+{
+  "portfolio": {
+    "address": "0x75703b7ef50622ece1171dfad8927bac753ab3f5",
+    "totalValue": "$750",
+    "walletLifetime": "444 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.7500",
+        "amount": "0.2258",
+        "usdValue": "$700.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.7500",
+        "amount": "0.0012",
+        "usdValue": "$3.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,103.7500",
+        "amount": "0.0010",
+        "usdValue": "$3.02"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5600",
+        "amount": "0.0086",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0275",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.0064",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9967",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$43"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x75703b7ef50622ece1171dfad8927bac753ab3f5",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$10K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xac23…73e5",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xbb5a…a173",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2b3f…5dbb",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8a7b…371d",
+        "volume": "$872"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$738"
+      },
+      {
+        "name": "0x6867…e48a",
+        "volume": "$689K"
+      },
+      {
+        "name": "raken",
+        "volume": "$563"
+      },
+      {
+        "name": "0xb233…c460",
+        "volume": "$537K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$396"
+      },
+      {
+        "name": "squid",
+        "volume": "$302"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$185"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$25K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "ZORA",
+        "volume": "$4K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$3K"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$2K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:34:34.644Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.9994063505382514,
+  "vaultPct": 0.00018582665087849798
+}

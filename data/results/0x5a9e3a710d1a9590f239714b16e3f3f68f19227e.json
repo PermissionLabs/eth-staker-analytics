@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0x5a9e3a710d1a9590f239714b16e3f3f68f19227e",
+    "totalValue": "$444",
+    "walletLifetime": "1641 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.3600",
+        "amount": "0.0234",
+        "usdValue": "$72.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.3600",
+        "amount": "0.0131",
+        "usdValue": "$40.66"
+      },
+      {
+        "symbol": "W",
+        "chain": "base",
+        "price": "$0.0406",
+        "amount": "397.1983",
+        "usdValue": "$16.12"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.2000",
+        "amount": "0.0135",
+        "usdValue": "$12.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,112.1500",
+        "amount": "0.0027",
+        "usdValue": "$8.42"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1222",
+        "amount": "5.1394",
+        "usdValue": "$0.63"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "0.5467",
+        "usdValue": "$0.55"
+      },
+      {
+        "symbol": "EURA",
+        "chain": "celo",
+        "price": "$1.1629",
+        "amount": "0.3591",
+        "usdValue": "$0.42"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1987",
+        "amount": "0.2480",
+        "usdValue": "$0.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,112.3600",
+        "amount": "0.00008732",
+        "usdValue": "$0.27"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "op",
+        "price": "$3,112.0000",
+        "amount": "0.00008",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.1762",
+        "usdValue": "$0.18"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$290"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5a9e3a710d1a9590f239714b16e3f3f68f19227e",
+    "topProtocols": [
+      {
+        "name": "Reaper Farm",
+        "volume": "$175K"
+      },
+      {
+        "name": "0xb078…ee7b",
+        "volume": "$141K"
+      },
+      {
+        "name": "0x86e1…86f8",
+        "volume": "$37K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$19K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$10K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$10K"
+      },
+      {
+        "name": "Basilisk",
+        "volume": "$10K"
+      },
+      {
+        "name": "Angle Protocol",
+        "volume": "$10K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x5a93…a6f0",
+        "volume": "$8K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xe3af…8009",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$263K"
+      },
+      {
+        "name": "OP",
+        "volume": "$66K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$58K"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$32K"
+      },
+      {
+        "name": "EURA",
+        "volume": "$19K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "KEURA",
+        "volume": "$968"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:36:43.321Z",
+  "source": "moonwell",
+  "vaultBalance": 0.08972691331477822,
+  "vaultPct": 0.0016278459721603643
+}

@@ -1,0 +1,111 @@
+{
+  "portfolio": {
+    "address": "0xfd55788abbe818c690a6b1e8d741797799e3b61e",
+    "totalValue": "$4,265",
+    "walletLifetime": "1416 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.2200",
+        "amount": "0.0100",
+        "usdValue": "$31.33"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9958",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$4,234"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfd55788abbe818c690a6b1e8d741797799e3b61e",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe226…3576",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1a94…e0e2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$614"
+      },
+      {
+        "name": "0x4637…959e",
+        "volume": "$436B"
+      },
+      {
+        "name": "inance",
+        "volume": "$219"
+      },
+      {
+        "name": "0x1dd9…e6f1",
+        "volume": "$176"
+      },
+      {
+        "name": "0x1aea…f9c3",
+        "volume": "$158"
+      },
+      {
+        "name": "0x9123…1175",
+        "volume": "$146"
+      },
+      {
+        "name": "0x8c8d…7465",
+        "volume": "$106"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$100"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "LUNA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:01:58.733Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.300454580728923,
+  "vaultPct": 0.00009764832858220517
+}

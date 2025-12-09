@@ -1,0 +1,101 @@
+{
+  "portfolio": {
+    "address": "0xc526f520bd79f269b2ebe3fac67fcd6ff5ea7da0",
+    "totalValue": "$79",
+    "walletLifetime": "1233 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.2900",
+        "amount": "0.0253",
+        "usdValue": "$78.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.2900",
+        "amount": "0.0002",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001002",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xc526f520bd79f269b2ebe3fac67fcd6ff5ea7da0",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$30K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$30K"
+      },
+      {
+        "name": "0xb8c0…5cd5",
+        "volume": "$30K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x819d…2c23",
+        "volume": "$11K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$600"
+      },
+      {
+        "name": "0x0067…0852",
+        "volume": "$237"
+      },
+      {
+        "name": "0x5a50…da96",
+        "volume": "$10"
+      },
+      {
+        "name": "0xad46…ee36",
+        "volume": "$7"
+      },
+      {
+        "name": "0x0218…06ed",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$61K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$60K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T06:03:40.047Z",
+  "source": "lido_steth",
+  "vaultBalance": 9,
+  "vaultPct": 0.0006757905814344145
+}

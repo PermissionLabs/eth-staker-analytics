@@ -1,0 +1,240 @@
+{
+  "portfolio": {
+    "address": "0xb329c7886154001794fdb510b16ae0d0ea1dba1b",
+    "totalValue": "$15,172",
+    "walletLifetime": "1500 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,148.6400",
+        "amount": "0.1530",
+        "usdValue": "$481.70"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "2,861.0811",
+        "usdValue": "$355.92"
+      },
+      {
+        "symbol": "EURC",
+        "chain": "eth",
+        "price": "$1.1649",
+        "amount": "250.0272",
+        "usdValue": "$291.26"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2401",
+        "amount": "1,016.8848",
+        "usdValue": "$244.15"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3411",
+        "amount": "104.2242",
+        "usdValue": "$244.00"
+      },
+      {
+        "symbol": "ZIG",
+        "chain": "bsc",
+        "price": "$0.0581",
+        "amount": "2,182.0500",
+        "usdValue": "$126.86"
+      },
+      {
+        "symbol": "EURT",
+        "chain": "eth",
+        "price": "$1.1473",
+        "amount": "106.5999",
+        "usdValue": "$122.30"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "79.6922",
+        "usdValue": "$79.71"
+      },
+      {
+        "symbol": "UST",
+        "chain": "bsc",
+        "price": "$0.0080",
+        "amount": "998.2000",
+        "usdValue": "$7.96"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.5000",
+        "amount": "0.0077",
+        "usdValue": "$7.06"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$9,947"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,219"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BUSD",
+        "usdValue": "$43"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb329c7886154001794fdb510b16ae0d0ea1dba1b",
+    "topProtocols": [
+      {
+        "name": "Venus",
+        "volume": "$101K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$28K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x21d4…807f",
+        "volume": "$14K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xffec…8ba4",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$6K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$4K"
+      },
+      {
+        "name": "mimic",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3735…4d89",
+        "volume": "$3K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0000…1004",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "THORChain",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$60K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$40K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$39K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$29K"
+      },
+      {
+        "name": "KDAI",
+        "volume": "$13K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$7K"
+      },
+      {
+        "name": "POL",
+        "volume": "$7K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$5K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$4K"
+      },
+      {
+        "name": "FET",
+        "volume": "$252M"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$175"
+      },
+      {
+        "name": "CUMMIES",
+        "volume": "$147"
+      },
+      {
+        "name": "STACK",
+        "volume": "$144"
+      },
+      {
+        "name": "EURT",
+        "volume": "$123M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:55:35.972Z",
+  "source": "lido_steth",
+  "vaultBalance": 1,
+  "vaultPct": 0.0000750878423816016
+}

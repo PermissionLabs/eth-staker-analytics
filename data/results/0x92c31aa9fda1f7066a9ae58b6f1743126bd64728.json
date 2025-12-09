@@ -1,0 +1,189 @@
+{
+  "portfolio": {
+    "address": "0x92c31aa9fda1f7066a9ae58b6f1743126bd64728",
+    "totalValue": "$961,987",
+    "walletLifetime": "147 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "monad",
+        "price": "$0.9998",
+        "amount": "1,051.3519",
+        "usdValue": "$1,051.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.1200",
+        "amount": "0.2144",
+        "usdValue": "$671.49"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "16,906.0356",
+        "usdValue": "$483.60"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "120.7317",
+        "usdValue": "$120.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.1200",
+        "amount": "0.0009",
+        "usdValue": "$2.82"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$707,082"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$131,042"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "monad",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$121,530"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x92c31aa9fda1f7066a9ae58b6f1743126bd64728",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$983K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$559K"
+      },
+      {
+        "name": "Fly",
+        "volume": "$417K"
+      },
+      {
+        "name": "0x4879…8d8a",
+        "volume": "$99K"
+      },
+      {
+        "name": "0x6679…4a70",
+        "volume": "$69K"
+      },
+      {
+        "name": "0x3d22…92ed",
+        "volume": "$68K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$67K"
+      },
+      {
+        "name": "0x9bfc…2895",
+        "volume": "$59K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$49K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$41K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$32K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$32K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$243K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$77K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$67K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$9K"
+      },
+      {
+        "name": "BLACK",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$1K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$695"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$199B"
+      },
+      {
+        "name": "RETT",
+        "volume": "$189"
+      },
+      {
+        "name": "cbXRP",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:52:03.665Z",
+  "source": "base_aave",
+  "vaultBalance": 21.275838054355415,
+  "vaultPct": 0.03129846530902346
+}

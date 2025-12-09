@@ -1,0 +1,214 @@
+{
+  "portfolio": {
+    "address": "0xbc3bac02f3322f6b1ab94d930f007aedb9f84fcc",
+    "totalValue": "$5,782",
+    "walletLifetime": "732 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.8000",
+        "amount": "0.7880",
+        "usdValue": "$2,444.87"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.3354",
+        "amount": "589.5805",
+        "usdValue": "$1,376.92"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4767",
+        "amount": "2,590.1268",
+        "usdValue": "$1,234.69"
+      },
+      {
+        "symbol": "AIOZ",
+        "chain": "bsc",
+        "price": "$0.1149",
+        "amount": "2,327.6950",
+        "usdValue": "$267.50"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$89,771.9700",
+        "amount": "0.0010",
+        "usdValue": "$89.77"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.0000",
+        "amount": "0.0394",
+        "usdValue": "$35.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.8000",
+        "amount": "0.0035",
+        "usdValue": "$10.86"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "0.5000",
+        "usdValue": "$6.81"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$315"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbc3bac02f3322f6b1ab94d930f007aedb9f84fcc",
+    "topProtocols": [
+      {
+        "name": "0x12ba…6bdd",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x1971…8f43",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x0310…7c2b",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xc805…6407",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x38f6…6336",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0802…1d61",
+        "volume": "$3K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb85b…b4db",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe70b…0ab5",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$788B"
+      },
+      {
+        "name": "0xbca3…1dbc",
+        "volume": "$632B"
+      },
+      {
+        "name": "0xcf71…50d5",
+        "volume": "$316B"
+      },
+      {
+        "name": "0x7baf…8d81",
+        "volume": "$251"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$9K"
+      },
+      {
+        "name": "FET",
+        "volume": "$4K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      },
+      {
+        "name": "AGIX",
+        "volume": "$3K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$3K"
+      },
+      {
+        "name": "POL",
+        "volume": "$3K"
+      },
+      {
+        "name": "IMX",
+        "volume": "$3K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "GALA",
+        "volume": "$2K"
+      },
+      {
+        "name": "SPEC",
+        "volume": "$2K"
+      },
+      {
+        "name": "AIOZ",
+        "volume": "$2K"
+      },
+      {
+        "name": "ILV",
+        "volume": "$1K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$1K"
+      },
+      {
+        "name": "ATOR",
+        "volume": "$997"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$80"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$28B"
+      },
+      {
+        "name": "NB",
+        "volume": "$25"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:11:16.078Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.1,
+  "vaultPct": 0.000018593703229764063
+}

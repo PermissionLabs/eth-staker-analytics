@@ -1,0 +1,62 @@
+{
+  "portfolio": {
+    "address": "0x780937915c178a0b6f892da8a3e43997a694b218",
+    "totalValue": "$100",
+    "walletLifetime": "647 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "100.0000",
+        "usdValue": "$99.98"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9877",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x780937915c178a0b6f892da8a3e43997a694b218",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$100"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x86f2…eb7c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x39e8…b000",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$100B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:39:46.075Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.2818423316837758,
+  "vaultPct": 0.000021162932577934437
+}

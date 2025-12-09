@@ -1,0 +1,189 @@
+{
+  "portfolio": {
+    "address": "0xc64844d9b3db280a6e46c1431e2229cd62dd2d69",
+    "totalValue": "$395,176",
+    "walletLifetime": "1796 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "186,102.9883",
+        "usdValue": "$186,065.78"
+      },
+      {
+        "symbol": "upNUSD",
+        "chain": "eth",
+        "price": "$1.0034",
+        "amount": "100,000.0000",
+        "usdValue": "$100,340.51"
+      },
+      {
+        "symbol": "tBTC",
+        "chain": "eth",
+        "price": "$90,442.9049",
+        "amount": "0.0477",
+        "usdValue": "$4,317.77"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "eth",
+        "price": "$0.3931",
+        "amount": "7,593.4282",
+        "usdValue": "$2,984.98"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4810",
+        "amount": "1,259.3140",
+        "usdValue": "$605.73"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$99,998"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "TIME",
+        "usdValue": "$515"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc64844d9b3db280a6e46c1431e2229cd62dd2d69",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "Radiant Capital V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x",
+        "volume": "$1M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$854K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$841K"
+      },
+      {
+        "name": "Usual",
+        "volume": "$566K"
+      },
+      {
+        "name": "MegaETH",
+        "volume": "$555K"
+      },
+      {
+        "name": "0x9699…f959",
+        "volume": "$539K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$512K"
+      },
+      {
+        "name": "Sky",
+        "volume": "$499K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$425K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$404K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$399K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$385K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$340K"
+      },
+      {
+        "name": "Spark",
+        "volume": "$316K"
+      },
+      {
+        "name": "Silo",
+        "volume": "$301K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$4M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3M"
+      },
+      {
+        "name": "MWETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDS",
+        "volume": "$852K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$826K"
+      },
+      {
+        "name": "KDAI",
+        "volume": "$719K"
+      },
+      {
+        "name": "USD0",
+        "volume": "$674K"
+      },
+      {
+        "name": "crvUSD",
+        "volume": "$481K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$479K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$376K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$371K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:39:57.351Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 34.74889771357981,
+  "vaultPct": 0.006461106916477298
+}

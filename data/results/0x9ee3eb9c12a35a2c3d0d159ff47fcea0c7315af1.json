@@ -1,0 +1,184 @@
+{
+  "portfolio": {
+    "address": "0x9ee3eb9c12a35a2c3d0d159ff47fcea0c7315af1",
+    "totalValue": "$2,750",
+    "walletLifetime": "1716 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.3000",
+        "amount": "0.0200",
+        "usdValue": "$17.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.9900",
+        "amount": "0.0051",
+        "usdValue": "$15.91"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "0.6020",
+        "usdValue": "$8.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.9900",
+        "amount": "0.0025",
+        "usdValue": "$7.69"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "6.0739",
+        "usdValue": "$6.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,107.8000",
+        "amount": "0.0012",
+        "usdValue": "$3.58"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "13.3054",
+        "usdValue": "$1.63"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1230",
+        "amount": "13.1000",
+        "usdValue": "$1.61"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0943",
+        "amount": "6.7546",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "BUSD",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "0.1417",
+        "usdValue": "$0.14"
+      },
+      {
+        "symbol": "MegaDoge",
+        "chain": "matic",
+        "price": "$0.00009138",
+        "amount": "1,000.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.0900",
+        "usdValue": "$0.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,412"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,211"
+      },
+      {
+        "protocol": "Elk",
+        "chain": "bsc",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WBNB",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$30"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "ftm",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WFTM",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Impermax",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "MAI(miMATIC)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "CRV",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SpookySwap",
+        "chain": "ftm",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WFTM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Bao.Finance",
+        "chain": "xdai",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BAO.cx",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9ee3eb9c12a35a2c3d0d159ff47fcea0c7315af1",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T02:01:42.643Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.372067053318213,
+  "vaultPct": 0.00006918104370971654
+}

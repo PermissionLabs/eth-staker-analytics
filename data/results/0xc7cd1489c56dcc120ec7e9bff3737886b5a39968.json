@@ -1,0 +1,296 @@
+{
+  "portfolio": {
+    "address": "0xc7cd1489c56dcc120ec7e9bff3737886b5a39968",
+    "totalValue": "$576,064",
+    "walletLifetime": "321 days",
+    "tokens": [
+      {
+        "symbol": "agETH",
+        "chain": "arb",
+        "price": "$3,292.2447",
+        "amount": "16.1437",
+        "usdValue": "$53,148.90"
+      },
+      {
+        "symbol": "TONCOIN",
+        "chain": "eth",
+        "price": "$1.6371",
+        "amount": "12,510.4374",
+        "usdValue": "$20,480.49"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2741",
+        "amount": "40,213.5449",
+        "usdValue": "$11,022.53"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$90,134.0000",
+        "amount": "0.0383",
+        "usdValue": "$3,450.93"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0958",
+        "amount": "32,762.2970",
+        "usdValue": "$3,138.63"
+      },
+      {
+        "symbol": "x33",
+        "chain": "sonic",
+        "price": "$4.1138",
+        "amount": "250.1880",
+        "usdValue": "$1,029.22"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$98,796"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BNB",
+        "usdValue": "$76,866"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$72,264"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$56,940"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LICKO",
+        "usdValue": "$56,086"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "op",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$25,937"
+      },
+      {
+        "protocol": "stake.link",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LINK",
+        "usdValue": "$22,841"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$19,561"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVAX",
+        "usdValue": "$18,229"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$15,875"
+      },
+      {
+        "protocol": "Navigator Exchange",
+        "chain": "sonic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$11,447"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "PENDLE",
+        "usdValue": "$8,746"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "sonic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "wS",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc7cd1489c56dcc120ec7e9bff3737886b5a39968",
+    "topProtocols": [
+      {
+        "name": "0xcd53…ca7b",
+        "volume": "$512K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$211K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$194K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$177K"
+      },
+      {
+        "name": "0x",
+        "volume": "$151K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$123K"
+      },
+      {
+        "name": "0xceb6…66ea",
+        "volume": "$119K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$101K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$101K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$89K"
+      },
+      {
+        "name": "0x1e70…9a10",
+        "volume": "$66K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$65K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$60K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$55K"
+      },
+      {
+        "name": "0x6c17…0e21",
+        "volume": "$51K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$45K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$45K"
+      },
+      {
+        "name": "0x4b34…a8b6",
+        "volume": "$45K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$801K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$495K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$375K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$132K"
+      },
+      {
+        "name": "OP",
+        "volume": "$96K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$91K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$91K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$83K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$60K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$55K"
+      },
+      {
+        "name": "agETH",
+        "volume": "$44K"
+      },
+      {
+        "name": "TONCOIN",
+        "volume": "$43K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$37K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$37K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:59:30.626Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 21.279553862884466,
+  "vaultPct": 0.23734341163563086
+}

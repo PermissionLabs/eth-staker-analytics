@@ -1,0 +1,223 @@
+{
+  "portfolio": {
+    "address": "0x56e3aa979b1562eb2e419e29d2f8983abaac148a",
+    "totalValue": "$7,399",
+    "walletLifetime": "1492 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,107.3600",
+        "amount": "1.0229",
+        "usdValue": "$3,178.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.3600",
+        "amount": "0.0601",
+        "usdValue": "$186.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.1000",
+        "amount": "0.0150",
+        "usdValue": "$46.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,107.3600",
+        "amount": "0.0137",
+        "usdValue": "$42.44"
+      },
+      {
+        "symbol": "sUSD",
+        "chain": "op",
+        "price": "$0.9814",
+        "amount": "14.3747",
+        "usdValue": "$14.11"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,119.6900",
+        "amount": "0.00006195",
+        "usdValue": "$5.58"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3185",
+        "amount": "3.4493",
+        "usdValue": "$1.10"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9822",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DeFAI",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "192.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "FTW",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "1,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,923"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x56e3aa979b1562eb2e419e29d2f8983abaac148a",
+    "topProtocols": [
+      {
+        "name": "0xf644…e6e3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "DefiLlama",
+        "volume": "$4K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$4K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x6916…64d0",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V1",
+        "volume": "$1K"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$14K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$8K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "hUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "HOP",
+        "volume": "$223"
+      },
+      {
+        "name": "DAI",
+        "volume": "$130"
+      },
+      {
+        "name": "OP",
+        "volume": "$8"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$5B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:11:30.845Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.1117611043781772,
+  "vaultPct": 0.0000834797425715439
+}

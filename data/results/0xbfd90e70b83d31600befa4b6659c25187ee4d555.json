@@ -1,0 +1,240 @@
+{
+  "portfolio": {
+    "address": "0xbfd90e70b83d31600befa4b6659c25187ee4d555",
+    "totalValue": "$803",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.3700",
+        "amount": "0.0435",
+        "usdValue": "$135.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,107.3600",
+        "amount": "0.0407",
+        "usdValue": "$126.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.3700",
+        "amount": "0.0135",
+        "usdValue": "$41.88"
+      },
+      {
+        "symbol": "STG",
+        "chain": "scrl",
+        "price": "$0.1195",
+        "amount": "24.5462",
+        "usdValue": "$2.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,107.3600",
+        "amount": "0.00008436",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.0017",
+        "usdValue": ""
+      },
+      {
+        "symbol": "EXTRA",
+        "chain": "base",
+        "price": "$0.0121",
+        "amount": "0.0296",
+        "usdValue": ""
+      },
+      {
+        "symbol": "NILE",
+        "chain": "linea",
+        "price": "$0.0159",
+        "amount": "0.0180",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WAZ",
+        "chain": "base",
+        "price": "$0.0₆3751",
+        "amount": "69.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "NURI",
+        "chain": "scrl",
+        "price": "$0.0000",
+        "amount": "5.6490",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$272"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$224"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbfd90e70b83d31600befa4b6659c25187ee4d555",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$63K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$33K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x1ad2…0ef0",
+        "volume": "$25K"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$16K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$10K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "WOWMAX",
+        "volume": "$4K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$4K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$4K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Pencils Protocol",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$115K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "FOXY",
+        "volume": "$359"
+      },
+      {
+        "name": "WETH",
+        "volume": "$298"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$160"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$115"
+      },
+      {
+        "name": "STG",
+        "volume": "$15"
+      },
+      {
+        "name": "NURI",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:35:55.841Z",
+  "source": "moonwell",
+  "vaultBalance": 0.06968676879750695,
+  "vaultPct": 0.0012642731339918781
+}

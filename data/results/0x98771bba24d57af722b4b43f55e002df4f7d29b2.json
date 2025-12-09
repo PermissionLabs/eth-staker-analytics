@@ -1,0 +1,121 @@
+{
+  "portfolio": {
+    "address": "0x98771bba24d57af722b4b43f55e002df4f7d29b2",
+    "totalValue": "$152,612",
+    "walletLifetime": "2885 days",
+    "tokens": [
+      {
+        "symbol": "Metis",
+        "chain": "metis",
+        "price": "$6.4400",
+        "amount": "1,389.1155",
+        "usdValue": "$8,945.90"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4777",
+        "amount": "13,670.6240",
+        "usdValue": "$6,530.29"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "base",
+        "price": "$13.7825",
+        "amount": "406.5987",
+        "usdValue": "$5,603.94"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,104.1100",
+        "amount": "0.0626",
+        "usdValue": "$194.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.2700",
+        "amount": "0.0522",
+        "usdValue": "$162.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.1100",
+        "amount": "0.0361",
+        "usdValue": "$112.16"
+      },
+      {
+        "symbol": "XCAD",
+        "chain": "bsc",
+        "price": "$0.0095",
+        "amount": "5,646.7081",
+        "usdValue": "$53.47"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.4000",
+        "amount": "0.0578",
+        "usdValue": "$51.90"
+      },
+      {
+        "symbol": "MARSH",
+        "chain": "eth",
+        "price": "$0.0024",
+        "amount": "16,584.7664",
+        "usdValue": "$39.01"
+      },
+      {
+        "symbol": "GLQ",
+        "chain": "eth",
+        "price": "$0.0066",
+        "amount": "4,126.7560",
+        "usdValue": "$27.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,104.2700",
+        "amount": "0.0075",
+        "usdValue": "$23.41"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$117,703"
+      },
+      {
+        "protocol": "Spark",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$10,001"
+      },
+      {
+        "protocol": "Symbiotic",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SPK",
+        "usdValue": "$2,912"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x98771bba24d57af722b4b43f55e002df4f7d29b2",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T15:59:45.488Z",
+  "source": "base_aave",
+  "vaultBalance": 17.642682301581786,
+  "vaultPct": 0.025953801611172733
+}

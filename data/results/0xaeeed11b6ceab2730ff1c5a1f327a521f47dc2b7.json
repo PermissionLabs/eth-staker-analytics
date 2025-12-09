@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0xaeeed11b6ceab2730ff1c5a1f327a521f47dc2b7",
+    "totalValue": "$2,695",
+    "walletLifetime": "1696 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$902.0000",
+        "amount": "0.0566",
+        "usdValue": "$51.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.6400",
+        "amount": "0.0114",
+        "usdValue": "$35.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.1700",
+        "amount": "0.0100",
+        "usdValue": "$31.31"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9879",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1239",
+        "amount": "0.0050",
+        "usdValue": ""
+      },
+      {
+        "symbol": "TKX",
+        "chain": "eth",
+        "price": "$1.8317",
+        "amount": "0.00005653",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,452"
+      },
+      {
+        "protocol": "Livepeer",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LPT",
+        "usdValue": "$814"
+      },
+      {
+        "protocol": "Polygon Staking",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$311"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaeeed11b6ceab2730ff1c5a1f327a521f47dc2b7",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x1235…0392",
+        "volume": "$3K"
+      },
+      {
+        "name": "Polygon Staking",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xcff1…2d6d",
+        "volume": "$1K"
+      },
+      {
+        "name": "Livepeer",
+        "volume": "$998"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$796"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$511"
+      },
+      {
+        "name": "The Graph",
+        "volume": "$366"
+      },
+      {
+        "name": "0xa5a8…e0cc",
+        "volume": "$24"
+      },
+      {
+        "name": "0xbfff…d3c8",
+        "volume": "$19"
+      },
+      {
+        "name": "0x8a37…0712",
+        "volume": "$14"
+      },
+      {
+        "name": "0xde79…afe6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc245…e656",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6142…0676",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7d1a…ebb0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$6K"
+      },
+      {
+        "name": "ALPHA",
+        "volume": "$4K"
+      },
+      {
+        "name": "LPT",
+        "volume": "$998"
+      },
+      {
+        "name": "GRT",
+        "volume": "$733"
+      },
+      {
+        "name": "NB",
+        "volume": "$14B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:21:02.157Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.4252024598074988,
+  "vaultPct": 0.00003192753528229476
+}

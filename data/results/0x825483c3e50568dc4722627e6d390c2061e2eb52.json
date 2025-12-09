@@ -1,0 +1,268 @@
+{
+  "portfolio": {
+    "address": "0x825483c3e50568dc4722627e6d390c2061e2eb52",
+    "totalValue": "$204,132",
+    "walletLifetime": "2159 days",
+    "tokens": [
+      {
+        "symbol": "BTCB",
+        "chain": "bsc",
+        "price": "$89,952.2300",
+        "amount": "0.6888",
+        "usdValue": "$61,959.15"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "bsc",
+        "price": "$191.0400",
+        "amount": "18.9042",
+        "usdValue": "$3,611.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.8100",
+        "amount": "0.4774",
+        "usdValue": "$1,484.08"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "bsc",
+        "price": "$5.6180",
+        "amount": "206.3141",
+        "usdValue": "$1,159.07"
+      },
+      {
+        "symbol": "NEAR",
+        "chain": "bsc",
+        "price": "$1.7690",
+        "amount": "610.8261",
+        "usdValue": "$1,080.55"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6400",
+        "amount": "52.7808",
+        "usdValue": "$719.93"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.6000",
+        "amount": "0.4984",
+        "usdValue": "$445.91"
+      },
+      {
+        "symbol": "SAND",
+        "chain": "matic",
+        "price": "$0.1410",
+        "amount": "2,040.9506",
+        "usdValue": "$287.77"
+      },
+      {
+        "symbol": "ATOM",
+        "chain": "bsc",
+        "price": "$2.2450",
+        "amount": "110.8084",
+        "usdValue": "$248.76"
+      },
+      {
+        "symbol": "1INCH",
+        "chain": "bsc",
+        "price": "$0.1790",
+        "amount": "1,209.5458",
+        "usdValue": "$216.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.4100",
+        "amount": "0.0606",
+        "usdValue": "$188.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,108.8100",
+        "amount": "0.0511",
+        "usdValue": "$158.76"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "158.5741",
+        "usdValue": "$158.59"
+      },
+      {
+        "symbol": "vbUSDT",
+        "chain": "katana",
+        "price": "$1.0001",
+        "amount": "79.1967",
+        "usdValue": "$79.21"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Yearn V3",
+        "chain": "katana",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "vbUSDT",
+        "usdValue": "$61,102"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$36,893"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SolvBTC",
+        "usdValue": "$23,583"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$6,012"
+      },
+      {
+        "protocol": "Kinza Finance",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BTCB",
+        "usdValue": "$4,513"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x825483c3e50568dc4722627e6d390c2061e2eb52",
+    "topProtocols": [
+      {
+        "name": "Aave",
+        "volume": "$872K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$407K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$362K"
+      },
+      {
+        "name": "Iron Bank",
+        "volume": "$332K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$311K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$257K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$252K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$227K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$161K"
+      },
+      {
+        "name": "JetSwap",
+        "volume": "$157K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$145K"
+      },
+      {
+        "name": "Dfyn",
+        "volume": "$143K"
+      },
+      {
+        "name": "Polycat",
+        "volume": "$141K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$135K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT0",
+        "volume": "$2M"
+      },
+      {
+        "name": "MUSDC",
+        "volume": "$648K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$615K"
+      },
+      {
+        "name": "KUSDT.e",
+        "volume": "$391K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$310K"
+      },
+      {
+        "name": "KDAI",
+        "volume": "$261K"
+      },
+      {
+        "name": "KUSDC.e",
+        "volume": "$217K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$215K"
+      },
+      {
+        "name": "KWPOL",
+        "volume": "$196K"
+      },
+      {
+        "name": "POL",
+        "volume": "$182K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$180K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$164K"
+      },
+      {
+        "name": "USDB",
+        "volume": "$157K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:52:38.704Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 5.56766129872703,
+  "vaultPct": 0.06209940941367165
+}

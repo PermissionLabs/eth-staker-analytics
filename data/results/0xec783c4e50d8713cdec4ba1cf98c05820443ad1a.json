@@ -1,0 +1,76 @@
+{
+  "portfolio": {
+    "address": "0xec783c4e50d8713cdec4ba1cf98c05820443ad1a",
+    "totalValue": "$595",
+    "walletLifetime": "317 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,122.9700",
+        "amount": "0.1000",
+        "usdValue": "$312.29"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "155.3830",
+        "usdValue": "$155.38"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1247",
+        "amount": "1,018.4156",
+        "usdValue": "$127.00"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9872",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xec783c4e50d8713cdec4ba1cf98c05820443ad1a",
+    "topProtocols": [
+      {
+        "name": "0x91a6…aa92",
+        "volume": "$930"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "POL",
+        "volume": "$442"
+      },
+      {
+        "name": "ETH",
+        "volume": "$332"
+      },
+      {
+        "name": "USDC",
+        "volume": "$155B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:47:28.732Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.219032693362,
+  "vaultPct": 0.00001644669235558353
+}

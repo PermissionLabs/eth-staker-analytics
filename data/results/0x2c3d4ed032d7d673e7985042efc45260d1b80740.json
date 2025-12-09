@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0x2c3d4ed032d7d673e7985042efc45260d1b80740",
+    "totalValue": "$41,690",
+    "walletLifetime": "1157 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.0000",
+        "amount": "0.0367",
+        "usdValue": "$113.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,101.0000",
+        "amount": "0.0051",
+        "usdValue": "$15.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.0000",
+        "amount": "0.0032",
+        "usdValue": "$9.78"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.1000",
+        "amount": "0.0107",
+        "usdValue": "$9.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,101.0000",
+        "amount": "0.0024",
+        "usdValue": "$7.42"
+      },
+      {
+        "symbol": "DHK",
+        "chain": "op",
+        "price": "$0.0611",
+        "amount": "51.0000",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "0.1493",
+        "usdValue": "$2.03"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "0.3177",
+        "usdValue": "$0.32"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$41,513"
+      },
+      {
+        "protocol": "Sonne Finance",
+        "chain": "op",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SONNE",
+        "usdValue": "$15"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2c3d4ed032d7d673e7985042efc45260d1b80740",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$109K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$95K"
+      },
+      {
+        "name": "Sonne Finance",
+        "volume": "$83K"
+      },
+      {
+        "name": "0x1ced…05a0",
+        "volume": "$69K"
+      },
+      {
+        "name": "Rubicon",
+        "volume": "$65K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$46K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$39K"
+      },
+      {
+        "name": "LooksRare",
+        "volume": "$11K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$11K"
+      },
+      {
+        "name": "Velodrome",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x49b3…aceb",
+        "volume": "$9K"
+      },
+      {
+        "name": "Synthetix",
+        "volume": "$8K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$3K"
+      },
+      {
+        "name": "Perpetual Protocol",
+        "volume": "$257"
+      },
+      {
+        "name": "0xbcec…fb3a",
+        "volume": "$256"
+      },
+      {
+        "name": "0x3ce6…3a93",
+        "volume": "$248"
+      },
+      {
+        "name": "Derive V1",
+        "volume": "$218"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "OP",
+        "volume": "$146K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$82K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$79K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$52K"
+      },
+      {
+        "name": "SNX",
+        "volume": "$51K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$40K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$37K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$32K"
+      },
+      {
+        "name": "LOOKS",
+        "volume": "$23K"
+      },
+      {
+        "name": "SONNE",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$3K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$2K"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$738"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:18:06.890Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 18.08348104279408,
+  "vaultPct": 0.0033623887987077744
+}

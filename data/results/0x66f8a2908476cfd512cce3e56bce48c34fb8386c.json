@@ -1,0 +1,257 @@
+{
+  "portfolio": {
+    "address": "0x66f8a2908476cfd512cce3e56bce48c34fb8386c",
+    "totalValue": "$36,080",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.9000",
+        "amount": "0.0956",
+        "usdValue": "$298.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,118.9000",
+        "amount": "0.0735",
+        "usdValue": "$229.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,119.1100",
+        "amount": "0.0011",
+        "usdValue": "$3.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,119.1100",
+        "amount": "0.0010",
+        "usdValue": "$3.21"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "13.8726",
+        "usdValue": "$1.73"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "0.2750",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,118.9000",
+        "amount": "0.00007947",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,119.1100",
+        "amount": "0.00003",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,119.1100",
+        "amount": "0.00001879",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,118.9000",
+        "amount": "0.00001",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "PLUME",
+        "chain": "plume",
+        "price": "$0.0212",
+        "amount": "0.0780",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GMINKY",
+        "chain": "ink",
+        "price": "$0.0₅3574",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$35,544"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x66f8a2908476cfd512cce3e56bce48c34fb8386c",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$253K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$70K"
+      },
+      {
+        "name": "Acryptos",
+        "volume": "$65K"
+      },
+      {
+        "name": "Jones DAO",
+        "volume": "$53K"
+      },
+      {
+        "name": "Wormhole",
+        "volume": "$51K"
+      },
+      {
+        "name": "0x71a4…9a09",
+        "volume": "$38K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$38K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$38K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$35K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$35K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x05c2…5e2d",
+        "volume": "$25K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$11K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$6K"
+      },
+      {
+        "name": "Merkl",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xc5f6…4882",
+        "volume": "$1360"
+      },
+      {
+        "name": "x",
+        "volume": "$95"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$56K"
+      },
+      {
+        "name": "ernel DAO",
+        "volume": "$52"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$322K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$190K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$143K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$88K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$2K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$456K"
+      },
+      {
+        "name": "ERNEL",
+        "volume": "$103"
+      },
+      {
+        "name": "POL",
+        "volume": "$84"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$48"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:07:38.815Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 10.459302932865501,
+  "vaultPct": 0.11665877289592573
+}

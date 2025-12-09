@@ -1,0 +1,88 @@
+{
+  "portfolio": {
+    "address": "0x8182033665c29a5f3aeeaf71888bdbb2b66247dd",
+    "totalValue": "$55,994",
+    "walletLifetime": "5 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "338.0000",
+        "usdValue": "$337.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.9600",
+        "amount": "0.0905",
+        "usdValue": "$282.40"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0283",
+        "amount": "66.9809",
+        "usdValue": "$1.89"
+      },
+      {
+        "symbol": "AUSD",
+        "chain": "monad",
+        "price": "$0.9998",
+        "amount": "1.0020",
+        "usdValue": "$1.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kiln",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$28,805"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$14,542"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$10,922"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,002"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "monad",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "AUSD",
+        "usdValue": "$99"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8182033665c29a5f3aeeaf71888bdbb2b66247dd",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T18:07:04.118Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.9738780929014613,
+  "vaultPct": 0.0108622366134091
+}

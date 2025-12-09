@@ -1,0 +1,48 @@
+{
+  "portfolio": {
+    "address": "0x1e568a543fe06eeff565ac4a740bba7a9f6da8f5",
+    "totalValue": "$108,204",
+    "walletLifetime": "528 days",
+    "tokens": [],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$108,198"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1e568a543fe06eeff565ac4a740bba7a9f6da8f5",
+    "topProtocols": [],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:03:55.900Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 34.0990583398813,
+  "vaultPct": 0.006340277711861641
+}

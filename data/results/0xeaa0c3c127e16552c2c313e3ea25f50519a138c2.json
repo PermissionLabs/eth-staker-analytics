@@ -1,0 +1,167 @@
+{
+  "portfolio": {
+    "address": "0xeaa0c3c127e16552c2c313e3ea25f50519a138c2",
+    "totalValue": "$10,714",
+    "walletLifetime": "1329 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.0100",
+        "amount": "0.1230",
+        "usdValue": "$384.62"
+      },
+      {
+        "symbol": "WLFI",
+        "chain": "eth",
+        "price": "$0.1506",
+        "amount": "942.4916",
+        "usdValue": "$141.90"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.0000",
+        "amount": "0.0131",
+        "usdValue": "$11.83"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$9,608"
+      },
+      {
+        "protocol": "World Liberty Financial",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "WLFI",
+        "usdValue": "$568"
+      },
+      {
+        "protocol": "Emp Money",
+        "chain": "bsc",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EMP (emp.money)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xeaa0c3c127e16552c2c313e3ea25f50519a138c2",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$24K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$10K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "Emp Money",
+        "volume": "$9K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$7K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$7K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5bad…5aa2",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$619"
+      },
+      {
+        "name": "Dibs.Money",
+        "volume": "$535"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$7K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$622"
+      },
+      {
+        "name": "AERO",
+        "volume": "$344"
+      },
+      {
+        "name": "ESHARE",
+        "volume": "$282"
+      },
+      {
+        "name": "WLFI",
+        "volume": "$177"
+      },
+      {
+        "name": "USD1",
+        "volume": "$94"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:18:32.242Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.430237155698375,
+  "vaultPct": 0.00045187108451001505
+}

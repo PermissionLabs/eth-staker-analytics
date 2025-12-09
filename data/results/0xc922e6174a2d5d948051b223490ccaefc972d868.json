@@ -1,0 +1,238 @@
+{
+  "portfolio": {
+    "address": "0xc922e6174a2d5d948051b223490ccaefc972d868",
+    "totalValue": "$354",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,160.1200",
+        "amount": "0.0371",
+        "usdValue": "$117.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.4300",
+        "amount": "0.0043",
+        "usdValue": "$13.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,160.4300",
+        "amount": "0.0008",
+        "usdValue": "$2.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,160.4300",
+        "amount": "0.0003",
+        "usdValue": "$0.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,160.1200",
+        "amount": "0.0001",
+        "usdValue": "$0.38"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "0.3450",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,160.4300",
+        "amount": "0.00008619",
+        "usdValue": "$0.27"
+      },
+      {
+        "symbol": "G",
+        "chain": "gravity",
+        "price": "$0.0050",
+        "amount": "50.9489",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,160.4300",
+        "amount": "0.00007999",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,160.4300",
+        "amount": "0.00007989",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$0.9999",
+        "amount": "0.2500",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,160.4300",
+        "amount": "0.00007846",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$213"
+      },
+      {
+        "protocol": "Para Space",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH(parallel)",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc922e6174a2d5d948051b223490ccaefc972d868",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$13K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$12K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$8K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xa9b7…a7c2",
+        "volume": "$5K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$5K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$5K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$3K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$3K"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$3K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$50K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:48:47.425Z",
+  "source": "base_aave",
+  "vaultBalance": 0.08118701128035472,
+  "vaultPct": 0.00011943260940460578
+}

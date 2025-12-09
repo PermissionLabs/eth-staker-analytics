@@ -1,0 +1,81 @@
+{
+  "portfolio": {
+    "address": "0x000b4a8578a2e709bb84ce231e16c033bb1db850",
+    "totalValue": "$1,889",
+    "walletLifetime": "1216 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,148.7100",
+        "amount": "0.2816",
+        "usdValue": "$886.77"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,604.0100",
+        "amount": "0.0003",
+        "usdValue": "$27.48"
+      },
+      {
+        "symbol": "ZERO",
+        "chain": "linea",
+        "price": "$0.02",
+        "amount": "1,536.60",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$685"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$288"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Claimable",
+        "token": "ZERO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "WePiggy",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WPC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x000b4a8578a2e709bb84ce231e16c033bb1db850",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T14:11:14.855Z",
+  "source": "base_aave",
+  "vaultBalance": 0.10000000000000009,
+  "vaultPct": 0.00014710802568181948
+}

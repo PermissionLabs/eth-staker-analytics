@@ -1,0 +1,80 @@
+{
+  "portfolio": {
+    "address": "0x8b4aa3af58291d2f80e65fe9bcfe9106353b6fd2",
+    "totalValue": "$1,032",
+    "walletLifetime": "48 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.4600",
+        "amount": "0.0119",
+        "usdValue": "$37.28"
+      },
+      {
+        "symbol": "PAXG",
+        "chain": "eth",
+        "price": "$4,214.4339",
+        "amount": "0.0004",
+        "usdValue": "$1.86"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$993"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8b4aa3af58291d2f80e65fe9bcfe9106353b6fd2",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7d5a…781a",
+        "volume": "$10"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$423"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$12"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:20:50.672Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.263,
+  "vaultPct": 0.00004890143949427948
+}

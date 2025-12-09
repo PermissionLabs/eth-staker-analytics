@@ -1,0 +1,264 @@
+{
+  "portfolio": {
+    "address": "0x24e3723b4bb7f0a6c70987361df2e98121f21db3",
+    "totalValue": "$48,361",
+    "walletLifetime": "31 days",
+    "tokens": [
+      {
+        "symbol": "SEI",
+        "chain": "eth",
+        "price": "$0.1306",
+        "amount": "1,373.0901",
+        "usdValue": "$179.35"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "arb",
+        "price": "$5.6189",
+        "amount": "27.0084",
+        "usdValue": "$151.76"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "79.7318",
+        "usdValue": "$79.73"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.0000",
+        "amount": "0.0518",
+        "usdValue": "$46.32"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5700",
+        "amount": "1.6902",
+        "usdValue": "$22.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,118.8300",
+        "amount": "0.0026",
+        "usdValue": "$8.03"
+      },
+      {
+        "symbol": "BASE (SwapBased)",
+        "chain": "base",
+        "price": "$0.0₅2031",
+        "amount": "2,755,869.4765",
+        "usdValue": "$5.60"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2107",
+        "amount": "23.6722",
+        "usdValue": "$4.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,117.3300",
+        "amount": "0.0016",
+        "usdValue": "$4.90"
+      },
+      {
+        "symbol": "FLUID",
+        "chain": "arb",
+        "price": "$3.2701",
+        "amount": "1.0177",
+        "usdValue": "$3.33"
+      },
+      {
+        "symbol": "FLUID",
+        "chain": "base",
+        "price": "$3.2618",
+        "amount": "0.8047",
+        "usdValue": "$2.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.3300",
+        "amount": "0.0007",
+        "usdValue": "$2.22"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6666",
+        "amount": "2.6915",
+        "usdValue": "$1.79"
+      },
+      {
+        "symbol": "BASED (basedevo.fun)",
+        "chain": "base",
+        "price": "$0.0₅1813",
+        "amount": "674,251.0152",
+        "usdValue": "$1.22"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$33,809"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$5,787"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,852"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "EUROC",
+        "usdValue": "$3,399"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x24e3723b4bb7f0a6c70987361df2e98121f21db3",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$38K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$35K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$17K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$10K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x6540…65e5",
+        "volume": "$7K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xc87e…90a3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$194"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$194"
+      },
+      {
+        "name": "0x48e4…e608",
+        "volume": "$32B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$28"
+      },
+      {
+        "name": "DeBank L2",
+        "volume": "$10M"
+      },
+      {
+        "name": "erkl",
+        "volume": "$2"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$77K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$32K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$18K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "EUROC",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$2K"
+      },
+      {
+        "name": "SEI",
+        "volume": "$247"
+      },
+      {
+        "name": "UNI",
+        "volume": "$158B"
+      },
+      {
+        "name": "NB",
+        "volume": "$51"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$28"
+      },
+      {
+        "name": "ARB",
+        "volume": "$6"
+      },
+      {
+        "name": "FLUID",
+        "volume": "$4"
+      },
+      {
+        "name": "AERO",
+        "volume": "$3B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:59:20.674Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.9095305601533394,
+  "vaultPct": 0.00035505244543656325
+}

@@ -1,0 +1,111 @@
+{
+  "portfolio": {
+    "address": "0x689c1cf8f1375e1aeb82b04cea35acf74fc8609d",
+    "totalValue": "$39,499",
+    "walletLifetime": "806 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.5900",
+        "amount": "0.0436",
+        "usdValue": "$135.38"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.0001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$39,363"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x689c1cf8f1375e1aeb82b04cea35acf74fc8609d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$241K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$72K"
+      },
+      {
+        "name": "0xe698…7a9c",
+        "volume": "$36K"
+      },
+      {
+        "name": "0xa09a…6f2e",
+        "volume": "$31K"
+      },
+      {
+        "name": "0x0d86…45a3",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x9744…88f0",
+        "volume": "$361"
+      },
+      {
+        "name": "0x31c8…fbc8",
+        "volume": "$3"
+      },
+      {
+        "name": "0xec24…aecd",
+        "volume": "$2"
+      },
+      {
+        "name": "0x6046…0c46",
+        "volume": "$1"
+      },
+      {
+        "name": "0xf93a…29e3",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf930…59e3",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$190K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$157K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$60K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:13:26.515Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 28.374533871158288,
+  "vaultPct": 0.0052758766208320556
+}

@@ -1,0 +1,153 @@
+{
+  "portfolio": {
+    "address": "0xb234dda28b1a80294398d9423451409066525577",
+    "totalValue": "$330",
+    "walletLifetime": "1165 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.2800",
+        "amount": "0.0758",
+        "usdValue": "$236.51"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,115.8600",
+        "amount": "0.0103",
+        "usdValue": "$32.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,119.2800",
+        "amount": "0.0094",
+        "usdValue": "$29.24"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "16.9145",
+        "usdValue": "$16.91"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "15.4668",
+        "usdValue": "$15.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,115.8600",
+        "amount": "0.00007884",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "TCR",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "0.0005",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LARRY",
+        "chain": "op",
+        "price": "$0.0000",
+        "amount": "1,000,000,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xb234dda28b1a80294398d9423451409066525577",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xefa2…9249",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V1",
+        "volume": "$511M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$490"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$478"
+      },
+      {
+        "name": "0x5716…a48b",
+        "volume": "$374"
+      },
+      {
+        "name": "0xca7a…5125",
+        "volume": "$292"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$266"
+      },
+      {
+        "name": "ycelium",
+        "volume": "$18"
+      },
+      {
+        "name": "0xa18c…bb42",
+        "volume": "$7M"
+      },
+      {
+        "name": "0x46f8…878a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xda10…0da1",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$340"
+      },
+      {
+        "name": "WETH",
+        "volume": "$16"
+      },
+      {
+        "name": "TCR",
+        "volume": "$14"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:28:22.095Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.030000080038608,
+  "vaultPct": 0.00019151515814871107
+}

@@ -1,0 +1,240 @@
+{
+  "portfolio": {
+    "address": "0x0b1595e3b29b5d33cb2cde9785eb571f87fc79c5",
+    "totalValue": "$59,464",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "8,318.5314",
+        "usdValue": "$8,317.70"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "7,801.2817",
+        "usdValue": "$7,800.50"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$89,787.6600",
+        "amount": "0.0765",
+        "usdValue": "$6,865.84"
+      },
+      {
+        "symbol": "WLD",
+        "chain": "eth",
+        "price": "$0.6079",
+        "amount": "4,697.0739",
+        "usdValue": "$2,855.20"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "2,014.7301",
+        "usdValue": "$2,014.53"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,103.5500",
+        "amount": "0.3578",
+        "usdValue": "$1,110.58"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "eth",
+        "price": "$0.8364",
+        "amount": "590.9290",
+        "usdValue": "$494.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.5500",
+        "amount": "0.1110",
+        "usdValue": "$344.36"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "matic",
+        "price": "$13.6400",
+        "amount": "22.0091",
+        "usdValue": "$300.20"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,105.7100",
+        "amount": "0.0795",
+        "usdValue": "$246.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,103.5500",
+        "amount": "0.0525",
+        "usdValue": "$163.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "107.2662",
+        "usdValue": "$107.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.5500",
+        "amount": "0.0167",
+        "usdValue": "$51.87"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2098",
+        "amount": "169.3984",
+        "usdValue": "$35.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$22,320"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,499"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,927"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0b1595e3b29b5d33cb2cde9785eb571f87fc79c5",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$239K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$57K"
+      },
+      {
+        "name": "0x0b15…79c5",
+        "volume": "$40K"
+      },
+      {
+        "name": "0xace5…1e6f",
+        "volume": "$25K"
+      },
+      {
+        "name": "0xfde3…3ba7",
+        "volume": "$24K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x5600…1f2b",
+        "volume": "$20K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$20K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$17K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$14K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$13K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$713K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$679K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$88K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$72K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$49K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$41K"
+      },
+      {
+        "name": "POL",
+        "volume": "$37K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$32K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$25K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$18K"
+      },
+      {
+        "name": "WLD",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:10:45.540Z",
+  "source": "base_aave",
+  "vaultBalance": 2.1106028525454743,
+  "vaultPct": 0.003104866186363808
+}

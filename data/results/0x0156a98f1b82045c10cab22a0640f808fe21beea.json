@@ -1,0 +1,175 @@
+{
+  "portfolio": {
+    "address": "0x0156a98f1b82045c10cab22a0640f808fe21beea",
+    "totalValue": "$2,396,099",
+    "walletLifetime": "3494 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.2100",
+        "amount": "0.7484",
+        "usdValue": "$2,325.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.1100",
+        "amount": "0.4901",
+        "usdValue": "$1,521.94"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.0000",
+        "amount": "0.0099",
+        "usdValue": "$8.86"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$1,798,807"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$593,434"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0156a98f1b82045c10cab22a0640f808fe21beea",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$35M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$33M"
+      },
+      {
+        "name": "0x",
+        "volume": "$10M"
+      },
+      {
+        "name": "0x806d…c4e8",
+        "volume": "$9M"
+      },
+      {
+        "name": "0x9842…7290",
+        "volume": "$8M"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4M"
+      },
+      {
+        "name": "0xe1cc…5f36",
+        "volume": "$4M"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2M"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$1M"
+      },
+      {
+        "name": "1inch",
+        "volume": "$951K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$830K"
+      },
+      {
+        "name": "0x2bd5…ea9f",
+        "volume": "$635K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$591K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$35M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$26M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$23M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$23M"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$13M"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$4M"
+      },
+      {
+        "name": "AIOZ",
+        "volume": "$3M"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$2M"
+      },
+      {
+        "name": "wTAO",
+        "volume": "$2M"
+      },
+      {
+        "name": "TURBO",
+        "volume": "$1M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "AERO",
+        "volume": "$893K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$831K"
+      },
+      {
+        "name": "BRETT",
+        "volume": "$663K"
+      },
+      {
+        "name": "FET",
+        "volume": "$512K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:16:22.391Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 267.3303373547998,
+  "vaultPct": 0.049706609570878565
+}

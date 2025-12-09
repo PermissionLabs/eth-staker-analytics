@@ -1,0 +1,146 @@
+{
+  "portfolio": {
+    "address": "0xbe2d39c5a5d30961c5207323c4597de3e63851b8",
+    "totalValue": "$30,981",
+    "walletLifetime": "160 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,144.6100",
+        "amount": "3.0676",
+        "usdValue": "$9,646.26"
+      },
+      {
+        "symbol": "EURC",
+        "chain": "base",
+        "price": "$1.1647",
+        "amount": "2,712.2168",
+        "usdValue": "$3,158.95"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.1542",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$18,176"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbe2d39c5a5d30961c5207323c4597de3e63851b8",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$144K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$40K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$26K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$24K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$19K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xc89f…dc1f",
+        "volume": "$13K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbdd1…9d66",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3fc1…2435",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfb1c…8f14",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6aa1…1791",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0fbb…cdf9",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5a0e…e231",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa782…110d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3d02…afd7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc4d5…148a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$172K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$77K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$54K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$37K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:15:50.696Z",
+  "source": "base_aave",
+  "vaultBalance": 3.927763385509249,
+  "vaultPct": 0.005778055169876044
+}

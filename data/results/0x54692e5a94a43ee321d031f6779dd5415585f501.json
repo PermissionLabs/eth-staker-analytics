@@ -1,0 +1,136 @@
+{
+  "portfolio": {
+    "address": "0x54692e5a94a43ee321d031f6779dd5415585f501",
+    "totalValue": "$3,488",
+    "walletLifetime": "379 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.0200",
+        "amount": "0.0610",
+        "usdValue": "$189.19"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,299"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x54692e5a94a43ee321d031f6779dd5415585f501",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$412K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$99K"
+      },
+      {
+        "name": "0xd6ee…f68b",
+        "volume": "$77K"
+      },
+      {
+        "name": "0x38f6…6336",
+        "volume": "$60K"
+      },
+      {
+        "name": "0x2617…10d1",
+        "volume": "$35K"
+      },
+      {
+        "name": "0x997e…ff10",
+        "volume": "$24K"
+      },
+      {
+        "name": "0xbca3…1dbc",
+        "volume": "$17K"
+      },
+      {
+        "name": "mimic",
+        "volume": "$17K"
+      },
+      {
+        "name": "0xc9e3…346f",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xf9a2…54f9",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xbfc5…8b63",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xf9aa…34b6",
+        "volume": "$12K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xa633…1418",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xecc4…3bcc",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xdeba…c8ae",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4704…faef",
+        "volume": "$5K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x3d90…6be9",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5555…303c",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$546K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$422K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:16:22.651Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.6973906353539365,
+  "vaultPct": 0.0005015448096851581
+}

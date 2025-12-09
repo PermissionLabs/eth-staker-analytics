@@ -1,0 +1,121 @@
+{
+  "portfolio": {
+    "address": "0x8e84377fdd09f70cf62094796703ad9f23a2068f",
+    "totalValue": "$357",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.7700",
+        "amount": "0.1144",
+        "usdValue": "$357.14"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "OHNO",
+        "chain": "base",
+        "price": "$0.00005206",
+        "amount": "11.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x8e84377fdd09f70cf62094796703ad9f23a2068f",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$1M"
+      },
+      {
+        "name": "SmarDex",
+        "volume": "$417K"
+      },
+      {
+        "name": "0x6ddd…7281",
+        "volume": "$225K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$224K"
+      },
+      {
+        "name": "0x1d78…fba4",
+        "volume": "$204K"
+      },
+      {
+        "name": "0x6a01…5cef",
+        "volume": "$116K"
+      },
+      {
+        "name": "0xa93d…75e0",
+        "volume": "$112K"
+      },
+      {
+        "name": "0xaa54…d886",
+        "volume": "$112K"
+      },
+      {
+        "name": "0x1562…87ab",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0cb5…8dc5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$691K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$408K"
+      },
+      {
+        "name": "SDEX",
+        "volume": "$348K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$212K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$117K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:47:05.640Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 215.4529943303582,
+  "vaultPct": 0.04006069036542719
+}

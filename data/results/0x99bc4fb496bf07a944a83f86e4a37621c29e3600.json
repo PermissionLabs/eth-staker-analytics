@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0x99bc4fb496bf07a944a83f86e4a37621c29e3600",
+    "totalValue": "$1,461",
+    "walletLifetime": "371 days",
+    "tokens": [
+      {
+        "symbol": "UNI",
+        "chain": "uni",
+        "price": "$5.6713",
+        "amount": "15.9920",
+        "usdValue": "$90.70"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8528",
+        "amount": "70.2598",
+        "usdValue": "$59.92"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "base",
+        "price": "$5.6768",
+        "amount": "5.2043",
+        "usdValue": "$29.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.5000",
+        "amount": "0.0007",
+        "usdValue": "$2.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.5000",
+        "amount": "0.0004",
+        "usdValue": "$1.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,133.5000",
+        "amount": "0.0002",
+        "usdValue": "$0.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "abs",
+        "price": "$3,134.0500",
+        "amount": "0.0001",
+        "usdValue": "$0.32"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$717"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "uni",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$364"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$191"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "UNI",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "uni",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "UNI",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x99bc4fb496bf07a944a83f86e4a37621c29e3600",
+    "topProtocols": [
+      {
+        "name": "Avantis",
+        "volume": "$14K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x9c33…1b1e",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$851"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$845"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$740"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$393"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$300"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$280"
+      },
+      {
+        "name": "0x43f3…d063",
+        "volume": "$231"
+      },
+      {
+        "name": "Derive",
+        "volume": "$231"
+      },
+      {
+        "name": "0xfb33…417f",
+        "volume": "$226"
+      },
+      {
+        "name": "0x9e2e…49f8",
+        "volume": "$222"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$3K"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$391"
+      },
+      {
+        "name": "UNI",
+        "volume": "$354"
+      },
+      {
+        "name": "USDT",
+        "volume": "$243"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$29"
+      },
+      {
+        "name": "AERO",
+        "volume": "$20"
+      },
+      {
+        "name": "OP",
+        "volume": "$20"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:06:54.439Z",
+  "source": "base_aave",
+  "vaultBalance": 0.37541987034212015,
+  "vaultPct": 0.000552272759277539
+}

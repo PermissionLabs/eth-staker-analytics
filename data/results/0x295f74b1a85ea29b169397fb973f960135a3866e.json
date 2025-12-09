@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0x295f74b1a85ea29b169397fb973f960135a3866e",
+    "totalValue": "$7,582",
+    "walletLifetime": "565 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "109.9500",
+        "usdValue": "$109.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.1100",
+        "amount": "0.0289",
+        "usdValue": "$90.64"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.6000",
+        "amount": "0.0139",
+        "usdValue": "$12.51"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2136",
+        "amount": "34.2061",
+        "usdValue": "$7.31"
+      },
+      {
+        "symbol": "STAKELAYER",
+        "chain": "bsc",
+        "price": "$0.0000358",
+        "amount": "129,838.1667",
+        "usdValue": "$4.65"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,134.7700",
+        "amount": "0.0011",
+        "usdValue": "$3.56"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "2.8289",
+        "usdValue": "$2.83"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1238",
+        "amount": "13.2259",
+        "usdValue": "$1.64"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "1.5763",
+        "usdValue": "$1.58"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,826"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,521"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x295f74b1a85ea29b169397fb973f960135a3866e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$16K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x0ee2…852d",
+        "volume": "$8K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$8K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$4K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf1d1…d176",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd6c7…c0ba",
+        "volume": "$922M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$646"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$591"
+      },
+      {
+        "name": "0xe895…be11",
+        "volume": "$510B"
+      },
+      {
+        "name": "inance",
+        "volume": "$410"
+      },
+      {
+        "name": "0x4967…0ec3",
+        "volume": "$400"
+      },
+      {
+        "name": "GMX",
+        "volume": "$12B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$764"
+      },
+      {
+        "name": "ETH",
+        "volume": "$61"
+      },
+      {
+        "name": "ARB",
+        "volume": "$22"
+      },
+      {
+        "name": "POL",
+        "volume": "$10B"
+      },
+      {
+        "name": "NB",
+        "volume": "$9"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3"
+      },
+      {
+        "name": "USD",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:15:22.357Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.491714298119964,
+  "vaultPct": 0.0004633019619260246
+}

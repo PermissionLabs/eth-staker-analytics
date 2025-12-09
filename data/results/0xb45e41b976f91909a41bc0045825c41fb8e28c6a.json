@@ -1,0 +1,79 @@
+{
+  "portfolio": {
+    "address": "0xb45e41b976f91909a41bc0045825c41fb8e28c6a",
+    "totalValue": "$253,382",
+    "walletLifetime": "118 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.0900",
+        "amount": "0.1294",
+        "usdValue": "$404.58"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7903",
+        "amount": "2.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$252,978"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb45e41b976f91909a41bc0045825c41fb8e28c6a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$352K"
+      },
+      {
+        "name": "Frax",
+        "volume": "$352K"
+      },
+      {
+        "name": "0xdf3c…3bcb",
+        "volume": "$812"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$704K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:09:06.112Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 80.71831694627478,
+  "vaultPct": 0.015008524305050685
+}

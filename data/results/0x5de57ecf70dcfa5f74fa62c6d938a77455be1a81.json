@@ -1,0 +1,265 @@
+{
+  "portfolio": {
+    "address": "0x5de57ecf70dcfa5f74fa62c6d938a77455be1a81",
+    "totalValue": "$2,547",
+    "walletLifetime": "2939 days",
+    "tokens": [
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4890",
+        "amount": "427.2689",
+        "usdValue": "$208.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.9400",
+        "amount": "0.0263",
+        "usdValue": "$81.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,103.9400",
+        "amount": "0.0163",
+        "usdValue": "$50.64"
+      },
+      {
+        "symbol": "SOPH",
+        "chain": "sophon",
+        "price": "$0.0155",
+        "amount": "2,926.5214",
+        "usdValue": "$45.24"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0325",
+        "amount": "201.5740",
+        "usdValue": "$6.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "dbk",
+        "price": "$3,103.9400",
+        "amount": "0.0020",
+        "usdValue": "$6.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,103.9400",
+        "amount": "0.0010",
+        "usdValue": "$3.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.9400",
+        "amount": "0.0010",
+        "usdValue": "$3.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zircuit",
+        "price": "$3,103.9400",
+        "amount": "0.0010",
+        "usdValue": "$3.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,644"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$396"
+      },
+      {
+        "protocol": "Holdstation DeFutures",
+        "chain": "era",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "HOLD",
+        "usdValue": "$86"
+      },
+      {
+        "protocol": "Sophon",
+        "chain": "sophon",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "WSOPH",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Zircuit",
+        "chain": "zircuit",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ZRC",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5de57ecf70dcfa5f74fa62c6d938a77455be1a81",
+    "topProtocols": [
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x2ddb…53d3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$3K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$3K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$912"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$614"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$455"
+      },
+      {
+        "name": "0xe02d…9b8d",
+        "volume": "$448"
+      },
+      {
+        "name": "0xa807…33ca",
+        "volume": "$4071"
+      },
+      {
+        "name": "inch",
+        "volume": "$406"
+      },
+      {
+        "name": "0xc68f…9ac1",
+        "volume": "$384"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$6K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "KEP",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$813K"
+      },
+      {
+        "name": "ERNEL",
+        "volume": "$730"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$252"
+      },
+      {
+        "name": "WETH",
+        "volume": "$249"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$247M"
+      },
+      {
+        "name": "AV",
+        "volume": "$180"
+      },
+      {
+        "name": "HOLD",
+        "volume": "$136"
+      },
+      {
+        "name": "DEXTF",
+        "volume": "$120"
+      },
+      {
+        "name": "RF",
+        "volume": "$111"
+      },
+      {
+        "name": "iZi",
+        "volume": "$86B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:16:09.280Z",
+  "source": "base_aave",
+  "vaultBalance": 0.528862651208666,
+  "vaultPct": 0.000777999404761595
+}

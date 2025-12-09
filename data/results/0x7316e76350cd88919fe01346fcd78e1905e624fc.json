@@ -1,0 +1,147 @@
+{
+  "portfolio": {
+    "address": "0x7316e76350cd88919fe01346fcd78e1905e624fc",
+    "totalValue": "$38",
+    "walletLifetime": "1109 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,115.4800",
+        "amount": "0.0119",
+        "usdValue": "$36.94"
+      },
+      {
+        "symbol": "ZORA",
+        "chain": "base",
+        "price": "$0.0480",
+        "amount": "9.9672",
+        "usdValue": "$0.48"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1039",
+        "amount": "0.1000",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,115.6900",
+        "amount": "0.00003",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,115.6800",
+        "amount": "0.00002087",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,115.6900",
+        "amount": "0.00001669",
+        "usdValue": "$0.05"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x7316e76350cd88919fe01346fcd78e1905e624fc",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$101K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$92K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$20K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$16K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x60c3…d7d3",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$10K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$8K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$6K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xd567…cd4c",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$157K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "KTIA.n",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$493"
+      },
+      {
+        "name": "GETH",
+        "volume": "$187"
+      },
+      {
+        "name": "WETH",
+        "volume": "$125"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:44:42.133Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1000000391985445,
+  "vaultPct": 0.00014710808334602427
+}

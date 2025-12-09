@@ -1,0 +1,90 @@
+{
+  "portfolio": {
+    "address": "0x20cf04c22a3a1f9959b425f4c9c9ebe6ee5466ae",
+    "totalValue": "$3",
+    "walletLifetime": "1494 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.3400",
+        "amount": "0.0011",
+        "usdValue": "$3.34"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅999",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x20cf04c22a3a1f9959b425f4c9c9ebe6ee5466ae",
+    "topProtocols": [
+      {
+        "name": "0xa4c7…6816",
+        "volume": "$511"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$384"
+      },
+      {
+        "name": "0x4fd4…8caf",
+        "volume": "$116"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$100"
+      },
+      {
+        "name": "0xd108…3ba6",
+        "volume": "$43"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc944…44a7",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$560"
+      },
+      {
+        "name": "GRT",
+        "volume": "$196M"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$186"
+      },
+      {
+        "name": "API3",
+        "volume": "$184"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$181B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:32:37.232Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.07764532,
+  "vaultPct": 0.000005830219549829019
+}

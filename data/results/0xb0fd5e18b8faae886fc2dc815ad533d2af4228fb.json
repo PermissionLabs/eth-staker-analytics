@@ -1,0 +1,242 @@
+{
+  "portfolio": {
+    "address": "0xb0fd5e18b8faae886fc2dc815ad533d2af4228fb",
+    "totalValue": "$3,519",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "PRIME",
+        "chain": "base",
+        "price": "$1.1903",
+        "amount": "15.0228",
+        "usdValue": "$17.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,101.3600",
+        "amount": "0.0003",
+        "usdValue": "$0.93"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9738",
+        "amount": "740,000.0000",
+        "usdValue": "$0.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.3600",
+        "amount": "0.0002",
+        "usdValue": "$0.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,101.3600",
+        "amount": "0.00009887",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "arb",
+        "price": "$2.3048",
+        "amount": "0.0894",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,103.0900",
+        "amount": "0.00005079",
+        "usdValue": "$0.16"
+      },
+      {
+        "symbol": "USD+",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.0966",
+        "usdValue": "$0.10"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,307"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$856"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$513"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$510"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$291"
+      },
+      {
+        "protocol": "Subsquid",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SQD",
+        "usdValue": "$21"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb0fd5e18b8faae886fc2dc815ad533d2af4228fb",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$14K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xfa00…893f",
+        "volume": "$3K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$1K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$957B"
+      },
+      {
+        "name": "inance",
+        "volume": "$821K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$603"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$563"
+      },
+      {
+        "name": "0x5600…1f2b",
+        "volume": "$533B"
+      },
+      {
+        "name": "0xbcfc…0130",
+        "volume": "$436"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$393"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$354"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$17K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$899"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$678"
+      },
+      {
+        "name": "DEUS",
+        "volume": "$421"
+      },
+      {
+        "name": "Cake",
+        "volume": "$281"
+      },
+      {
+        "name": "PROOFAI",
+        "volume": "$228"
+      },
+      {
+        "name": "SQD",
+        "volume": "$200M"
+      },
+      {
+        "name": "IRA",
+        "volume": "$185"
+      },
+      {
+        "name": "AERO",
+        "volume": "$122"
+      },
+      {
+        "name": "PRIME",
+        "volume": "$122"
+      },
+      {
+        "name": "alETH",
+        "volume": "$113"
+      },
+      {
+        "name": "RAMSES",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:17:03.000Z",
+  "source": "base_aave",
+  "vaultBalance": 0.19230162001283077,
+  "vaultPct": 0.00028289111655502975
+}

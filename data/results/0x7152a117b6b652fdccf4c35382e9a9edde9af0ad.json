@@ -1,0 +1,188 @@
+{
+  "portfolio": {
+    "address": "0x7152a117b6b652fdccf4c35382e9a9edde9af0ad",
+    "totalValue": "$118,546",
+    "walletLifetime": "1569 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.8900",
+        "amount": "0.6637",
+        "usdValue": "$2,070.78"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$888.8000",
+        "amount": "0.6502",
+        "usdValue": "$577.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,119.8900",
+        "amount": "0.0200",
+        "usdValue": "$62.38"
+      },
+      {
+        "symbol": "PAID",
+        "chain": "base",
+        "price": "$0.0052",
+        "amount": "5,605.1780",
+        "usdValue": "$29.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.1145",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0268",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "6.3330",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "0.0097",
+        "usdValue": ""
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1292",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "PAID (old)",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "5,605.1782",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$80,531"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$35,275"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7152a117b6b652fdccf4c35382e9a9edde9af0ad",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$375K"
+      },
+      {
+        "name": "squid",
+        "volume": "$365K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$322K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$213K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$184K"
+      },
+      {
+        "name": "0xe190…98a8",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x0442…2bec",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "Ferrum",
+        "volume": "$5K"
+      },
+      {
+        "name": "PAID NETWORK",
+        "volume": "$2K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$310M"
+      },
+      {
+        "name": "ultiSender",
+        "volume": "$231"
+      },
+      {
+        "name": "inance",
+        "volume": "$165B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$645K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$626K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$283K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$330B"
+      },
+      {
+        "name": "NB",
+        "volume": "$313"
+      },
+      {
+        "name": "PAID",
+        "volume": "$231"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:32:59.339Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 26.894142613777305,
+  "vaultPct": 0.005000617063795264
+}

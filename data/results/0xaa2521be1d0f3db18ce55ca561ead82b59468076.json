@@ -1,0 +1,92 @@
+{
+  "portfolio": {
+    "address": "0xaa2521be1d0f3db18ce55ca561ead82b59468076",
+    "totalValue": "$235,337",
+    "walletLifetime": "11 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.4200",
+        "amount": "0.9463",
+        "usdValue": "$2,955.57"
+      },
+      {
+        "symbol": "ZIK",
+        "chain": "eth",
+        "price": "$0.0002",
+        "amount": "888.0000",
+        "usdValue": "$0.14"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$232,382"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaa2521be1d0f3db18ce55ca561ead82b59468076",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$324K"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$115K"
+      },
+      {
+        "name": "0x6224…0a7e",
+        "volume": "$55K"
+      },
+      {
+        "name": "0xf517…5d82",
+        "volume": "$54K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$48K"
+      },
+      {
+        "name": "0x23f4…eef8",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x4ef0…8946",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcba3…2d32",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$238K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$225K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$97K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$96K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:57:01.425Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 39.01376117450877,
+  "vaultPct": 0.007254102971557075
+}

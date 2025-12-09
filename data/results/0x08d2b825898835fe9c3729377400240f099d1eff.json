@@ -1,0 +1,123 @@
+{
+  "portfolio": {
+    "address": "0x08d2b825898835fe9c3729377400240f099d1eff",
+    "totalValue": "$150",
+    "walletLifetime": "950 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,138.1700",
+        "amount": "0.0191",
+        "usdValue": "$59.94"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "54.7986",
+        "usdValue": "$54.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,138.1700",
+        "amount": "0.0107",
+        "usdValue": "$33.42"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.9000",
+        "amount": "0.0015",
+        "usdValue": "$1.36"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "LARRY",
+        "chain": "op",
+        "price": "$0.0000",
+        "amount": "1,000,000,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x08d2b825898835fe9c3729377400240f099d1eff",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$51K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$30K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$27K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$27K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$7K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3a6c…c65e",
+        "volume": "$46"
+      },
+      {
+        "name": "0xcdd3…2af2",
+        "volume": "$44"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x46f8…878a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8888…aba5",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$67K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$98"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:24:16.549Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5.95,
+  "vaultPct": 0.0011063253421709617
+}

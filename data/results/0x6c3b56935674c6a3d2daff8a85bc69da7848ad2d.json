@@ -1,0 +1,214 @@
+{
+  "portfolio": {
+    "address": "0x6c3b56935674c6a3d2daff8a85bc69da7848ad2d",
+    "totalValue": "$31,743",
+    "walletLifetime": "1599 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.8300",
+        "amount": "0.1012",
+        "usdValue": "$316.67"
+      },
+      {
+        "symbol": "BGT",
+        "chain": "bera",
+        "price": "$0.8440",
+        "amount": "270.0673",
+        "usdValue": "$227.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,130.1300",
+        "amount": "0.0445",
+        "usdValue": "$139.41"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0964",
+        "amount": "1,128.7972",
+        "usdValue": "$108.82"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,128.5600",
+        "amount": "0.0317",
+        "usdValue": "$99.16"
+      },
+      {
+        "symbol": "WBERA",
+        "chain": "bera",
+        "price": "$0.8430",
+        "amount": "84.7609",
+        "usdValue": "$71.45"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "bera",
+        "price": "$3,129.8300",
+        "amount": "0.0191",
+        "usdValue": "$59.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.8300",
+        "amount": "0.0184",
+        "usdValue": "$57.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.8300",
+        "amount": "0.0180",
+        "usdValue": "$56.49"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.8000",
+        "amount": "0.0288",
+        "usdValue": "$25.89"
+      },
+      {
+        "symbol": "PLUG",
+        "chain": "eth",
+        "price": "$0.00009929",
+        "amount": "222,204.7944",
+        "usdValue": "$22.06"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,129.8300",
+        "amount": "0.0025",
+        "usdValue": "$7.82"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "6.6554",
+        "usdValue": "$6.65"
+      },
+      {
+        "symbol": "STO",
+        "chain": "bsc",
+        "price": "$0.1201",
+        "amount": "40.0000",
+        "usdValue": "$4.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,130.1300",
+        "amount": "0.0015",
+        "usdValue": "$4.66"
+      },
+      {
+        "symbol": "USDC.e",
+        "chain": "bera",
+        "price": "$0.9999",
+        "amount": "3.7070",
+        "usdValue": "$3.71"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "bera",
+        "price": "$90,753.0900",
+        "amount": "0.00003491",
+        "usdValue": "$3.17"
+      },
+      {
+        "symbol": "NECT",
+        "chain": "bera",
+        "price": "$0.9962",
+        "amount": "2.7089",
+        "usdValue": "$2.70"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3186",
+        "amount": "7.9809",
+        "usdValue": "$2.54"
+      },
+      {
+        "symbol": "NOME",
+        "chain": "bera",
+        "price": "$0.0016",
+        "amount": "1,066.3462",
+        "usdValue": "$1.70"
+      },
+      {
+        "symbol": "BERA",
+        "chain": "bera",
+        "price": "$0.8440",
+        "amount": "1.8401",
+        "usdValue": "$1.55"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "op",
+        "price": "$90,753.0900",
+        "amount": "0.00001404",
+        "usdValue": "$1.27"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$30,145"
+      },
+      {
+        "protocol": "D2.finance",
+        "chain": "bera",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC.e",
+        "usdValue": "$102"
+      },
+      {
+        "protocol": "StakeStone",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$94"
+      },
+      {
+        "protocol": "BeraHub",
+        "chain": "bera",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBERA",
+        "usdValue": "$85"
+      },
+      {
+        "protocol": "Yeet",
+        "chain": "bera",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "YEET",
+        "usdValue": "$40"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6c3b56935674c6a3d2daff8a85bc69da7848ad2d",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T00:13:04.825Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 8.028901586297936,
+  "vaultPct": 0.0014928701335660572
+}

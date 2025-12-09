@@ -1,0 +1,290 @@
+{
+  "portfolio": {
+    "address": "0x581c400784f252b039719de7e2d34fc510cc077c",
+    "totalValue": "$23,039",
+    "walletLifetime": "353 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,152.2200",
+        "amount": "0.0509",
+        "usdValue": "$160.46"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3222",
+        "amount": "155.8136",
+        "usdValue": "$50.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,152.2200",
+        "amount": "0.0126",
+        "usdValue": "$39.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,152.2200",
+        "amount": "0.0054",
+        "usdValue": "$17.02"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.6045",
+        "amount": "18.0463",
+        "usdValue": "$10.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,152.2200",
+        "amount": "0.0030",
+        "usdValue": "$9.60"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$911.5000",
+        "amount": "0.0054",
+        "usdValue": "$4.95"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "4.4876",
+        "usdValue": "$4.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,152.2200",
+        "amount": "0.0010",
+        "usdValue": "$3.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,152.2200",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,152.2200",
+        "amount": "0.0009",
+        "usdValue": "$2.97"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "sonic",
+        "price": "$3,150.5400",
+        "amount": "0.0006",
+        "usdValue": "$1.90"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "avax",
+        "price": "$0.9998",
+        "amount": "1.5090",
+        "usdValue": "$1.51"
+      },
+      {
+        "symbol": "PIGGY",
+        "chain": "base",
+        "price": "$0.0₅4662",
+        "amount": "146,295.9455",
+        "usdValue": "$0.68"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.6688",
+        "usdValue": "$0.67"
+      },
+      {
+        "symbol": "L3",
+        "chain": "base",
+        "price": "$0.0122",
+        "amount": "30.8647",
+        "usdValue": "$0.38"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$22,474"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$221"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "Silo",
+        "chain": "sonic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "S",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EUL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x581c400784f252b039719de7e2d34fc510cc077c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$101K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$41K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$37K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$32K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$32K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x1cdd…b78a",
+        "volume": "$9K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$4K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0541…9aa4",
+        "volume": "$3K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Beets",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x688e…49ab",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "wstETH",
+        "volume": "$127K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$107K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$62K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$8K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:15:45.428Z",
+  "source": "base_aave",
+  "vaultBalance": 7.69742120473885,
+  "vaultPct": 0.011323524362705036
+}

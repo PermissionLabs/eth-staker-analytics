@@ -1,0 +1,91 @@
+{
+  "portfolio": {
+    "address": "0x3047f46a08a81fe9e5c873a6754387b95a1e97c7",
+    "totalValue": "$5,961",
+    "walletLifetime": "27 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.6600",
+        "amount": "0.0020",
+        "usdValue": "$6.32"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "4.0000",
+        "usdValue": "$4.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.4487",
+        "usdValue": "$0.45"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,950"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3047f46a08a81fe9e5c873a6754387b95a1e97c7",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x709d…ac69",
+        "volume": "$11K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "LEGION",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x2265…b0bd",
+        "volume": "$7"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:13:43.214Z",
+  "source": "base_aave",
+  "vaultBalance": 3.204292336673394,
+  "vaultPct": 0.004713771193554065
+}

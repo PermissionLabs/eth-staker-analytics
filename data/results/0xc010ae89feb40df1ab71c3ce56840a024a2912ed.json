@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0xc010ae89feb40df1ab71c3ce56840a024a2912ed",
+    "totalValue": "$244",
+    "walletLifetime": "301 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,142.4400",
+        "amount": "0.0102",
+        "usdValue": "$32.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,142.4400",
+        "amount": "0.0005",
+        "usdValue": "$1.53"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,142.4400",
+        "amount": "0.0002",
+        "usdValue": "$0.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,142.1600",
+        "amount": "0.00001121",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MARA",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "13,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "NSC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "39,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$209"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc010ae89feb40df1ab71c3ce56840a024a2912ed",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x07d8…cef1",
+        "volume": "$7K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7bea…8941",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x33cf…7172",
+        "volume": "$3K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xfe27…4fb1",
+        "volume": "$785"
+      },
+      {
+        "name": "0x5b23…4018",
+        "volume": "$745"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$675"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$653"
+      },
+      {
+        "name": "0x0000…f24f",
+        "volume": "$545"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$544"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$482"
+      },
+      {
+        "name": "0x344e…ad52",
+        "volume": "$423"
+      },
+      {
+        "name": "0x5eac…3ca8",
+        "volume": "$407"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$23K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "SEKOIA",
+        "volume": "$1K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$668"
+      },
+      {
+        "name": "GHO",
+        "volume": "$94"
+      },
+      {
+        "name": "uXRP",
+        "volume": "$84"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:01:00.574Z",
+  "source": "base_aave",
+  "vaultBalance": 0.18645483785859335,
+  "vaultPct": 0.00027429003076201414
+}

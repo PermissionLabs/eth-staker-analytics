@@ -1,0 +1,123 @@
+{
+  "portfolio": {
+    "address": "0x25bfa0add9b564d8e5c887a17c11c91bdbe82af2",
+    "totalValue": "$36,611",
+    "walletLifetime": "1722 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.4900",
+        "amount": "0.0084",
+        "usdValue": "$26.43"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001004",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$36,585"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x25bfa0add9b564d8e5c887a17c11c91bdbe82af2",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$36K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x487a…38a7",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x8363…12f5",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xbd81…e6de",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x7d8b…4466",
+        "volume": "$9K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xc8f4…8a54",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x8659…c1ce",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x59a5…06e8",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xfd74…06e1",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4c60…68cd",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$124K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$24K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$17K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$9K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:52:24.001Z",
+  "source": "lido_steth",
+  "vaultBalance": 10.086036166317086,
+  "vaultPct": 0.0007573386939115507
+}

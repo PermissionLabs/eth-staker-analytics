@@ -1,0 +1,314 @@
+{
+  "portfolio": {
+    "address": "0x2d03effe881ec03af0c6319785bdd66a27915aa6",
+    "totalValue": "$32,284",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4691",
+        "amount": "3,905.7313",
+        "usdValue": "$1,832.15"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6395",
+        "amount": "229.2107",
+        "usdValue": "$1,292.64"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.4180",
+        "amount": "529.8023",
+        "usdValue": "$1,281.08"
+      },
+      {
+        "symbol": "ADA(Binance-Peg)",
+        "chain": "bsc",
+        "price": "$0.4327",
+        "amount": "1,321.8279",
+        "usdValue": "$571.90"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5948",
+        "amount": "925.6826",
+        "usdValue": "$550.58"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6789",
+        "amount": "695.2040",
+        "usdValue": "$471.96"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "arb",
+        "price": "$5.6537",
+        "amount": "74.2724",
+        "usdValue": "$419.92"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2391",
+        "amount": "1,241.5844",
+        "usdValue": "$296.86"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.4320",
+        "amount": "86.3716",
+        "usdValue": "$210.06"
+      },
+      {
+        "symbol": "IMX",
+        "chain": "eth",
+        "price": "$0.2926",
+        "amount": "364.1288",
+        "usdValue": "$106.54"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,126.0500",
+        "amount": "0.0307",
+        "usdValue": "$96.09"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2236",
+        "amount": "66.4228",
+        "usdValue": "$81.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.0500",
+        "amount": "0.0084",
+        "usdValue": "$26.17"
+      },
+      {
+        "symbol": "AGI",
+        "chain": "eth",
+        "price": "$0.0172",
+        "amount": "1,197.0018",
+        "usdValue": "$20.63"
+      },
+      {
+        "symbol": "SPEC",
+        "chain": "eth",
+        "price": "$0.1622",
+        "amount": "69.3503",
+        "usdValue": "$11.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.0500",
+        "amount": "0.0035",
+        "usdValue": "$11.02"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$16,384"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$4,048"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVNT",
+        "usdValue": "$3,186"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$914"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$230"
+      },
+      {
+        "protocol": "Lombard",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$217"
+      },
+      {
+        "protocol": "mellow",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BARD",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "Equilibria",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EQB",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "OP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2d03effe881ec03af0c6319785bdd66a27915aa6",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$278K"
+      },
+      {
+        "name": "Avantis",
+        "volume": "$188K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$121K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$108K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$86K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$81K"
+      },
+      {
+        "name": "0xe0ae…ea8d",
+        "volume": "$67K"
+      },
+      {
+        "name": "0xb2d8…6ec2",
+        "volume": "$53K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$46K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$24K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$17K"
+      },
+      {
+        "name": "INIT Capital",
+        "volume": "$14K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$323K"
+      },
+      {
+        "name": "EURe",
+        "volume": "$134K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$111K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$92K"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$88K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$61K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$60K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$23K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$14K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "mETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$13K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:52:23.884Z",
+  "source": "base_aave",
+  "vaultBalance": 0.5000346289485229,
+  "vaultPct": 0.0007355910703715832
+}

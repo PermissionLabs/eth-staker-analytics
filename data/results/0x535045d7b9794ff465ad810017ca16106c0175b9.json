@@ -1,0 +1,75 @@
+{
+  "portfolio": {
+    "address": "0x535045d7b9794ff465ad810017ca16106c0175b9",
+    "totalValue": "$194",
+    "walletLifetime": "391 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,136.6200",
+        "amount": "0.0596",
+        "usdValue": "$187.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "6.5850",
+        "usdValue": "$6.58"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x535045d7b9794ff465ad810017ca16106c0175b9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$78K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$29K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x4c40…9da5",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x49e2…de09",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6412…90a7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x720f…edb3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$100K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$57K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$52K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:42:09.038Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.942489441428396,
+  "vaultPct": 0.0005471177543063382
+}

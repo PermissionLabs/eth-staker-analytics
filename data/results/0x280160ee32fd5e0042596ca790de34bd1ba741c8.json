@@ -1,0 +1,212 @@
+{
+  "portfolio": {
+    "address": "0x280160ee32fd5e0042596ca790de34bd1ba741c8",
+    "totalValue": "$9,638",
+    "walletLifetime": "1555 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "759.4536",
+        "usdValue": "$759.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.2500",
+        "amount": "0.0377",
+        "usdValue": "$117.60"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "6.4500",
+        "usdValue": "$6.45"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.6000",
+        "amount": "0.0018",
+        "usdValue": "$1.62"
+      },
+      {
+        "symbol": "PUMP",
+        "chain": "bsc",
+        "price": "$0.0₆3314",
+        "amount": "200,000.0000",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅986",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GOT",
+        "chain": "bsc",
+        "price": "$16.6994",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "wkeyDAO",
+        "chain": "bsc",
+        "price": "$10.1638",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CGX",
+        "chain": "bsc",
+        "price": "$0.0000525",
+        "amount": "10.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$7,819"
+      },
+      {
+        "protocol": "PancakeSwap",
+        "chain": "bsc",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "Cake",
+        "usdValue": "$908"
+      },
+      {
+        "protocol": "DeFi Franc",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MON",
+        "usdValue": "$25"
+      },
+      {
+        "protocol": "GrizzlyFi",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GHNY",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x280160ee32fd5e0042596ca790de34bd1ba741c8",
+    "topProtocols": [
+      {
+        "name": "GrizzlyFi",
+        "volume": "$120K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$36K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$17K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x87cb…1f56",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1022…2630",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$9971"
+      },
+      {
+        "name": "inch",
+        "volume": "$813B"
+      },
+      {
+        "name": "inance",
+        "volume": "$410"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$253B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$74K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$34K"
+      },
+      {
+        "name": "GHNY",
+        "volume": "$34K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$33K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$32K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$3K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$36B"
+      },
+      {
+        "name": "SW",
+        "volume": "$7"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:14:40.128Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.2546413130955343,
+  "vaultPct": 0.00016929615154476476
+}

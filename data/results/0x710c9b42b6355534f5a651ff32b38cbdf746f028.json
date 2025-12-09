@@ -1,0 +1,312 @@
+{
+  "portfolio": {
+    "address": "0x710c9b42b6355534f5a651ff32b38cbdf746f028",
+    "totalValue": "$833",
+    "walletLifetime": "1422 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.2200",
+        "amount": "0.0112",
+        "usdValue": "$35.20"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.2000",
+        "amount": "0.0340",
+        "usdValue": "$30.47"
+      },
+      {
+        "symbol": "USDT(celer)",
+        "chain": "astar",
+        "price": "$1.0000",
+        "amount": "4.5091",
+        "usdValue": "$4.51"
+      },
+      {
+        "symbol": "STELLA",
+        "chain": "mobm",
+        "price": "$0.0083",
+        "amount": "507.3973",
+        "usdValue": "$4.23"
+      },
+      {
+        "symbol": "NUM",
+        "chain": "bsc",
+        "price": "$0.0069",
+        "amount": "276.7695",
+        "usdValue": "$1.92"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "162.8482",
+        "usdValue": "$1.64"
+      },
+      {
+        "symbol": "MOVR",
+        "chain": "movr",
+        "price": "$3.0930",
+        "amount": "0.3455",
+        "usdValue": "$1.07"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0345",
+        "amount": "27.1086",
+        "usdValue": "$0.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.2200",
+        "amount": "0.00007791",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2077",
+        "amount": "0.1326",
+        "usdValue": "$0.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$566"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$95"
+      },
+      {
+        "protocol": "StellaSwap V4",
+        "chain": "mobm",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "STELLA",
+        "usdValue": "$50"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MAMO",
+        "usdValue": "$37"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "movr",
+        "category": "Lending",
+        "label": "Staked",
+        "token": "MFAM",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Planet Finance",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "GAMMA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "QiDao",
+        "chain": "mobm",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "STELLA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "mobm",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "GLMR",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Beamswap",
+        "chain": "mobm",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "GLINT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "TokensFarm",
+        "chain": "bsc",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "BUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "StarSwap",
+        "chain": "astar",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "STAR (StarSwap)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x710c9b42b6355534f5a651ff32b38cbdf746f028",
+    "topProtocols": [
+      {
+        "name": "Biswap",
+        "volume": "$74K"
+      },
+      {
+        "name": "Solarbeam",
+        "volume": "$31K"
+      },
+      {
+        "name": "StellaSwap",
+        "volume": "$25K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$24K"
+      },
+      {
+        "name": "Zenlink",
+        "volume": "$23K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$16K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$10K"
+      },
+      {
+        "name": "Green Planet",
+        "volume": "$8K"
+      },
+      {
+        "name": "Planet Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf391…28ce",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xacc1…077f",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xb635…4756",
+        "volume": "$3K"
+      },
+      {
+        "name": "Nomiswap DEX",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd2a8…79a7",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BSW",
+        "volume": "$61K"
+      },
+      {
+        "name": "MOVR",
+        "volume": "$35K"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$28K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$28K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$22K"
+      },
+      {
+        "name": "xcKSM",
+        "volume": "$21K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$19K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "KA4",
+        "volume": "$7K"
+      },
+      {
+        "name": "STELLA",
+        "volume": "$6K"
+      },
+      {
+        "name": "madUSDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "xcKINT",
+        "volume": "$6K"
+      },
+      {
+        "name": "WGLMR",
+        "volume": "$5K"
+      },
+      {
+        "name": "ASTR",
+        "volume": "$5K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "QUIDD",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:12:44.957Z",
+  "source": "moonwell",
+  "vaultBalance": 0.17687594619612218,
+  "vaultPct": 0.003208923453962041
+}

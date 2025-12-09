@@ -1,0 +1,224 @@
+{
+  "portfolio": {
+    "address": "0x0af859928fbc3d642b9c664e33ee3a953a02d593",
+    "totalValue": "$770",
+    "walletLifetime": "435 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,118.8300",
+        "amount": "0.0183",
+        "usdValue": "$57.01"
+      },
+      {
+        "symbol": "G",
+        "chain": "gravity",
+        "price": "$0.0050",
+        "amount": "88.8684",
+        "usdValue": "$0.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.8300",
+        "amount": "0.0001",
+        "usdValue": "$0.38"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6600",
+        "amount": "0.0280",
+        "usdValue": "$0.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,118.6100",
+        "amount": "0.00007999",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "abs",
+        "price": "$3,119.6800",
+        "amount": "0.00007546",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$904.5000",
+        "amount": "0.0003",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$904.4200",
+        "amount": "0.0002",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1243",
+        "amount": "0.6446",
+        "usdValue": "$0.08"
+      },
+      {
+        "symbol": "ZORA",
+        "chain": "base",
+        "price": "$0.0492",
+        "amount": "1.4179",
+        "usdValue": "$0.07"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$709"
+      },
+      {
+        "protocol": "ZORA",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0af859928fbc3d642b9c664e33ee3a953a02d593",
+    "topProtocols": [
+      {
+        "name": "Relay",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$767"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$635"
+      },
+      {
+        "name": "0x3373…c204",
+        "volume": "$596"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$570"
+      },
+      {
+        "name": "OKX",
+        "volume": "$537"
+      },
+      {
+        "name": "Velora",
+        "volume": "$502"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$403"
+      },
+      {
+        "name": "Fly",
+        "volume": "$395"
+      },
+      {
+        "name": "0x43b7…2e67",
+        "volume": "$389"
+      },
+      {
+        "name": "0xd4e3…82d1",
+        "volume": "$350"
+      },
+      {
+        "name": "0xfdce…cd2b",
+        "volume": "$61"
+      },
+      {
+        "name": "0xa127…9314",
+        "volume": "$61"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$60"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$17K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$120"
+      },
+      {
+        "name": "USDT",
+        "volume": "$115"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$96"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$22"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$20"
+      },
+      {
+        "name": "TOSHI",
+        "volume": "$19"
+      },
+      {
+        "name": "SAHARA",
+        "volume": "$10"
+      },
+      {
+        "name": "POL",
+        "volume": "$10"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$9B"
+      },
+      {
+        "name": "NB",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:18:28.742Z",
+  "source": "base_aave",
+  "vaultBalance": 0.574,
+  "vaultPct": 0.0008444000674136431
+}

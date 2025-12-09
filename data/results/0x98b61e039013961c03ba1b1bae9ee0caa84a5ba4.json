@@ -1,0 +1,278 @@
+{
+  "portfolio": {
+    "address": "0x98b61e039013961c03ba1b1bae9ee0caa84a5ba4",
+    "totalValue": "$51,102",
+    "walletLifetime": "2269 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.9946",
+        "amount": "1,538.2970",
+        "usdValue": "$21,527.80"
+      },
+      {
+        "symbol": "MKR",
+        "chain": "eth",
+        "price": "$1,280.8900",
+        "amount": "2.0000",
+        "usdValue": "$2,561.78"
+      },
+      {
+        "symbol": "RPL",
+        "chain": "eth",
+        "price": "$2.4515",
+        "amount": "230.4088",
+        "usdValue": "$564.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.1300",
+        "amount": "0.1461",
+        "usdValue": "$459.27"
+      },
+      {
+        "symbol": "ZRX",
+        "chain": "eth",
+        "price": "$0.1424",
+        "amount": "2,580.5959",
+        "usdValue": "$367.60"
+      },
+      {
+        "symbol": "OCEAN",
+        "chain": "eth",
+        "price": "$0.2149",
+        "amount": "893.0000",
+        "usdValue": "$191.91"
+      },
+      {
+        "symbol": "XRT",
+        "chain": "eth",
+        "price": "$0.8489",
+        "amount": "124.7400",
+        "usdValue": "$105.89"
+      },
+      {
+        "symbol": "MIST",
+        "chain": "eth",
+        "price": "$0.5155",
+        "amount": "145.0000",
+        "usdValue": "$74.75"
+      },
+      {
+        "symbol": "ENJ",
+        "chain": "eth",
+        "price": "$0.0413",
+        "amount": "1,152.9510",
+        "usdValue": "$47.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,144.4200",
+        "amount": "0.0128",
+        "usdValue": "$40.18"
+      },
+      {
+        "symbol": "RING (Darwinia)",
+        "chain": "eth",
+        "price": "$0.0008",
+        "amount": "46,508.4992",
+        "usdValue": "$37.53"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "eth",
+        "price": "$0.0467",
+        "amount": "705.2743",
+        "usdValue": "$32.94"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$25,072"
+      },
+      {
+        "protocol": "Aave V1",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DAI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Unagii",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KNC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x98b61e039013961c03ba1b1bae9ee0caa84a5ba4",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$273K"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$70K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$65K"
+      },
+      {
+        "name": "0x22b0…bfeb",
+        "volume": "$36K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$34K"
+      },
+      {
+        "name": "0x77d5…031b",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x0fa0…1408",
+        "volume": "$23K"
+      },
+      {
+        "name": "dYdX",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x76a5…cb6b",
+        "volume": "$17K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xecfe…1f97",
+        "volume": "$11K"
+      },
+      {
+        "name": "Hotbit",
+        "volume": "$10K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xc7f8…f9b9",
+        "volume": "$8K"
+      },
+      {
+        "name": "The Graph",
+        "volume": "$8K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xacbe…55fd",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xecf0…aea3",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$643K"
+      },
+      {
+        "name": "MKR",
+        "volume": "$80K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "RPL",
+        "volume": "$23K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "XOR",
+        "volume": "$12K"
+      },
+      {
+        "name": "MIST",
+        "volume": "$12K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$10K"
+      },
+      {
+        "name": "KKNC",
+        "volume": "$10K"
+      },
+      {
+        "name": "KSNX",
+        "volume": "$8K"
+      },
+      {
+        "name": "NFY",
+        "volume": "$8K"
+      },
+      {
+        "name": "ZRX",
+        "volume": "$7K"
+      },
+      {
+        "name": "OP",
+        "volume": "$6K"
+      },
+      {
+        "name": "LPL",
+        "volume": "$5K"
+      },
+      {
+        "name": "XRT",
+        "volume": "$5K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$3K"
+      },
+      {
+        "name": "RLC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:57:33.996Z",
+  "source": "lido_steth",
+  "vaultBalance": 7.76,
+  "vaultPct": 0.0005826816568812285
+}

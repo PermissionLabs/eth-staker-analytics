@@ -1,0 +1,174 @@
+{
+  "portfolio": {
+    "address": "0xbd87f05ae586f92668618042f247d8f4f580db6a",
+    "totalValue": "$23,295",
+    "walletLifetime": "1642 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,754.0800",
+        "amount": "0.1814",
+        "usdValue": "$16,459.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,129.7800",
+        "amount": "0.0181",
+        "usdValue": "$56.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "world",
+        "price": "$3,129.7800",
+        "amount": "0.0181",
+        "usdValue": "$56.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.9300",
+        "amount": "0.0084",
+        "usdValue": "$26.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.7800",
+        "amount": "0.0068",
+        "usdValue": "$21.29"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "17.8907",
+        "usdValue": "$17.89"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$3,837"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "OP",
+        "usdValue": "$1,378"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$794"
+      },
+      {
+        "protocol": "Velodrome V2",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "VELO(v2)",
+        "usdValue": "$523"
+      },
+      {
+        "protocol": "Cypher",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "CYPR",
+        "usdValue": "$64"
+      },
+      {
+        "protocol": "Superfluid",
+        "chain": "op",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "OP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "QUICK(old)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "MagicSwap",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "MAGIC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Synthetix Leverage",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "sUSD",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbd87f05ae586f92668618042f247d8f4f580db6a",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T00:12:38.999Z",
+  "source": "moonwell",
+  "vaultBalance": 0.2483308260752436,
+  "vaultPct": 0.00450527405943052
+}

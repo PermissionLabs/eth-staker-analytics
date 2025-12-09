@@ -1,0 +1,137 @@
+{
+  "portfolio": {
+    "address": "0x7ab694aaac0c09f41e42d5a374eef13a931c0b90",
+    "totalValue": "$8,804",
+    "walletLifetime": "369 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,143.2900",
+        "amount": "0.0484",
+        "usdValue": "$152.18"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,281.4700",
+        "amount": "0.0005",
+        "usdValue": "$43.92"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "32.7468",
+        "usdValue": "$32.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,143.2900",
+        "amount": "0.0090",
+        "usdValue": "$28.15"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "4.7683",
+        "usdValue": "$4.77"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$7,010"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,444"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$56"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$32"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7ab694aaac0c09f41e42d5a374eef13a931c0b90",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$31K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x8b75…a803",
+        "volume": "$7K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$960"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$129"
+      },
+      {
+        "name": "0x851c…b233",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$30K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$26K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:53:00.247Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.6221623297289709,
+  "vaultPct": 0.00011568301719719099
+}

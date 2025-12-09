@@ -1,0 +1,209 @@
+{
+  "portfolio": {
+    "address": "0x12655b8507830c3e860353ff207267170c201b6e",
+    "totalValue": "$1,233",
+    "walletLifetime": "829 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.0200",
+        "amount": "0.1192",
+        "usdValue": "$372.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,123.4600",
+        "amount": "0.0115",
+        "usdValue": "$35.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.1400",
+        "amount": "0.0077",
+        "usdValue": "$24.05"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.9000",
+        "amount": "0.0198",
+        "usdValue": "$17.76"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "10.5118",
+        "usdValue": "$1.30"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$780"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Zearn",
+        "chain": "zeta",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ZETA",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x12655b8507830c3e860353ff207267170c201b6e",
+    "topProtocols": [
+      {
+        "name": "0x703c…3c79",
+        "volume": "$40K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$27K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$19K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$19K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$8K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xbf39…3f11",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x1d49…52c2",
+        "volume": "$6K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$620"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$497"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$335"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$313"
+      },
+      {
+        "name": "0x5628…84e6",
+        "volume": "$300"
+      },
+      {
+        "name": "0x6237…459d",
+        "volume": "$156"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$86K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$5K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ALT",
+        "volume": "$562"
+      },
+      {
+        "name": "USDT",
+        "volume": "$148"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$46"
+      },
+      {
+        "name": "DMAIL",
+        "volume": "$23"
+      },
+      {
+        "name": "ZKPEPE",
+        "volume": "$10"
+      },
+      {
+        "name": "POL",
+        "volume": "$6B"
+      },
+      {
+        "name": "NB",
+        "volume": "$5"
+      },
+      {
+        "name": "SAHARA",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:26:40.053Z",
+  "source": "moonwell",
+  "vaultBalance": 0.2448672884324449,
+  "vaultPct": 0.00444243777550001
+}

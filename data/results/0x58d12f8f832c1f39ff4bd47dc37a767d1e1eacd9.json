@@ -1,0 +1,234 @@
+{
+  "portfolio": {
+    "address": "0x58d12f8f832c1f39ff4bd47dc37a767d1e1eacd9",
+    "totalValue": "$13,854",
+    "walletLifetime": "1104 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$89,877.2900",
+        "amount": "0.0598",
+        "usdValue": "$5,377.39"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "1,923.1971",
+        "usdValue": "$1,923.20"
+      },
+      {
+        "symbol": "BBTC",
+        "chain": "eth",
+        "price": "$89,836.2300",
+        "amount": "0.0036",
+        "usdValue": "$326.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.3300",
+        "amount": "0.0121",
+        "usdValue": "$37.49"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$2,150"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "PENDLE",
+        "usdValue": "$2,048"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$1,963"
+      },
+      {
+        "protocol": "GamerHash",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GHX",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Maple",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SYRUP",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GLend",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "MAGIC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "King Protocol",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x58d12f8f832c1f39ff4bd47dc37a767d1e1eacd9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$19K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$13K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "Maple",
+        "volume": "$12K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$10K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x9220…e802",
+        "volume": "$5K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$5K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$5K"
+      },
+      {
+        "name": "Wormhole",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xbee3…a000",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$41K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$36K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$13K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$10K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$10K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "SOL",
+        "volume": "$3K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$3K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:55:36.927Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.6357311214927291,
+  "vaultPct": 0.007090684054293289
+}

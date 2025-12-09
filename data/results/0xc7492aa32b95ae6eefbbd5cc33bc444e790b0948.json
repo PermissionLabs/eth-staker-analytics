@@ -1,0 +1,216 @@
+{
+  "portfolio": {
+    "address": "0xc7492aa32b95ae6eefbbd5cc33bc444e790b0948",
+    "totalValue": "$655",
+    "walletLifetime": "1574 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.5500",
+        "amount": "0.0291",
+        "usdValue": "$91.33"
+      },
+      {
+        "symbol": "MONS",
+        "chain": "bsc",
+        "price": "$0.0036",
+        "amount": "1,567.5000",
+        "usdValue": "$5.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.5500",
+        "amount": "0.0010",
+        "usdValue": "$3.02"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.9000",
+        "amount": "0.0015",
+        "usdValue": "$1.39"
+      },
+      {
+        "symbol": "SPELL",
+        "chain": "eth",
+        "price": "$0.0003",
+        "amount": "3,723.8998",
+        "usdValue": "$0.99"
+      },
+      {
+        "symbol": "CAT",
+        "chain": "bsc",
+        "price": "$0.0₅3407",
+        "amount": "248,507.9756",
+        "usdValue": "$0.85"
+      },
+      {
+        "symbol": "MONKY",
+        "chain": "bsc",
+        "price": "$0.0₆4033",
+        "amount": "1,217,293.2736",
+        "usdValue": "$0.49"
+      },
+      {
+        "symbol": "FLOKI(old)",
+        "chain": "bsc",
+        "price": "$0.0₆3099",
+        "amount": "1,364,717.8068",
+        "usdValue": "$0.42"
+      },
+      {
+        "symbol": "archai",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "142.5972",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "101.3300",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$549"
+      },
+      {
+        "protocol": "DeFi Kingdoms",
+        "chain": "dfk",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "xJEWEL",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc7492aa32b95ae6eefbbd5cc33bc444e790b0948",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$59K"
+      },
+      {
+        "name": "0x11e2…bb22",
+        "volume": "$38K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$14K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$13K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x2541…2b74",
+        "volume": "$8K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$6K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xa359…19df",
+        "volume": "$3K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0173…ca28",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8a4a…abbc",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$100K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$31K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$17K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$8K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$5K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$5K"
+      },
+      {
+        "name": "FODL",
+        "volume": "$4K"
+      },
+      {
+        "name": "MONS",
+        "volume": "$3K"
+      },
+      {
+        "name": "BTCST",
+        "volume": "$3K"
+      },
+      {
+        "name": "BRETT",
+        "volume": "$2K"
+      },
+      {
+        "name": "KSOL",
+        "volume": "$1K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$805"
+      },
+      {
+        "name": "FLOKI",
+        "volume": "$688"
+      },
+      {
+        "name": "LINK",
+        "volume": "$468"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:19:27.658Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.3600000000000008,
+  "vaultPct": 0.00006693733162715078
+}

@@ -1,0 +1,162 @@
+{
+  "portfolio": {
+    "address": "0xc5fd654ba7c9c9d6b5710fc347c1306e855ec582",
+    "totalValue": "$20,623",
+    "walletLifetime": "1766 days",
+    "tokens": [
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2003",
+        "amount": "7,548.8873",
+        "usdValue": "$9,060.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.9500",
+        "amount": "0.1527",
+        "usdValue": "$475.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,116.9500",
+        "amount": "0.0192",
+        "usdValue": "$59.84"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3158",
+        "amount": "101.2133",
+        "usdValue": "$31.96"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$9,357"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$1,380"
+      },
+      {
+        "protocol": "Ethos",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$225"
+      },
+      {
+        "protocol": "CoW Swap",
+        "chain": "xdai",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "COW",
+        "usdValue": "$15"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc5fd654ba7c9c9d6b5710fc347c1306e855ec582",
+    "topProtocols": [
+      {
+        "name": "Relay",
+        "volume": "$1M"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$163K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$123K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$112K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$94K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$62K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$49K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$46K"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$31K"
+      },
+      {
+        "name": "0xc106…7741",
+        "volume": "$23K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xca0f…9c42",
+        "volume": "$18K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$184K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$173K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$79K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$51K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$33K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$14K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:33:49.063Z",
+  "source": "base_aave",
+  "vaultBalance": 1.7152497005954659,
+  "vaultPct": 0.0025232699700593075
+}

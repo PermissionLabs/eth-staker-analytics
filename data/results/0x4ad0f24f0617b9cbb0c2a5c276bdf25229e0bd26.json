@@ -1,0 +1,169 @@
+{
+  "portfolio": {
+    "address": "0x4ad0f24f0617b9cbb0c2a5c276bdf25229e0bd26",
+    "totalValue": "$2,141,146",
+    "walletLifetime": "811 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.0000",
+        "amount": "0.5700",
+        "usdValue": "$1,783.05"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.4519",
+        "usdValue": "$0.45"
+      },
+      {
+        "symbol": "PUMP",
+        "chain": "bsc",
+        "price": "$0.0₆3319",
+        "amount": "200,000.0000",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9884",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.9888",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7907",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WATER",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,638,451"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$500,805"
+      },
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$106"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4ad0f24f0617b9cbb0c2a5c276bdf25229e0bd26",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$4M"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x859f…a801",
+        "volume": "$2M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2M"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$917K"
+      },
+      {
+        "name": "Tokenlon",
+        "volume": "$73K"
+      },
+      {
+        "name": "0x8cb4…34da",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xc830…ce1e",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1c2c…c146",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$14M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$367K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$9K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:18:03.737Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 160.00002151209586,
+  "vaultPct": 0.02974992916751776
+}

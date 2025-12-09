@@ -1,0 +1,133 @@
+{
+  "portfolio": {
+    "address": "0xd166de8c01665221914924fd01218c18fe794ce2",
+    "totalValue": "$2,386",
+    "walletLifetime": "62 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "77.8735",
+        "usdValue": "$77.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.1400",
+        "amount": "0.0156",
+        "usdValue": "$49.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,144.3700",
+        "amount": "0.0008",
+        "usdValue": "$2.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,144.1400",
+        "amount": "0.0008",
+        "usdValue": "$2.50"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,387"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$866"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd166de8c01665221914924fd01218c18fe794ce2",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5a7b…efce",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xd166…4ce2",
+        "volume": "$712"
+      },
+      {
+        "name": "0x9653…2541",
+        "volume": "$457B"
+      },
+      {
+        "name": "inance",
+        "volume": "$93"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$9K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:02:07.781Z",
+  "source": "base_aave",
+  "vaultBalance": 0.44,
+  "vaultPct": 0.0006472753130000051
+}

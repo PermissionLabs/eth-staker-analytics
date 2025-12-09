@@ -1,0 +1,97 @@
+{
+  "portfolio": {
+    "address": "0x3626b6bd6cd2f40c3d330f05212a8d95dc0fa7ff",
+    "totalValue": "$163",
+    "walletLifetime": "603 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.1800",
+        "amount": "0.0519",
+        "usdValue": "$163.25"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0275",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7947",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x3626b6bd6cd2f40c3d330f05212a8d95dc0fa7ff",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$213K"
+      },
+      {
+        "name": "0x1616…44a1",
+        "volume": "$176K"
+      },
+      {
+        "name": "0xfcda…e548",
+        "volume": "$46K"
+      },
+      {
+        "name": "0xd4dc…d93f",
+        "volume": "$10K"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$602"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$352K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$74K"
+      },
+      {
+        "name": "XIN",
+        "volume": "$18K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:47:18.818Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 99.15478867519907,
+  "vaultPct": 0.018436547144366218
+}

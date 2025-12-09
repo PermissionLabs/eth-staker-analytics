@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0x5fb5972983a4d9dad9b214371751c4f46f04de40",
+    "totalValue": "$6,884",
+    "walletLifetime": "1036 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "20.6567",
+        "usdValue": "$20.66"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,126.5800",
+        "amount": "0.0037",
+        "usdValue": "$11.63"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "9.3644",
+        "usdValue": "$9.37"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,127.9600",
+        "amount": "0.0013",
+        "usdValue": "$4.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.5800",
+        "amount": "0.0008",
+        "usdValue": "$2.48"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.0000",
+        "amount": "0.0012",
+        "usdValue": "$1.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.5800",
+        "amount": "0.00006646",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "MTV",
+        "chain": "bsc",
+        "price": "$0.0003",
+        "amount": "100.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "币安午餐",
+        "chain": "bsc",
+        "price": "$0.0061",
+        "amount": "0.0030",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "8,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$5,840"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$994"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5fb5972983a4d9dad9b214371751c4f46f04de40",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$36K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$20K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x93f3…fb05",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5fb5…de40",
+        "volume": "$874B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$701"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$624"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$64K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$9K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KBNB",
+        "volume": "$40"
+      },
+      {
+        "name": "WETH",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:06:20.472Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.2439983149660636,
+  "vaultPct": 0.00023130535486805544
+}

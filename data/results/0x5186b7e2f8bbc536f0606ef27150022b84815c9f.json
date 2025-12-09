@@ -1,0 +1,116 @@
+{
+  "portfolio": {
+    "address": "0x5186b7e2f8bbc536f0606ef27150022b84815c9f",
+    "totalValue": "$907",
+    "walletLifetime": "27 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "367.7823",
+        "usdValue": "$367.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,110.3000",
+        "amount": "0.1000",
+        "usdValue": "$310.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.5800",
+        "amount": "0.0728",
+        "usdValue": "$226.41"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.7000",
+        "amount": "0.0019",
+        "usdValue": "$1.71"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0272",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x5186b7e2f8bbc536f0606ef27150022b84815c9f",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$591B"
+      },
+      {
+        "name": "inance DEX",
+        "volume": "$468B"
+      },
+      {
+        "name": "inance",
+        "volume": "$468"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$468B"
+      },
+      {
+        "name": "aple",
+        "volume": "$100"
+      },
+      {
+        "name": "0x758b…3075",
+        "volume": "$2"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6ad7…f848",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$936"
+      },
+      {
+        "name": "NB",
+        "volume": "$2M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:42:30.129Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.19865410823604657,
+  "vaultPct": 0.00003693715533914479
+}

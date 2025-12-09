@@ -1,0 +1,240 @@
+{
+  "portfolio": {
+    "address": "0x05e727055d654b0733230d833c70ce041a3181dd",
+    "totalValue": "$463",
+    "walletLifetime": "712 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,145.3300",
+        "amount": "0.0262",
+        "usdValue": "$82.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,145.3300",
+        "amount": "0.0048",
+        "usdValue": "$15.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,145.3300",
+        "amount": "0.0032",
+        "usdValue": "$10.04"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.5000",
+        "amount": "0.0091",
+        "usdValue": "$8.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,145.3300",
+        "amount": "0.0014",
+        "usdValue": "$4.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,145.3300",
+        "amount": "0.0007",
+        "usdValue": "$2.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,145.7000",
+        "amount": "0.0006",
+        "usdValue": "$1.87"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1241",
+        "amount": "10.3597",
+        "usdValue": "$1.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,145.3300",
+        "amount": "0.0003",
+        "usdValue": "$1.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,145.3300",
+        "amount": "0.0001",
+        "usdValue": "$0.40"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "linea",
+        "price": "$3,145.3300",
+        "amount": "0.0001",
+        "usdValue": "$0.37"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,145.7000",
+        "amount": "0.0001",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "0.3224",
+        "usdValue": "$0.32"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0970",
+        "amount": "2.7225",
+        "usdValue": "$0.26"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$334"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x05e727055d654b0733230d833c70ce041a3181dd",
+    "topProtocols": [
+      {
+        "name": "Relay",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x7788…c9c1",
+        "volume": "$2K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$503"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$460"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$405"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$359"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$323"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$185"
+      },
+      {
+        "name": "0x6346…b9c4",
+        "volume": "$174"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$162"
+      },
+      {
+        "name": "0x2f2a…85a7",
+        "volume": "$152"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$478"
+      },
+      {
+        "name": "HYPER",
+        "volume": "$81"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:00:19.638Z",
+  "source": "base_aave",
+  "vaultBalance": 0.10601156259810801,
+  "vaultPct": 0.00015595151673252272
+}

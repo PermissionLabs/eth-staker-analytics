@@ -1,0 +1,117 @@
+{
+  "portfolio": {
+    "address": "0x5ab3c7d178575a45c0d1e2059ef8458f8ce6d187",
+    "totalValue": "$111,953",
+    "walletLifetime": "315 days",
+    "tokens": [
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4819",
+        "amount": "11,293.4281",
+        "usdValue": "$5,442.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,145.6400",
+        "amount": "0.1559",
+        "usdValue": "$490.41"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0015",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7947",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$106,020"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5ab3c7d178575a45c0d1e2059ef8458f8ce6d187",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$248K"
+      },
+      {
+        "name": "0x58ba…0ee9",
+        "volume": "$127K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x94be…fc13",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x068f…bb14",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6dc3…b21e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$356K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$108K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$27K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$13K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:54:10.089Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 55.920285526606726,
+  "vaultPct": 0.010397651936053959
+}

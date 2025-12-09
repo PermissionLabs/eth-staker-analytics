@@ -1,0 +1,196 @@
+{
+  "portfolio": {
+    "address": "0xd65b6186dacce21d3fb748cc99d8918c072fba7a",
+    "totalValue": "$16,387",
+    "walletLifetime": "533 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,140.2000",
+        "amount": "0.0507",
+        "usdValue": "$159.15"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "0.0110",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "0.0828",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "CORX",
+        "chain": "bsc",
+        "price": "$0.0076",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6510",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7942",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "14,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "366.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$16,228"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd65b6186dacce21d3fb748cc99d8918c072fba7a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$572K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$255K"
+      },
+      {
+        "name": "0x8b05…bd75",
+        "volume": "$31K"
+      },
+      {
+        "name": "0xdf39…c425",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xb8ba…d7ef",
+        "volume": "$15K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x65a2…505c",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4ea9…c413",
+        "volume": "$304"
+      },
+      {
+        "name": "0x0166…49ee",
+        "volume": "$300"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$17"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$6"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5"
+      },
+      {
+        "name": "0x33fd…f912",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$551K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$469K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$76K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$27K"
+      },
+      {
+        "name": "POL",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$2K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:55:36.769Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 13.172747475961875,
+  "vaultPct": 0.0024493015728865868
+}

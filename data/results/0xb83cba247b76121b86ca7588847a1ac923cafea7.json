@@ -1,0 +1,131 @@
+{
+  "portfolio": {
+    "address": "0xb83cba247b76121b86ca7588847a1ac923cafea7",
+    "totalValue": "$69,510",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6769",
+        "amount": "1,740.8701",
+        "usdValue": "$1,178.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,110.3100",
+        "amount": "0.0537",
+        "usdValue": "$166.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.3100",
+        "amount": "0.0009",
+        "usdValue": "$2.85"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$68,161"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb83cba247b76121b86ca7588847a1ac923cafea7",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$375K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$311K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$92K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$82K"
+      },
+      {
+        "name": "0x2e5f…7f5d",
+        "volume": "$64K"
+      },
+      {
+        "name": "0xde19…a544",
+        "volume": "$24K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x0000…c91e",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x6a54…ce96",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x0e2e…8d90",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xde18…a544",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc773…5469",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3be1…77f2",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfaf8…db84",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5a6f…7a01",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$457K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$343K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$302K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$70K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:13:08.489Z",
+  "source": "base_aave",
+  "vaultBalance": 31.29934869653981,
+  "vaultPct": 0.04604385391874797
+}

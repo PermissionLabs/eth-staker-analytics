@@ -1,0 +1,239 @@
+{
+  "portfolio": {
+    "address": "0xd891503ee7d438351297cfebaeaef40e05a71737",
+    "totalValue": "$15,112",
+    "walletLifetime": "1189 days",
+    "tokens": [
+      {
+        "symbol": "NOX",
+        "chain": "eth",
+        "price": "$0.0028",
+        "amount": "2,000,116.4014",
+        "usdValue": "$5,641.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.2300",
+        "amount": "0.0177",
+        "usdValue": "$55.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,119.2300",
+        "amount": "0.0002",
+        "usdValue": "$0.71"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "0.1363",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "MOVR",
+        "chain": "movr",
+        "price": "$3.0430",
+        "amount": "0.0051",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0341",
+        "amount": "0.2940",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "SAMA",
+        "chain": "eth",
+        "price": "$0.0020",
+        "amount": "1.0600",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7876",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "yRise",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "0.0001",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "XHNY",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "4,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$9,415"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd891503ee7d438351297cfebaeaef40e05a71737",
+    "topProtocols": [
+      {
+        "name": "Raresama",
+        "volume": "$144K"
+      },
+      {
+        "name": "0x6f23…2576",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x3cee…adfa",
+        "volume": "$46K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$37K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$17K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$14K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xfb50…e736",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x10d9…b26d",
+        "volume": "$5K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xbee3…a000",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xbc56…d787",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x56f5…6e2e",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xc35d…0d42",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x66f6…7561",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "POOP",
+        "volume": "$206K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$63K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$53K"
+      },
+      {
+        "name": "LYXe",
+        "volume": "$18K"
+      },
+      {
+        "name": "AGC",
+        "volume": "$15K"
+      },
+      {
+        "name": "NOX",
+        "volume": "$14K"
+      },
+      {
+        "name": "VXV",
+        "volume": "$13K"
+      },
+      {
+        "name": "OCEAN",
+        "volume": "$12K"
+      },
+      {
+        "name": "LABS",
+        "volume": "$9K"
+      },
+      {
+        "name": "UBT",
+        "volume": "$8K"
+      },
+      {
+        "name": "SAMA",
+        "volume": "$4K"
+      },
+      {
+        "name": "RECORD",
+        "volume": "$3K"
+      },
+      {
+        "name": "KILT",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZLURP",
+        "volume": "$269"
+      },
+      {
+        "name": "XHNY",
+        "volume": "$9"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$6"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:56:51.721Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 8.084480914230745,
+  "vaultPct": 0.0015032043888589812
+}

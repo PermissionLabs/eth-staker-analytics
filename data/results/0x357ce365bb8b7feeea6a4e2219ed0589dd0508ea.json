@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0x357ce365bb8b7feeea6a4e2219ed0589dd0508ea",
+    "totalValue": "$79,189",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8045",
+        "amount": "383.1695",
+        "usdValue": "$5,289.45"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2133",
+        "amount": "5,615.8866",
+        "usdValue": "$1,197.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.8800",
+        "amount": "0.3671",
+        "usdValue": "$1,148.62"
+      },
+      {
+        "symbol": "BLUR",
+        "chain": "eth",
+        "price": "$0.0352",
+        "amount": "5,690.5249",
+        "usdValue": "$200.31"
+      },
+      {
+        "symbol": "GMX",
+        "chain": "arb",
+        "price": "$8.8279",
+        "amount": "16.4675",
+        "usdValue": "$145.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.8800",
+        "amount": "0.0341",
+        "usdValue": "$106.69"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,128.8800",
+        "amount": "0.0267",
+        "usdValue": "$83.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.8800",
+        "amount": "0.0095",
+        "usdValue": "$29.81"
+      },
+      {
+        "symbol": "BLAST",
+        "chain": "blast",
+        "price": "$0.0009",
+        "amount": "19,717.2863",
+        "usdValue": "$17.35"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.4000",
+        "amount": "0.0179",
+        "usdValue": "$16.11"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "op",
+        "price": "$1.0000",
+        "amount": "13.7617",
+        "usdValue": "$13.76"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$49,709"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDe",
+        "usdValue": "$8,499"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$4,652"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$4,011"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$2,264"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ARB",
+        "usdValue": "$853"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "OP",
+        "usdValue": "$606"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$316"
+      },
+      {
+        "protocol": "Arbitrum Bridge",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ARB",
+        "usdValue": "$13"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "GLend",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "esTND",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x357ce365bb8b7feeea6a4e2219ed0589dd0508ea",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$122K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$98K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$63K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$56K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$17K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xd6fa…9c04",
+        "volume": "$11K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$154K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$66K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$51K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$32K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$18K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$8K"
+      },
+      {
+        "name": "OP",
+        "volume": "$7K"
+      },
+      {
+        "name": "BLUR",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:18:34.697Z",
+  "source": "lido_steth",
+  "vaultBalance": 15.456771761348797,
+  "vaultPct": 0.001160615641744549
+}

@@ -1,0 +1,176 @@
+{
+  "portfolio": {
+    "address": "0x1af3abb588b959f94b2949596c7e49749e82a45d",
+    "totalValue": "$14,742",
+    "walletLifetime": "93 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.8000",
+        "amount": "0.0073",
+        "usdValue": "$23.01"
+      },
+      {
+        "symbol": "BLACK",
+        "chain": "avax",
+        "price": "$0.0584",
+        "amount": "250.6529",
+        "usdValue": "$14.64"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6000",
+        "amount": "0.6971",
+        "usdValue": "$9.48"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "2.1602",
+        "usdValue": "$2.16"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7916",
+        "amount": "2.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$14,693"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1af3abb588b959f94b2949596c7e49749e82a45d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$81K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$17K"
+      },
+      {
+        "name": "0xa034…7687",
+        "volume": "$15K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xaa99…a839",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xeba8…4cb1",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x26d8…1324",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5a78…dec8",
+        "volume": "$2K"
+      },
+      {
+        "name": "Blackhole",
+        "volume": "$2K"
+      },
+      {
+        "name": "Pangolin",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$42"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$41"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$92K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$23K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$17K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$7K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "BLACK",
+        "volume": "$68"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:20:20.733Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 12.940835085771965,
+  "vaultPct": 0.0024061804713016227
+}

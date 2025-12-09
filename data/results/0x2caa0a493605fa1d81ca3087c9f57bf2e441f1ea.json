@@ -1,0 +1,220 @@
+{
+  "portfolio": {
+    "address": "0x2caa0a493605fa1d81ca3087c9f57bf2e441f1ea",
+    "totalValue": "$652,113",
+    "walletLifetime": "982 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.6263",
+        "amount": "17,615.0429",
+        "usdValue": "$240,028.26"
+      },
+      {
+        "symbol": "SLP",
+        "chain": "ron",
+        "price": "$0.0009",
+        "amount": "18,803,431.0000",
+        "usdValue": "$16,510.60"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "8,972.9706",
+        "usdValue": "$8,971.18"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "ron",
+        "price": "$3,102.6700",
+        "amount": "2.3119",
+        "usdValue": "$7,173.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.6700",
+        "amount": "1.1028",
+        "usdValue": "$3,421.70"
+      },
+      {
+        "symbol": "Ronke",
+        "chain": "ron",
+        "price": "$0.0002",
+        "amount": "13,256,834.8551",
+        "usdValue": "$2,070.24"
+      },
+      {
+        "symbol": "KOKU",
+        "chain": "ron",
+        "price": "$0.00003044",
+        "amount": "28,620,826.4927",
+        "usdValue": "$871.20"
+      },
+      {
+        "symbol": "COCK",
+        "chain": "ron",
+        "price": "$0.0001",
+        "amount": "3,152,796.0160",
+        "usdValue": "$374.80"
+      },
+      {
+        "symbol": "TRUNG",
+        "chain": "ron",
+        "price": "$0.0₅3003",
+        "amount": "111,416,846.8736",
+        "usdValue": "$334.59"
+      },
+      {
+        "symbol": "WRON",
+        "chain": "ron",
+        "price": "$0.1680",
+        "amount": "1,922.0000",
+        "usdValue": "$322.90"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$222,472"
+      },
+      {
+        "protocol": "Axie Infinity",
+        "chain": "ron",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AXS",
+        "usdValue": "$112,888"
+      },
+      {
+        "protocol": "Katana",
+        "chain": "ron",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$20,320"
+      },
+      {
+        "protocol": "RON Staking",
+        "chain": "ron",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RON",
+        "usdValue": "$6,080"
+      },
+      {
+        "protocol": "KAIDRO",
+        "chain": "ron",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KDR",
+        "usdValue": "$4,630"
+      },
+      {
+        "protocol": "Katana V3",
+        "chain": "ron",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,681"
+      },
+      {
+        "protocol": "CyberKongz",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "KONG",
+        "usdValue": "$1,576"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2caa0a493605fa1d81ca3087c9f57bf2e441f1ea",
+    "topProtocols": [
+      {
+        "name": "ChainLink",
+        "volume": "$241K"
+      },
+      {
+        "name": "0x6b00…a73e",
+        "volume": "$126K"
+      },
+      {
+        "name": "0x1ca8…684f",
+        "volume": "$100K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$50K"
+      },
+      {
+        "name": "CyberKongz",
+        "volume": "$27K"
+      },
+      {
+        "name": "0x4207…e083",
+        "volume": "$28"
+      },
+      {
+        "name": "0xa459…f1a1",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6b00…673e",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$461K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$49K"
+      },
+      {
+        "name": "KONG",
+        "volume": "$27K"
+      },
+      {
+        "name": "KUDS",
+        "volume": "$2"
+      },
+      {
+        "name": "WETH",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:06:54.081Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 70,
+  "vaultPct": 0.013015592260834843
+}

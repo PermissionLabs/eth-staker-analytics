@@ -1,0 +1,145 @@
+{
+  "portfolio": {
+    "address": "0xd9e010865e217322feb7b954ec3152905c43514f",
+    "totalValue": "$3,252",
+    "walletLifetime": "1342 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.9600",
+        "amount": "0.0107",
+        "usdValue": "$33.74"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7800",
+        "amount": "2.0000",
+        "usdValue": "$27.56"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1248",
+        "amount": "0.9993",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7974",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.4000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,191"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd9e010865e217322feb7b954ec3152905c43514f",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$4K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xfd7f…f74d",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$1K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$714"
+      },
+      {
+        "name": "0x7a00…29f0",
+        "volume": "$323"
+      },
+      {
+        "name": "0x5853…a912",
+        "volume": "$55K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$47"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc856…9874",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$182B"
+      },
+      {
+        "name": "USD",
+        "volume": "$102B"
+      },
+      {
+        "name": "NB",
+        "volume": "$80"
+      },
+      {
+        "name": "POL",
+        "volume": "$66"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:25:09.731Z",
+  "source": "lido_steth",
+  "vaultBalance": 1,
+  "vaultPct": 0.0000750878423816016
+}

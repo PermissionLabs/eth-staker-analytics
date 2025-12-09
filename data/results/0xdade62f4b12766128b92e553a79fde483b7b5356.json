@@ -1,0 +1,255 @@
+{
+  "portfolio": {
+    "address": "0xdade62f4b12766128b92e553a79fde483b7b5356",
+    "totalValue": "$50,953",
+    "walletLifetime": "1609 days",
+    "tokens": [
+      {
+        "symbol": "SCHAP",
+        "chain": "eth",
+        "price": "$10,230.2705",
+        "amount": "0.6185",
+        "usdValue": "$6,327.40"
+      },
+      {
+        "symbol": "GNS",
+        "chain": "matic",
+        "price": "$1.4120",
+        "amount": "91.0905",
+        "usdValue": "$128.62"
+      },
+      {
+        "symbol": "DOLO",
+        "chain": "eth",
+        "price": "$0.0417",
+        "amount": "2,766.1131",
+        "usdValue": "$115.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,152.8100",
+        "amount": "0.0361",
+        "usdValue": "$113.67"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0333",
+        "amount": "1,871.9538",
+        "usdValue": "$62.30"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "base",
+        "price": "$5.6925",
+        "amount": "6.7619",
+        "usdValue": "$38.49"
+      },
+      {
+        "symbol": "INJ",
+        "chain": "eth",
+        "price": "$5.7460",
+        "amount": "3.6693",
+        "usdValue": "$21.08"
+      },
+      {
+        "symbol": "ankrMATIC",
+        "chain": "matic",
+        "price": "$0.1541",
+        "amount": "132.4392",
+        "usdValue": "$20.41"
+      },
+      {
+        "symbol": "ORDER",
+        "chain": "bsc",
+        "price": "$0.1122",
+        "amount": "121.2254",
+        "usdValue": "$13.60"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.1000",
+        "amount": "0.0149",
+        "usdValue": "$13.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,152.8100",
+        "amount": "0.0034",
+        "usdValue": "$10.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,152.8100",
+        "amount": "0.0033",
+        "usdValue": "$10.35"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "3,814.6004",
+        "usdValue": "$10.08"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$11,138"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "Cake",
+        "usdValue": "$8,030"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,926"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$5,097"
+      },
+      {
+        "protocol": "PancakeSwap V4",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BNB",
+        "usdValue": "$2,511"
+      },
+      {
+        "protocol": "Ankr",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ANKR",
+        "usdValue": "$1,991"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ezETH",
+        "usdValue": "$1,623"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,615"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,527"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$1,147"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "POL",
+        "usdValue": "$1,126"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ezETH",
+        "usdValue": "$906"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBNB",
+        "usdValue": "$523"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$255"
+      },
+      {
+        "protocol": "HyperLend",
+        "chain": "hyper",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDe",
+        "usdValue": "$228"
+      },
+      {
+        "protocol": "Alpha Homora V2",
+        "chain": "ftm",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WFTM",
+        "usdValue": "$138"
+      },
+      {
+        "protocol": "VaultCraft",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "POL",
+        "usdValue": "$104"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$53"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdade62f4b12766128b92e553a79fde483b7b5356",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T09:03:26.927Z",
+  "source": "base_aave",
+  "vaultBalance": 4.820397314877006,
+  "vaultPct": 0.007091191319934996
+}

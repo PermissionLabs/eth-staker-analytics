@@ -1,0 +1,209 @@
+{
+  "portfolio": {
+    "address": "0xd9a11cb45cb170fea81ea27d1dcba3a472d19210",
+    "totalValue": "$30,446",
+    "walletLifetime": "744 days",
+    "tokens": [
+      {
+        "symbol": "SERV(Wormhole)",
+        "chain": "base",
+        "price": "$0.0200",
+        "amount": "44,858.9472",
+        "usdValue": "$895.15"
+      },
+      {
+        "symbol": "CHEX",
+        "chain": "eth",
+        "price": "$0.0454",
+        "amount": "1,836.4144",
+        "usdValue": "$83.33"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2211",
+        "amount": "31.2921",
+        "usdValue": "$38.21"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "3,205.4107",
+        "usdValue": "$32.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.4900",
+        "amount": "0.0016",
+        "usdValue": "$4.96"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$27,325"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$2,059"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "The Graph",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GRT",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Cypher",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "CYPR",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd9a11cb45cb170fea81ea27d1dcba3a472d19210",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$45K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$22K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x4b34…a8b6",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xb764…4f14",
+        "volume": "$10K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$9K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x5b14…fb53",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x053b…436c",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x",
+        "volume": "$4K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x96a5…3903",
+        "volume": "$687"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$53K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$31K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$27K"
+      },
+      {
+        "name": "MOR",
+        "volume": "$12K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "KCHEX",
+        "volume": "$930K"
+      },
+      {
+        "name": "TA",
+        "volume": "$540M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$393"
+      },
+      {
+        "name": "ZYN",
+        "volume": "$161"
+      },
+      {
+        "name": "JPMD",
+        "volume": "$74"
+      },
+      {
+        "name": "The Network State",
+        "volume": "$73"
+      },
+      {
+        "name": "GRT",
+        "volume": "$30"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$10"
+      },
+      {
+        "name": "RFOX",
+        "volume": "$10"
+      },
+      {
+        "name": "standwithcrypto",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:39:55.833Z",
+  "source": "moonwell",
+  "vaultBalance": 8.550382206650932,
+  "vaultPct": 0.1551229694785001
+}

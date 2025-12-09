@@ -1,0 +1,254 @@
+{
+  "portfolio": {
+    "address": "0xe3f716134f39a860511d4c600765e3ec550aad79",
+    "totalValue": "$1,636,018",
+    "walletLifetime": "1122 days",
+    "tokens": [
+      {
+        "symbol": "比特币",
+        "chain": "bsc",
+        "price": "$0.0369",
+        "amount": "26,197,609.9327",
+        "usdValue": "$966,419.53"
+      },
+      {
+        "symbol": "XVS",
+        "chain": "bsc",
+        "price": "$4.6600",
+        "amount": "2,498.7292",
+        "usdValue": "$11,644.08"
+      },
+      {
+        "symbol": "埃隆马斯克传",
+        "chain": "bsc",
+        "price": "$0.00003381",
+        "amount": "48,367,001.1220",
+        "usdValue": "$1,635.07"
+      },
+      {
+        "symbol": "ETC",
+        "chain": "bsc",
+        "price": "$13.3600",
+        "amount": "84.6618",
+        "usdValue": "$1,131.08"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETC",
+        "usdValue": "$314,787"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "XVS",
+        "usdValue": "$245,148"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "SUSHI",
+        "usdValue": "$49,313"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$42,375"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "TST",
+        "usdValue": "$62"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$40"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETC",
+        "usdValue": "$34"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WAVAX",
+        "usdValue": "$22"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe3f716134f39a860511d4c600765e3ec550aad79",
+    "topProtocols": [
+      {
+        "name": "Venus",
+        "volume": "$22M"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$16M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$14M"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$10M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aster",
+        "volume": "$2M"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x6827…a72d",
+        "volume": "$2M"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1M"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$1M"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BNB",
+        "volume": "$25M"
+      },
+      {
+        "name": "UNI",
+        "volume": "$18M"
+      },
+      {
+        "name": "XVS",
+        "volume": "$15M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$10M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$8M"
+      },
+      {
+        "name": "Cake",
+        "volume": "$8M"
+      },
+      {
+        "name": "ETC",
+        "volume": "$6M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$4M"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4M"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3M"
+      },
+      {
+        "name": "MUSDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$2M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$1M"
+      },
+      {
+        "name": "DOGE",
+        "volume": "$1M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:58:46.165Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 23.297720414182535,
+  "vaultPct": 0.004331908993113259
+}

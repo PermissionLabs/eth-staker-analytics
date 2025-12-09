@@ -1,0 +1,308 @@
+{
+  "portfolio": {
+    "address": "0x2f828255f5755a8ddb2c70643083f32635e64a0f",
+    "totalValue": "$25,124",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.0100",
+        "amount": "0.0341",
+        "usdValue": "$107.61"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9821",
+        "amount": "36.8493",
+        "usdValue": "$36.19"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6877",
+        "amount": "42.5042",
+        "usdValue": "$29.23"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "26.0341",
+        "usdValue": "$26.04"
+      },
+      {
+        "symbol": "AVNT",
+        "chain": "base",
+        "price": "$0.3100",
+        "amount": "57.0100",
+        "usdValue": "$17.67"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2323",
+        "amount": "9.3921",
+        "usdValue": "$11.57"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.1000",
+        "amount": "0.0046",
+        "usdValue": "$4.22"
+      },
+      {
+        "symbol": "KTA",
+        "chain": "base",
+        "price": "$0.2508",
+        "amount": "9.4042",
+        "usdValue": "$2.36"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "base",
+        "price": "$194.6165",
+        "amount": "0.0100",
+        "usdValue": "$1.95"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,160.1500",
+        "amount": "0.0003",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,159.0100",
+        "amount": "0.00009683",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "PORTAL",
+        "chain": "eth",
+        "price": "$0.0191",
+        "amount": "14.5215",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8715",
+        "amount": "0.2751",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.0100",
+        "amount": "0.0000758",
+        "usdValue": "$0.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$16,502"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "AERO",
+        "usdValue": "$4,071"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3,133"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ASTER",
+        "usdValue": "$1,057"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WELL",
+        "usdValue": "$104"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "Virtuals Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "MANEKI",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2f828255f5755a8ddb2c70643083f32635e64a0f",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$145K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$104K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$61K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$56K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$26K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$25K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$23K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$22K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x2c49…d8ff",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x17af…7874",
+        "volume": "$11K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$8K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$7K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$189K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$105K"
+      },
+      {
+        "name": "QNT",
+        "volume": "$95K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$60K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$45K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$43K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$35K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$31K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$29K"
+      },
+      {
+        "name": "uNEAR",
+        "volume": "$20K"
+      },
+      {
+        "name": "KTA",
+        "volume": "$15K"
+      },
+      {
+        "name": "KA",
+        "volume": "$14K"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$5K"
+      },
+      {
+        "name": "CRO",
+        "volume": "$5K"
+      },
+      {
+        "name": "ZORA",
+        "volume": "$4K"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$3K"
+      },
+      {
+        "name": "BLAZE",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:51:47.428Z",
+  "source": "base_aave",
+  "vaultBalance": 1.007940793370517,
+  "vaultPct": 0.0014827618011690337
+}

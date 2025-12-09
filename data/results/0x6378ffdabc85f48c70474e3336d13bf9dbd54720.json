@@ -1,0 +1,164 @@
+{
+  "portfolio": {
+    "address": "0x6378ffdabc85f48c70474e3336d13bf9dbd54720",
+    "totalValue": "$69,203",
+    "walletLifetime": "359 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.8200",
+        "amount": "0.0400",
+        "usdValue": "$125.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.5100",
+        "amount": "0.0034",
+        "usdValue": "$10.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$66,117"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "VIRTUAL",
+        "usdValue": "$1,823"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,127"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6378ffdabc85f48c70474e3336d13bf9dbd54720",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$188K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$161K"
+      },
+      {
+        "name": "0xd267…9a4b",
+        "volume": "$79K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$45K"
+      },
+      {
+        "name": "0x000a…4606",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x03a2…44a8",
+        "volume": "$14K"
+      },
+      {
+        "name": "Rubic",
+        "volume": "$12K"
+      },
+      {
+        "name": "squid",
+        "volume": "$10K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$8K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Router Protocol",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$959"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$214K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$179K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$60K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$42K"
+      },
+      {
+        "name": "M87",
+        "volume": "$22K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$20K"
+      },
+      {
+        "name": "COFFEE",
+        "volume": "$8K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$5K"
+      },
+      {
+        "name": "INFRA",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$611"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:00:18.121Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 30.220926047499866,
+  "vaultPct": 0.005619189302558591
+}

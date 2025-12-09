@@ -1,0 +1,225 @@
+{
+  "portfolio": {
+    "address": "0x6f85078991e9f6e849ce60cdfcf1e5fc6ecd4f44",
+    "totalValue": "$8,371",
+    "walletLifetime": "373 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,564.4100",
+        "amount": "0.0058",
+        "usdValue": "$524.30"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,119.4500",
+        "amount": "0.0258",
+        "usdValue": "$80.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.4500",
+        "amount": "0.0236",
+        "usdValue": "$73.48"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2088",
+        "amount": "14.1762",
+        "usdValue": "$17.14"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8342",
+        "amount": "15.6236",
+        "usdValue": "$13.03"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6652",
+        "amount": "12.6954",
+        "usdValue": "$8.45"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9997",
+        "amount": "7.0873",
+        "usdValue": "$7.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,119.4500",
+        "amount": "0.0021",
+        "usdValue": "$6.54"
+      },
+      {
+        "symbol": "AIXBT",
+        "chain": "base",
+        "price": "$0.0398",
+        "amount": "75.2615",
+        "usdValue": "$3.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3,318"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$2,226"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "cbBTC",
+        "usdValue": "$2,089"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6f85078991e9f6e849ce60cdfcf1e5fc6ecd4f44",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$25K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$10K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$6K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$997"
+      },
+      {
+        "name": "OKX",
+        "volume": "$967M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$631"
+      },
+      {
+        "name": "0x1dfe…d09c",
+        "volume": "$5300"
+      },
+      {
+        "name": "x",
+        "volume": "$486"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6a0d…47a5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x688c…bc96",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9ed4…e4d0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfa76…4e88",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$44K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$5K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$1K"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$542B"
+      },
+      {
+        "name": "AVA",
+        "volume": "$493M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$46"
+      },
+      {
+        "name": "ZEREBRO",
+        "volume": "$7"
+      },
+      {
+        "name": "WELL",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:35:38.258Z",
+  "source": "moonwell",
+  "vaultBalance": 0.06960307086678641,
+  "vaultPct": 0.0012627546671866775
+}

@@ -1,0 +1,98 @@
+{
+  "portfolio": {
+    "address": "0xad5f1bfc5087f208c489bad0b2f57f4580a35e6b",
+    "totalValue": "$446",
+    "walletLifetime": "1463 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.5000",
+        "amount": "0.0072",
+        "usdValue": "$22.63"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1247",
+        "amount": "14.0424",
+        "usdValue": "$1.75"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9967",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$422"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xad5f1bfc5087f208c489bad0b2f57f4580a35e6b",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$226"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$159"
+      },
+      {
+        "name": "0xea67…8ec8",
+        "volume": "$78"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$16"
+      },
+      {
+        "name": "0xc089…04f1",
+        "volume": "$15"
+      },
+      {
+        "name": "0xb7f8…bfbc",
+        "volume": "$4"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$514"
+      },
+      {
+        "name": "WETH",
+        "volume": "$31"
+      },
+      {
+        "name": "POL",
+        "volume": "$20B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:06:51.684Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.12,
+  "vaultPct": 0.000009010541085792193
+}

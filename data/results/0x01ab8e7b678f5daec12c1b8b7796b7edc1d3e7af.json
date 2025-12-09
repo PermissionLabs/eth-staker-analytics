@@ -1,0 +1,124 @@
+{
+  "portfolio": {
+    "address": "0x01ab8e7b678f5daec12c1b8b7796b7edc1d3e7af",
+    "totalValue": "$22,016",
+    "walletLifetime": "1293 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.6900",
+        "amount": "0.0669",
+        "usdValue": "$207.42"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4810",
+        "amount": "211.5879",
+        "usdValue": "$101.77"
+      },
+      {
+        "symbol": "ZRC",
+        "chain": "zircuit",
+        "price": "$0.0069",
+        "amount": "749.0000",
+        "usdValue": "$5.20"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9783",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅783",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$13,706"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$7,996"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x01ab8e7b678f5daec12c1b8b7796b7edc1d3e7af",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$51K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$25K"
+      },
+      {
+        "name": "Sorare",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$854"
+      },
+      {
+        "name": "0xdb1f…4834",
+        "volume": "$526"
+      },
+      {
+        "name": "0x36d9…e4b8",
+        "volume": "$53"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$97K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$757"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$263B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:05:41.365Z",
+  "source": "lido_steth",
+  "vaultBalance": 4.270320692730736,
+  "vaultPct": 0.0003206491670946573
+}

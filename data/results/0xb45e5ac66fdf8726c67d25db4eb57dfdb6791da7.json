@@ -1,0 +1,154 @@
+{
+  "portfolio": {
+    "address": "0xb45e5ac66fdf8726c67d25db4eb57dfdb6791da7",
+    "totalValue": "$2,167",
+    "walletLifetime": "1598 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.6600",
+        "amount": "0.5832",
+        "usdValue": "$1,825.10"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.0000",
+        "amount": "0.1984",
+        "usdValue": "$178.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.7100",
+        "amount": "0.0272",
+        "usdValue": "$85.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.7100",
+        "amount": "0.0249",
+        "usdValue": "$78.02"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6290",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.00009",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7908",
+        "amount": "6.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb45e5ac66fdf8726c67d25db4eb57dfdb6791da7",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$930K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$462K"
+      },
+      {
+        "name": "0x9048…24dd",
+        "volume": "$303K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$300K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$288K"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$264K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$159K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$137K"
+      },
+      {
+        "name": "0xc88d…85b9",
+        "volume": "$94K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$538K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$315K"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$300K"
+      },
+      {
+        "name": "NB",
+        "volume": "$120"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:47:59.223Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 52.29788736075065,
+  "vaultPct": 0.009724113971294265
+}

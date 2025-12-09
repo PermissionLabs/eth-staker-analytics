@@ -1,0 +1,154 @@
+{
+  "portfolio": {
+    "address": "0x5c748a1ead7c3163f786a40d1d4cabd793ccfff7",
+    "totalValue": "$7,899",
+    "walletLifetime": "848 days",
+    "tokens": [
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "1,270.0000",
+        "usdValue": "$1,270.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,111.5100",
+        "amount": "0.0041",
+        "usdValue": "$12.75"
+      },
+      {
+        "symbol": "SOL(Wormhole)",
+        "chain": "matic",
+        "price": "$132.5101",
+        "amount": "0.0370",
+        "usdValue": "$4.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.5100",
+        "amount": "0.0006",
+        "usdValue": "$1.82"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,609"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5c748a1ead7c3163f786a40d1d4cabd793ccfff7",
+    "topProtocols": [
+      {
+        "name": "YLDR",
+        "volume": "$22K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$10K"
+      },
+      {
+        "name": "MetaMask Bridge",
+        "volume": "$7K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xab42…5e88",
+        "volume": "$5K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xff0f…8948",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3f49…87c9",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xb488…d255",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf75a…b9a4",
+        "volume": "$2K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x91f4…7350",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3bf5…2abf",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0df9…3d50",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xced2…c8ef",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$49K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$42K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$981"
+      },
+      {
+        "name": "NB",
+        "volume": "$837"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:10:18.882Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.122502175306514,
+  "vaultPct": 0.00039465175552177973
+}

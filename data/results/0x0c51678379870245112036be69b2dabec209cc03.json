@@ -1,0 +1,275 @@
+{
+  "portfolio": {
+    "address": "0x0c51678379870245112036be69b2dabec209cc03",
+    "totalValue": "$2,652",
+    "walletLifetime": "1141 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.8600",
+        "amount": "0.1687",
+        "usdValue": "$525.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,115.8600",
+        "amount": "0.0966",
+        "usdValue": "$301.09"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0326",
+        "amount": "6,566.0000",
+        "usdValue": "$214.05"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "77.2629",
+        "usdValue": "$77.25"
+      },
+      {
+        "symbol": "USDC(bridged)",
+        "chain": "era",
+        "price": "$0.9998",
+        "amount": "21.5682",
+        "usdValue": "$21.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,115.8600",
+        "amount": "0.0069",
+        "usdValue": "$21.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,115.8600",
+        "amount": "0.0057",
+        "usdValue": "$17.72"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6117",
+        "amount": "3.0001",
+        "usdValue": "$16.84"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "9.6435",
+        "usdValue": "$9.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,115.8600",
+        "amount": "0.0016",
+        "usdValue": "$4.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,115.8600",
+        "amount": "0.0006",
+        "usdValue": "$1.99"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$632"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$476"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$313"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$8"
+      },
+      {
+        "protocol": "RCPSwap",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0c51678379870245112036be69b2dabec209cc03",
+    "topProtocols": [
+      {
+        "name": "ZeroLend",
+        "volume": "$6K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$2K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$2K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$1K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$1K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$1K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$3K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$1K"
+      },
+      {
+        "name": "MAV",
+        "volume": "$995"
+      },
+      {
+        "name": "USDT",
+        "volume": "$200"
+      },
+      {
+        "name": "OP",
+        "volume": "$161"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$78"
+      },
+      {
+        "name": "PIKA",
+        "volume": "$69"
+      },
+      {
+        "name": "USDC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:27:36.640Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09833115933546249,
+  "vaultPct": 0.0017839461511458016
+}

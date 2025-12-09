@@ -1,0 +1,275 @@
+{
+  "portfolio": {
+    "address": "0x78b416dffa838b89d382e49ae9ac5488ca827689",
+    "totalValue": "$459,127",
+    "walletLifetime": "3130 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.1900",
+        "amount": "81.8089",
+        "usdValue": "$253,786.89"
+      },
+      {
+        "symbol": "EURC",
+        "chain": "eth",
+        "price": "$1.1631",
+        "amount": "24,815.7488",
+        "usdValue": "$28,863.55"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.7600",
+        "amount": "2.0895",
+        "usdValue": "$7.86"
+      },
+      {
+        "symbol": "XDATA(old)",
+        "chain": "eth",
+        "price": "$0.0067",
+        "amount": "21.3988",
+        "usdValue": "$0.14"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.0240",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7843",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ATHENA",
+        "chain": "base",
+        "price": "$0.0004",
+        "amount": "0.0010",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CP",
+        "chain": "matic",
+        "price": "$0.0₈1479",
+        "amount": "10.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AMB",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$174,699"
+      },
+      {
+        "protocol": "Bancor",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BNT",
+        "usdValue": "$934"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "AAVE",
+        "usdValue": "$835"
+      },
+      {
+        "protocol": "SharedStake",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SGT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x78b416dffa838b89d382e49ae9ac5488ca827689",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$388K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$334K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$145K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$138K"
+      },
+      {
+        "name": "0x60c5…fa00",
+        "volume": "$125K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$122K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$118K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$115K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$45K"
+      },
+      {
+        "name": "0x6061…f2f7",
+        "volume": "$28K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$24K"
+      },
+      {
+        "name": "Badger DAO",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x2ce6…2e9f",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xdb92…b5c0",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x0ada…fe73",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xcdf3…c64b",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$917K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$719K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$230K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$127K"
+      },
+      {
+        "name": "DIGG",
+        "volume": "$40K"
+      },
+      {
+        "name": "BADGER",
+        "volume": "$34K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$28K"
+      },
+      {
+        "name": "SHAKE",
+        "volume": "$22K"
+      },
+      {
+        "name": "RPL",
+        "volume": "$16K"
+      },
+      {
+        "name": "ALPHA",
+        "volume": "$16K"
+      },
+      {
+        "name": "BNT",
+        "volume": "$15K"
+      },
+      {
+        "name": "YAXIS",
+        "volume": "$13K"
+      },
+      {
+        "name": "YAX",
+        "volume": "$8K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$7K"
+      },
+      {
+        "name": "REQ",
+        "volume": "$6K"
+      },
+      {
+        "name": "RARI",
+        "volume": "$4K"
+      },
+      {
+        "name": "RAMP",
+        "volume": "$4K"
+      },
+      {
+        "name": "YFL",
+        "volume": "$3K"
+      },
+      {
+        "name": "OMG",
+        "volume": "$2K"
+      },
+      {
+        "name": "REP",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:10:27.713Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 22.82089248900144,
+  "vaultPct": 0.004243249023788445
+}

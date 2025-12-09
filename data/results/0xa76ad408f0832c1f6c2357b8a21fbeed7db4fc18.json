@@ -1,0 +1,114 @@
+{
+  "portfolio": {
+    "address": "0xa76ad408f0832c1f6c2357b8a21fbeed7db4fc18",
+    "totalValue": "$9,012",
+    "walletLifetime": "53 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.9800",
+        "amount": "0.0608",
+        "usdValue": "$190.43"
+      },
+      {
+        "symbol": "CPOOL",
+        "chain": "eth",
+        "price": "$0.0380",
+        "amount": "35.2893",
+        "usdValue": "$1.34"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.3364",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$8,636"
+      },
+      {
+        "protocol": "Clearpool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "CPOOL",
+        "usdValue": "$184"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa76ad408f0832c1f6c2357b8a21fbeed7db4fc18",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$27K"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$10K"
+      },
+      {
+        "name": "Clearpool",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x79dd…decb",
+        "volume": "$914"
+      },
+      {
+        "name": "0x01c3…aa92",
+        "volume": "$485M"
+      },
+      {
+        "name": "0xfffc…3825",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcba3…2d32",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$16K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$2K"
+      },
+      {
+        "name": "CPOOL",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:07:25.570Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.5069,
+  "vaultPct": 0.00046612554626695524
+}

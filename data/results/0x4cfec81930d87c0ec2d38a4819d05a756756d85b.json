@@ -1,0 +1,296 @@
+{
+  "portfolio": {
+    "address": "0x4cfec81930d87c0ec2d38a4819d05a756756d85b",
+    "totalValue": "$156,563",
+    "walletLifetime": "1769 days",
+    "tokens": [
+      {
+        "symbol": "BRACKY",
+        "chain": "base",
+        "price": "$0.0001",
+        "amount": "969,058,051.2395",
+        "usdValue": "$117,644.04"
+      },
+      {
+        "symbol": "ezETH",
+        "chain": "base",
+        "price": "$3,333.5409",
+        "amount": "2.0484",
+        "usdValue": "$6,828.45"
+      },
+      {
+        "symbol": "CLANKER",
+        "chain": "base",
+        "price": "$43.5100",
+        "amount": "116.0823",
+        "usdValue": "$5,050.74"
+      },
+      {
+        "symbol": "BNKR",
+        "chain": "base",
+        "price": "$0.0002",
+        "amount": "12,750,334.5716",
+        "usdValue": "$3,109.81"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6702",
+        "amount": "2,886.8285",
+        "usdValue": "$1,934.86"
+      },
+      {
+        "symbol": "HIGHER",
+        "chain": "base",
+        "price": "$0.0011",
+        "amount": "805,379.9591",
+        "usdValue": "$890.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.8800",
+        "amount": "0.1928",
+        "usdValue": "$604.47"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,137.1000",
+        "amount": "0.1006",
+        "usdValue": "$315.58"
+      },
+      {
+        "symbol": "ANON",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "340,702.3034",
+        "usdValue": "$235.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,137.1000",
+        "amount": "0.0591",
+        "usdValue": "$185.41"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$6,052"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "WETH",
+        "usdValue": "$3,993"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BRACKY",
+        "usdValue": "$3,515"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3,144"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$1,091"
+      },
+      {
+        "protocol": "Reya",
+        "chain": "reya",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RUSD",
+        "usdValue": "$1,088"
+      },
+      {
+        "protocol": "Blur",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$695"
+      },
+      {
+        "protocol": "0xSplits",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "THRIVE",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4cfec81930d87c0ec2d38a4819d05a756756d85b",
+    "topProtocols": [
+      {
+        "name": "0x45db…508f",
+        "volume": "$245K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$195K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$177K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$123K"
+      },
+      {
+        "name": "0x",
+        "volume": "$56K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$42K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$38K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$30K"
+      },
+      {
+        "name": "Astaria",
+        "volume": "$27K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$24K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xcced…1831",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x9eb9…73f6",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x0337…7652",
+        "volume": "$19K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$19K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$16K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$16K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$16K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$15K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "DEGEN",
+        "volume": "$547K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$509K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$138K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$114K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$74K"
+      },
+      {
+        "name": "BRACKY",
+        "volume": "$62K"
+      },
+      {
+        "name": "HIGHER",
+        "volume": "$22K"
+      },
+      {
+        "name": "CLANKER",
+        "volume": "$14K"
+      },
+      {
+        "name": "ANON",
+        "volume": "$14K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$10K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$8K"
+      },
+      {
+        "name": "terminal",
+        "volume": "$4K"
+      },
+      {
+        "name": "BLUR",
+        "volume": "$4K"
+      },
+      {
+        "name": "BNKR",
+        "volume": "$4K"
+      },
+      {
+        "name": "TURBO",
+        "volume": "$3K"
+      },
+      {
+        "name": "NOGS",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:30:21.972Z",
+  "source": "moonwell",
+  "vaultBalance": 0.9821467705207205,
+  "vaultPct": 0.01781832903193318
+}

@@ -1,0 +1,142 @@
+{
+  "portfolio": {
+    "address": "0x64ea67561159525e39e2d01bbe692aca3699a25a",
+    "totalValue": "$20,854",
+    "walletLifetime": "322 days",
+    "tokens": [
+      {
+        "symbol": "USD1",
+        "chain": "eth",
+        "price": "$0.9992",
+        "amount": "1,000.0000",
+        "usdValue": "$999.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.6000",
+        "amount": "0.2908",
+        "usdValue": "$913.54"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "3,351.1671",
+        "usdValue": "$26.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,141.6000",
+        "amount": "0.0008",
+        "usdValue": "$2.62"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$18,871"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$40"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x64ea67561159525e39e2d01bbe692aca3699a25a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$63K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$50K"
+      },
+      {
+        "name": "Hourglass",
+        "volume": "$40K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$31K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$13K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$11K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$10K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$100K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$96K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$7K"
+      },
+      {
+        "name": "KUSD1",
+        "volume": "$1K"
+      },
+      {
+        "name": "SEKOIA",
+        "volume": "$571"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$49"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:06:30.295Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6,
+  "vaultPct": 0.0011156221937858436
+}

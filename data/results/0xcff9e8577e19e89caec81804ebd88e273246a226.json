@@ -1,0 +1,149 @@
+{
+  "portfolio": {
+    "address": "0xcff9e8577e19e89caec81804ebd88e273246a226",
+    "totalValue": "$256,490",
+    "walletLifetime": "741 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,139.4300",
+        "amount": "0.1744",
+        "usdValue": "$547.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,139.4300",
+        "amount": "0.0986",
+        "usdValue": "$309.61"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7934",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OOMER",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LINK",
+        "usdValue": "$255,633"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcff9e8577e19e89caec81804ebd88e273246a226",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x3049…8eb7",
+        "volume": "$798K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$137K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$104K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$51K"
+      },
+      {
+        "name": "Unknown Protocol",
+        "volume": "$50K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$36K"
+      },
+      {
+        "name": "0x2fee…f82b",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x0000…0d95",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x59f6…1328",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x31f7…8e8a",
+        "volume": "$328"
+      },
+      {
+        "name": "0xa122…d8b2",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "LINK",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$601K"
+      },
+      {
+        "name": "MAGIC",
+        "volume": "$241K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$168K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$27K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:09:57.187Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.505165800837437,
+  "vaultPct": 0.0006517401267188958
+}

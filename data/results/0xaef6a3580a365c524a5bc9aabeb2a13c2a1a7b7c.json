@@ -1,0 +1,231 @@
+{
+  "portfolio": {
+    "address": "0xaef6a3580a365c524a5bc9aabeb2a13c2a1a7b7c",
+    "totalValue": "$1,478",
+    "walletLifetime": "1537 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9400",
+        "amount": "0.0129",
+        "usdValue": "$40.43"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "0.2051",
+        "usdValue": "$2.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.9400",
+        "amount": "0.0001",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.9400",
+        "amount": "0.00007995",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,125.9400",
+        "amount": "0.0000794",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "1.9047",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "41.7493",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BENTO",
+        "chain": "base",
+        "price": "$0.0₈1732",
+        "amount": "8,880,888.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "0.6160",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.0003",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$940"
+      },
+      {
+        "protocol": "UMA",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "UMA",
+        "usdValue": "$484"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "ReactorFusion",
+        "chain": "era",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RF",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xaef6a3580a365c524a5bc9aabeb2a13c2a1a7b7c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "Eclipse Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$887"
+      },
+      {
+        "name": "disperse",
+        "volume": "$799"
+      },
+      {
+        "name": "0xa1a1…82bc",
+        "volume": "$784"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$774"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$692"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$672"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$610"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$513B"
+      },
+      {
+        "name": "asilisk",
+        "volume": "$50"
+      },
+      {
+        "name": "4xBank",
+        "volume": "$501"
+      },
+      {
+        "name": "UMA",
+        "volume": "$498M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$492"
+      },
+      {
+        "name": "Sentiment",
+        "volume": "$440"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "KUMA",
+        "volume": "$997"
+      },
+      {
+        "name": "ZK",
+        "volume": "$902"
+      },
+      {
+        "name": "zkUSD",
+        "volume": "$441"
+      },
+      {
+        "name": "USDT",
+        "volume": "$278"
+      },
+      {
+        "name": "WETH",
+        "volume": "$131"
+      },
+      {
+        "name": "USDt",
+        "volume": "$120"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:03:03.703Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.3004048907487896,
+  "vaultPct": 0.000055856393873526895
+}

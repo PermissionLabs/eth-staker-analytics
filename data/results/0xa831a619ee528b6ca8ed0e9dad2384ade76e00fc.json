@@ -1,0 +1,315 @@
+{
+  "portfolio": {
+    "address": "0xa831a619ee528b6ca8ed0e9dad2384ade76e00fc",
+    "totalValue": "$270",
+    "walletLifetime": "1684 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.3500",
+        "amount": "0.0080",
+        "usdValue": "$24.91"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$190.7136",
+        "amount": "0.0811",
+        "usdValue": "$15.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,112.3500",
+        "amount": "0.0033",
+        "usdValue": "$10.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,112.8500",
+        "amount": "0.0030",
+        "usdValue": "$9.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,112.8500",
+        "amount": "0.0025",
+        "usdValue": "$7.65"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.1000",
+        "amount": "0.0056",
+        "usdValue": "$4.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,112.8500",
+        "amount": "0.0015",
+        "usdValue": "$4.63"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "435.7202",
+        "usdValue": "$3.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.3500",
+        "amount": "0.0005",
+        "usdValue": "$1.52"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2115",
+        "amount": "5.0519",
+        "usdValue": "$1.07"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "op",
+        "price": "$1.0001",
+        "amount": "0.6577",
+        "usdValue": "$0.66"
+      },
+      {
+        "symbol": "AIXBT",
+        "chain": "base",
+        "price": "$0.0399",
+        "amount": "16.1246",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.5574",
+        "amount": "0.1001",
+        "usdValue": "$0.56"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "4.2183",
+        "usdValue": "$0.52"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "147.5035",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3161",
+        "amount": "1.1726",
+        "usdValue": "$0.37"
+      },
+      {
+        "symbol": "SIMMI",
+        "chain": "base",
+        "price": "$0.00001151",
+        "amount": "26,140.8251",
+        "usdValue": "$0.30"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,112.8500",
+        "amount": "0.00006339",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5800",
+        "amount": "0.0094",
+        "usdValue": "$0.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$163"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Arbswap",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Arbswap",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa831a619ee528b6ca8ed0e9dad2384ade76e00fc",
+    "topProtocols": [
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$22K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$12K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$11K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x0541…9aa4",
+        "volume": "$7K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xe8c9…0c9b",
+        "volume": "$5K"
+      },
+      {
+        "name": "Clipper",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xbb25…b400",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x68e5…da5c",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x49dc…d342",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9571…ea6b",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xafdb…3fe6",
+        "volume": "$2K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "STG",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$3K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$3K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDCso",
+        "volume": "$2K"
+      },
+      {
+        "name": "KBUSD",
+        "volume": "$863"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:11:31.137Z",
+  "source": "moonwell",
+  "vaultBalance": 0.050936900144855565,
+  "vaultPct": 0.0009241087726293279
+}

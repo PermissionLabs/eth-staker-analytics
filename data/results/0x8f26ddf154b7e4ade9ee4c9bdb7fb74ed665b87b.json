@@ -1,0 +1,133 @@
+{
+  "portfolio": {
+    "address": "0x8f26ddf154b7e4ade9ee4c9bdb7fb74ed665b87b",
+    "totalValue": "$3,325",
+    "walletLifetime": "1309 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.0400",
+        "amount": "0.6003",
+        "usdValue": "$1,895.87"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1256",
+        "amount": "496.7990",
+        "usdValue": "$62.40"
+      },
+      {
+        "symbol": "SAND",
+        "chain": "matic",
+        "price": "$0.1440",
+        "amount": "72.6670",
+        "usdValue": "$10.46"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "EFIT",
+        "chain": "matic",
+        "price": "$0.0₅2308",
+        "amount": "900.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "wkeyDAO",
+        "chain": "bsc",
+        "price": "$10.7674",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LGNS",
+        "chain": "matic",
+        "price": "$7.8236",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Web3",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "6.3759",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,356"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8f26ddf154b7e4ade9ee4c9bdb7fb74ed665b87b",
+    "topProtocols": [
+      {
+        "name": "Sorare",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$663B"
+      },
+      {
+        "name": "inance",
+        "volume": "$560B"
+      },
+      {
+        "name": "0x4220…d21d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbb4b…7db0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "POL",
+        "volume": "$593"
+      },
+      {
+        "name": "SAND",
+        "volume": "$36"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:19:53.298Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.4,
+  "vaultPct": 0.000030035136952640647
+}

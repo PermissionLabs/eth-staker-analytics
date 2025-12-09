@@ -1,0 +1,262 @@
+{
+  "portfolio": {
+    "address": "0x38e91a7aac140778b30c2e4e5f47aec98c93ee24",
+    "totalValue": "$2,389",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "868.9901",
+        "usdValue": "$868.99"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,103.9800",
+        "amount": "0.0480",
+        "usdValue": "$148.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,105.6200",
+        "amount": "0.0468",
+        "usdValue": "$145.49"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "62.1808",
+        "usdValue": "$62.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.6200",
+        "amount": "0.0146",
+        "usdValue": "$45.38"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "era",
+        "price": "$1.0000",
+        "amount": "43.0000",
+        "usdValue": "$43.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.6200",
+        "amount": "0.0111",
+        "usdValue": "$34.38"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$190.5650",
+        "amount": "0.1739",
+        "usdValue": "$33.14"
+      },
+      {
+        "symbol": "USDe",
+        "chain": "eth",
+        "price": "$0.9988",
+        "amount": "24.9663",
+        "usdValue": "$24.94"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "plasma",
+        "price": "$1.0000",
+        "amount": "18.4232",
+        "usdValue": "$18.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,105.6200",
+        "amount": "0.0046",
+        "usdValue": "$14.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,106.1900",
+        "amount": "0.0014",
+        "usdValue": "$4.45"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$324"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-rsETH-26JUN2025",
+        "usdValue": "$219"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$169"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$106"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$52"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$51"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDe",
+        "usdValue": "$25"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x38e91a7aac140778b30c2e4e5f47aec98c93ee24",
+    "topProtocols": [
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$7K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$4K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xfbee…8737",
+        "volume": "$1K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$653K"
+      },
+      {
+        "name": "elp DAO",
+        "volume": "$542"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$524"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$362"
+      },
+      {
+        "name": "0x67bb…26e2",
+        "volume": "$196"
+      },
+      {
+        "name": "0x5979…b622",
+        "volume": "$130"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$111"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ZK",
+        "volume": "$8K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$183"
+      },
+      {
+        "name": "USDe",
+        "volume": "$75"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$50"
+      },
+      {
+        "name": "USDT",
+        "volume": "$37K"
+      },
+      {
+        "name": "ERNEL",
+        "volume": "$34"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:16:31.471Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.09567872378419527,
+  "vaultPct": 0.001067161222937683
+}

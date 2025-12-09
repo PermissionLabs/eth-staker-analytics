@@ -1,0 +1,80 @@
+{
+  "portfolio": {
+    "address": "0xd724623942d9b15534c2e774b9ee58b43b86dc1a",
+    "totalValue": "$369",
+    "walletLifetime": "77 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.2300",
+        "amount": "0.0026",
+        "usdValue": "$8.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.2300",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$358"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd724623942d9b15534c2e774b9ee58b43b86dc1a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$751"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$433B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$319"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$319"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$52"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$38"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$52"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:19:39.666Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11446200007859844,
+  "vaultPct": 0.00016838278847154867
+}

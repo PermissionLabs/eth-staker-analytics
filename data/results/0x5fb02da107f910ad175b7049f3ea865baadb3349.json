@@ -1,0 +1,256 @@
+{
+  "portfolio": {
+    "address": "0x5fb02da107f910ad175b7049f3ea865baadb3349",
+    "totalValue": "$190,794",
+    "walletLifetime": "691 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$91,273.9900",
+        "amount": "1.1194",
+        "usdValue": "$102,171.91"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6449",
+        "amount": "1,130.2495",
+        "usdValue": "$6,380.16"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4814",
+        "amount": "12,153.0680",
+        "usdValue": "$5,850.09"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "eth",
+        "price": "$1.2106",
+        "amount": "3,541.5033",
+        "usdValue": "$4,287.34"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$193.0294",
+        "amount": "14.7691",
+        "usdValue": "$2,850.87"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.6014",
+        "amount": "4,550.0000",
+        "usdValue": "$2,736.34"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "eth",
+        "price": "$0.3951",
+        "amount": "5,915.1275",
+        "usdValue": "$2,337.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,137.3000",
+        "amount": "0.1130",
+        "usdValue": "$354.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,137.3000",
+        "amount": "0.1000",
+        "usdValue": "$313.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.3000",
+        "amount": "0.0892",
+        "usdValue": "$279.78"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$63,178"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5fb02da107f910ad175b7049f3ea865baadb3349",
+    "topProtocols": [
+      {
+        "name": "CoW Swap",
+        "volume": "$498K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$477K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$412K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$412K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$313K"
+      },
+      {
+        "name": "CryptoPunks",
+        "volume": "$277K"
+      },
+      {
+        "name": "Spark",
+        "volume": "$258K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$133K"
+      },
+      {
+        "name": "Sky",
+        "volume": "$126K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$125K"
+      },
+      {
+        "name": "0x9d4e…cea8",
+        "volume": "$121K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$113K"
+      },
+      {
+        "name": "0xa9ff…d82f",
+        "volume": "$104K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$96K"
+      },
+      {
+        "name": "0xd42b…3b66",
+        "volume": "$94K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$82K"
+      },
+      {
+        "name": "0x6f59…09e1",
+        "volume": "$82K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$80K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$70K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$977K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$902K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$823K"
+      },
+      {
+        "name": "USDS",
+        "volume": "$517K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$289K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$147K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$75K"
+      },
+      {
+        "name": "SOL",
+        "volume": "$45K"
+      },
+      {
+        "name": "KUNI",
+        "volume": "$31K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$30K"
+      },
+      {
+        "name": "KAAVE",
+        "volume": "$24K"
+      },
+      {
+        "name": "COW",
+        "volume": "$15K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$10K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:11:41.667Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 20.083165115099302,
+  "vaultPct": 0.0037342041206450682
+}

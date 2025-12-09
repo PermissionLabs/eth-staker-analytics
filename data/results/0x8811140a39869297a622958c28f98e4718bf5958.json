@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0x8811140a39869297a622958c28f98e4718bf5958",
+    "totalValue": "$36,857",
+    "walletLifetime": "510 days",
+    "tokens": [
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$189.3032",
+        "amount": "98.0295",
+        "usdValue": "$18,557.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.1300",
+        "amount": "0.0483",
+        "usdValue": "$150.27"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1221",
+        "amount": "78.1582",
+        "usdValue": "$9.54"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4680",
+        "amount": "15.1056",
+        "usdValue": "$7.07"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,113.1300",
+        "amount": "0.00001863",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001004",
+        "amount": "175.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ARPA",
+        "chain": "eth",
+        "price": "$0.0143",
+        "amount": "0.0782",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.4785",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7869",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "PEG",
+        "chain": "uni",
+        "price": "$0.0000",
+        "amount": "4,561.3998",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "mellow",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$12,951"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$4,857"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$325"
+      },
+      {
+        "protocol": "Renzo",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SKATE",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8811140a39869297a622958c28f98e4718bf5958",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$121K"
+      },
+      {
+        "name": "0x2987…7830",
+        "volume": "$60K"
+      },
+      {
+        "name": "0xb233…c460",
+        "volume": "$52K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$18K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x2b3f…5dbb",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x80f1…de57",
+        "volume": "$34"
+      },
+      {
+        "name": "0xdd45…f319",
+        "volume": "$32"
+      },
+      {
+        "name": "0xc238…4bca",
+        "volume": "$30"
+      },
+      {
+        "name": "0xe1fa…b87c",
+        "volume": "$29"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$20"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9436…85dc",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "AAVE",
+        "volume": "$212K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$19K"
+      },
+      {
+        "name": "POL",
+        "volume": "$29"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$20"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:11:01.327Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.10000000000000009,
+  "vaultPct": 0.000007508784238160167
+}

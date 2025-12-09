@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "address": "0x70add16176d14dcaa375878dc6af919db97da136",
+    "totalValue": "$395",
+    "walletLifetime": "160 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.9700",
+        "amount": "0.0505",
+        "usdValue": "$156.74"
+      },
+      {
+        "symbol": "RLC (iExec RLC)",
+        "chain": "eth",
+        "price": "$0.7341",
+        "amount": "7.5958",
+        "usdValue": "$5.58"
+      },
+      {
+        "symbol": "KNC",
+        "chain": "eth",
+        "price": "$0.2643",
+        "amount": "18.5731",
+        "usdValue": "$4.91"
+      },
+      {
+        "symbol": "$PAAL",
+        "chain": "eth",
+        "price": "$0.0178",
+        "amount": "87.9070",
+        "usdValue": "$1.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,100.9600",
+        "amount": "0.00003687",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$226"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x70add16176d14dcaa375878dc6af919db97da136",
+    "topProtocols": [
+      {
+        "name": "0x96a7…345c",
+        "volume": "$492"
+      },
+      {
+        "name": "0x8192…de99",
+        "volume": "$374"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$311"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$311"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$284"
+      },
+      {
+        "name": "0x9344…3062",
+        "volume": "$140"
+      },
+      {
+        "name": "0x3d90…6be9",
+        "volume": "$109"
+      },
+      {
+        "name": "0x5bce…b8e8",
+        "volume": "$105"
+      },
+      {
+        "name": "0xfd5b…fc0d",
+        "volume": "$98"
+      },
+      {
+        "name": "0x5bad…a801",
+        "volume": "$93"
+      },
+      {
+        "name": "Rango",
+        "volume": "$38"
+      },
+      {
+        "name": "0xb0b1…aa77",
+        "volume": "$24"
+      },
+      {
+        "name": "0xb800…1ec1",
+        "volume": "$230"
+      },
+      {
+        "name": "x",
+        "volume": "$16"
+      },
+      {
+        "name": "0xfd19…fb37",
+        "volume": "$13"
+      },
+      {
+        "name": "0xa98c…38e7",
+        "volume": "$3m"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8157…e9b1",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6ad7…f848",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "NB",
+        "volume": "$32"
+      },
+      {
+        "name": "VET",
+        "volume": "$24"
+      },
+      {
+        "name": "FLOKI",
+        "volume": "$1"
+      },
+      {
+        "name": "PAAL",
+        "volume": "$8K"
+      },
+      {
+        "name": "NC",
+        "volume": "$8"
+      },
+      {
+        "name": "USD1",
+        "volume": "$6M"
+      },
+      {
+        "name": "RLC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:15:26.036Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.07168572169319534,
+  "vaultPct": 0.000005382726171510011
+}

@@ -1,0 +1,300 @@
+{
+  "portfolio": {
+    "address": "0x53f26c8ed29b1121d8d8343fca72fc9b0b3c57a2",
+    "totalValue": "$520",
+    "walletLifetime": "678 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,131.6600",
+        "amount": "0.0438",
+        "usdValue": "$137.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.7700",
+        "amount": "0.0115",
+        "usdValue": "$35.97"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,131.3700",
+        "amount": "0.0080",
+        "usdValue": "$25.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.7700",
+        "amount": "0.0071",
+        "usdValue": "$22.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.4800",
+        "amount": "0.0051",
+        "usdValue": "$16.06"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.5000",
+        "amount": "0.0148",
+        "usdValue": "$13.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,131.4800",
+        "amount": "0.0019",
+        "usdValue": "$6.06"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "soneium",
+        "price": "$3,131.7700",
+        "amount": "0.0007",
+        "usdValue": "$2.14"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6789",
+        "amount": "2.0000",
+        "usdValue": "$1.36"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "9.4926",
+        "usdValue": "$1.18"
+      },
+      {
+        "symbol": "BTC.b",
+        "chain": "avax",
+        "price": "$91,769.0000",
+        "amount": "0.00001208",
+        "usdValue": "$1.11"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "1.0908",
+        "usdValue": "$1.09"
+      },
+      {
+        "symbol": "STG",
+        "chain": "base",
+        "price": "$0.1217",
+        "amount": "7.0000",
+        "usdValue": "$0.85"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3989",
+        "amount": "0.5739",
+        "usdValue": "$0.80"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆981",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "770.0000",
+        "usdValue": "$0.72"
+      },
+      {
+        "symbol": "axlUSDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.3889",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "0.3249",
+        "usdValue": "$0.32"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$226"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "soneium",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$10"
+      },
+      {
+        "protocol": "Kyo Finance",
+        "chain": "soneium",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Maverick",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Steer Protocol",
+        "chain": "soneium",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ASTR",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x53f26c8ed29b1121d8d8343fca72fc9b0b3c57a2",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$14K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$12K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$12K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$12K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$11K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$8K"
+      },
+      {
+        "name": "Core Bridge",
+        "volume": "$8K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xfbda…f12c",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xbe40…d75a",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$81K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "EURA",
+        "volume": "$4K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "rETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:57:16.139Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07122999999999997,
+  "vaultPct": 0.00010478504669315988
+}

@@ -1,0 +1,159 @@
+{
+  "portfolio": {
+    "address": "0x02f56a7aacfdc3e0dd297a9c1c005541b62171c2",
+    "totalValue": "$57,611",
+    "walletLifetime": "1368 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.8600",
+        "amount": "0.3088",
+        "usdValue": "$967.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.8600",
+        "amount": "0.0938",
+        "usdValue": "$293.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.8600",
+        "amount": "0.0776",
+        "usdValue": "$243.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,131.8600",
+        "amount": "0.0119",
+        "usdValue": "$37.36"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "9.4631",
+        "usdValue": "$9.46"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2066",
+        "amount": "2.0201",
+        "usdValue": "$2.44"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$899.8900",
+        "amount": "0.0020",
+        "usdValue": "$1.80"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$56,036"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x02f56a7aacfdc3e0dd297a9c1c005541b62171c2",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$924K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$140K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$111K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$103K"
+      },
+      {
+        "name": "Silo",
+        "volume": "$102K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$101K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$69K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$52K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$52K"
+      },
+      {
+        "name": "0x2ee2…81ee",
+        "volume": "$51K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$51K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDf",
+        "volume": "$102K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$54K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$53K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$45K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$40K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "HONEY",
+        "volume": "$30K"
+      },
+      {
+        "name": "KZK",
+        "volume": "$28K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:11:04.432Z",
+  "source": "moonwell",
+  "vaultBalance": 1.274337262350101,
+  "vaultPct": 0.023119315075656514
+}

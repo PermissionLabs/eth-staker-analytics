@@ -1,0 +1,224 @@
+{
+  "portfolio": {
+    "address": "0x4ae8355447ab15b266caa74a4e3af05dca5b3fd5",
+    "totalValue": "$9,141",
+    "walletLifetime": "1373 days",
+    "tokens": [
+      {
+        "symbol": "ZEC",
+        "chain": "uni",
+        "price": "$413.8644",
+        "amount": "2.0029",
+        "usdValue": "$828.91"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "uni",
+        "price": "$0.9999",
+        "amount": "531.4892",
+        "usdValue": "$531.44"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "385.6085",
+        "usdValue": "$385.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,137.9500",
+        "amount": "0.0666",
+        "usdValue": "$209.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,138.4200",
+        "amount": "0.0259",
+        "usdValue": "$81.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,138.4200",
+        "amount": "0.0201",
+        "usdValue": "$63.11"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1,097.4475",
+        "usdValue": "$30.57"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "17.2951",
+        "usdValue": "$17.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,138.4200",
+        "amount": "0.0031",
+        "usdValue": "$9.57"
+      },
+      {
+        "symbol": "ICP",
+        "chain": "base",
+        "price": "$3.4650",
+        "amount": "0.9960",
+        "usdValue": "$3.45"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hydrex",
+        "chain": "base",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "WETH",
+        "usdValue": "$6,314"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$378"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$286"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4ae8355447ab15b266caa74a4e3af05dca5b3fd5",
+    "topProtocols": [
+      {
+        "name": "GMX V2",
+        "volume": "$211K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$45K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$39K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$31K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$30K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$25K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$19K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$17K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$16K"
+      },
+      {
+        "name": "Hydrex",
+        "volume": "$15K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$189K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$104K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$101K"
+      },
+      {
+        "name": "SOL",
+        "volume": "$25K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$13K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$8K"
+      },
+      {
+        "name": "KZEC",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "HYDX",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:20:17.965Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.12000000000000044,
+  "vaultPct": 0.000022312443875716953
+}

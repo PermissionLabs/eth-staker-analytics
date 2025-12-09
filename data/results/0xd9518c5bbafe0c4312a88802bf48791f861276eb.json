@@ -1,0 +1,245 @@
+{
+  "portfolio": {
+    "address": "0xd9518c5bbafe0c4312a88802bf48791f861276eb",
+    "totalValue": "$11,026",
+    "walletLifetime": "2433 days",
+    "tokens": [
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6673",
+        "amount": "177.2988",
+        "usdValue": "$118.31"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "35.6344",
+        "usdValue": "$35.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,128.3700",
+        "amount": "0.0033",
+        "usdValue": "$10.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.3700",
+        "amount": "0.0022",
+        "usdValue": "$6.93"
+      },
+      {
+        "symbol": "AVNT",
+        "chain": "base",
+        "price": "$0.3065",
+        "amount": "14.0696",
+        "usdValue": "$4.31"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,128.3700",
+        "amount": "0.0005",
+        "usdValue": "$1.49"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6366",
+        "amount": "0.0864",
+        "usdValue": "$0.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.3700",
+        "amount": "0.00008824",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "EUL",
+        "chain": "uni",
+        "price": "$1.86",
+        "amount": "0.16",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$5,053"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,904"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$621"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVNT",
+        "usdValue": "$267"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "uni",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "EUL",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd9518c5bbafe0c4312a88802bf48791f861276eb",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$154K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$137K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$37K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$31K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$26K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$20K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$14K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$13K"
+      },
+      {
+        "name": "Synthetix V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$11K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$6K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x7091…aad4",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$164K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$129K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$124K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDz",
+        "volume": "$11K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$6K"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$2K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$1K"
+      },
+      {
+        "name": "ANZ",
+        "volume": "$410"
+      },
+      {
+        "name": "OP",
+        "volume": "$255"
+      },
+      {
+        "name": "SNX",
+        "volume": "$135"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$16"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:15:07.262Z",
+  "source": "moonwell",
+  "vaultBalance": 1.5827778085047068,
+  "vaultPct": 0.028715113283350146
+}

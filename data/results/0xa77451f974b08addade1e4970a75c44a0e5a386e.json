@@ -1,0 +1,170 @@
+{
+  "portfolio": {
+    "address": "0xa77451f974b08addade1e4970a75c44a0e5a386e",
+    "totalValue": "$18,592",
+    "walletLifetime": "379 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.9800",
+        "amount": "0.0148",
+        "usdValue": "$46.08"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "30.6261",
+        "usdValue": "$30.62"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "Bsop",
+        "chain": "base",
+        "price": "$0.00001896",
+        "amount": "5.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7887",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "op",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LARRY",
+        "chain": "op",
+        "price": "$0.0000",
+        "amount": "1,000,000,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "1,300.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$14,560"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3,956"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa77451f974b08addade1e4970a75c44a0e5a386e",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$103K"
+      },
+      {
+        "name": "0x12ba…930d",
+        "volume": "$35K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$26K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x9398…684e",
+        "volume": "$13K"
+      },
+      {
+        "name": "Instadapp Lite",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x96e8…72cc",
+        "volume": "$613"
+      },
+      {
+        "name": "0x4a82…444c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7a5c…3c3f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9399…684e",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x46f8…878a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$103K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$89K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$650"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:59:09.994Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 7.3588867120659565,
+  "vaultPct": 0.001368289556256086
+}

@@ -1,0 +1,162 @@
+{
+  "portfolio": {
+    "address": "0x30e46ec6f7733ea94a9963bba128c06717850474",
+    "totalValue": "$103",
+    "walletLifetime": "377 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,115.0800",
+        "amount": "0.0241",
+        "usdValue": "$75.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,115.0800",
+        "amount": "0.0090",
+        "usdValue": "$27.92"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "0.0002",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x30e46ec6f7733ea94a9963bba128c06717850474",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$229K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$109K"
+      },
+      {
+        "name": "0x5c84…8258",
+        "volume": "$89K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$48K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$41K"
+      },
+      {
+        "name": "0x368d…1511",
+        "volume": "$38K"
+      },
+      {
+        "name": "0xe02d…fed2",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x6893…151c",
+        "volume": "$21K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xd77a…cedf",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x0000…0d95",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xa904…ed36",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x1ff9…ca5d",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x4039…0f5c",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xcea8…85af",
+        "volume": "$9K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$9K"
+      },
+      {
+        "name": "Fractality",
+        "volume": "$8K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$276K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$257K"
+      },
+      {
+        "name": "KY2K",
+        "volume": "$110K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$81K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$68M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:27:56.909Z",
+  "source": "base_aave",
+  "vaultBalance": 11.531150098140987,
+  "vaultPct": 0.016963247247782382
+}

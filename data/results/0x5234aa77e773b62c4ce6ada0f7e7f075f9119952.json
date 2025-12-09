@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0x5234aa77e773b62c4ce6ada0f7e7f075f9119952",
+    "totalValue": "$1,794",
+    "walletLifetime": "210 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.8600",
+        "amount": "0.0511",
+        "usdValue": "$159.93"
+      },
+      {
+        "symbol": "AVNT",
+        "chain": "base",
+        "price": "$0.3076",
+        "amount": "238.9891",
+        "usdValue": "$73.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.1300",
+        "amount": "0.0123",
+        "usdValue": "$38.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.1300",
+        "amount": "0.0085",
+        "usdValue": "$26.67"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,431.5600",
+        "amount": "0.00001685",
+        "usdValue": "$1.52"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,126.3100",
+        "amount": "0.0005",
+        "usdValue": "$1.47"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "arb",
+        "price": "$13.7736",
+        "amount": "0.0245",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.1287",
+        "usdValue": "$0.13"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9884",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7907",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "₸USD",
+        "chain": "base",
+        "price": "$0.0₅7194",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$758"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$730"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5234aa77e773b62c4ce6ada0f7e7f075f9119952",
+    "topProtocols": [
+      {
+        "name": "GMX V2",
+        "volume": "$107K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$3K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$3K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "Silo",
+        "volume": "$999"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$997"
+      },
+      {
+        "name": "0xb782…5d6d",
+        "volume": "$997"
+      },
+      {
+        "name": "0xd13f…a9af",
+        "volume": "$944"
+      },
+      {
+        "name": "0x7900…8920",
+        "volume": "$855"
+      },
+      {
+        "name": "0x350b…4e4d",
+        "volume": "$815"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$603"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$536"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$114K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$788"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$567"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:19:46.295Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.23330072928481643,
+  "vaultPct": 0.00004337924523609402
+}

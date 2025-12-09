@@ -1,0 +1,208 @@
+{
+  "portfolio": {
+    "address": "0x6fffa8749e9dd7e6f8c0f4fea0d9dc67ff90ed91",
+    "totalValue": "$753",
+    "walletLifetime": "680 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,113.1700",
+        "amount": "0.0560",
+        "usdValue": "$174.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.1700",
+        "amount": "0.0323",
+        "usdValue": "$100.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,113.1700",
+        "amount": "0.0252",
+        "usdValue": "$78.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.1700",
+        "amount": "0.0218",
+        "usdValue": "$67.97"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.7000",
+        "amount": "0.0115",
+        "usdValue": "$10.19"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1993",
+        "amount": "1.0315",
+        "usdValue": "$1.24"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "eth",
+        "price": "$0.8250",
+        "amount": "1.2590",
+        "usdValue": "$1.04"
+      },
+      {
+        "symbol": "GAME",
+        "chain": "base",
+        "price": "$0.0176",
+        "amount": "46.2749",
+        "usdValue": "$0.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zircuit",
+        "price": "$3,113.1700",
+        "amount": "0.0002",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3157",
+        "amount": "1.6805",
+        "usdValue": "$0.53"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$315"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6fffa8749e9dd7e6f8c0f4fea0d9dc67ff90ed91",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$16K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Symbiotic",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd7aa…64fc",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$4K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$3K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$8K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:17:12.467Z",
+  "source": "moonwell",
+  "vaultBalance": 0.0988747891273764,
+  "vaultPct": 0.001793808805888074
+}

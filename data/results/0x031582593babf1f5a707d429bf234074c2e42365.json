@@ -1,0 +1,94 @@
+{
+  "portfolio": {
+    "address": "0x031582593babf1f5a707d429bf234074c2e42365",
+    "totalValue": "$879",
+    "walletLifetime": "321 days",
+    "tokens": [
+      {
+        "symbol": "BAT",
+        "chain": "eth",
+        "price": "$0.2588",
+        "amount": "3,385.7783",
+        "usdValue": "$876.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.6500",
+        "amount": "0.0007",
+        "usdValue": "$2.35"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "0.0003",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x031582593babf1f5a707d429bf234074c2e42365",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$67K"
+      },
+      {
+        "name": "0x7609…d630",
+        "volume": "$36K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xd51f…a427",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xb285…01fe",
+        "volume": "$818"
+      },
+      {
+        "name": "0x987e…d9ee",
+        "volume": "$39"
+      },
+      {
+        "name": "0xea16…151b",
+        "volume": "$12"
+      },
+      {
+        "name": "0x9870…d9ee",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$91K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$16K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "BAT",
+        "volume": "$815"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:30:39.190Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 10.927634868842468,
+  "vaultPct": 0.0020318519975447854
+}

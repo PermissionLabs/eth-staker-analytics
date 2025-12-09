@@ -1,0 +1,333 @@
+{
+  "portfolio": {
+    "address": "0x28ba27ca9ad2e279afcb0352b8dc5fb581e9b6e6",
+    "totalValue": "$13,956",
+    "walletLifetime": "1714 days",
+    "tokens": [
+      {
+        "symbol": "LBTC",
+        "chain": "eth",
+        "price": "$90,918.9270",
+        "amount": "0.0119",
+        "usdValue": "$1,080.50"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6700",
+        "amount": "53.0449",
+        "usdValue": "$725.12"
+      },
+      {
+        "symbol": "XBG",
+        "chain": "arb",
+        "price": "$0.0658",
+        "amount": "10,806.3500",
+        "usdValue": "$711.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.4500",
+        "amount": "0.0936",
+        "usdValue": "$293.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,137.4500",
+        "amount": "0.0593",
+        "usdValue": "$185.98"
+      },
+      {
+        "symbol": "AXL",
+        "chain": "eth",
+        "price": "$0.1113",
+        "amount": "1,649.1835",
+        "usdValue": "$183.55"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3183",
+        "amount": "362.9100",
+        "usdValue": "$115.51"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4810",
+        "amount": "218.4562",
+        "usdValue": "$105.08"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "59.1603",
+        "usdValue": "$59.15"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "51.0542",
+        "usdValue": "$51.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,137.6100",
+        "amount": "0.0161",
+        "usdValue": "$50.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,137.6100",
+        "amount": "0.0120",
+        "usdValue": "$37.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,137.4500",
+        "amount": "0.0098",
+        "usdValue": "$30.67"
+      },
+      {
+        "symbol": "AZUR",
+        "chain": "eth",
+        "price": "$0.0040",
+        "amount": "3,700.0000",
+        "usdValue": "$14.86"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "9.9114",
+        "usdValue": "$9.91"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "8.3747",
+        "usdValue": "$8.37"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.0000",
+        "amount": "0.0057",
+        "usdValue": "$5.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$5,403"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,668"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$1,348"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$497"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$314"
+      },
+      {
+        "protocol": "Para Space",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH(parallel)",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$14"
+      },
+      {
+        "protocol": "BMX",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x28ba27ca9ad2e279afcb0352b8dc5fb581e9b6e6",
+    "topProtocols": [
+      {
+        "name": "0x1f69…edc1",
+        "volume": "$19K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$12K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$11K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$11K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$11K"
+      },
+      {
+        "name": "HTX",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x2091…4902",
+        "volume": "$9K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$9K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x2072…775d",
+        "volume": "$7K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xcb31…f252",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x107e…e45e",
+        "volume": "$6K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$6K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$26K"
+      },
+      {
+        "name": "POLS",
+        "volume": "$21K"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$20K"
+      },
+      {
+        "name": "ETHx",
+        "volume": "$13K"
+      },
+      {
+        "name": "TGT",
+        "volume": "$12K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "POL",
+        "volume": "$9K"
+      },
+      {
+        "name": "REZ",
+        "volume": "$8K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$8K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$7K"
+      },
+      {
+        "name": "STND",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "KLIMA",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:26:20.666Z",
+  "source": "moonwell",
+  "vaultBalance": 1.6801828841310698,
+  "vaultPct": 0.030482258214214887
+}

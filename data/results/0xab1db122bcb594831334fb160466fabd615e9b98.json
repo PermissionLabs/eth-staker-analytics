@@ -1,0 +1,228 @@
+{
+  "portfolio": {
+    "address": "0xab1db122bcb594831334fb160466fabd615e9b98",
+    "totalValue": "$1,961",
+    "walletLifetime": "1344 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,153.4000",
+        "amount": "0.1102",
+        "usdValue": "$347.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,152.7600",
+        "amount": "0.0747",
+        "usdValue": "$235.66"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.1970",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,152.7600",
+        "amount": "0.00001659",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,153.4000",
+        "amount": "0.00001134",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.0046",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OX",
+        "chain": "arb",
+        "price": "$0.00005228",
+        "amount": "5.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1398",
+        "amount": "1,000.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,377"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xab1db122bcb594831334fb160466fabd615e9b98",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$782K"
+      },
+      {
+        "name": "0x7177…6fba",
+        "volume": "$421K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$418K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$261K"
+      },
+      {
+        "name": "0x7379…a2ba",
+        "volume": "$100K"
+      },
+      {
+        "name": "0xcc0f…4680",
+        "volume": "$13K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$8K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$6K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$3K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0000…006e",
+        "volume": "$1K"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "MDAI",
+        "volume": "$517K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$16K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$10K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "STG",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$3K"
+      },
+      {
+        "name": "OP",
+        "volume": "$691"
+      },
+      {
+        "name": "WETH",
+        "volume": "$127"
+      },
+      {
+        "name": "SCR",
+        "volume": "$107"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:04:01.851Z",
+  "source": "base_aave",
+  "vaultBalance": 0.43563274638889266,
+  "vaultPct": 0.0006408507324361871
+}

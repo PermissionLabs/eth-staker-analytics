@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0x0019b634253ac43ede8f92b4ffa6815d0188cc21",
+    "totalValue": "$19,523",
+    "walletLifetime": "3101 days",
+    "tokens": [
+      {
+        "symbol": "AVT",
+        "chain": "eth",
+        "price": "$0.8900",
+        "amount": "368.0000",
+        "usdValue": "$327.52"
+      },
+      {
+        "symbol": "CVC",
+        "chain": "eth",
+        "price": "$0.0472",
+        "amount": "5,000.0000",
+        "usdValue": "$236.00"
+      },
+      {
+        "symbol": "GLM",
+        "chain": "eth",
+        "price": "$0.2238",
+        "amount": "1,039.5148",
+        "usdValue": "$232.64"
+      },
+      {
+        "symbol": "BNT",
+        "chain": "eth",
+        "price": "$0.4447",
+        "amount": "500.0000",
+        "usdValue": "$222.35"
+      },
+      {
+        "symbol": "XDATA(old)",
+        "chain": "eth",
+        "price": "$0.0071",
+        "amount": "7,961.3537",
+        "usdValue": "$56.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.3200",
+        "amount": "0.0165",
+        "usdValue": "$51.65"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2839",
+        "amount": "62.0000",
+        "usdValue": "$17.60"
+      },
+      {
+        "symbol": "HMQ",
+        "chain": "eth",
+        "price": "$0.0020",
+        "amount": "5,259.1565",
+        "usdValue": "$10.72"
+      },
+      {
+        "symbol": "SNX",
+        "chain": "eth",
+        "price": "$0.4950",
+        "amount": "18.8781",
+        "usdValue": "$9.34"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.8200",
+        "amount": "2.0950",
+        "usdValue": "$8.00"
+      },
+      {
+        "symbol": "OMG",
+        "chain": "eth",
+        "price": "$0.0858",
+        "amount": "21.8925",
+        "usdValue": "$1.88"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$18,254"
+      },
+      {
+        "protocol": "Bancor",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BNT",
+        "usdValue": "$94"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0019b634253ac43ede8f92b4ffa6815d0188cc21",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x3a91…397d",
+        "volume": "$5K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x907e…083c",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xc958…708a",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bittrex",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bancor",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8b7b…d30c",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x533e…9648",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x54b2…3b9b",
+        "volume": "$619"
+      },
+      {
+        "name": "0x36fa…f1e3",
+        "volume": "$557"
+      },
+      {
+        "name": "0x1244…610c",
+        "volume": "$529B"
+      },
+      {
+        "name": "inance",
+        "volume": "$437"
+      },
+      {
+        "name": "0xb56d…2db3",
+        "volume": "$276"
+      },
+      {
+        "name": "EtherDelta",
+        "volume": "$268"
+      },
+      {
+        "name": "0xa4a2…13ff",
+        "volume": "$31"
+      },
+      {
+        "name": "0x862c…439a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x2555…ad74",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "OMG",
+        "volume": "$7K"
+      },
+      {
+        "name": "LPOOL",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$913"
+      },
+      {
+        "name": "GLM",
+        "volume": "$568"
+      },
+      {
+        "name": "XDATA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:11:05.385Z",
+  "source": "lido_steth",
+  "vaultBalance": 5,
+  "vaultPct": 0.00037543921190800805
+}

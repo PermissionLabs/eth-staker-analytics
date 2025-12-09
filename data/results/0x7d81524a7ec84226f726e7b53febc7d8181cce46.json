@@ -1,0 +1,303 @@
+{
+  "portfolio": {
+    "address": "0x7d81524a7ec84226f726e7b53febc7d8181cce46",
+    "totalValue": "$730",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.9100",
+        "amount": "0.0317",
+        "usdValue": "$99.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,125.3300",
+        "amount": "0.0219",
+        "usdValue": "$68.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9100",
+        "amount": "0.0094",
+        "usdValue": "$29.40"
+      },
+      {
+        "symbol": "W",
+        "chain": "base",
+        "price": "$0.0409",
+        "amount": "526.3287",
+        "usdValue": "$21.52"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,125.9100",
+        "amount": "0.0060",
+        "usdValue": "$18.67"
+      },
+      {
+        "symbol": "PLUME",
+        "chain": "plume",
+        "price": "$0.0220",
+        "amount": "658.4610",
+        "usdValue": "$14.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "abs",
+        "price": "$3,125.9100",
+        "amount": "0.0042",
+        "usdValue": "$13.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.9100",
+        "amount": "0.0026",
+        "usdValue": "$8.12"
+      },
+      {
+        "symbol": "APE",
+        "chain": "ape",
+        "price": "$0.2336",
+        "amount": "31.0870",
+        "usdValue": "$7.26"
+      },
+      {
+        "symbol": "rsETH",
+        "chain": "uni",
+        "price": "$3,301.6471",
+        "amount": "0.0016",
+        "usdValue": "$5.31"
+      },
+      {
+        "symbol": "yUSD",
+        "chain": "plume",
+        "price": "$0.9875",
+        "amount": "4.5090",
+        "usdValue": "$4.45"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7500",
+        "amount": "0.2446",
+        "usdValue": "$3.36"
+      },
+      {
+        "symbol": "RON",
+        "chain": "ron",
+        "price": "$0.1700",
+        "amount": "17.9174",
+        "usdValue": "$3.05"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0002",
+        "amount": "2.9992",
+        "usdValue": "$3.00"
+      },
+      {
+        "symbol": "pUSD",
+        "chain": "plume",
+        "price": "$0.9993",
+        "amount": "2.2261",
+        "usdValue": "$2.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,125.9100",
+        "amount": "0.0005",
+        "usdValue": "$1.48"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.3000",
+        "amount": "0.0013",
+        "usdValue": "$1.15"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "0.7780",
+        "usdValue": "$0.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,125.9100",
+        "amount": "0.0002",
+        "usdValue": "$0.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,125.3300",
+        "amount": "0.0002",
+        "usdValue": "$0.51"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2126",
+        "amount": "1.9241",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "XAUM",
+        "chain": "plume",
+        "price": "$4,238.2802",
+        "amount": "0.00009644",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1130",
+        "amount": "0.2957",
+        "usdValue": "$0.33"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$407"
+      },
+      {
+        "protocol": "Human Passport",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GTC",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Nest",
+        "chain": "plume",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC.e",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Wormhole",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "W",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Orbit Protocol",
+        "chain": "blast",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7d81524a7ec84226f726e7b53febc7d8181cce46",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$21K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$10K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$9K"
+      },
+      {
+        "name": "OpenUSDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "Merkly",
+        "volume": "$7K"
+      },
+      {
+        "name": "Hyperlane",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x6d04…ca20",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf5b6…a25b",
+        "volume": "$5K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$4K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xb4a8…dbc2",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$44K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:17:50.005Z",
+  "source": "base_aave",
+  "vaultBalance": 0.13,
+  "vaultPct": 0.00019124043338636514
+}

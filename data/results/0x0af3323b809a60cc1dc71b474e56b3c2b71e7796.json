@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0x0af3323b809a60cc1dc71b474e56b3c2b71e7796",
+    "totalValue": "$4,854",
+    "walletLifetime": "1003 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.6307",
+        "amount": "64.2732",
+        "usdValue": "$876.09"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$188.9477",
+        "amount": "1.8190",
+        "usdValue": "$343.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.7400",
+        "amount": "0.0001",
+        "usdValue": "$0.46"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "175.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1220",
+        "amount": "0.0108",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.00006721",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004632",
+        "amount": "0.0690",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,634"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0af3323b809a60cc1dc71b474e56b3c2b71e7796",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8f90…a842",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x9113…0154",
+        "volume": "$396B"
+      },
+      {
+        "name": "inance",
+        "volume": "$343"
+      },
+      {
+        "name": "raken",
+        "volume": "$152"
+      },
+      {
+        "name": "0x4c60…68cd",
+        "volume": "$149"
+      },
+      {
+        "name": "0xa2ad…335f",
+        "volume": "$136B"
+      },
+      {
+        "name": "x",
+        "volume": "$381"
+      },
+      {
+        "name": "inch",
+        "volume": "$5"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb890…bc6c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1db7…501b",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$1K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$638"
+      },
+      {
+        "name": "POL",
+        "volume": "$603"
+      },
+      {
+        "name": "LDO",
+        "volume": "$291"
+      },
+      {
+        "name": "APE",
+        "volume": "$260M"
+      },
+      {
+        "name": "KR",
+        "volume": "$219"
+      },
+      {
+        "name": "USDC",
+        "volume": "$86"
+      },
+      {
+        "name": "COMP",
+        "volume": "$66"
+      },
+      {
+        "name": "ENJ",
+        "volume": "$26B"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:20:07.101Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.1562943377592174,
+  "vaultPct": 0.00021499793762551456
+}

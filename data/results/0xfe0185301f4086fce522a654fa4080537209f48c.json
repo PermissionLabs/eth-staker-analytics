@@ -1,0 +1,185 @@
+{
+  "portfolio": {
+    "address": "0xfe0185301f4086fce522a654fa4080537209f48c",
+    "totalValue": "$142,580",
+    "walletLifetime": "266 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.0500",
+        "amount": "0.3003",
+        "usdValue": "$940.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.0500",
+        "amount": "0.0230",
+        "usdValue": "$71.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,133.0500",
+        "amount": "0.0142",
+        "usdValue": "$44.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.0500",
+        "amount": "0.0118",
+        "usdValue": "$36.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,133.0500",
+        "amount": "0.0038",
+        "usdValue": "$11.91"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$141,398"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$56"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$20"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfe0185301f4086fce522a654fa4080537209f48c",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$7M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1M"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$598K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$489K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$337K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$259K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$175K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$157K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$106K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$92K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$90K"
+      },
+      {
+        "name": "0x9c9c…b917",
+        "volume": "$82K"
+      },
+      {
+        "name": "0x5edf…da8c",
+        "volume": "$79K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$10M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$600K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$585K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$110K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$73K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$2K"
+      },
+      {
+        "name": "SEAM",
+        "volume": "$855"
+      },
+      {
+        "name": "UNI",
+        "volume": "$696"
+      },
+      {
+        "name": "WELL",
+        "volume": "$539"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:29:07.361Z",
+  "source": "moonwell",
+  "vaultBalance": 44.222927780363605,
+  "vaultPct": 0.8023023662015014
+}

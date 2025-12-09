@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0xbc66385c6b3701cb47d98bc1344f8bab9ccfdf19",
+    "totalValue": "$34,236",
+    "walletLifetime": "1198 days",
+    "tokens": [
+      {
+        "symbol": "PAXG",
+        "chain": "eth",
+        "price": "$4,199.5975",
+        "amount": "1.9324",
+        "usdValue": "$8,115.23"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "1,587.0652",
+        "usdValue": "$1,587.07"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,506.0000",
+        "amount": "0.0155",
+        "usdValue": "$1,402.61"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,124.9300",
+        "amount": "0.1000",
+        "usdValue": "$312.49"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "119.1053",
+        "usdValue": "$119.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.9300",
+        "amount": "0.0329",
+        "usdValue": "$102.68"
+      },
+      {
+        "symbol": "WLD",
+        "chain": "eth",
+        "price": "$0.6018",
+        "amount": "116.3217",
+        "usdValue": "$70.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.9300",
+        "amount": "0.0167",
+        "usdValue": "$52.11"
+      },
+      {
+        "symbol": "CAPS",
+        "chain": "eth",
+        "price": "$0.0008",
+        "amount": "17,452.1843",
+        "usdValue": "$13.32"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$10,100"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$8,169"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$3,566"
+      },
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$626"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbc66385c6b3701cb47d98bc1344f8bab9ccfdf19",
+    "topProtocols": [
+      {
+        "name": "0xa322…59b3",
+        "volume": "$39K"
+      },
+      {
+        "name": "0xd6d4…2f7b",
+        "volume": "$36K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$26K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$23K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x18be…63dd",
+        "volume": "$9K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x8fd2…d15d",
+        "volume": "$8K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x04ec…46f2",
+        "volume": "$5K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x95bb…c55d",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xc106…7741",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x72a0…06fd",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xb4b4…741b",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$87K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$63K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$46K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "CAPS",
+        "volume": "$425"
+      },
+      {
+        "name": "WETH",
+        "volume": "$253"
+      },
+      {
+        "name": "WLD",
+        "volume": "$175"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:04:03.025Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.1687438583741422,
+  "vaultPct": 0.00003137573224454137
+}

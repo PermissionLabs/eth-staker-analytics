@@ -1,0 +1,338 @@
+{
+  "portfolio": {
+    "address": "0x2b5d13d0b275e91f428248370e02e3800f908324",
+    "totalValue": "$64,788",
+    "walletLifetime": "1883 days",
+    "tokens": [
+      {
+        "symbol": "LDO",
+        "chain": "arb",
+        "price": "$0.5964",
+        "amount": "4,338.0757",
+        "usdValue": "$2,587.43"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "arb",
+        "price": "$5.6225",
+        "amount": "144.6858",
+        "usdValue": "$813.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.5800",
+        "amount": "0.1799",
+        "usdValue": "$563.55"
+      },
+      {
+        "symbol": "BRETT",
+        "chain": "base",
+        "price": "$0.0186",
+        "amount": "14,539.9988",
+        "usdValue": "$269.74"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0324",
+        "amount": "6,184.0000",
+        "usdValue": "$200.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,132.5800",
+        "amount": "0.0459",
+        "usdValue": "$143.76"
+      },
+      {
+        "symbol": "RPL",
+        "chain": "arb",
+        "price": "$2.4162",
+        "amount": "56.6525",
+        "usdValue": "$136.89"
+      },
+      {
+        "symbol": "API3",
+        "chain": "eth",
+        "price": "$0.4970",
+        "amount": "135.8439",
+        "usdValue": "$67.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.5800",
+        "amount": "0.0189",
+        "usdValue": "$59.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,132.5800",
+        "amount": "0.0109",
+        "usdValue": "$34.01"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2126",
+        "amount": "60.6788",
+        "usdValue": "$12.90"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,131.3100",
+        "amount": "0.0040",
+        "usdValue": "$12.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.5800",
+        "amount": "0.0036",
+        "usdValue": "$11.39"
+      },
+      {
+        "symbol": "Wolf (wolfland.io)",
+        "chain": "eth",
+        "price": "$0.0006",
+        "amount": "15,982.5040",
+        "usdValue": "$8.81"
+      },
+      {
+        "symbol": "BAL",
+        "chain": "matic",
+        "price": "$0.6797",
+        "amount": "11.1262",
+        "usdValue": "$7.56"
+      },
+      {
+        "symbol": "COQ",
+        "chain": "avax",
+        "price": "$0.0₆2146",
+        "amount": "25,132,076.4588",
+        "usdValue": "$5.39"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$57,936"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$1,327"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$233"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$220"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$89"
+      },
+      {
+        "protocol": "PoolTogether",
+        "chain": "op",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$21"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$15"
+      },
+      {
+        "protocol": "Pangolin",
+        "chain": "avax",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "PNG",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WAVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Umami Finance",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "UMAMI",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2b5d13d0b275e91f428248370e02e3800f908324",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$808K"
+      },
+      {
+        "name": "0x9c3f…2d9b",
+        "volume": "$751K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$317K"
+      },
+      {
+        "name": "0x3404…3f05",
+        "volume": "$54K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$53K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$44K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$37K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$36K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$32K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$20K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$19K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$19K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$12K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "Aave V1",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$371K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$305K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$187K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$168K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$100K"
+      },
+      {
+        "name": "KLDO",
+        "volume": "$30K"
+      },
+      {
+        "name": "SNX",
+        "volume": "$26K"
+      },
+      {
+        "name": "FRAX",
+        "volume": "$12K"
+      },
+      {
+        "name": "CVX",
+        "volume": "$10K"
+      },
+      {
+        "name": "Yf-DAI",
+        "volume": "$9K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$9K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$7K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$6K"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:53:49.890Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 36.18955314723611,
+  "vaultPct": 0.006728978112374821
+}

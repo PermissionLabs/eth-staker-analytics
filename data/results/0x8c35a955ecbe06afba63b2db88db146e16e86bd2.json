@@ -1,0 +1,76 @@
+{
+  "portfolio": {
+    "address": "0x8c35a955ecbe06afba63b2db88db146e16e86bd2",
+    "totalValue": "$18,400",
+    "walletLifetime": "685 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.0000",
+        "amount": "0.0097",
+        "usdValue": "$30.26"
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.4000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$18,370"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8c35a955ecbe06afba63b2db88db146e16e86bd2",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$39K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$26K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$10K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8f27…99cf",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$78K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:06:29.299Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 5.400019994496822,
+  "vaultPct": 0.06022960709857505
+}

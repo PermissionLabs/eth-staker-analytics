@@ -1,0 +1,63 @@
+{
+  "portfolio": {
+    "address": "0xfcd79c346f8bfde93a5231ac175ba514b001bfc3",
+    "totalValue": "$953",
+    "walletLifetime": "639 days",
+    "tokens": [
+      {
+        "symbol": "AIOZ",
+        "chain": "eth",
+        "price": "$0.1185",
+        "amount": "1,610.2303",
+        "usdValue": "$190.85"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9833",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$762"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfcd79c346f8bfde93a5231ac175ba514b001bfc3",
+    "topProtocols": [
+      {
+        "name": "0xa2fd…3808",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "AIOZ",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:57:01.681Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.23372579431748156,
+  "vaultPct": 0.000017549965604225692
+}

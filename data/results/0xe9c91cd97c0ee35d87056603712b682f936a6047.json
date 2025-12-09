@@ -1,0 +1,250 @@
+{
+  "portfolio": {
+    "address": "0xe9c91cd97c0ee35d87056603712b682f936a6047",
+    "totalValue": "$16,897",
+    "walletLifetime": "310 days",
+    "tokens": [
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.5840",
+        "amount": "26.2916",
+        "usdValue": "$777.81"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "308.2085",
+        "usdValue": "$308.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,100.9800",
+        "amount": "0.0746",
+        "usdValue": "$231.44"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.3684",
+        "amount": "86.0575",
+        "usdValue": "$203.82"
+      },
+      {
+        "symbol": "XRP",
+        "chain": "bsc",
+        "price": "$2.0702",
+        "amount": "88.6803",
+        "usdValue": "$183.58"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.1000",
+        "amount": "0.0706",
+        "usdValue": "$63.29"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "arb",
+        "price": "$13.7401",
+        "amount": "2.7918",
+        "usdValue": "$38.36"
+      },
+      {
+        "symbol": "AIXBT",
+        "chain": "base",
+        "price": "$0.0398",
+        "amount": "797.8249",
+        "usdValue": "$31.76"
+      },
+      {
+        "symbol": "GIZA",
+        "chain": "base",
+        "price": "$0.0460",
+        "amount": "172.2268",
+        "usdValue": "$7.93"
+      },
+      {
+        "symbol": "weETH",
+        "chain": "base",
+        "price": "$3,353.4883",
+        "amount": "0.0016",
+        "usdValue": "$5.39"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8365",
+        "amount": "3.6683",
+        "usdValue": "$3.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,100.9800",
+        "amount": "0.0008",
+        "usdValue": "$2.45"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$14,433"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ezETH",
+        "usdValue": "$605"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "HYPE",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe9c91cd97c0ee35d87056603712b682f936a6047",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$42K"
+      },
+      {
+        "name": "0x7900…8920",
+        "volume": "$10K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x93f3…fb05",
+        "volume": "$3K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "0001inch",
+        "volume": "$913"
+      },
+      {
+        "name": "0x730a…c314",
+        "volume": "$806"
+      },
+      {
+        "name": "0x93af…8536",
+        "volume": "$722B"
+      },
+      {
+        "name": "itget",
+        "volume": "$623"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$433"
+      },
+      {
+        "name": "0x2ba1…ad90",
+        "volume": "$400"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$31K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$24K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$784"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$500"
+      },
+      {
+        "name": "XRP",
+        "volume": "$250"
+      },
+      {
+        "name": "NB",
+        "volume": "$60"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$47"
+      },
+      {
+        "name": "GIZA",
+        "volume": "$40"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:19:04.069Z",
+  "source": "base_aave",
+  "vaultBalance": 0.09190285241904253,
+  "vaultPct": 0.0001351964717389296
+}

@@ -1,0 +1,95 @@
+{
+  "portfolio": {
+    "address": "0x6d23597f0f203626d0fe25c11fc761fb66a02275",
+    "totalValue": "$6,245",
+    "walletLifetime": "137 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,100.8000",
+        "amount": "0.0403",
+        "usdValue": "$125.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.8000",
+        "amount": "0.0097",
+        "usdValue": "$30.07"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7843",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,090"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6d23597f0f203626d0fe25c11fc761fb66a02275",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$17K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$12K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe82e…26ce",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5c31…626b",
+        "volume": "$4K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$525"
+      },
+      {
+        "name": "0xab3e…79c0",
+        "volume": "$81"
+      },
+      {
+        "name": "0x5af4…3162",
+        "volume": "$11"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:09:52.124Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.341781933262663,
+  "vaultPct": 0.0006213610152567316
+}

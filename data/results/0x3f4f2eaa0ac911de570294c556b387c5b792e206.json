@@ -1,0 +1,284 @@
+{
+  "portfolio": {
+    "address": "0x3f4f2eaa0ac911de570294c556b387c5b792e206",
+    "totalValue": "$8,737",
+    "walletLifetime": "1982 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.9900",
+        "amount": "0.0010",
+        "usdValue": "$3.01"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1214",
+        "amount": "2.3050",
+        "usdValue": "$2.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,108.9900",
+        "amount": "0.0002",
+        "usdValue": "$0.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.9900",
+        "amount": "0.0001",
+        "usdValue": "$0.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,108.9900",
+        "amount": "0.00006654",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "mnt",
+        "price": "$3,108.6200",
+        "amount": "0.00004921",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "KNC",
+        "chain": "arb",
+        "price": "$0.2605",
+        "amount": "0.2482",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "op",
+        "price": "$1.0000",
+        "amount": "0.0556",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "MOE",
+        "chain": "mnt",
+        "price": "$0.0371",
+        "amount": "0.8429",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "0.0256",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.9000",
+        "amount": "0.00001742",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "Metis",
+        "chain": "metis",
+        "price": "$6.3200",
+        "amount": "0.0020",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "SDJT",
+        "chain": "bsc",
+        "price": "$0.1141",
+        "amount": "0.1000",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "base",
+        "price": "$1.0001",
+        "amount": "0.0094",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,903"
+      },
+      {
+        "protocol": "Autopilot",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AERO",
+        "usdValue": "$3,552"
+      },
+      {
+        "protocol": "Solunea",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "SLNA",
+        "usdValue": "$150"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$91"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$12"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3f4f2eaa0ac911de570294c556b387c5b792e206",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$6M"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$297K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$60K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$57K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$47K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$32K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$30K"
+      },
+      {
+        "name": "0xacc5…37b9",
+        "volume": "$22K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$21K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$19K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xfcc4…526e",
+        "volume": "$12K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x2104…0820",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x22a4…816f",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$4M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$420K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$402K"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$45K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$45K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$42K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$35K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$14K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:14:37.457Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.061247630685423826,
+  "vaultPct": 0.000011388202684909614
+}

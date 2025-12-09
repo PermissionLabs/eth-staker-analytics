@@ -1,0 +1,123 @@
+{
+  "portfolio": {
+    "address": "0xd464290ee66f80dfa42b2177531c0ab641142ead",
+    "totalValue": "$225",
+    "walletLifetime": "1866 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,146.1000",
+        "amount": "0.0044",
+        "usdValue": "$13.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,146.2500",
+        "amount": "0.0023",
+        "usdValue": "$7.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,146.2500",
+        "amount": "0.0007",
+        "usdValue": "$2.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,146.2500",
+        "amount": "0.0005",
+        "usdValue": "$1.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,146.2500",
+        "amount": "0.0002",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2088",
+        "amount": "0.3077",
+        "usdValue": "$0.37"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0102",
+        "amount": "17.7451",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$198"
+      },
+      {
+        "protocol": "SpaceFi",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Rollup Finance",
+        "chain": "era",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd464290ee66f80dfa42b2177531c0ab641142ead",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T21:31:34.538Z",
+  "source": "moonwell",
+  "vaultBalance": 0.061576931939000754,
+  "vaultPct": 0.0011171426379423426
+}

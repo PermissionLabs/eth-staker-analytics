@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0x66083a250cb99fd0dc221dfd3c7a99ebf5627c84",
+    "totalValue": "$11,597",
+    "walletLifetime": "1468 days",
+    "tokens": [
+      {
+        "symbol": "INJ",
+        "chain": "eth",
+        "price": "$5.5210",
+        "amount": "719.5598",
+        "usdValue": "$3,972.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,101.7500",
+        "amount": "0.1207",
+        "usdValue": "$374.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.7500",
+        "amount": "0.0757",
+        "usdValue": "$234.83"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.2000",
+        "amount": "0.0093",
+        "usdValue": "$8.29"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SDJT",
+        "chain": "bsc",
+        "price": "$0.1138",
+        "amount": "0.1000",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "wkeyDAO",
+        "chain": "bsc",
+        "price": "$9.6831",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7843",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "THG",
+        "chain": "bsc",
+        "price": "$0.0002",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ETHW",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.1210",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "NATG",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.1000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$7,006"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x66083a250cb99fd0dc221dfd3c7a99ebf5627c84",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$112K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$26K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$22K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$21K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x54ac…f01c",
+        "volume": "$2K"
+      },
+      {
+        "name": "inance",
+        "volume": "$600"
+      },
+      {
+        "name": "0xfea9…118b",
+        "volume": "$600B"
+      },
+      {
+        "name": "0xb42f…ead6",
+        "volume": "$66"
+      },
+      {
+        "name": "0x2349…7d6f",
+        "volume": "$11"
+      },
+      {
+        "name": "0xbb36…246d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$110K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$82K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$30K"
+      },
+      {
+        "name": "KINJ",
+        "volume": "$10K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$4K"
+      },
+      {
+        "name": "BBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$218B"
+      },
+      {
+        "name": "NB",
+        "volume": "$87"
+      },
+      {
+        "name": "THG",
+        "volume": "$24"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:11:36.979Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6.803382450763098,
+  "vaultPct": 0.0012650007424807395
+}

@@ -1,0 +1,215 @@
+{
+  "portfolio": {
+    "address": "0xba2b539e376a97a20c6c552e7b0c3d31d6121829",
+    "totalValue": "$969",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.6600",
+        "amount": "0.1030",
+        "usdValue": "$320.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,109.0400",
+        "amount": "0.0900",
+        "usdValue": "$279.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.6600",
+        "amount": "0.0345",
+        "usdValue": "$107.22"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,110.5800",
+        "amount": "0.0208",
+        "usdValue": "$64.85"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2106",
+        "amount": "249.8007",
+        "usdValue": "$52.61"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "50.4661",
+        "usdValue": "$50.46"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0002",
+        "amount": "30.6343",
+        "usdValue": "$30.64"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "27.5244",
+        "usdValue": "$27.52"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3149",
+        "amount": "48.2402",
+        "usdValue": "$15.19"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,109.6600",
+        "amount": "0.0032",
+        "usdValue": "$9.80"
+      },
+      {
+        "symbol": "FRAX",
+        "chain": "arb",
+        "price": "$0.7651",
+        "amount": "6.5012",
+        "usdValue": "$4.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.6600",
+        "amount": "0.0009",
+        "usdValue": "$2.69"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$189.6043",
+        "amount": "0.0100",
+        "usdValue": "$1.90"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "arb",
+        "price": "$0.9993",
+        "amount": "1.0000",
+        "usdValue": "$1.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xba2b539e376a97a20c6c552e7b0c3d31d6121829",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$771K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$632K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$175K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$112K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$54K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$50K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$45K"
+      },
+      {
+        "name": "0x0000…0d95",
+        "volume": "$43K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$41K"
+      },
+      {
+        "name": "Revert",
+        "volume": "$31K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$712K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$505K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$353K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$266K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$253K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$164K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$151K"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$126K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$125K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$84K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$56K"
+      },
+      {
+        "name": "KGHO",
+        "volume": "$25K"
+      },
+      {
+        "name": "Legacy Frax Dollar",
+        "volume": "$4K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:43:46.025Z",
+  "source": "base_aave",
+  "vaultBalance": 36.17397443416668,
+  "vaultPct": 0.05321481960074868
+}

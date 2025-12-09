@@ -1,0 +1,208 @@
+{
+  "portfolio": {
+    "address": "0x15c54b87229d0c500db3b4953593bdf1f5a6938b",
+    "totalValue": "$4,911",
+    "walletLifetime": "31 days",
+    "tokens": [
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.5930",
+        "amount": "0.4912",
+        "usdValue": "$14.54"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "hyper",
+        "price": "$0.9999",
+        "amount": "11.1688",
+        "usdValue": "$11.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,099.9500",
+        "amount": "0.0019",
+        "usdValue": "$5.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,099.9500",
+        "amount": "0.0010",
+        "usdValue": "$3.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,099.9500",
+        "amount": "0.0008",
+        "usdValue": "$2.44"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.7000",
+        "amount": "0.0013",
+        "usdValue": "$1.20"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.6712",
+        "usdValue": "$0.67"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.2998",
+        "amount": "0.0079",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "Web3.0",
+        "chain": "bsc",
+        "price": "$0.00004384",
+        "amount": "3.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "比特币",
+        "chain": "bsc",
+        "price": "$0.0417",
+        "amount": "0.0010",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,325"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,334"
+      },
+      {
+        "protocol": "Project X",
+        "chain": "hyper",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$1,213"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x15c54b87229d0c500db3b4953593bdf1f5a6938b",
+    "topProtocols": [
+      {
+        "name": "0x8ce9…76a9",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8941…a85c",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$639"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$538"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$478M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$474"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$385"
+      },
+      {
+        "name": "inance",
+        "volume": "$160B"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$9"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$553"
+      },
+      {
+        "name": "AERO",
+        "volume": "$47"
+      },
+      {
+        "name": "Cake",
+        "volume": "$6"
+      },
+      {
+        "name": "USD",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:11:35.668Z",
+  "source": "base_aave",
+  "vaultBalance": 0.5760612601791609,
+  "vaultPct": 0.0008474323465673723
+}

@@ -1,0 +1,227 @@
+{
+  "portfolio": {
+    "address": "0x986d9bb496abd602ffbab9291a2621834f0f03a3",
+    "totalValue": "$490,116",
+    "walletLifetime": "2910 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,095.9000",
+        "amount": "2.6280",
+        "usdValue": "$8,136.17"
+      },
+      {
+        "symbol": "TON",
+        "chain": "eth",
+        "price": "$0.7373",
+        "amount": "697.4900",
+        "usdValue": "$514.27"
+      },
+      {
+        "symbol": "OHM (V1)",
+        "chain": "eth",
+        "price": "$130.6561",
+        "amount": "1.0050",
+        "usdValue": "$131.31"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2836",
+        "amount": "76.0000",
+        "usdValue": "$21.55"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.8000",
+        "amount": "2.2632",
+        "usdValue": "$8.60"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "3.1944",
+        "usdValue": "$3.19"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9798",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1233",
+        "amount": "0.0002",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7822",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DOC",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "384.2811",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "TOS",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "9,798.8053",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$452,454"
+      },
+      {
+        "protocol": "Tokamak Network",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "TON",
+        "usdValue": "$28,847"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x986d9bb496abd602ffbab9291a2621834f0f03a3",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x62be…e81e",
+        "volume": "$855K"
+      },
+      {
+        "name": "0xa85c…2805",
+        "volume": "$634K"
+      },
+      {
+        "name": "Tokamak Network",
+        "volume": "$575K"
+      },
+      {
+        "name": "0x0b75…2e42",
+        "volume": "$528K"
+      },
+      {
+        "name": "0xe3a1…05a1",
+        "volume": "$403K"
+      },
+      {
+        "name": "0x24c4…d550",
+        "volume": "$338K"
+      },
+      {
+        "name": "0x25c3…0a61",
+        "volume": "$280K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$235K"
+      },
+      {
+        "name": "0x38d0…b38d",
+        "volume": "$198K"
+      },
+      {
+        "name": "0xf35a…a82e",
+        "volume": "$149K"
+      },
+      {
+        "name": "0x99c0…129b",
+        "volume": "$106K"
+      },
+      {
+        "name": "0xc134…6153",
+        "volume": "$91K"
+      },
+      {
+        "name": "0xc575…f4db",
+        "volume": "$80K"
+      },
+      {
+        "name": "0x3b75…9267",
+        "volume": "$68K"
+      },
+      {
+        "name": "0x2041…ba71",
+        "volume": "$59K"
+      },
+      {
+        "name": "0x36f9…3e44",
+        "volume": "$56K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$52K"
+      },
+      {
+        "name": "0x4c85…d596",
+        "volume": "$51K"
+      },
+      {
+        "name": "0xc5db…e280",
+        "volume": "$50K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "TON",
+        "volume": "$3M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "WTON",
+        "volume": "$1M"
+      },
+      {
+        "name": "TOS",
+        "volume": "$617K"
+      },
+      {
+        "name": "DOC",
+        "volume": "$164K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$103K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "V1",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:58:10.824Z",
+  "source": "lido_steth",
+  "vaultBalance": 135,
+  "vaultPct": 0.010136858721516217
+}

@@ -1,0 +1,224 @@
+{
+  "portfolio": {
+    "address": "0x94feaee834bb55430e2bce6f44b9dece061b8561",
+    "totalValue": "$718",
+    "walletLifetime": "1603 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,116.9700",
+        "amount": "0.0150",
+        "usdValue": "$46.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.3100",
+        "amount": "0.0082",
+        "usdValue": "$25.67"
+      },
+      {
+        "symbol": "NOB",
+        "chain": "base",
+        "price": "$0.0016",
+        "amount": "500.0000",
+        "usdValue": "$0.78"
+      },
+      {
+        "symbol": "STG",
+        "chain": "base",
+        "price": "$0.1220",
+        "amount": "4.4915",
+        "usdValue": "$0.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,116.3100",
+        "amount": "0.00008936",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,116.3100",
+        "amount": "0.00003917",
+        "usdValue": "$0.12"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$327"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$316"
+      },
+      {
+        "protocol": "Hyperlock Finance",
+        "chain": "blast",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "MonoSwap",
+        "chain": "blast",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "MONO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x94feaee834bb55430e2bce6f44b9dece061b8561",
+    "topProtocols": [
+      {
+        "name": "ODOS",
+        "volume": "$10K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$8K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$5K"
+      },
+      {
+        "name": "Zebra V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$4K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$4K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$3K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$3K"
+      },
+      {
+        "name": "Alien Base",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$46K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$41K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$40K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$27K"
+      },
+      {
+        "name": "USDB",
+        "volume": "$11K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "SCR",
+        "volume": "$176"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$87"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$54B"
+      },
+      {
+        "name": "LAST",
+        "volume": "$34"
+      },
+      {
+        "name": "STG",
+        "volume": "$13"
+      },
+      {
+        "name": "L3",
+        "volume": "$8"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:19:08.288Z",
+  "source": "base_aave",
+  "vaultBalance": 0.103,
+  "vaultPct": 0.0001515212664522739
+}

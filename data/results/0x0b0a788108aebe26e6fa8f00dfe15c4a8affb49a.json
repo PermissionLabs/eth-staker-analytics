@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0x0b0a788108aebe26e6fa8f00dfe15c4a8affb49a",
+    "totalValue": "$27,823",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "12,661.9520",
+        "usdValue": "$12,661.95"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "6,302.0574",
+        "usdValue": "$6,302.06"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "6,213.2006",
+        "usdValue": "$6,213.20"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "2,354.8774",
+        "usdValue": "$2,354.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.1600",
+        "amount": "0.0594",
+        "usdValue": "$185.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.1600",
+        "amount": "0.0219",
+        "usdValue": "$68.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.1600",
+        "amount": "0.0100",
+        "usdValue": "$31.12"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0b0a788108aebe26e6fa8f00dfe15c4a8affb49a",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$146K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$76K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$37K"
+      },
+      {
+        "name": "0x7c65…5eaa",
+        "volume": "$31K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$27K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$22K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$12K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x8941…a85c",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7ef6…c4ee",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x9ccc…b294",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$213K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$134K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$28K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "PNKSTR",
+        "volume": "$8K"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$4K"
+      },
+      {
+        "name": "SQUIGSTR",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZORA",
+        "volume": "$3K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$459"
+      },
+      {
+        "name": "COMP",
+        "volume": "$21"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$15B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:58:05.357Z",
+  "source": "base_aave",
+  "vaultBalance": 4.014026124395217,
+  "vaultPct": 0.005904954581950253
+}

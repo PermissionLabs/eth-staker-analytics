@@ -1,0 +1,273 @@
+{
+  "portfolio": {
+    "address": "0xf8024c96b804118e46fce2c11b318ed5f1d587c2",
+    "totalValue": "$48,321",
+    "walletLifetime": "1294 days",
+    "tokens": [
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$190.6376",
+        "amount": "61.7205",
+        "usdValue": "$11,766.25"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "matic",
+        "price": "$13.6526",
+        "amount": "495.1048",
+        "usdValue": "$6,759.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.5600",
+        "amount": "0.8694",
+        "usdValue": "$2,702.49"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4768",
+        "amount": "5,594.2609",
+        "usdValue": "$2,667.61"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,108.5600",
+        "amount": "0.7491",
+        "usdValue": "$2,328.69"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,108.5600",
+        "amount": "0.6816",
+        "usdValue": "$2,118.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,108.5600",
+        "amount": "0.4245",
+        "usdValue": "$1,319.72"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "3,684.1588",
+        "usdValue": "$452.05"
+      },
+      {
+        "symbol": "GALEON",
+        "chain": "bsc",
+        "price": "$0.0131",
+        "amount": "16,436.0927",
+        "usdValue": "$214.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.5600",
+        "amount": "0.0586",
+        "usdValue": "$182.30"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5800",
+        "amount": "10.7844",
+        "usdValue": "$146.45"
+      },
+      {
+        "symbol": "RLC (iExec RLC)",
+        "chain": "eth",
+        "price": "$0.7319",
+        "amount": "170.7606",
+        "usdValue": "$124.98"
+      },
+      {
+        "symbol": "FLOKI",
+        "chain": "bsc",
+        "price": "$0.00004843",
+        "amount": "1,819,827.4900",
+        "usdValue": "$88.13"
+      },
+      {
+        "symbol": "UDS",
+        "chain": "eth",
+        "price": "$2.4196",
+        "amount": "21.4061",
+        "usdValue": "$51.79"
+      },
+      {
+        "symbol": "18980 Fenton",
+        "chain": "xdai",
+        "price": "$50.2500",
+        "amount": "1.0000",
+        "usdValue": "$50.25"
+      },
+      {
+        "symbol": "PSP",
+        "chain": "matic",
+        "price": "$0.0060",
+        "amount": "8,212.1492",
+        "usdValue": "$49.50"
+      },
+      {
+        "symbol": "LESLIE",
+        "chain": "eth",
+        "price": "$0.00002371",
+        "amount": "1,778,223.0748",
+        "usdValue": "$42.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Instadapp Lite",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$10,275"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,846"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AAVE",
+        "usdValue": "$19"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf8024c96b804118e46fce2c11b318ed5f1d587c2",
+    "topProtocols": [
+      {
+        "name": "0x06ea…b6dd",
+        "volume": "$25K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x6c74…eb53",
+        "volume": "$10K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xb604…da96",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xfa0b…81b9",
+        "volume": "$5K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$5K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Instadapp Lite",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x81c1…f0ba",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8af3…0d5c",
+        "volume": "$4K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$44K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$38K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$13K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$12K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$9K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$3K"
+      },
+      {
+        "name": "jEUR",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "MUST",
+        "volume": "$2K"
+      },
+      {
+        "name": "GALEON",
+        "volume": "$669"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:02:52.370Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.108505844007802,
+  "vaultPct": 0.0003920493192170426
+}

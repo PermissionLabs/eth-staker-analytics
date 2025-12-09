@@ -1,0 +1,49 @@
+{
+  "portfolio": {
+    "address": "0xa67e582be69d7537403b066591b2bad07b0aaf4f",
+    "totalValue": "$3,841",
+    "walletLifetime": "59 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "1,215.8349",
+        "usdValue": "$1,215.59"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4835",
+        "amount": "650.4879",
+        "usdValue": "$314.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,148.1400",
+        "amount": "0.0013",
+        "usdValue": "$4.11"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,307"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa67e582be69d7537403b066591b2bad07b0aaf4f",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T14:11:19.525Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.73,
+  "vaultPct": 0.00005481412493856917
+}

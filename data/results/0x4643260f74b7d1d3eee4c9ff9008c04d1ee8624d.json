@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x4643260f74b7d1d3eee4c9ff9008c04d1ee8624d",
+    "totalValue": "$398",
+    "walletLifetime": "1520 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.6300",
+        "amount": "0.0100",
+        "usdValue": "$31.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,120.8000",
+        "amount": "0.0059",
+        "usdValue": "$18.38"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "141.5078",
+        "usdValue": "$0.13"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1228",
+        "amount": "0.4520",
+        "usdValue": "$0.06"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$347"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4643260f74b7d1d3eee4c9ff9008c04d1ee8624d",
+    "topProtocols": [
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$55K"
+      },
+      {
+        "name": "Velocore",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0742…3755",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0541…9aa4",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$650"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$432"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$396"
+      },
+      {
+        "name": "OKX",
+        "volume": "$318"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$271M"
+      },
+      {
+        "name": "averick",
+        "volume": "$252"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$239K"
+      },
+      {
+        "name": "oi",
+        "volume": "$197"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$192"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$126"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$113"
+      },
+      {
+        "name": "orpho",
+        "volume": "$103B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$102"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$64K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$59K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$793"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$487"
+      },
+      {
+        "name": "WCT",
+        "volume": "$194"
+      },
+      {
+        "name": "toby",
+        "volume": "$25"
+      },
+      {
+        "name": "USDT",
+        "volume": "$21"
+      },
+      {
+        "name": "POL",
+        "volume": "$16"
+      },
+      {
+        "name": "ZKPEPE",
+        "volume": "$8"
+      },
+      {
+        "name": "FTM",
+        "volume": "$2"
+      },
+      {
+        "name": "ZPET",
+        "volume": "$2B"
+      },
+      {
+        "name": "ENTO",
+        "volume": "$1"
+      },
+      {
+        "name": "USDC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:25:11.393Z",
+  "source": "moonwell",
+  "vaultBalance": 0.10902699881374282,
+  "vaultPct": 0.0019779924920971604
+}

@@ -1,0 +1,176 @@
+{
+  "portfolio": {
+    "address": "0x84c5812168af36f9ac330b5885b8c51e58d712b9",
+    "totalValue": "$20,656",
+    "walletLifetime": "2372 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.1200",
+        "amount": "0.5035",
+        "usdValue": "$1,562.86"
+      },
+      {
+        "symbol": "SWISE",
+        "chain": "eth",
+        "price": "$0.0065",
+        "amount": "1,260.0000",
+        "usdValue": "$8.17"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.0989",
+        "amount": "4.0000",
+        "usdValue": "$4.40"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.9000",
+        "amount": "0.00006305",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9799",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$19,080"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x84c5812168af36f9ac330b5885b8c51e58d712b9",
+    "topProtocols": [
+      {
+        "name": "StakeWise",
+        "volume": "$33K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x8595…865f",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xc71e…dee1",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xe953…6bc1",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0682…022c",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8bf5…b742",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xc334…cdea",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x7f10…b90c",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xc730…890d",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa810…452d",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8f05…52e5",
+        "volume": "$976B"
+      },
+      {
+        "name": "inance",
+        "volume": "$912"
+      },
+      {
+        "name": "0xb35b…5288",
+        "volume": "$868"
+      },
+      {
+        "name": "0xc26d…2eb9",
+        "volume": "$581"
+      },
+      {
+        "name": "0x2e2f…ff92",
+        "volume": "$401"
+      },
+      {
+        "name": "0x2a65…8226",
+        "volume": "$362"
+      },
+      {
+        "name": "0xf51a…9b32",
+        "volume": "$352"
+      },
+      {
+        "name": "0x4a9a…84b8",
+        "volume": "$292"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$94K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$6K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "MNT",
+        "volume": "$2B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:14:57.526Z",
+  "source": "lido_steth",
+  "vaultBalance": 6,
+  "vaultPct": 0.00045052705428960964
+}

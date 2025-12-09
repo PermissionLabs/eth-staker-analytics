@@ -1,0 +1,236 @@
+{
+  "portfolio": {
+    "address": "0x0328c0d6aff5e69df97748fefaa7199cf1291f79",
+    "totalValue": "$3,840",
+    "walletLifetime": "1384 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,161.3500",
+        "amount": "0.4055",
+        "usdValue": "$1,281.98"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "arb",
+        "price": "$0.6046",
+        "amount": "717.0883",
+        "usdValue": "$433.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,161.3500",
+        "amount": "0.1254",
+        "usdValue": "$396.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,161.3500",
+        "amount": "0.0676",
+        "usdValue": "$213.83"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "51.9818",
+        "usdValue": "$51.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,162.6500",
+        "amount": "0.0013",
+        "usdValue": "$4.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "cbETH",
+        "usdValue": "$1,288"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$161"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Webmi",
+        "chain": "manta",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WEBMI",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "manta",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0328c0d6aff5e69df97748fefaa7199cf1291f79",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$2M"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$1M"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$638K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$615K"
+      },
+      {
+        "name": "0x89d3…f380",
+        "volume": "$395K"
+      },
+      {
+        "name": "0x",
+        "volume": "$336K"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$336K"
+      },
+      {
+        "name": "0xec90…52c3",
+        "volume": "$276K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$258K"
+      },
+      {
+        "name": "0xca56…c1b1",
+        "volume": "$235K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$118K"
+      },
+      {
+        "name": "0x12d7…0144",
+        "volume": "$116K"
+      },
+      {
+        "name": "0x0a9f…2d7d",
+        "volume": "$106K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$101K"
+      },
+      {
+        "name": "Umbra",
+        "volume": "$98K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "MSTONE",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$983K"
+      },
+      {
+        "name": "MANTA",
+        "volume": "$467K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$292K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$210K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$88K"
+      },
+      {
+        "name": "CHAMP",
+        "volume": "$40K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$38K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$26K"
+      },
+      {
+        "name": "STG",
+        "volume": "$23K"
+      },
+      {
+        "name": "wUSDM",
+        "volume": "$20K"
+      },
+      {
+        "name": "REZ",
+        "volume": "$20K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:41:50.449Z",
+  "source": "base_aave",
+  "vaultBalance": 0.05,
+  "vaultPct": 0.00007355401284090967
+}

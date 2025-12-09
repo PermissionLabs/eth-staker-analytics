@@ -1,0 +1,256 @@
+{
+  "portfolio": {
+    "address": "0x4beff669f326db335c10fe4177f5e8f56b2c9525",
+    "totalValue": "$17,338",
+    "walletLifetime": "976 days",
+    "tokens": [
+      {
+        "symbol": "agETH",
+        "chain": "arb",
+        "price": "$3,266.0386",
+        "amount": "1.1957",
+        "usdValue": "$3,905.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,120.1600",
+        "amount": "0.0039",
+        "usdValue": "$12.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,120.3500",
+        "amount": "0.0026",
+        "usdValue": "$8.07"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.5000",
+        "amount": "0.0088",
+        "usdValue": "$7.86"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$1.0000",
+        "amount": "0.9750",
+        "usdValue": "$0.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.1600",
+        "amount": "0.0000544",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "wstETH",
+        "chain": "arb",
+        "price": "$3,806.6060",
+        "amount": "0.00004253",
+        "usdValue": "$0.16"
+      },
+      {
+        "symbol": "rsETH",
+        "chain": "arb",
+        "price": "$3,293.7033",
+        "amount": "0.00004483",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "arb",
+        "price": "$2.3012",
+        "amount": "0.0179",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1246",
+        "amount": "0.1782",
+        "usdValue": "$0.02"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$7,275"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$4,275"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$1,390"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$415"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "bsc",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "Cake",
+        "usdValue": "$33"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$15"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4beff669f326db335c10fe4177f5e8f56b2c9525",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$13K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$8K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$8K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4bb1…ae5f",
+        "volume": "$2K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$1K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$900"
+      },
+      {
+        "name": "Velora",
+        "volume": "$899"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$800"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$30K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$19K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "ETHx",
+        "volume": "$4K"
+      },
+      {
+        "name": "agETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$3K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$240"
+      },
+      {
+        "name": "POL",
+        "volume": "$199"
+      },
+      {
+        "name": "Cake",
+        "volume": "$76"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:08:39.355Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.12209255893532883,
+  "vaultPct": 0.0013617703011893545
+}

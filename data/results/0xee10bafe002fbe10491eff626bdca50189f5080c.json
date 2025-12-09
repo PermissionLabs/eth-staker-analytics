@@ -1,0 +1,87 @@
+{
+  "portfolio": {
+    "address": "0xee10bafe002fbe10491eff626bdca50189f5080c",
+    "totalValue": "$15,075",
+    "walletLifetime": "1367 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.8000",
+        "amount": "0.1781",
+        "usdValue": "$553.07"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9878",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$14,522"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xee10bafe002fbe10491eff626bdca50189f5080c",
+    "topProtocols": [
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$11K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xf517…5d82",
+        "volume": "$2K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$50"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8c85…6a6a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x219e…2cf6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf95…96eb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:59:22.525Z",
+  "source": "lido_steth",
+  "vaultBalance": 4.462191627642687,
+  "vaultPct": 0.0003350563416129364
+}

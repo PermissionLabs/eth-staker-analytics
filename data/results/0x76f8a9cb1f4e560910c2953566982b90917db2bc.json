@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0x76f8a9cb1f4e560910c2953566982b90917db2bc",
+    "totalValue": "$2,637",
+    "walletLifetime": "686 days",
+    "tokens": [
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3950",
+        "amount": "128.3352",
+        "usdValue": "$307.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.5400",
+        "amount": "0.0207",
+        "usdValue": "$64.93"
+      },
+      {
+        "symbol": "BSSB",
+        "chain": "eth",
+        "price": "$0.0167",
+        "amount": "150.0000",
+        "usdValue": "$2.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.5400",
+        "amount": "0.0008",
+        "usdValue": "$2.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,130.5400",
+        "amount": "0.0005",
+        "usdValue": "$1.46"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4780",
+        "amount": "1.5298",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,130.5400",
+        "amount": "0.00005026",
+        "usdValue": "$0.16"
+      },
+      {
+        "symbol": "MUTE",
+        "chain": "era",
+        "price": "$0.0190",
+        "amount": "6.3628",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9873",
+        "amount": "175.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GRG",
+        "chain": "uni",
+        "price": "$0.0000",
+        "amount": "0.0200",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,105"
+      },
+      {
+        "protocol": "MetaMask Swaps",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$103"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$27"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$17"
+      },
+      {
+        "protocol": "Koi",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "MUTE",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x76f8a9cb1f4e560910c2953566982b90917db2bc",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xfc25…61a5",
+        "volume": "$2K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x36d9…e4b8",
+        "volume": "$838"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$753B"
+      },
+      {
+        "name": "inance",
+        "volume": "$692"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$655"
+      },
+      {
+        "name": "0x98db…ef8b",
+        "volume": "$640"
+      },
+      {
+        "name": "0x8c8d…7465",
+        "volume": "$469"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$108"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$57"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$51"
+      },
+      {
+        "name": "squid",
+        "volume": "$40"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$40"
+      },
+      {
+        "name": "0x1fe8…169d",
+        "volume": "$27"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$27"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$1K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$692B"
+      },
+      {
+        "name": "SSB",
+        "volume": "$409"
+      },
+      {
+        "name": "UTE",
+        "volume": "$15"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$4B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:13:19.319Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.0081217120981476,
+  "vaultPct": 0.00018744715934234602
+}

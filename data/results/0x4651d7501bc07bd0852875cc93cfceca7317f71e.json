@@ -1,0 +1,202 @@
+{
+  "portfolio": {
+    "address": "0x4651d7501bc07bd0852875cc93cfceca7317f71e",
+    "totalValue": "$7,091",
+    "walletLifetime": "1664 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.3600",
+        "amount": "0.1384",
+        "usdValue": "$429.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.3600",
+        "amount": "0.0691",
+        "usdValue": "$214.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,101.3600",
+        "amount": "0.0506",
+        "usdValue": "$156.82"
+      },
+      {
+        "symbol": "XVS",
+        "chain": "bsc",
+        "price": "$4.6600",
+        "amount": "0.2957",
+        "usdValue": "$1.38"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,105"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AERO",
+        "usdValue": "$2,180"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4651d7501bc07bd0852875cc93cfceca7317f71e",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap",
+        "volume": "$23K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$5K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4d69…7842",
+        "volume": "$4K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$4K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "Impossible Finance",
+        "volume": "$4K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$3K"
+      },
+      {
+        "name": "Axelar",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BNB",
+        "volume": "$18K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$16K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$7K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$6K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$4K"
+      },
+      {
+        "name": "AXL",
+        "volume": "$4K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "INJ",
+        "volume": "$3K"
+      },
+      {
+        "name": "XVS",
+        "volume": "$2K"
+      },
+      {
+        "name": "SFUND",
+        "volume": "$2K"
+      },
+      {
+        "name": "K1INCH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ATH",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:17:08.869Z",
+  "source": "moonwell",
+  "vaultBalance": 1.2970192643305778,
+  "vaultPct": 0.02353081708993979
+}

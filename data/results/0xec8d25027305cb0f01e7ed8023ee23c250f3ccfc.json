@@ -1,0 +1,303 @@
+{
+  "portfolio": {
+    "address": "0xec8d25027305cb0f01e7ed8023ee23c250f3ccfc",
+    "totalValue": "$1,945",
+    "walletLifetime": "715 days",
+    "tokens": [
+      {
+        "symbol": "ANKR",
+        "chain": "bsc",
+        "price": "$0.0077",
+        "amount": "12,077.4383",
+        "usdValue": "$92.39"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1221",
+        "amount": "36.4843",
+        "usdValue": "$4.45"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "3.6631",
+        "usdValue": "$3.66"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "3.5626",
+        "usdValue": "$3.56"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "0.1596",
+        "usdValue": "$2.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,102.1000",
+        "amount": "0.0002",
+        "usdValue": "$0.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,102.8200",
+        "amount": "0.0002",
+        "usdValue": "$0.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.1000",
+        "amount": "0.0001",
+        "usdValue": "$0.46"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$889.8000",
+        "amount": "0.0004",
+        "usdValue": "$0.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.1000",
+        "amount": "0.00008678",
+        "usdValue": "$0.27"
+      },
+      {
+        "symbol": "PEPE",
+        "chain": "bsc",
+        "price": "$0.0₅462",
+        "amount": "29,693.7402",
+        "usdValue": "$0.14"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$545"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$486"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH.e",
+        "usdValue": "$182"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$123"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "XRP",
+        "usdValue": "$120"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "LINK.e",
+        "usdValue": "$113"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$100"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$55"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "OP",
+        "usdValue": "$50"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$37"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$23"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xec8d25027305cb0f01e7ed8023ee23c250f3ccfc",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "eefy",
+        "volume": "$782"
+      },
+      {
+        "name": "inance",
+        "volume": "$612"
+      },
+      {
+        "name": "OKX",
+        "volume": "$576"
+      },
+      {
+        "name": "0x410b…143d",
+        "volume": "$563B"
+      },
+      {
+        "name": "itget",
+        "volume": "$509"
+      },
+      {
+        "name": "0x6d8f…f639",
+        "volume": "$473K"
+      },
+      {
+        "name": "rystal",
+        "volume": "$457"
+      },
+      {
+        "name": "0xd38c…1330",
+        "volume": "$443B"
+      },
+      {
+        "name": "ENQI",
+        "volume": "$375"
+      },
+      {
+        "name": "0xe437…b293",
+        "volume": "$372"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$946"
+      },
+      {
+        "name": "ETH",
+        "volume": "$935"
+      },
+      {
+        "name": "POL",
+        "volume": "$899"
+      },
+      {
+        "name": "DAI",
+        "volume": "$853"
+      },
+      {
+        "name": "OP",
+        "volume": "$689"
+      },
+      {
+        "name": "USDT",
+        "volume": "$579"
+      },
+      {
+        "name": "ANKR",
+        "volume": "$425"
+      },
+      {
+        "name": "FLUX",
+        "volume": "$385"
+      },
+      {
+        "name": "USD",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:11:22.179Z",
+  "source": "base_aave",
+  "vaultBalance": 0.052077747588196804,
+  "vaultPct": 0.00007661054629655762
+}

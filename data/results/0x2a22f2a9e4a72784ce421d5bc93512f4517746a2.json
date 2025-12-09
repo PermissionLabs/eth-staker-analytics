@@ -1,0 +1,192 @@
+{
+  "portfolio": {
+    "address": "0x2a22f2a9e4a72784ce421d5bc93512f4517746a2",
+    "totalValue": "$1,957",
+    "walletLifetime": "1598 days",
+    "tokens": [
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0331",
+        "amount": "16,113.5355",
+        "usdValue": "$532.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,139.1200",
+        "amount": "0.0518",
+        "usdValue": "$162.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,140.7500",
+        "amount": "0.0439",
+        "usdValue": "$137.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,138.8800",
+        "amount": "0.0335",
+        "usdValue": "$105.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,139.1200",
+        "amount": "0.0298",
+        "usdValue": "$93.41"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "3,624.8164",
+        "usdValue": "$28.93"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "iZUMi Finance",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$380"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$328"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZK",
+        "usdValue": "$188"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2a22f2a9e4a72784ce421d5bc93512f4517746a2",
+    "topProtocols": [
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$23K"
+      },
+      {
+        "name": "zkBob",
+        "volume": "$5K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$3K"
+      },
+      {
+        "name": "Zapper",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$2K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$1K"
+      },
+      {
+        "name": "Velocore",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "KZK",
+        "volume": "$5K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$3K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:08:24.316Z",
+  "source": "base_aave",
+  "vaultBalance": 0.10362966729871582,
+  "vaultPct": 0.00015244755758377882
+}

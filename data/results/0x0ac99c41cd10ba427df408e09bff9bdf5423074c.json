@@ -1,0 +1,117 @@
+{
+  "portfolio": {
+    "address": "0x0ac99c41cd10ba427df408e09bff9bdf5423074c",
+    "totalValue": "$524",
+    "walletLifetime": "2826 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,147.4300",
+        "amount": "0.0067",
+        "usdValue": "$21.12"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.8500",
+        "amount": "2.1847",
+        "usdValue": "$8.41"
+      },
+      {
+        "symbol": "NCASH",
+        "chain": "arb",
+        "price": "$0.0055",
+        "amount": "1.0500",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$422"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DAI",
+        "usdValue": "$73"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0ac99c41cd10ba427df408e09bff9bdf5423074c",
+    "topProtocols": [
+      {
+        "name": "0x3581…7ea6",
+        "volume": "$348"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$188"
+      },
+      {
+        "name": "0x7114…034f",
+        "volume": "$73"
+      },
+      {
+        "name": "0xe60b…e501",
+        "volume": "$64"
+      },
+      {
+        "name": "Compound",
+        "volume": "$64"
+      },
+      {
+        "name": "0x11f5…fb9b",
+        "volume": "$58"
+      },
+      {
+        "name": "0x2555…ad74",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x182e…8c7f",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$667"
+      },
+      {
+        "name": "DAI",
+        "volume": "$128"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:03:46.870Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.12,
+  "vaultPct": 0.000009010541085792193
+}

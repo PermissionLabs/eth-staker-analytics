@@ -1,0 +1,210 @@
+{
+  "portfolio": {
+    "address": "0xd2e3a4b222e54b36b0724ad156a3afcc8acb6cfb",
+    "totalValue": "$1,736",
+    "walletLifetime": "492 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.5500",
+        "amount": "0.0035",
+        "usdValue": "$11.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.5500",
+        "amount": "0.0005",
+        "usdValue": "$1.73"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9899",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.2000",
+        "amount": "0.0007",
+        "usdValue": "$0.61"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "84.0000",
+        "usdValue": "$0.16"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,159.5500",
+        "amount": "0.00002419",
+        "usdValue": "$0.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,159.5500",
+        "amount": "0.00001795",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9986",
+        "amount": "2,666.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$841"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$541"
+      },
+      {
+        "protocol": "Revert",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$339"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd2e3a4b222e54b36b0724ad156a3afcc8acb6cfb",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "Revert",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$544"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$384B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$351"
+      },
+      {
+        "name": "0xd2e3…6cfb",
+        "volume": "$279"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$205M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$196"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$140"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$26"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$23K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$1K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "BRETT",
+        "volume": "$707"
+      },
+      {
+        "name": "SPEC",
+        "volume": "$624"
+      },
+      {
+        "name": "NB",
+        "volume": "$506"
+      },
+      {
+        "name": "Mog",
+        "volume": "$143"
+      },
+      {
+        "name": "DOGE",
+        "volume": "$104"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$53M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$50"
+      },
+      {
+        "name": "XRP",
+        "volume": "$48"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:54:42.471Z",
+  "source": "base_aave",
+  "vaultBalance": 0.2816399232538258,
+  "vaultPct": 0.00041431493063049437
+}

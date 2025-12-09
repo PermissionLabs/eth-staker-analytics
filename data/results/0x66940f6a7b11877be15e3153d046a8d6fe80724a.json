@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0x66940f6a7b11877be15e3153d046a8d6fe80724a",
+    "totalValue": "$5,480",
+    "walletLifetime": "1696 days",
+    "tokens": [
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.4195",
+        "amount": "157.9313",
+        "usdValue": "$382.11"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "24.1688",
+        "usdValue": "$24.17"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "14.7548",
+        "usdValue": "$14.75"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "avax",
+        "price": "$0.9999",
+        "amount": "8.2273",
+        "usdValue": "$8.23"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7300",
+        "amount": "0.5705",
+        "usdValue": "$7.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,144.6900",
+        "amount": "0.0024",
+        "usdValue": "$7.39"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,144.6900",
+        "amount": "0.0020",
+        "usdValue": "$6.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.6900",
+        "amount": "0.0016",
+        "usdValue": "$4.90"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.9000",
+        "amount": "0.0039",
+        "usdValue": "$3.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,144.6900",
+        "amount": "0.0011",
+        "usdValue": "$3.41"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1054",
+        "amount": "2.9572",
+        "usdValue": "$3.27"
+      },
+      {
+        "symbol": "WAVAX",
+        "chain": "avax",
+        "price": "$13.7300",
+        "amount": "0.2264",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,145.7800",
+        "amount": "0.0007",
+        "usdValue": "$2.17"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "sonic",
+        "price": "$0.9999",
+        "amount": "1.4371",
+        "usdValue": "$1.44"
+      },
+      {
+        "symbol": "BTC",
+        "chain": "merlin",
+        "price": "$91,478.0400",
+        "amount": "0.00001049",
+        "usdValue": "$0.96"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$910.8600",
+        "amount": "0.0010",
+        "usdValue": "$0.91"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0971",
+        "amount": "6.2730",
+        "usdValue": "$0.61"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,209"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,548"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AVAX",
+        "usdValue": "$656"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$300"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "PENDLE",
+        "usdValue": "$285"
+      },
+      {
+        "protocol": "SwapX",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "SWPx",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "SOL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "sonic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "wS",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "gogopool",
+        "chain": "avax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "YieldWolf",
+        "chain": "ftm",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WFTM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Animal Farm",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AFD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Particle",
+        "chain": "blast",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x66940f6a7b11877be15e3153d046a8d6fe80724a",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T14:05:39.101Z",
+  "source": "base_aave",
+  "vaultBalance": 1.006831435099202,
+  "vaultPct": 0.0014811298461183645
+}

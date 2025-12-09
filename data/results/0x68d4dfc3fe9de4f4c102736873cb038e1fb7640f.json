@@ -1,0 +1,200 @@
+{
+  "portfolio": {
+    "address": "0x68d4dfc3fe9de4f4c102736873cb038e1fb7640f",
+    "totalValue": "$205,225",
+    "walletLifetime": "1400 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,162.6500",
+        "amount": "0.6275",
+        "usdValue": "$1,984.49"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$92,027.8600",
+        "amount": "0.0080",
+        "usdValue": "$736.31"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$92,038.2900",
+        "amount": "0.0033",
+        "usdValue": "$304.40"
+      },
+      {
+        "symbol": "wTAO",
+        "chain": "eth",
+        "price": "$305.0750",
+        "amount": "0.7056",
+        "usdValue": "$215.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,162.6500",
+        "amount": "0.0491",
+        "usdValue": "$155.21"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0003",
+        "amount": "105.3875",
+        "usdValue": "$105.42"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.5050",
+        "amount": "100.0000",
+        "usdValue": "$50.50"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "46.9889",
+        "usdValue": "$46.98"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$92,023.8400",
+        "amount": "0.0004",
+        "usdValue": "$40.23"
+      },
+      {
+        "symbol": "USD1",
+        "chain": "bsc",
+        "price": "$0.9997",
+        "amount": "10.0462",
+        "usdValue": "$10.04"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$911.3000",
+        "amount": "0.0102",
+        "usdValue": "$9.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,162.6500",
+        "amount": "0.0022",
+        "usdValue": "$6.81"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$97,668"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$44,324"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$18,266"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$8,986"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$6,941"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$6,658"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$5,770"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$5,083"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "wTAO",
+        "usdValue": "$4,801"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$2,256"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$411"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$385"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x68d4dfc3fe9de4f4c102736873cb038e1fb7640f",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T09:41:12.320Z",
+  "source": "base_aave",
+  "vaultBalance": 5.951876693903937,
+  "vaultPct": 0.008755688295418423
+}

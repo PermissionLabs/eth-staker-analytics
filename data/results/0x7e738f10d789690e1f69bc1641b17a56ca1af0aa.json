@@ -1,0 +1,127 @@
+{
+  "portfolio": {
+    "address": "0x7e738f10d789690e1f69bc1641b17a56ca1af0aa",
+    "totalValue": "$12,790",
+    "walletLifetime": "1700 days",
+    "tokens": [
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5976",
+        "amount": "21,288.2870",
+        "usdValue": "$12,722.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.7300",
+        "amount": "0.0115",
+        "usdValue": "$36.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,134.7300",
+        "amount": "0.0100",
+        "usdValue": "$31.35"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9904",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6846",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x7e738f10d789690e1f69bc1641b17a56ca1af0aa",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$412K"
+      },
+      {
+        "name": "0x3e24…3ccd",
+        "volume": "$318K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$257K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$187K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$83K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$58K"
+      },
+      {
+        "name": "0x9706…8257",
+        "volume": "$49K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$4K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$24"
+      },
+      {
+        "name": "0x52ec…e8fc",
+        "volume": "$18"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8888…aba5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7e73…f0aa",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "UNI",
+        "volume": "$342K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$48K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:46:07.164Z",
+  "source": "lido_steth",
+  "vaultBalance": 74.37502642935563,
+  "vaultPct": 0.0055846602616549095
+}

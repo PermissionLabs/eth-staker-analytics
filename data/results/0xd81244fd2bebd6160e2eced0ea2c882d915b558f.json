@@ -1,0 +1,129 @@
+{
+  "portfolio": {
+    "address": "0xd81244fd2bebd6160e2eced0ea2c882d915b558f",
+    "totalValue": "$1,731",
+    "walletLifetime": "1782 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$902.8000",
+        "amount": "0.3388",
+        "usdValue": "$305.86"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8915",
+        "amount": "12.5095",
+        "usdValue": "$173.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.7700",
+        "amount": "0.0100",
+        "usdValue": "$31.25"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "27.9546",
+        "usdValue": "$27.95"
+      },
+      {
+        "symbol": "BOYS",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "0.0017",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,193"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd81244fd2bebd6160e2eced0ea2c882d915b558f",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$179K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$141K"
+      },
+      {
+        "name": "0x0381…8286",
+        "volume": "$124K"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$21K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$15K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x5f1f…ea9b",
+        "volume": "$2K"
+      },
+      {
+        "name": "THORChain",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf5e9…51fd",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x74c6…5610",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x86d3…dd3f",
+        "volume": "$1K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$714"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$540K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$288"
+      },
+      {
+        "name": "LINK",
+        "volume": "$279"
+      },
+      {
+        "name": "USDT",
+        "volume": "$28"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:10:20.859Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.1731035580287793,
+  "vaultPct": 0.000012997972680959409
+}

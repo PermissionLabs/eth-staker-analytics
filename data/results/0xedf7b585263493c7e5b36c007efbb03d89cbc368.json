@@ -1,0 +1,276 @@
+{
+  "portfolio": {
+    "address": "0xedf7b585263493c7e5b36c007efbb03d89cbc368",
+    "totalValue": "$2,297",
+    "walletLifetime": "1476 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.1600",
+        "amount": "0.0098",
+        "usdValue": "$30.64"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "8.9116",
+        "usdValue": "$8.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.3700",
+        "amount": "0.0026",
+        "usdValue": "$8.09"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.6000",
+        "amount": "0.0065",
+        "usdValue": "$5.82"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "2.8774",
+        "usdValue": "$2.88"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "2.1990",
+        "usdValue": "$2.20"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9848",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "ITHACA",
+        "chain": "bsc",
+        "price": "$0.0050",
+        "amount": "23.4502",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "RWA (rwa.inc)",
+        "chain": "base",
+        "price": "$2.73",
+        "amount": "599.25",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LEGEND",
+        "chain": "base",
+        "price": "$0.05",
+        "amount": "529.29",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,205"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$15"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MAMO",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Decubate",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "RWA (rwa.inc)",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WELL",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "RWA",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RWA (rwa.inc)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xedf7b585263493c7e5b36c007efbb03d89cbc368",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$25K"
+      },
+      {
+        "name": "0xf2a1…eacd",
+        "volume": "$20K"
+      },
+      {
+        "name": "StakeWise",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x72db…9308",
+        "volume": "$8K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa7a4…2044",
+        "volume": "$2K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xff08…d479",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf885…ca7b",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x7b0c…76a5",
+        "volume": "$942"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$894"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$722"
+      },
+      {
+        "name": "0xa71b…5927",
+        "volume": "$658"
+      },
+      {
+        "name": "0xda21…e51c",
+        "volume": "$573K"
+      },
+      {
+        "name": "eungz",
+        "volume": "$563"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$55K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "CRO",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$604"
+      },
+      {
+        "name": "POL",
+        "volume": "$360"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$48"
+      },
+      {
+        "name": "WELL",
+        "volume": "$31M"
+      },
+      {
+        "name": "AMO",
+        "volume": "$30"
+      },
+      {
+        "name": "USDT",
+        "volume": "$28B"
+      },
+      {
+        "name": "NB",
+        "volume": "$7"
+      },
+      {
+        "name": "ITHACA",
+        "volume": "$6"
+      },
+      {
+        "name": "NATO",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:15:58.084Z",
+  "source": "moonwell",
+  "vaultBalance": 0.6868362172321449,
+  "vaultPct": 0.012460738126952378
+}

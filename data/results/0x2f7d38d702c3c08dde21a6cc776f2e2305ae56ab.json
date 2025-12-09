@@ -1,0 +1,203 @@
+{
+  "portfolio": {
+    "address": "0x2f7d38d702c3c08dde21a6cc776f2e2305ae56ab",
+    "totalValue": "$531,854",
+    "walletLifetime": "1131 days",
+    "tokens": [
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "302.8971",
+        "usdValue": "$302.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,121.2300",
+        "amount": "0.0355",
+        "usdValue": "$110.87"
+      },
+      {
+        "symbol": "USDC(bridged)",
+        "chain": "era",
+        "price": "$0.9999",
+        "amount": "88.9610",
+        "usdValue": "$88.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.2300",
+        "amount": "0.0077",
+        "usdValue": "$24.05"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,121.2300",
+        "amount": "0.0036",
+        "usdValue": "$11.13"
+      },
+      {
+        "symbol": "ZKJ",
+        "chain": "eth",
+        "price": "$0.0458",
+        "amount": "76.9163",
+        "usdValue": "$3.53"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "2.9870",
+        "usdValue": "$2.99"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$393,317"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$137,992"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2f7d38d702c3c08dde21a6cc776f2e2305ae56ab",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$946K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$799K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$641K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$407K"
+      },
+      {
+        "name": "0x58b7…5023",
+        "volume": "$385K"
+      },
+      {
+        "name": "0x408e…67bc",
+        "volume": "$349K"
+      },
+      {
+        "name": "0x9d4e…cea8",
+        "volume": "$192K"
+      },
+      {
+        "name": "0x2542…2541",
+        "volume": "$181K"
+      },
+      {
+        "name": "Seawise",
+        "volume": "$136K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$112K"
+      },
+      {
+        "name": "0x8aad…8fa3",
+        "volume": "$89K"
+      },
+      {
+        "name": "Unknown Protocol",
+        "volume": "$80K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$74K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$71K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$58K"
+      },
+      {
+        "name": "0x5b93…f995",
+        "volume": "$57K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$992K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$836K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$545K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$209K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$87K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$72K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$161"
+      },
+      {
+        "name": "ZKJ",
+        "volume": "$100"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:51:45.849Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 61.84123558154852,
+  "vaultPct": 0.011498575817652387
+}

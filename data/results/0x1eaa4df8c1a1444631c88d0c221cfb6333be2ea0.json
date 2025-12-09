@@ -1,0 +1,317 @@
+{
+  "portfolio": {
+    "address": "0x1eaa4df8c1a1444631c88d0c221cfb6333be2ea0",
+    "totalValue": "$24,210",
+    "walletLifetime": "722 days",
+    "tokens": [
+      {
+        "symbol": "TIBBIR",
+        "chain": "base",
+        "price": "$0.1642",
+        "amount": "36,158.8599",
+        "usdValue": "$5,939.07"
+      },
+      {
+        "symbol": "KTA",
+        "chain": "base",
+        "price": "$0.2327",
+        "amount": "384.6480",
+        "usdValue": "$89.51"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "3,190.2236",
+        "usdValue": "$25.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.2700",
+        "amount": "0.0061",
+        "usdValue": "$18.96"
+      },
+      {
+        "symbol": "SYMP",
+        "chain": "base",
+        "price": "$0.0006",
+        "amount": "30,025.3913",
+        "usdValue": "$17.43"
+      },
+      {
+        "symbol": "WAMPL",
+        "chain": "base",
+        "price": "$1.8434",
+        "amount": "8.3298",
+        "usdValue": "$15.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,132.2700",
+        "amount": "0.0048",
+        "usdValue": "$15.01"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2022",
+        "amount": "9.9665",
+        "usdValue": "$11.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,132.2700",
+        "amount": "0.0035",
+        "usdValue": "$10.89"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$16,689"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "VIRTUAL",
+        "usdValue": "$663"
+      },
+      {
+        "protocol": "ARMA",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$377"
+      },
+      {
+        "protocol": "Reserve Protocol",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ALTT",
+        "usdValue": "$116"
+      },
+      {
+        "protocol": "XSwap",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "XSWAP",
+        "usdValue": "$94"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MAMO",
+        "usdValue": "$59"
+      },
+      {
+        "protocol": "FLock.io",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "FLOCK",
+        "usdValue": "$49"
+      },
+      {
+        "protocol": "Giza",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GIZA",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "aixCB",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AIXCB",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1eaa4df8c1a1444631c88d0c221cfb6333be2ea0",
+    "topProtocols": [
+      {
+        "name": "Virtuals Protocol",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x63df…ffc4",
+        "volume": "$17K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$10K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$7K"
+      },
+      {
+        "name": "Angle Protocol",
+        "volume": "$7K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$6K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd005…cdaf",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x3974…2301",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "XSwap",
+        "volume": "$977M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$929"
+      },
+      {
+        "name": "squid",
+        "volume": "$879"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$835"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$561"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$534"
+      },
+      {
+        "name": "ARMA",
+        "volume": "$371"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$30K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "TIBBIR",
+        "volume": "$20K"
+      },
+      {
+        "name": "KVIRTUAL",
+        "volume": "$4K"
+      },
+      {
+        "name": "axlUSDC",
+        "volume": "$970"
+      },
+      {
+        "name": "XSWAP",
+        "volume": "$968M"
+      },
+      {
+        "name": "AMO",
+        "volume": "$755"
+      },
+      {
+        "name": "SYMP",
+        "volume": "$707"
+      },
+      {
+        "name": "AIXCB",
+        "volume": "$421"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$361K"
+      },
+      {
+        "name": "TA",
+        "volume": "$330"
+      },
+      {
+        "name": "EOLAS",
+        "volume": "$278K"
+      },
+      {
+        "name": "UDAI",
+        "volume": "$258"
+      },
+      {
+        "name": "LUIGI",
+        "volume": "$253"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$232"
+      },
+      {
+        "name": "FLOCK",
+        "volume": "$214"
+      },
+      {
+        "name": "WELL",
+        "volume": "$168M"
+      },
+      {
+        "name": "USD",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:20:28.528Z",
+  "source": "moonwell",
+  "vaultBalance": 3.960687970895525,
+  "vaultPct": 0.07185569771900742
+}

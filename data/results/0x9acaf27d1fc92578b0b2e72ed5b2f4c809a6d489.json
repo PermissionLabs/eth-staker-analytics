@@ -1,0 +1,173 @@
+{
+  "portfolio": {
+    "address": "0x9acaf27d1fc92578b0b2e72ed5b2f4c809a6d489",
+    "totalValue": "$804",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "uniBTC",
+        "chain": "bob",
+        "price": "$90,814.8469",
+        "amount": "0.0017",
+        "usdValue": "$150.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bob",
+        "price": "$3,130.6300",
+        "amount": "0.0195",
+        "usdValue": "$61.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.6300",
+        "amount": "0.0165",
+        "usdValue": "$51.62"
+      },
+      {
+        "symbol": "BOB",
+        "chain": "bob",
+        "price": "$0.0176",
+        "amount": "1,783.4954",
+        "usdValue": "$31.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.6300",
+        "amount": "0.0051",
+        "usdValue": "$15.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,130.6300",
+        "amount": "0.0039",
+        "usdValue": "$12.07"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$905.6000",
+        "amount": "0.0108",
+        "usdValue": "$9.76"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$905.4400",
+        "amount": "0.0071",
+        "usdValue": "$6.47"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7100",
+        "amount": "0.3774",
+        "usdValue": "$5.17"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "435.2199",
+        "usdValue": "$3.49"
+      },
+      {
+        "symbol": "STG",
+        "chain": "matic",
+        "price": "$0.1207",
+        "amount": "28.5700",
+        "usdValue": "$3.45"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9673",
+        "amount": "3.3709",
+        "usdValue": "$3.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,130.6300",
+        "amount": "0.0008",
+        "usdValue": "$2.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.6300",
+        "amount": "0.0006",
+        "usdValue": "$1.79"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "1.0606",
+        "usdValue": "$1.06"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$443"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Shoebill Finance",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9acaf27d1fc92578b0b2e72ed5b2f4c809a6d489",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T08:41:15.693Z",
+  "source": "moonwell",
+  "vaultBalance": 0.13853446441097428,
+  "vaultPct": 0.0025133236123442504
+}

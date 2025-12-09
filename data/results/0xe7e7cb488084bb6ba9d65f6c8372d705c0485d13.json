@@ -1,0 +1,225 @@
+{
+  "portfolio": {
+    "address": "0xe7e7cb488084bb6ba9d65f6c8372d705c0485d13",
+    "totalValue": "$48,649",
+    "walletLifetime": "1576 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.0800",
+        "amount": "3.3959",
+        "usdValue": "$10,629.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.9700",
+        "amount": "0.0445",
+        "usdValue": "$139.45"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "4,526.0000",
+        "usdValue": "$126.90"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1234",
+        "amount": "677.4923",
+        "usdValue": "$83.60"
+      },
+      {
+        "symbol": "$ARTU",
+        "chain": "base",
+        "price": "$0.0017",
+        "amount": "21,121.0000",
+        "usdValue": "$35.41"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$37,545"
+      },
+      {
+        "protocol": "Olympus",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "OHM (V1)",
+        "usdValue": "$84"
+      },
+      {
+        "protocol": "LooksRare",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LOOKS",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe7e7cb488084bb6ba9d65f6c8372d705c0485d13",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$682K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$321K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$268K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$143K"
+      },
+      {
+        "name": "0xc341…ed14",
+        "volume": "$102K"
+      },
+      {
+        "name": "0x6b24…5007",
+        "volume": "$80K"
+      },
+      {
+        "name": "0x9ead…fc6f",
+        "volume": "$50K"
+      },
+      {
+        "name": "0xbebf…6526",
+        "volume": "$41K"
+      },
+      {
+        "name": "0xd764…eecd",
+        "volume": "$35K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$35K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$26K"
+      },
+      {
+        "name": "0x2286…ade6",
+        "volume": "$26K"
+      },
+      {
+        "name": "apecoin",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x88dc…b6dc",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xbbd0…c56c",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x3890…0f28",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x47e3…33e7",
+        "volume": "$15K"
+      },
+      {
+        "name": "Art Blocks",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$13K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$12K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$624K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$552K"
+      },
+      {
+        "name": "APE",
+        "volume": "$65K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$36K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$19K"
+      },
+      {
+        "name": "SPEC",
+        "volume": "$7K"
+      },
+      {
+        "name": "ILV",
+        "volume": "$2K"
+      },
+      {
+        "name": "LOOKS",
+        "volume": "$1K"
+      },
+      {
+        "name": "OMG",
+        "volume": "$482"
+      },
+      {
+        "name": "GALA",
+        "volume": "$458K"
+      },
+      {
+        "name": "ONG",
+        "volume": "$390"
+      },
+      {
+        "name": "POL",
+        "volume": "$340"
+      },
+      {
+        "name": "SOS",
+        "volume": "$181"
+      },
+      {
+        "name": "ARCHI",
+        "volume": "$92"
+      },
+      {
+        "name": "V1",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:12:44.007Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 30.455200159318807,
+  "vaultPct": 0.005662749535654371
+}

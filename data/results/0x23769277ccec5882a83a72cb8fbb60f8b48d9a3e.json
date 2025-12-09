@@ -1,0 +1,76 @@
+{
+  "portfolio": {
+    "address": "0x23769277ccec5882a83a72cb8fbb60f8b48d9a3e",
+    "totalValue": "$482,649",
+    "walletLifetime": "118 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.2800",
+        "amount": "0.2521",
+        "usdValue": "$783.12"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0275",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$481,866"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x23769277ccec5882a83a72cb8fbb60f8b48d9a3e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$704K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$369K"
+      },
+      {
+        "name": "Frax",
+        "volume": "$335K"
+      },
+      {
+        "name": "0x9ee1…d8e3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:01:06.313Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 154.73127891876499,
+  "vaultPct": 0.028770274805773644
+}

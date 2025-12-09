@@ -1,0 +1,94 @@
+{
+  "portfolio": {
+    "address": "0x525298c0be8846f72c3c2881d72127a6fce9f299",
+    "totalValue": "$342",
+    "walletLifetime": "984 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,140.5800",
+        "amount": "0.1089",
+        "usdValue": "$342.09"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7935",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x525298c0be8846f72c3c2881d72127a6fce9f299",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$542K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$299K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$48K"
+      },
+      {
+        "name": "0x5aa0…9d75",
+        "volume": "$12K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x1928…4f01",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$598K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$360K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$97K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$33K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:22:01.249Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.8,
+  "vaultPct": 0.0008924977550286749
+}

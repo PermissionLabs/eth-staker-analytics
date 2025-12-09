@@ -1,0 +1,178 @@
+{
+  "portfolio": {
+    "address": "0xf9a07f1915dda967c95f063fa19b83e5cb0bfe79",
+    "totalValue": "$1,123",
+    "walletLifetime": "353 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,118.5900",
+        "amount": "0.0117",
+        "usdValue": "$36.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,117.7500",
+        "amount": "0.0033",
+        "usdValue": "$10.14"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1231",
+        "amount": "36.4641",
+        "usdValue": "$4.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.5900",
+        "amount": "0.0009",
+        "usdValue": "$2.76"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "267.0918",
+        "usdValue": "$2.10"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.5000",
+        "amount": "0.0015",
+        "usdValue": "$1.38"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.3933",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,061"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf9a07f1915dda967c95f063fa19b83e5cb0bfe79",
+    "topProtocols": [
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$971"
+      },
+      {
+        "name": "orpho",
+        "volume": "$942"
+      },
+      {
+        "name": "0xe03c…48b5",
+        "volume": "$933"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$933"
+      },
+      {
+        "name": "0xd654…50d6",
+        "volume": "$49"
+      },
+      {
+        "name": "0xf2d2…040b",
+        "volume": "$38"
+      },
+      {
+        "name": "0xc106…7741",
+        "volume": "$11"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$8"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$7"
+      },
+      {
+        "name": "Linea Ignition",
+        "volume": "$3M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$1"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "mUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$554B"
+      },
+      {
+        "name": "USD",
+        "volume": "$77"
+      },
+      {
+        "name": "POL",
+        "volume": "$62"
+      },
+      {
+        "name": "NB",
+        "volume": "$8"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:27:00.574Z",
+  "source": "moonwell",
+  "vaultBalance": 0.3333526635020273,
+  "vaultPct": 0.006047759479778396
+}

@@ -1,0 +1,97 @@
+{
+  "portfolio": {
+    "address": "0xedfa7c9f764928fbf53d3063f92c8c43b573ec85",
+    "totalValue": "$133,739",
+    "walletLifetime": "1269 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.2600",
+        "amount": "0.9028",
+        "usdValue": "$2,827.04"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$130,912"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xedfa7c9f764928fbf53d3063f92c8c43b573ec85",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$88K"
+      },
+      {
+        "name": "0x3311…d921",
+        "volume": "$68K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$58K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$28K"
+      },
+      {
+        "name": "0xb233…c460",
+        "volume": "$25K"
+      },
+      {
+        "name": "0xaa99…a839",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x2b3f…5dbb",
+        "volume": "$17K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x6f72…7b1a",
+        "volume": "$4K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$258K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$40K"
+      },
+      {
+        "name": "ENJ",
+        "volume": "$21K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:11:06.697Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 22.040481995900613,
+  "vaultPct": 0.004098141812727338
+}

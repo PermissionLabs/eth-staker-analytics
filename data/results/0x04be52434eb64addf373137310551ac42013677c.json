@@ -1,0 +1,352 @@
+{
+  "portfolio": {
+    "address": "0x04be52434eb64addf373137310551ac42013677c",
+    "totalValue": "$2,841",
+    "walletLifetime": "1670 days",
+    "tokens": [
+      {
+        "symbol": "weETH",
+        "chain": "mito",
+        "price": "$3,390.7104",
+        "amount": "0.1243",
+        "usdValue": "$421.53"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "321.4666",
+        "usdValue": "$321.40"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "290.6979",
+        "usdValue": "$290.64"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,130.5800",
+        "amount": "0.0547",
+        "usdValue": "$171.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,130.8800",
+        "amount": "0.0501",
+        "usdValue": "$156.82"
+      },
+      {
+        "symbol": "FLUID(INST)",
+        "chain": "matic",
+        "price": "$3.2657",
+        "amount": "39.9365",
+        "usdValue": "$130.42"
+      },
+      {
+        "symbol": "fBOMB",
+        "chain": "op",
+        "price": "$0.0194",
+        "amount": "3,313.9521",
+        "usdValue": "$64.39"
+      },
+      {
+        "symbol": "cbETH",
+        "chain": "base",
+        "price": "$3,476.2967",
+        "amount": "0.0054",
+        "usdValue": "$18.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.3200",
+        "amount": "0.0036",
+        "usdValue": "$11.43"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2133",
+        "amount": "50.0893",
+        "usdValue": "$10.68"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3203",
+        "amount": "32.9299",
+        "usdValue": "$10.55"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2098",
+        "amount": "5.6658",
+        "usdValue": "$6.85"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.0000",
+        "amount": "0.0062",
+        "usdValue": "$5.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.8800",
+        "amount": "0.0012",
+        "usdValue": "$3.76"
+      },
+      {
+        "symbol": "HOP",
+        "chain": "op",
+        "price": "$0.0023",
+        "amount": "1,570.1821",
+        "usdValue": "$3.64"
+      },
+      {
+        "symbol": "SD",
+        "chain": "matic",
+        "price": "$0.2429",
+        "amount": "12.5654",
+        "usdValue": "$3.05"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0343",
+        "amount": "70.6627",
+        "usdValue": "$2.42"
+      },
+      {
+        "symbol": "ORDER",
+        "chain": "eth",
+        "price": "$0.1106",
+        "amount": "19.0156",
+        "usdValue": "$2.10"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$495"
+      },
+      {
+        "protocol": "azuro",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT0",
+        "usdValue": "$315"
+      },
+      {
+        "protocol": "Superform",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$202"
+      },
+      {
+        "protocol": "Silo",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$90"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$43"
+      },
+      {
+        "protocol": "Meshswap",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "POL",
+        "usdValue": "$29"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVNT",
+        "usdValue": "$22"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Superchain Eco",
+        "chain": "op",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "OP",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x04be52434eb64addf373137310551ac42013677c",
+    "topProtocols": [
+      {
+        "name": "0xd057…2a08",
+        "volume": "$14K"
+      },
+      {
+        "name": "HOPR",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x5e85…4af3",
+        "volume": "$12K"
+      },
+      {
+        "name": "Atlendis",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x54b0…f072",
+        "volume": "$4K"
+      },
+      {
+        "name": "Olympus",
+        "volume": "$3K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$3K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$2K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "azuro",
+        "volume": "$1K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$1K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "HOPR",
+        "volume": "$37K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$3K"
+      },
+      {
+        "name": "OHM",
+        "volume": "$3K"
+      },
+      {
+        "name": "OP",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$2K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WXDAI",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:34:32.816Z",
+  "source": "moonwell",
+  "vaultBalance": 0.15449193015174995,
+  "vaultPct": 0.002802827567984395
+}

@@ -1,0 +1,204 @@
+{
+  "portfolio": {
+    "address": "0x7796d8e66bbc0f02b94657d43abd53e318fa3e31",
+    "totalValue": "$1,161",
+    "walletLifetime": "1158 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,158.0800",
+        "amount": "0.1198",
+        "usdValue": "$378.40"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "218.0314",
+        "usdValue": "$217.99"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$92,162.9200",
+        "amount": "0.0015",
+        "usdValue": "$140.30"
+      },
+      {
+        "symbol": "wstETH",
+        "chain": "matic",
+        "price": "$3,855.6491",
+        "amount": "0.0100",
+        "usdValue": "$38.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.0300",
+        "amount": "0.0115",
+        "usdValue": "$36.33"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1248",
+        "amount": "24.9679",
+        "usdValue": "$3.12"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$345"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7796d8e66bbc0f02b94657d43abd53e318fa3e31",
+    "topProtocols": [
+      {
+        "name": "Rainbow Swap",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe5de…28e0",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x7715…fea9",
+        "volume": "$3K"
+      },
+      {
+        "name": "PoolTogether",
+        "volume": "$610"
+      },
+      {
+        "name": "0xc1f9…34a6",
+        "volume": "$412"
+      },
+      {
+        "name": "0xe06c…efd3",
+        "volume": "$404"
+      },
+      {
+        "name": "0xba3a…d563",
+        "volume": "$370"
+      },
+      {
+        "name": "0x9901…6f8a",
+        "volume": "$328"
+      },
+      {
+        "name": "0x9a26…8fe7",
+        "volume": "$311"
+      },
+      {
+        "name": "0x7092…a1ea",
+        "volume": "$238"
+      },
+      {
+        "name": "0xc7b8…ceb5",
+        "volume": "$179"
+      },
+      {
+        "name": "0x14f6…52a6",
+        "volume": "$127"
+      },
+      {
+        "name": "0xc1bf…e8f7",
+        "volume": "$112"
+      },
+      {
+        "name": "0x8fb0…1f67",
+        "volume": "$100"
+      },
+      {
+        "name": "0x5fe9…b4d9",
+        "volume": "$44"
+      },
+      {
+        "name": "0xf411…3480",
+        "volume": "$19"
+      },
+      {
+        "name": "Aztec",
+        "volume": "$16"
+      },
+      {
+        "name": "0xcfb4…2d9f",
+        "volume": "$14"
+      },
+      {
+        "name": "Loopring",
+        "volume": "$13"
+      },
+      {
+        "name": "0x1625…a320",
+        "volume": "$13"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KUSDT0",
+        "volume": "$7K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$902"
+      },
+      {
+        "name": "WETH",
+        "volume": "$315"
+      },
+      {
+        "name": "USDC",
+        "volume": "$218"
+      },
+      {
+        "name": "DAI",
+        "volume": "$200"
+      },
+      {
+        "name": "POL",
+        "volume": "$98"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$37"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$18"
+      },
+      {
+        "name": "GONE",
+        "volume": "$13"
+      },
+      {
+        "name": "SPORK",
+        "volume": "$10"
+      },
+      {
+        "name": "CULOMOON",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:41:55.299Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.1,
+  "vaultPct": 0.000007508784238160162
+}

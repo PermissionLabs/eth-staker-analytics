@@ -1,0 +1,208 @@
+{
+  "portfolio": {
+    "address": "0x0e13a3030788abcf09b1430d524f7e081063af06",
+    "totalValue": "$370",
+    "walletLifetime": "1259 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.9100",
+        "amount": "0.0168",
+        "usdValue": "$52.56"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0336",
+        "amount": "1,000.8701",
+        "usdValue": "$33.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,133.9100",
+        "amount": "0.0060",
+        "usdValue": "$18.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.9100",
+        "amount": "0.0020",
+        "usdValue": "$6.33"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$903.6000",
+        "amount": "0.0024",
+        "usdValue": "$2.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,132.4700",
+        "amount": "0.0001",
+        "usdValue": "$0.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.9100",
+        "amount": "0.0001",
+        "usdValue": "$0.36"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7000",
+        "amount": "0.0149",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0954",
+        "amount": "1.5894",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "LINUS",
+        "chain": "linea",
+        "price": "$0.02",
+        "amount": "32.53",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$158"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$97"
+      },
+      {
+        "protocol": "Ape Bond",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINUS",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0e13a3030788abcf09b1430d524f7e081063af06",
+    "topProtocols": [
+      {
+        "name": "SyncSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$640M"
+      },
+      {
+        "name": "averick",
+        "volume": "$625"
+      },
+      {
+        "name": "ungee",
+        "volume": "$504"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$458K"
+      },
+      {
+        "name": "oi",
+        "volume": "$429M"
+      },
+      {
+        "name": "ES Protocol",
+        "volume": "$387"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$353"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$333"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$312"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$188"
+      },
+      {
+        "name": "Velocore",
+        "volume": "$171"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$170"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$922"
+      },
+      {
+        "name": "USDT",
+        "volume": "$431"
+      },
+      {
+        "name": "ZK",
+        "volume": "$384"
+      },
+      {
+        "name": "m.USDT",
+        "volume": "$323"
+      },
+      {
+        "name": "USDt",
+        "volume": "$320"
+      },
+      {
+        "name": "ZAT",
+        "volume": "$295"
+      },
+      {
+        "name": "POL",
+        "volume": "$130"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:34:47.410Z",
+  "source": "base_aave",
+  "vaultBalance": 0.05023755985897659,
+  "vaultPct": 0.00007390348245926266
+}

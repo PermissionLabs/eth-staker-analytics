@@ -1,0 +1,100 @@
+{
+  "portfolio": {
+    "address": "0xc786de9d60449051f000e45443f00bbd0d753c43",
+    "totalValue": "$2,445",
+    "walletLifetime": "58 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,096.8600",
+        "amount": "0.0049",
+        "usdValue": "$15.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,096.8600",
+        "amount": "0.0025",
+        "usdValue": "$7.69"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$2,422"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc786de9d60449051f000e45443f00bbd0d753c43",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8216…4fd7",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$455"
+      },
+      {
+        "name": "0xda34…a485",
+        "volume": "$227"
+      },
+      {
+        "name": "0x151b…e96d",
+        "volume": "$21"
+      },
+      {
+        "name": "0x992b…f7b5",
+        "volume": "$14"
+      },
+      {
+        "name": "0x391e…a604",
+        "volume": "$10"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$10"
+      },
+      {
+        "name": "0xe34d…0f67",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDe",
+        "volume": "$8K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:18:24.216Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.12,
+  "vaultPct": 0.000022312443875716872
+}

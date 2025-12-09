@@ -1,0 +1,244 @@
+{
+  "portfolio": {
+    "address": "0x3c7092a73c2c04dabfb22ff4732704458221b718",
+    "totalValue": "$4,194",
+    "walletLifetime": "135 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "matic",
+        "price": "$13.7414",
+        "amount": "13.9036",
+        "usdValue": "$191.05"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "10.8979",
+        "usdValue": "$148.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.7900",
+        "amount": "0.0435",
+        "usdValue": "$135.48"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.3820",
+        "amount": "2.0756",
+        "usdValue": "$60.98"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7493",
+        "amount": "0.0473",
+        "usdValue": "$0.65"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "0.7410",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,117.7900",
+        "amount": "0.00001046",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.0085",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7877",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$1,443"
+      },
+      {
+        "protocol": "LAGOON",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$721"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$591"
+      },
+      {
+        "protocol": "Avant",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "avUSD",
+        "usdValue": "$581"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$321"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3c7092a73c2c04dabfb22ff4732704458221b718",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3fdf…67d4",
+        "volume": "$2K"
+      },
+      {
+        "name": "Avant",
+        "volume": "$1K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$9721"
+      },
+      {
+        "name": "inch",
+        "volume": "$9401"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$830"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$740"
+      },
+      {
+        "name": "0x446e…a7d8",
+        "volume": "$641"
+      },
+      {
+        "name": "0x35b7…5e39",
+        "volume": "$4781"
+      },
+      {
+        "name": "0x2f3a…c633",
+        "volume": "$449"
+      },
+      {
+        "name": "inance",
+        "volume": "$410"
+      },
+      {
+        "name": "0x0d75…afdf",
+        "volume": "$403"
+      },
+      {
+        "name": "0x6aa9…e815",
+        "volume": "$399"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$385"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "avUSD",
+        "volume": "$1K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$817"
+      },
+      {
+        "name": "vbUSDC",
+        "volume": "$767"
+      },
+      {
+        "name": "LINK",
+        "volume": "$699"
+      },
+      {
+        "name": "USDe",
+        "volume": "$400"
+      },
+      {
+        "name": "GHO",
+        "volume": "$400"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:20:12.666Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.27061633092824194,
+  "vaultPct": 0.00005031759746407352
+}

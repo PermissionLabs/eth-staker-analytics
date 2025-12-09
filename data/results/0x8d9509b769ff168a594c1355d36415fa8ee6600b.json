@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0x8d9509b769ff168a594c1355d36415fa8ee6600b",
+    "totalValue": "$1,704",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.2400",
+        "amount": "0.0553",
+        "usdValue": "$172.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.3700",
+        "amount": "0.0179",
+        "usdValue": "$56.08"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.5000",
+        "amount": "0.0154",
+        "usdValue": "$13.81"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "0.0034",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0002",
+        "amount": "0.0027",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7897",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,461"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8d9509b769ff168a594c1355d36415fa8ee6600b",
+    "topProtocols": [
+      {
+        "name": "0x9a0a…7be5",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xa0a4…0464",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x09be…a9d3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xb40c…733f",
+        "volume": "$4K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$3K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xbc22…52f9",
+        "volume": "$474M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$122"
+      },
+      {
+        "name": "0x7f16…1a35",
+        "volume": "$121"
+      },
+      {
+        "name": "0x374a…3e12",
+        "volume": "$54"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$121"
+      },
+      {
+        "name": "inch",
+        "volume": "$12"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$6"
+      },
+      {
+        "name": "0x495b…5c2f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$16K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$339"
+      },
+      {
+        "name": "USDC",
+        "volume": "$241B"
+      },
+      {
+        "name": "NB",
+        "volume": "$18"
+      },
+      {
+        "name": "ORAI",
+        "volume": "$12"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:13:15.458Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.9503480230999014,
+  "vaultPct": 0.00017670489106512527
+}

@@ -1,0 +1,245 @@
+{
+  "portfolio": {
+    "address": "0x8ad353f9525d414b8a4a0de4623ad2efdff3df8e",
+    "totalValue": "$197,371",
+    "walletLifetime": "1820 days",
+    "tokens": [
+      {
+        "symbol": "MKR",
+        "chain": "eth",
+        "price": "$1,258.4600",
+        "amount": "10.7519",
+        "usdValue": "$13,530.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.2700",
+        "amount": "0.0486",
+        "usdValue": "$151.93"
+      },
+      {
+        "symbol": "UDS",
+        "chain": "eth",
+        "price": "$2.4024",
+        "amount": "24.7151",
+        "usdValue": "$59.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.2700",
+        "amount": "0.0074",
+        "usdValue": "$23.10"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4820",
+        "amount": "43.5492",
+        "usdValue": "$20.99"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7896",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004655",
+        "amount": "0.0690",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BUMP",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "2,563.9255",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "3,750.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$183,428"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$156"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8ad353f9525d414b8a4a0de4623ad2efdff3df8e",
+    "topProtocols": [
+      {
+        "name": "Pendle V2",
+        "volume": "$870K"
+      },
+      {
+        "name": "Bumper",
+        "volume": "$669K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$318K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$209K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$203K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$202K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$187K"
+      },
+      {
+        "name": "0x07d4…1b82",
+        "volume": "$186K"
+      },
+      {
+        "name": "dYdX",
+        "volume": "$186K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$179K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$145K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$136K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$129K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$116K"
+      },
+      {
+        "name": "StakeWise",
+        "volume": "$114K"
+      },
+      {
+        "name": "xDai",
+        "volume": "$78K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$78K"
+      },
+      {
+        "name": "0x3755…5c4f",
+        "volume": "$72K"
+      },
+      {
+        "name": "Aave V1",
+        "volume": "$71K"
+      },
+      {
+        "name": "0x8955…478d",
+        "volume": "$70K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "weETH",
+        "volume": "$889K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$876K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$866K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$408K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$369K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$106K"
+      },
+      {
+        "name": "MKR",
+        "volume": "$15K"
+      },
+      {
+        "name": "BAL",
+        "volume": "$9K"
+      },
+      {
+        "name": "UMP",
+        "volume": "$67"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$61"
+      },
+      {
+        "name": "UDS",
+        "volume": "$26"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:56:33.781Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 49.96682125270703,
+  "vaultPct": 0.5573094201655265
+}

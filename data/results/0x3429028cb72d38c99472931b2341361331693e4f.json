@@ -1,0 +1,162 @@
+{
+  "portfolio": {
+    "address": "0x3429028cb72d38c99472931b2341361331693e4f",
+    "totalValue": "$10,061",
+    "walletLifetime": "419 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,137.6300",
+        "amount": "2.2000",
+        "usdValue": "$6,902.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,137.6300",
+        "amount": "0.1000",
+        "usdValue": "$313.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,137.6300",
+        "amount": "0.0999",
+        "usdValue": "$313.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,137.6300",
+        "amount": "0.0500",
+        "usdValue": "$156.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.6300",
+        "amount": "0.0467",
+        "usdValue": "$146.52"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,589"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$637"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3429028cb72d38c99472931b2341361331693e4f",
+    "topProtocols": [
+      {
+        "name": "Fuel",
+        "volume": "$15K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$11K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$8K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$401"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$201"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$40"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$30K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$40"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:25:44.654Z",
+  "source": "moonwell",
+  "vaultBalance": 0.19830642552503042,
+  "vaultPct": 0.003597720061002835
+}

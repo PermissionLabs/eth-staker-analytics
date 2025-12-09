@@ -1,0 +1,130 @@
+{
+  "portfolio": {
+    "address": "0xa2eeea10a9a116b5ec77fa3a12d580a7265ece9d",
+    "totalValue": "$834",
+    "walletLifetime": "1476 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.1000",
+        "amount": "0.0269",
+        "usdValue": "$24.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,094.8800",
+        "amount": "0.0029",
+        "usdValue": "$8.83"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9771",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$746"
+      },
+      {
+        "protocol": "PancakeSwap",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "Cake",
+        "usdValue": "$55"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa2eeea10a9a116b5ec77fa3a12d580a7265ece9d",
+    "topProtocols": [
+      {
+        "name": "0x3d6b…72b5",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$804"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$511B"
+      },
+      {
+        "name": "inance",
+        "volume": "$405"
+      },
+      {
+        "name": "0xbeee…e678",
+        "volume": "$366"
+      },
+      {
+        "name": "0x02eb…276f",
+        "volume": "$159"
+      },
+      {
+        "name": "0xab8c…0483",
+        "volume": "$123"
+      },
+      {
+        "name": "0x2e77…017d",
+        "volume": "$6"
+      },
+      {
+        "name": "0x5a63…a9c0",
+        "volume": "$4"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x411b…302c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb102…a72a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$564B"
+      },
+      {
+        "name": "NB",
+        "volume": "$304"
+      },
+      {
+        "name": "Cake",
+        "volume": "$185B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:01:03.468Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.2308,
+  "vaultPct": 0.000017330274021673653
+}

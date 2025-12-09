@@ -1,0 +1,157 @@
+{
+  "portfolio": {
+    "address": "0x79690347ed84d8873261d7445074a997f451320e",
+    "totalValue": "$17,411",
+    "walletLifetime": "1865 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.1625",
+        "amount": "299.9416",
+        "usdValue": "$4,247.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,163.2900",
+        "amount": "0.0346",
+        "usdValue": "$109.31"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1253",
+        "amount": "402.7109",
+        "usdValue": "$50.46"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8400",
+        "amount": "0.2503",
+        "usdValue": "$3.46"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0295",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$12,760"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVAX",
+        "usdValue": "$239"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x79690347ed84d8873261d7445074a997f451320e",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$11K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xa0dd…f22d",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x0480…f12c",
+        "volume": "$3K"
+      },
+      {
+        "name": "inance",
+        "volume": "$558B"
+      },
+      {
+        "name": "ENQI",
+        "volume": "$404B"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$232"
+      },
+      {
+        "name": "0xbfa5…2684",
+        "volume": "$196"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$815"
+      },
+      {
+        "name": "POL",
+        "volume": "$497"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:37:37.902Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.4934000000000003,
+  "vaultPct": 0.00026231186857588704
+}

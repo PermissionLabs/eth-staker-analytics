@@ -1,0 +1,97 @@
+{
+  "portfolio": {
+    "address": "0xec9ce8be4269abb0848a02ab0f0244bfce372f99",
+    "totalValue": "$3,224",
+    "walletLifetime": "1572 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,162.4400",
+        "amount": "0.2831",
+        "usdValue": "$895.38"
+      },
+      {
+        "symbol": "MegaDoge",
+        "chain": "matic",
+        "price": "$0.00009336",
+        "amount": "1,000.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CKIE",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "0.00003463",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,329"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xec9ce8be4269abb0848a02ab0f0244bfce372f99",
+    "topProtocols": [
+      {
+        "name": "0x4ac9…102f",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3f3a…1390",
+        "volume": "$791"
+      },
+      {
+        "name": "0x89b4…2a01",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x22c1…b415",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcbf4…1fe3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:41:34.577Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.62513456659552,
+  "vaultPct": 0.00004694000580381524
+}

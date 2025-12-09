@@ -1,0 +1,141 @@
+{
+  "portfolio": {
+    "address": "0x6241fb3f2db5e0838dccd6b1c2e8fed6d8aa764e",
+    "totalValue": "$40",
+    "walletLifetime": "1136 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "35.0144",
+        "usdValue": "$35.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,137.2000",
+        "amount": "0.0010",
+        "usdValue": "$3.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.2000",
+        "amount": "0.0007",
+        "usdValue": "$2.31"
+      },
+      {
+        "symbol": "WSTR",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x6241fb3f2db5e0838dccd6b1c2e8fed6d8aa764e",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$26K"
+      },
+      {
+        "name": "0xcc2b…c60f",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x31a6…00f8",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x7abe…3448",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x3e1e…45e5",
+        "volume": "$3K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$714"
+      },
+      {
+        "name": "0xa9bd…0874",
+        "volume": "$600"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$533"
+      },
+      {
+        "name": "0xe0fc…1d05",
+        "volume": "$500"
+      },
+      {
+        "name": "0x7352…875f",
+        "volume": "$474"
+      },
+      {
+        "name": "0xaed2…9a0f",
+        "volume": "$368"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$320"
+      },
+      {
+        "name": "inance",
+        "volume": "$285"
+      },
+      {
+        "name": "0xf57a…1434",
+        "volume": "$140"
+      },
+      {
+        "name": "0xcec6…c654",
+        "volume": "$54"
+      },
+      {
+        "name": "0x12d7…0144",
+        "volume": "$45"
+      },
+      {
+        "name": "0xf12a…3420",
+        "volume": "$42"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$26"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$32K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "WSTR",
+        "volume": "$8K"
+      },
+      {
+        "name": "TURBO",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:28:17.034Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05,
+  "vaultPct": 0.000009296851614882031
+}

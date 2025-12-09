@@ -1,0 +1,320 @@
+{
+  "portfolio": {
+    "address": "0xa4e3788855ac12cd4ef12275e429f7520fe1d084",
+    "totalValue": "$117,175",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "644.3678",
+        "usdValue": "$644.30"
+      },
+      {
+        "symbol": "FLUID",
+        "chain": "base",
+        "price": "$3.2657",
+        "amount": "49.8670",
+        "usdValue": "$162.85"
+      },
+      {
+        "symbol": "AUKI",
+        "chain": "base",
+        "price": "$0.0106",
+        "amount": "10,816.2273",
+        "usdValue": "$115.08"
+      },
+      {
+        "symbol": "DAG",
+        "chain": "base",
+        "price": "$0.0123",
+        "amount": "8,851.7300",
+        "usdValue": "$108.92"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,815.6900",
+        "amount": "0.0005",
+        "usdValue": "$42.03"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6800",
+        "amount": "2.9931",
+        "usdValue": "$40.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.9700",
+        "amount": "0.0111",
+        "usdValue": "$34.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.9700",
+        "amount": "0.0095",
+        "usdValue": "$29.86"
+      },
+      {
+        "symbol": "DAG",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "8,851.7313",
+        "usdValue": "$7.75"
+      },
+      {
+        "symbol": "reUSD",
+        "chain": "avax",
+        "price": "$1.0477",
+        "amount": "6.8392",
+        "usdValue": "$7.17"
+      },
+      {
+        "symbol": "BTC.b",
+        "chain": "avax",
+        "price": "$90,815.7000",
+        "amount": "0.00006954",
+        "usdValue": "$6.32"
+      },
+      {
+        "symbol": "BLACK",
+        "chain": "avax",
+        "price": "$0.0587",
+        "amount": "106.2828",
+        "usdValue": "$6.24"
+      },
+      {
+        "symbol": "SUPER",
+        "chain": "avax",
+        "price": "$0.2620",
+        "amount": "22.5871",
+        "usdValue": "$5.92"
+      },
+      {
+        "symbol": "WETH.e",
+        "chain": "avax",
+        "price": "$3,127.6900",
+        "amount": "0.0016",
+        "usdValue": "$5.07"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "avax",
+        "price": "$0.9999",
+        "amount": "4.9201",
+        "usdValue": "$4.92"
+      },
+      {
+        "symbol": "WAVAX",
+        "chain": "avax",
+        "price": "$13.6800",
+        "amount": "0.1516",
+        "usdValue": "$2.07"
+      },
+      {
+        "symbol": "USDt",
+        "chain": "avax",
+        "price": "$1.0001",
+        "amount": "1.8188",
+        "usdValue": "$1.82"
+      },
+      {
+        "symbol": "weETH",
+        "chain": "avax",
+        "price": "$3,388.3488",
+        "amount": "0.0005",
+        "usdValue": "$1.65"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Enzyme",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$46,935"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$44,684"
+      },
+      {
+        "protocol": "Enzyme",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$18,825"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$2,455"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "frax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "frxUSD",
+        "usdValue": "$1,615"
+      },
+      {
+        "protocol": "Blackhole",
+        "chain": "avax",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "BLACK",
+        "usdValue": "$741"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "LINK",
+        "usdValue": "$691"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa4e3788855ac12cd4ef12275e429f7520fe1d084",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$211K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$109K"
+      },
+      {
+        "name": "Enzyme",
+        "volume": "$58K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$46K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$34K"
+      },
+      {
+        "name": "Blackhole",
+        "volume": "$7K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xb1df…dd41",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$3K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0d5b…80e6",
+        "volume": "$2K"
+      },
+      {
+        "name": "Rango",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$137K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$129K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$116K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$100K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$69K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$4K"
+      },
+      {
+        "name": "BLACK",
+        "volume": "$4K"
+      },
+      {
+        "name": "frxUSD",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$2K"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$871"
+      },
+      {
+        "name": "SOL",
+        "volume": "$660"
+      },
+      {
+        "name": "AUKI",
+        "volume": "$350"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:55:36.186Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 8.006915884482607,
+  "vaultPct": 0.0014887821774175341
+}

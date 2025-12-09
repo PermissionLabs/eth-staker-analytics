@@ -1,0 +1,71 @@
+{
+  "portfolio": {
+    "address": "0x8bf4fa6d5bca1d88102912375fb5236675880e95",
+    "totalValue": "$991",
+    "walletLifetime": "360 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.2100",
+        "amount": "0.3190",
+        "usdValue": "$991.45"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7843",
+        "amount": "3.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x8bf4fa6d5bca1d88102912375fb5236675880e95",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$29K"
+      },
+      {
+        "name": "0xbf26…f949",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x9625…2499",
+        "volume": "$11K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9da8…2c69",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$39K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:33:33.693Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.5,
+  "vaultPct": 0.0004648425807441015
+}

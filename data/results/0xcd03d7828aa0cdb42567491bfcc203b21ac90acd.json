@@ -1,0 +1,290 @@
+{
+  "portfolio": {
+    "address": "0xcd03d7828aa0cdb42567491bfcc203b21ac90acd",
+    "totalValue": "$41,499",
+    "walletLifetime": "3061 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.1625",
+        "amount": "169.5612",
+        "usdValue": "$2,401.41"
+      },
+      {
+        "symbol": "BAT",
+        "chain": "eth",
+        "price": "$0.2639",
+        "amount": "8,174.7001",
+        "usdValue": "$2,156.89"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.7315",
+        "amount": "127.1190",
+        "usdValue": "$728.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,162.1200",
+        "amount": "0.2228",
+        "usdValue": "$704.63"
+      },
+      {
+        "symbol": "ENS",
+        "chain": "eth",
+        "price": "$11.4700",
+        "amount": "50.7533",
+        "usdValue": "$582.14"
+      },
+      {
+        "symbol": "TRIBE(fei.money)",
+        "chain": "eth",
+        "price": "$0.4711",
+        "amount": "729.3582",
+        "usdValue": "$343.57"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$195.0310",
+        "amount": "1.3374",
+        "usdValue": "$260.83"
+      },
+      {
+        "symbol": "RLB",
+        "chain": "eth",
+        "price": "$0.0579",
+        "amount": "2,215.6440",
+        "usdValue": "$128.33"
+      },
+      {
+        "symbol": "CVC",
+        "chain": "eth",
+        "price": "$0.0475",
+        "amount": "2,684.7371",
+        "usdValue": "$127.53"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.6046",
+        "amount": "178.1183",
+        "usdValue": "$107.69"
+      },
+      {
+        "symbol": "CHZ",
+        "chain": "eth",
+        "price": "$0.0318",
+        "amount": "720.2180",
+        "usdValue": "$22.90"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "eth",
+        "price": "$0.0470",
+        "amount": "409.5500",
+        "usdValue": "$19.25"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2865",
+        "amount": "52.0000",
+        "usdValue": "$14.90"
+      },
+      {
+        "symbol": "RPL",
+        "chain": "eth",
+        "price": "$2.4546",
+        "amount": "5.3545",
+        "usdValue": "$13.14"
+      },
+      {
+        "symbol": "SAND",
+        "chain": "eth",
+        "price": "$0.1444",
+        "amount": "56.8980",
+        "usdValue": "$8.22"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.9000",
+        "amount": "2.0745",
+        "usdValue": "$8.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$21,290"
+      },
+      {
+        "protocol": "Ankr",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$12,374"
+      },
+      {
+        "protocol": "Polygon Staking",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$181"
+      },
+      {
+        "protocol": "Bancor",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "BNT",
+        "usdValue": "$12"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcd03d7828aa0cdb42567491bfcc203b21ac90acd",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$182K"
+      },
+      {
+        "name": "0x513c…8c23",
+        "volume": "$97K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$77K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "Ankr",
+        "volume": "$22K"
+      },
+      {
+        "name": "Bittrex",
+        "volume": "$14K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xd813…b019",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xd7d0…d29f",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x960b…88c0",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xc1c8…14a7",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x6e5b…bbdc",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa744…ac0d",
+        "volume": "$2K"
+      },
+      {
+        "name": "Unknown Protocol",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$453K"
+      },
+      {
+        "name": "BAT",
+        "volume": "$9K"
+      },
+      {
+        "name": "KANT",
+        "volume": "$6K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$5K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      },
+      {
+        "name": "GLM",
+        "volume": "$4K"
+      },
+      {
+        "name": "STORJ",
+        "volume": "$3K"
+      },
+      {
+        "name": "OMG",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$2K"
+      },
+      {
+        "name": "MKR",
+        "volume": "$2K"
+      },
+      {
+        "name": "RGT",
+        "volume": "$1K"
+      },
+      {
+        "name": "SNT",
+        "volume": "$709"
+      },
+      {
+        "name": "ENJ",
+        "volume": "$697"
+      },
+      {
+        "name": "ENS",
+        "volume": "$674"
+      },
+      {
+        "name": "REN",
+        "volume": "$554"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:38:13.266Z",
+  "source": "lido_steth",
+  "vaultBalance": 6.299405558308614,
+  "vaultPct": 0.00047300877166006226
+}

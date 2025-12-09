@@ -1,0 +1,120 @@
+{
+  "portfolio": {
+    "address": "0xd452dbcdb7d318130214074e31effb9095b4994c",
+    "totalValue": "$6,549",
+    "walletLifetime": "197 days",
+    "tokens": [
+      {
+        "symbol": "KTA",
+        "chain": "base",
+        "price": "$0.2369",
+        "amount": "10,176.3815",
+        "usdValue": "$2,410.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,099.8800",
+        "amount": "0.0011",
+        "usdValue": "$3.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,135"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd452dbcdb7d318130214074e31effb9095b4994c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$12K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$11K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$10K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4b34…a8b6",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x7b2b…dcfb",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x68cb…a30b",
+        "volume": "$25"
+      },
+      {
+        "name": "0xd076…57b5",
+        "volume": "$20"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xec75…8de9",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3c7d…928c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$46K"
+      },
+      {
+        "name": "KTA",
+        "volume": "$12K"
+      },
+      {
+        "name": "BASEBB",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:18:40.827Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.9408225828527335,
+  "vaultPct": 0.0005468078235695196
+}

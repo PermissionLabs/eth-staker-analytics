@@ -1,0 +1,252 @@
+{
+  "portfolio": {
+    "address": "0xe63cf5e960e435172ede7c29579b14c4f31b1208",
+    "totalValue": "$49,149",
+    "walletLifetime": "801 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7809",
+        "amount": "777.7000",
+        "usdValue": "$10,717.44"
+      },
+      {
+        "symbol": "weETH",
+        "chain": "swell",
+        "price": "$3,382.9864",
+        "amount": "0.9815",
+        "usdValue": "$3,320.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.9000",
+        "amount": "0.0577",
+        "usdValue": "$180.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "swell",
+        "price": "$3,126.0000",
+        "amount": "0.0100",
+        "usdValue": "$31.26"
+      },
+      {
+        "symbol": "SWELL",
+        "chain": "swell",
+        "price": "$0.0023",
+        "amount": "5,491.4418",
+        "usdValue": "$12.45"
+      },
+      {
+        "symbol": "ZRC",
+        "chain": "zircuit",
+        "price": "$0.0070",
+        "amount": "374.5000",
+        "usdValue": "$2.61"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9881",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7896",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$34,228"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETHFI",
+        "usdValue": "$234"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$232"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$180"
+      },
+      {
+        "protocol": "Swell",
+        "chain": "swell",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SWELL",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Swell",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SWELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe63cf5e960e435172ede7c29579b14c4f31b1208",
+    "topProtocols": [
+      {
+        "name": "0x1c91…00f1",
+        "volume": "$24K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$23K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x06cc…57b6",
+        "volume": "$12K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$4K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3d06…aad4",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x338d…ec6f",
+        "volume": "$912"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$503K"
+      },
+      {
+        "name": "elp DAO",
+        "volume": "$170"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$155"
+      },
+      {
+        "name": "AltLayer",
+        "volume": "$127"
+      },
+      {
+        "name": "0x94ca…46fd",
+        "volume": "$126"
+      },
+      {
+        "name": "0x1c3a…38b9",
+        "volume": "$40"
+      },
+      {
+        "name": "Swell Bridge",
+        "volume": "$32"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$57K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$12K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$10K"
+      },
+      {
+        "name": "MNT",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$1K"
+      },
+      {
+        "name": "ALT",
+        "volume": "$998"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$406B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:55:57.684Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 10.055978481576215,
+  "vaultPct": 0.11216025747206465
+}

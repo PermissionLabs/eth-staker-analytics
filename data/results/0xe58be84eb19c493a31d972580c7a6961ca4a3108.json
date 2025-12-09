@@ -1,0 +1,166 @@
+{
+  "portfolio": {
+    "address": "0xe58be84eb19c493a31d972580c7a6961ca4a3108",
+    "totalValue": "$42,712",
+    "walletLifetime": "190 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.3500",
+        "amount": "0.0260",
+        "usdValue": "$80.89"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.3000",
+        "amount": "0.0703",
+        "usdValue": "$62.90"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "LISTA",
+        "chain": "bsc",
+        "price": "$0.1844",
+        "amount": "0.0011",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Lista DAO",
+        "chain": "bsc",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "LISTA",
+        "usdValue": "$20,767"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$15,411"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3,868"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$1,684"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$788"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BNB",
+        "usdValue": "$49"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe58be84eb19c493a31d972580c7a6961ca4a3108",
+    "topProtocols": [
+      {
+        "name": "Kernel DAO",
+        "volume": "$42K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$32K"
+      },
+      {
+        "name": "Lista DAO",
+        "volume": "$26K"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$23K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance DEX",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$50"
+      },
+      {
+        "name": "0x80de…48f5",
+        "volume": "$4"
+      },
+      {
+        "name": "0x2366…8490",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcce1…d186",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa182…0e84",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KERNEL",
+        "volume": "$83K"
+      },
+      {
+        "name": "LISTA",
+        "volume": "$52K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$46K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:10:32.464Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.141727457133509,
+  "vaultPct": 0.012734359544387962
+}

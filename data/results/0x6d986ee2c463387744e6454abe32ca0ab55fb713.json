@@ -1,0 +1,114 @@
+{
+  "portfolio": {
+    "address": "0x6d986ee2c463387744e6454abe32ca0ab55fb713",
+    "totalValue": "$0",
+    "walletLifetime": "1453 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,107.4800",
+        "amount": "0.0300",
+        "usdValue": "$93.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,110.5500",
+        "amount": "0.0298",
+        "usdValue": "$92.63"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "70.0000",
+        "usdValue": "$70.00"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "30.0000",
+        "usdValue": "$30.00"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "28.7683",
+        "usdValue": "$28.77"
+      },
+      {
+        "symbol": "WCT",
+        "chain": "op",
+        "price": "$0.0880",
+        "amount": "160.4399",
+        "usdValue": "$14.12"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "10.5358",
+        "usdValue": "$10.54"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "10.0000",
+        "usdValue": "$10.00"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "9.1063",
+        "usdValue": "$9.11"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "eth",
+        "price": "$0.0965",
+        "amount": "10.0000",
+        "usdValue": "$0.97"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$212"
+      },
+      {
+        "protocol": "Ambire",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ADX",
+        "usdValue": "$38"
+      },
+      {
+        "protocol": "WalletConnect",
+        "chain": "op",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "WCT",
+        "usdValue": "$14"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6d986ee2c463387744e6454abe32ca0ab55fb713",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T15:12:38.879Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.060000000000000005,
+  "vaultPct": 0.000004505270542896097
+}

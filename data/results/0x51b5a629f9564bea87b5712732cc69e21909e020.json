@@ -1,0 +1,178 @@
+{
+  "portfolio": {
+    "address": "0x51b5a629f9564bea87b5712732cc69e21909e020",
+    "totalValue": "$5,170",
+    "walletLifetime": "198 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7827",
+        "amount": "73.9960",
+        "usdValue": "$1,019.86"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "63.6702",
+        "usdValue": "$869.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.5000",
+        "amount": "0.2520",
+        "usdValue": "$788.82"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "eth",
+        "price": "$0.3943",
+        "amount": "1,028.8350",
+        "usdValue": "$405.67"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "256.7433",
+        "usdValue": "$256.76"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "CZGOAT",
+        "chain": "bsc",
+        "price": "$0.0002",
+        "amount": "18.6542",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,829"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x51b5a629f9564bea87b5712732cc69e21909e020",
+    "topProtocols": [
+      {
+        "name": "0x14bd…6021",
+        "volume": "$79K"
+      },
+      {
+        "name": "0x8848…643d",
+        "volume": "$46K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$17K"
+      },
+      {
+        "name": "Zoomex",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x9bea…73c9",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xaab7…df95",
+        "volume": "$7K"
+      },
+      {
+        "name": "Rango",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8dd5…c744",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xfe2f…23c4",
+        "volume": "$4K"
+      },
+      {
+        "name": "mimic",
+        "volume": "$3K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$701B"
+      },
+      {
+        "name": "ridgers",
+        "volume": "$525B"
+      },
+      {
+        "name": "0x4d30…05d1",
+        "volume": "$469"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$429"
+      },
+      {
+        "name": "ayan",
+        "volume": "$114"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$168K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$39K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$4K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$1K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:14:50.866Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.5800000000000001,
+  "vaultPct": 0.00010784347873263156
+}

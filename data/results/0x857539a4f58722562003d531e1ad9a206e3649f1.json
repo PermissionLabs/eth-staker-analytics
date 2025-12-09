@@ -1,0 +1,133 @@
+{
+  "portfolio": {
+    "address": "0x857539a4f58722562003d531e1ad9a206e3649f1",
+    "totalValue": "$276",
+    "walletLifetime": "1341 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.6700",
+        "amount": "0.0207",
+        "usdValue": "$64.74"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "30.6964",
+        "usdValue": "$3.82"
+      },
+      {
+        "symbol": "MYST",
+        "chain": "matic",
+        "price": "$0.1872",
+        "amount": "8.9148",
+        "usdValue": "$1.67"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9862",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$206"
+      },
+      {
+        "protocol": "PARSIQ",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MYST",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x857539a4f58722562003d531e1ad9a206e3649f1",
+    "topProtocols": [
+      {
+        "name": "PARSIQ",
+        "volume": "$262"
+      },
+      {
+        "name": "0x0a85…0558",
+        "volume": "$225"
+      },
+      {
+        "name": "0x9b35…5e15",
+        "volume": "$137"
+      },
+      {
+        "name": "0x08fb…460a",
+        "volume": "$134"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$75"
+      },
+      {
+        "name": "0x80ed…e4ab",
+        "volume": "$74"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$50"
+      },
+      {
+        "name": "0x7685…f513",
+        "volume": "$23"
+      },
+      {
+        "name": "0xa62a…a8d2",
+        "volume": "$10"
+      },
+      {
+        "name": "0xf472…98fc",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x659a…460c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "MYST",
+        "volume": "$480"
+      },
+      {
+        "name": "ETH",
+        "volume": "$350"
+      },
+      {
+        "name": "POL",
+        "volume": "$295B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:58:49.695Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.059374894202694505,
+  "vaultPct": 0.000004458332697316195
+}

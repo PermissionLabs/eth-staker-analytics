@@ -1,0 +1,197 @@
+{
+  "portfolio": {
+    "address": "0xb382e48c9eb9e472e97912edf936858d9fa9146c",
+    "totalValue": "$10,697",
+    "walletLifetime": "127 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "op",
+        "price": "$91,940.8800",
+        "amount": "0.0042",
+        "usdValue": "$383.84"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "arb",
+        "price": "$14.1047",
+        "amount": "19.9014",
+        "usdValue": "$280.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,156.9500",
+        "amount": "0.0009",
+        "usdValue": "$2.98"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "base",
+        "price": "$1.0002",
+        "amount": "0.5951",
+        "usdValue": "$0.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,156.9500",
+        "amount": "0.00009975",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "op",
+        "price": "$3,156.9500",
+        "amount": "0.00009917",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0002",
+        "amount": "0.0002",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1250",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,509"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,520"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb382e48c9eb9e472e97912edf936858d9fa9146c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$12K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x1233…916a",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x07d8…cef1",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xf4cd…ec68",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$6K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x0000…c057",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x9fdb…313d",
+        "volume": "$3K"
+      },
+      {
+        "name": "Rubic",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4661…c6b8",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0000…f24f",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x9545…9e61",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$24K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "OP",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$5K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$515"
+      },
+      {
+        "name": "LINK",
+        "volume": "$468"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:50:53.955Z",
+  "source": "base_aave",
+  "vaultBalance": 2.8937916478387686,
+  "vaultPct": 0.004256999760480999
+}

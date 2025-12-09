@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "address": "0x377296dca10f8a0711fbb3d7c3a850d6d3c23928",
+    "totalValue": "$10,641",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.8800",
+        "amount": "0.0163",
+        "usdValue": "$50.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.8800",
+        "amount": "0.0122",
+        "usdValue": "$37.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,108.2700",
+        "amount": "0.0035",
+        "usdValue": "$10.99"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.6997",
+        "amount": "0.1038",
+        "usdValue": "$1.42"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.5199",
+        "amount": "0.0854",
+        "usdValue": "$0.47"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0275",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,609"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "LINK",
+        "usdValue": "$4,930"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x377296dca10f8a0711fbb3d7c3a850d6d3c23928",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$13K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$8K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "Rango",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2cff…2680",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "ybit",
+        "volume": "$468"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$414"
+      },
+      {
+        "name": "0x91b9…443f",
+        "volume": "$238"
+      },
+      {
+        "name": "0x6160…757e",
+        "volume": "$207"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$102"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$64K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$18K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$477"
+      },
+      {
+        "name": "HYPE",
+        "volume": "$420"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:09:20.941Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.9953919494614043,
+  "vaultPct": 0.0005569542896510978
+}

@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0x56b8a8dfae36edd33df91606fe4ece49e4d76ac1",
+    "totalValue": "$272",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "45.0000",
+        "usdValue": "$45.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,092.7400",
+        "amount": "0.0008",
+        "usdValue": "$2.49"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0339",
+        "amount": "19.9986",
+        "usdValue": "$0.68"
+      },
+      {
+        "symbol": "WGLMR",
+        "chain": "mobm",
+        "price": "$0.0339",
+        "amount": "0.2667",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$123"
+      },
+      {
+        "protocol": "Moonbeam",
+        "chain": "mobm",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GLMR",
+        "usdValue": "$102"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x56b8a8dfae36edd33df91606fe4ece49e4d76ac1",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "StellaSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf391…28ce",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$306"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$195"
+      },
+      {
+        "name": "0xa6db…d00e",
+        "volume": "$131"
+      },
+      {
+        "name": "0x3980…a54d",
+        "volume": "$61"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$51"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$50"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…0804",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "GLMR",
+        "volume": "$5K"
+      },
+      {
+        "name": "xcDOT",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$875"
+      },
+      {
+        "name": "WETH",
+        "volume": "$99"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:21:34.565Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.06552572820790796,
+  "vaultPct": 0.000012183659442120203
+}

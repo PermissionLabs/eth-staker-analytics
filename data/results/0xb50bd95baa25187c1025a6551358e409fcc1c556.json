@@ -1,0 +1,202 @@
+{
+  "portfolio": {
+    "address": "0xb50bd95baa25187c1025a6551358e409fcc1c556",
+    "totalValue": "$1,178",
+    "walletLifetime": "1623 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.5200",
+        "amount": "0.0069",
+        "usdValue": "$21.59"
+      },
+      {
+        "symbol": "HDRN",
+        "chain": "eth",
+        "price": "$0.0₇1112",
+        "amount": "107,930,148.8576",
+        "usdValue": "$1.20"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "WAIT",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "23,944.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,156"
+      },
+      {
+        "protocol": "Xen",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "XEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb50bd95baa25187c1025a6551358e409fcc1c556",
+    "topProtocols": [
+      {
+        "name": "0x2b59…eb39",
+        "volume": "$6M"
+      },
+      {
+        "name": "0xe40f…74cb",
+        "volume": "$194K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$141K"
+      },
+      {
+        "name": "0xa6aa…13b5",
+        "volume": "$134K"
+      },
+      {
+        "name": "OmniBridge",
+        "volume": "$103K"
+      },
+      {
+        "name": "0x59a5…06e8",
+        "volume": "$84K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$65K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$55K"
+      },
+      {
+        "name": "0xa338…ae16",
+        "volume": "$54K"
+      },
+      {
+        "name": "0x9cd8…62cb",
+        "volume": "$53K"
+      },
+      {
+        "name": "Icosa X Hedron",
+        "volume": "$39K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$26K"
+      },
+      {
+        "name": "0xe8c5…7433",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x075e…ddc8",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x0140…62c6",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x9a05…857a",
+        "volume": "$25K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$25K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x3819…5e06",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x09c3…d818",
+        "volume": "$11K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "HEX",
+        "volume": "$7M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$553K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$158K"
+      },
+      {
+        "name": "HDRN",
+        "volume": "$73K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$28K"
+      },
+      {
+        "name": "PLSD",
+        "volume": "$11K"
+      },
+      {
+        "name": "KDRAGONX",
+        "volume": "$3K"
+      },
+      {
+        "name": "LUSD",
+        "volume": "$1K"
+      },
+      {
+        "name": "TITANX",
+        "volume": "$1K"
+      },
+      {
+        "name": "VOLT",
+        "volume": "$1K"
+      },
+      {
+        "name": "PP",
+        "volume": "$92"
+      },
+      {
+        "name": "XEN",
+        "volume": "$472"
+      },
+      {
+        "name": "TEXAN",
+        "volume": "$80"
+      },
+      {
+        "name": "WAIT",
+        "volume": "$75M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:52:37.721Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.5901487092971691,
+  "vaultPct": 0.00029566753191863923
+}

@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x724a25f5951ec8eca01dbd8bde39689488a39ad1",
+    "totalValue": "$838",
+    "walletLifetime": "967 days",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3930",
+        "amount": "52.4900",
+        "usdValue": "$73.12"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0322",
+        "amount": "1,094.0000",
+        "usdValue": "$35.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.6800",
+        "amount": "0.0034",
+        "usdValue": "$10.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,124.6800",
+        "amount": "0.0011",
+        "usdValue": "$3.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.6800",
+        "amount": "0.0010",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0890",
+        "amount": "34.2557",
+        "usdValue": "$3.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,124.6800",
+        "amount": "0.0001",
+        "usdValue": "$0.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,124.6800",
+        "amount": "0.00007999",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,124.6800",
+        "amount": "0.00007996",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0946",
+        "amount": "2.0774",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1230",
+        "amount": "1.5470",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$562"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$145"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x724a25f5951ec8eca01dbd8bde39689488a39ad1",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$9K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$4K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$759"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$636"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$635"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$630"
+      },
+      {
+        "name": "Relay",
+        "volume": "$576"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$380M"
+      },
+      {
+        "name": "Router Protocol",
+        "volume": "$337"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KUSDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$578B"
+      },
+      {
+        "name": "TC.b",
+        "volume": "$502"
+      },
+      {
+        "name": "POL",
+        "volume": "$460"
+      },
+      {
+        "name": "ZK",
+        "volume": "$241B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:15:59.508Z",
+  "source": "base_aave",
+  "vaultBalance": 0.17939180233820282,
+  "vaultPct": 0.000263899738654762
+}

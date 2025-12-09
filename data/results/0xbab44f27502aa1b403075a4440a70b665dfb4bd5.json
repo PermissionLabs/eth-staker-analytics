@@ -1,0 +1,213 @@
+{
+  "portfolio": {
+    "address": "0xbab44f27502aa1b403075a4440a70b665dfb4bd5",
+    "totalValue": "$15,804",
+    "walletLifetime": "1046 days",
+    "tokens": [
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "996.5155",
+        "usdValue": "$996.32"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,128.0700",
+        "amount": "0.1154",
+        "usdValue": "$360.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.1700",
+        "amount": "0.0172",
+        "usdValue": "$53.70"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "mnt",
+        "price": "$3,128.0700",
+        "amount": "0.0100",
+        "usdValue": "$31.28"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1051",
+        "amount": "3.0143",
+        "usdValue": "$3.33"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$10,938"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$2,454"
+      },
+      {
+        "protocol": "cega",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$962"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Pixelmon",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "unknown",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbab44f27502aa1b403075a4440a70b665dfb4bd5",
+    "topProtocols": [
+      {
+        "name": "1inch",
+        "volume": "$81K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$48K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$34K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$26K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$23K"
+      },
+      {
+        "name": "0xffd2…d1bb",
+        "volume": "$15K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x6688…67cd",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xe16e…c7d1",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xa3f1…c84b",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf74a…0572",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x9f6b…bbcc",
+        "volume": "$9K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$8K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$129K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$101K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$96K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$69K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "KwstETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$18K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$13K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "SIZE",
+        "volume": "$7K"
+      },
+      {
+        "name": "GEOD",
+        "volume": "$6K"
+      },
+      {
+        "name": "RPILL",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$4K"
+      },
+      {
+        "name": "KOGV",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:15:00.880Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5.9,
+  "vaultPct": 0.0010970284905560796
+}

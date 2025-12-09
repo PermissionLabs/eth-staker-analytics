@@ -1,0 +1,186 @@
+{
+  "portfolio": {
+    "address": "0x3a6631997b9011442476569acbb3a3c7fb3dfaae",
+    "totalValue": "$3,535",
+    "walletLifetime": "1562 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,139.1200",
+        "amount": "0.1306",
+        "usdValue": "$409.97"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "bsc",
+        "price": "$14.0026",
+        "amount": "23.0799",
+        "usdValue": "$323.18"
+      },
+      {
+        "symbol": "SHIB",
+        "chain": "bsc",
+        "price": "$0.0₅851",
+        "amount": "3,154,892.3100",
+        "usdValue": "$26.85"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "155.7276",
+        "usdValue": "$19.39"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.8000",
+        "amount": "0.0149",
+        "usdValue": "$13.57"
+      },
+      {
+        "symbol": "UNO",
+        "chain": "bsc",
+        "price": "$0.0006",
+        "amount": "1,425.7490",
+        "usdValue": "$0.88"
+      },
+      {
+        "symbol": "SHILL",
+        "chain": "bsc",
+        "price": "$0.00008227",
+        "amount": "2,844.8530",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9974",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MARCO",
+        "chain": "bsc",
+        "price": "$0.0015",
+        "amount": "2.1982",
+        "usdValue": ""
+      },
+      {
+        "symbol": "TNT",
+        "chain": "bsc",
+        "price": "$0.0016",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MM72",
+        "chain": "bsc",
+        "price": "$0.0₆9526",
+        "amount": "144.0728",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,723"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$18"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3a6631997b9011442476569acbb3a3c7fb3dfaae",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$1K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$432B"
+      },
+      {
+        "name": "Stader",
+        "volume": "$251B"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$75B"
+      },
+      {
+        "name": "0x17d2…aafb",
+        "volume": "$50B"
+      },
+      {
+        "name": "0xeacb…f962",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xffbe…2727",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$600"
+      },
+      {
+        "name": "LINK",
+        "volume": "$452B"
+      },
+      {
+        "name": "NB",
+        "volume": "$73"
+      },
+      {
+        "name": "UNO",
+        "volume": "$47"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$45"
+      },
+      {
+        "name": "SHILL",
+        "volume": "$28M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:08:19.340Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.792767279785019,
+  "vaultPct": 0.00005952718454978857
+}

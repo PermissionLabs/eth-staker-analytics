@@ -1,0 +1,106 @@
+{
+  "portfolio": {
+    "address": "0xed21b12cc2071a732b9dd0f0e845dbf5bab5abd9",
+    "totalValue": "$2,844",
+    "walletLifetime": "271 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,127.6100",
+        "amount": "0.5000",
+        "usdValue": "$1,563.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.6100",
+        "amount": "0.1174",
+        "usdValue": "$367.18"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "14.5009",
+        "usdValue": "$14.50"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$899"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xed21b12cc2071a732b9dd0f0e845dbf5bab5abd9",
+    "topProtocols": [
+      {
+        "name": "Zharta",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x0b1a…a444",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2266…6757",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2876…20c5",
+        "volume": "$76"
+      },
+      {
+        "name": "0x2385…4460",
+        "volume": "$20"
+      },
+      {
+        "name": "0xb2ec…8e2f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:08:57.922Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.4,
+  "vaultPct": 0.00007437481291905625
+}

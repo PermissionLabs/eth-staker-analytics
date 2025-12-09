@@ -1,0 +1,266 @@
+{
+  "portfolio": {
+    "address": "0xd3e9f68fd146090cde2edc61c51fdb20fa8f44ed",
+    "totalValue": "$1,809",
+    "walletLifetime": "1121 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.2500",
+        "amount": "0.0315",
+        "usdValue": "$98.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.2500",
+        "amount": "0.0174",
+        "usdValue": "$54.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.2500",
+        "amount": "0.0164",
+        "usdValue": "$51.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,125.2500",
+        "amount": "0.0133",
+        "usdValue": "$41.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.2500",
+        "amount": "0.0041",
+        "usdValue": "$12.79"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1234",
+        "amount": "20.7499",
+        "usdValue": "$2.56"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "1.8590",
+        "usdValue": "$1.86"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.1000",
+        "amount": "0.0011",
+        "usdValue": "$1.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,542"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stryke",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "DPX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Yield Protocol",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Umami Finance",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "UMAMI",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd3e9f68fd146090cde2edc61c51fdb20fa8f44ed",
+    "topProtocols": [
+      {
+        "name": "ZeroLend",
+        "volume": "$13K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$9K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$8K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$7K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$5K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xb3dd…1448",
+        "volume": "$5K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Rho Markets",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ZK",
+        "volume": "$21K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ALT",
+        "volume": "$762"
+      },
+      {
+        "name": "SCR",
+        "volume": "$156"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:35:47.294Z",
+  "source": "moonwell",
+  "vaultBalance": 0.17757131832324097,
+  "vaultPct": 0.0032215390524983666
+}

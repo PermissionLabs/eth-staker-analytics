@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0xda9598e9f4d93b853f64bcec352c378eddc8385e",
+    "totalValue": "$642,762",
+    "walletLifetime": "1881 days",
+    "tokens": [
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2806",
+        "amount": "13,066.8810",
+        "usdValue": "$3,666.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,160.1500",
+        "amount": "0.3208",
+        "usdValue": "$1,013.63"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "560.7943",
+        "usdValue": "$560.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.1500",
+        "amount": "0.1153",
+        "usdValue": "$364.33"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "8,045.0000",
+        "usdValue": "$231.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,160.1500",
+        "amount": "0.0495",
+        "usdValue": "$156.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,160.1500",
+        "amount": "0.0288",
+        "usdValue": "$91.14"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$196,026"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$172,888"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$149,349"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$117,969"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$433"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xda9598e9f4d93b853f64bcec352c378eddc8385e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$580K"
+      },
+      {
+        "name": "0x3d5f…288c",
+        "volume": "$255K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$237K"
+      },
+      {
+        "name": "0xdda9…decf",
+        "volume": "$181K"
+      },
+      {
+        "name": "0xa4a6…b57c",
+        "volume": "$147K"
+      },
+      {
+        "name": "0xf336…99ab",
+        "volume": "$122K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$90K"
+      },
+      {
+        "name": "0x3268…3df5",
+        "volume": "$76K"
+      },
+      {
+        "name": "0x249d…b7fa",
+        "volume": "$75K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$72K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$67K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$57K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$55K"
+      },
+      {
+        "name": "0x",
+        "volume": "$47K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$46K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$46K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$656K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$444K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$442K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$170K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$82K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$62K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$38K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$20K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$12K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$12K"
+      },
+      {
+        "name": "OP",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:49:56.688Z",
+  "source": "base_aave",
+  "vaultBalance": 46.932116251665846,
+  "vaultPct": 0.06904090962852191
+}

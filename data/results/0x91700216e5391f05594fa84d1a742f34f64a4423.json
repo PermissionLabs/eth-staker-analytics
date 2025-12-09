@@ -1,0 +1,307 @@
+{
+  "portfolio": {
+    "address": "0x91700216e5391f05594fa84d1a742f34f64a4423",
+    "totalValue": "$22,197",
+    "walletLifetime": "1823 days",
+    "tokens": [
+      {
+        "symbol": "ETHFI",
+        "chain": "eth",
+        "price": "$0.8180",
+        "amount": "2,195.9661",
+        "usdValue": "$1,796.30"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "167.3118",
+        "usdValue": "$167.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.6400",
+        "amount": "0.0382",
+        "usdValue": "$118.50"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4710",
+        "amount": "110.0000",
+        "usdValue": "$51.81"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "31.7426",
+        "usdValue": "$31.75"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "mode",
+        "price": "$0.9999",
+        "amount": "25.0238",
+        "usdValue": "$25.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "mode",
+        "price": "$3,104.6400",
+        "amount": "0.0042",
+        "usdValue": "$13.05"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "op",
+        "price": "$1.0001",
+        "amount": "11.5726",
+        "usdValue": "$11.57"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "10.1450",
+        "usdValue": "$10.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.6400",
+        "amount": "0.0023",
+        "usdValue": "$7.27"
+      },
+      {
+        "symbol": "REZ",
+        "chain": "eth",
+        "price": "$0.0056",
+        "amount": "823.0000",
+        "usdValue": "$4.64"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.6000",
+        "amount": "0.0049",
+        "usdValue": "$4.40"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "4.0693",
+        "usdValue": "$4.07"
+      },
+      {
+        "symbol": "SWELL",
+        "chain": "eth",
+        "price": "$0.0022",
+        "amount": "1,538.7926",
+        "usdValue": "$3.39"
+      },
+      {
+        "symbol": "ROYA",
+        "chain": "eth",
+        "price": "$0.0009",
+        "amount": "2,453.8562",
+        "usdValue": "$2.26"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$16,719"
+      },
+      {
+        "protocol": "Fuel",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,105"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETHFI",
+        "usdValue": "$117"
+      },
+      {
+        "protocol": "Ubeswap",
+        "chain": "celo",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "CELO",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "TokenSets",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x91700216e5391f05594fa84d1a742f34f64a4423",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$48K"
+      },
+      {
+        "name": "0xfa9f…6d25",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xc31b…d121",
+        "volume": "$17K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xdfdf…4fd4",
+        "volume": "$11K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$11K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x67df…c13d",
+        "volume": "$10K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$10K"
+      },
+      {
+        "name": "Blackwing",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xe1ef…032a",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x3ac8…bbdf",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x9170…4423",
+        "volume": "$4K"
+      },
+      {
+        "name": "Fuel",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$114K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$29K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$28K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$20K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "KPOLS",
+        "volume": "$10K"
+      },
+      {
+        "name": "KETHFI",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$1K"
+      },
+      {
+        "name": "UOS",
+        "volume": "$865"
+      },
+      {
+        "name": "WXDAI",
+        "volume": "$662"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$597"
+      },
+      {
+        "name": "LUNA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:21:53.704Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 9.092377763601688,
+  "vaultPct": 0.0016906097378931561
+}

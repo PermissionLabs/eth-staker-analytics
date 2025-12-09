@@ -1,0 +1,265 @@
+{
+  "portfolio": {
+    "address": "0xa3223c48ce4fc0a546c7433105d7f4f920ced7f6",
+    "totalValue": "$40,426",
+    "walletLifetime": "1093 days",
+    "tokens": [
+      {
+        "symbol": "SPX",
+        "chain": "eth",
+        "price": "$0.6479",
+        "amount": "2,342.3365",
+        "usdValue": "$1,517.69"
+      },
+      {
+        "symbol": "PEPE",
+        "chain": "eth",
+        "price": "$0.0₅4703",
+        "amount": "109,006,705.3897",
+        "usdValue": "$512.66"
+      },
+      {
+        "symbol": "TURBO",
+        "chain": "eth",
+        "price": "$0.0022",
+        "amount": "174,096.5872",
+        "usdValue": "$382.32"
+      },
+      {
+        "symbol": "FLOKI",
+        "chain": "eth",
+        "price": "$0.00004875",
+        "amount": "6,287,871.8765",
+        "usdValue": "$306.56"
+      },
+      {
+        "symbol": "KING",
+        "chain": "base",
+        "price": "$427.7350",
+        "amount": "0.5833",
+        "usdValue": "$249.48"
+      },
+      {
+        "symbol": "BOBO (bobothebear.io)",
+        "chain": "eth",
+        "price": "$0.0₆1724",
+        "amount": "1,409,710,495.2316",
+        "usdValue": "$243.10"
+      },
+      {
+        "symbol": "Mog",
+        "chain": "eth",
+        "price": "$0.0₆2852",
+        "amount": "817,633,256.1089",
+        "usdValue": "$233.23"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.0000",
+        "amount": "0.1425",
+        "usdValue": "$127.51"
+      },
+      {
+        "symbol": "BLAST",
+        "chain": "blast",
+        "price": "$0.0009",
+        "amount": "73,043.2754",
+        "usdValue": "$64.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.1700",
+        "amount": "0.0186",
+        "usdValue": "$58.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,116.0500",
+        "amount": "0.0117",
+        "usdValue": "$36.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.0500",
+        "amount": "0.0100",
+        "usdValue": "$31.12"
+      },
+      {
+        "symbol": "toby",
+        "chain": "base",
+        "price": "$0.0₇1315",
+        "amount": "887,323,941.0000",
+        "usdValue": "$11.67"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$34,506"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETHFI",
+        "usdValue": "$1,138"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$846"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$157"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa3223c48ce4fc0a546c7433105d7f4f920ced7f6",
+    "topProtocols": [
+      {
+        "name": "ether.fi",
+        "volume": "$82K"
+      },
+      {
+        "name": "Blast Bridge",
+        "volume": "$48K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$37K"
+      },
+      {
+        "name": "0xdbeb…b60c",
+        "volume": "$32K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$30K"
+      },
+      {
+        "name": "0xd33e…c3de",
+        "volume": "$22K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xb4a8…dbc2",
+        "volume": "$15K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x78e2…3b75",
+        "volume": "$6K"
+      },
+      {
+        "name": "Thruster",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x6bf1…7e95",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xda63…2de3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x6462…f9cc",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x1272…9642",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$216K"
+      },
+      {
+        "name": "BRETT",
+        "volume": "$22K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$12K"
+      },
+      {
+        "name": "TOSHI",
+        "volume": "$8K"
+      },
+      {
+        "name": "MOCHI",
+        "volume": "$7K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "MIA",
+        "volume": "$4K"
+      },
+      {
+        "name": "KSPX",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mog",
+        "volume": "$2K"
+      },
+      {
+        "name": "TURBO",
+        "volume": "$2K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$1K"
+      },
+      {
+        "name": "BLAST",
+        "volume": "$1K"
+      },
+      {
+        "name": "FLOKI",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:17:20.379Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05,
+  "vaultPct": 0.000009296851614882031
+}

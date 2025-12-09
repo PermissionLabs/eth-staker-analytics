@@ -1,0 +1,184 @@
+{
+  "portfolio": {
+    "address": "0x1ff4e85492982519d5800cb527d286afb1d74cde",
+    "totalValue": "$7,102",
+    "walletLifetime": "978 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.0962",
+        "amount": "177.4977",
+        "usdValue": "$2,502.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.7100",
+        "amount": "0.0998",
+        "usdValue": "$314.93"
+      },
+      {
+        "symbol": "RSR",
+        "chain": "eth",
+        "price": "$0.0033",
+        "amount": "79,993.7432",
+        "usdValue": "$263.63"
+      },
+      {
+        "symbol": "OCEAN",
+        "chain": "eth",
+        "price": "$0.2146",
+        "amount": "587.1654",
+        "usdValue": "$126.01"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "eth",
+        "price": "$0.0469",
+        "amount": "2,326.9054",
+        "usdValue": "$109.13"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0970",
+        "amount": "1,125.0000",
+        "usdValue": "$109.13"
+      },
+      {
+        "symbol": "GALA",
+        "chain": "eth",
+        "price": "$0.0074",
+        "amount": "13,096.7900",
+        "usdValue": "$96.92"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1248",
+        "amount": "588.4800",
+        "usdValue": "$73.44"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7900",
+        "amount": "5.3000",
+        "usdValue": "$73.09"
+      },
+      {
+        "symbol": "BOSON",
+        "chain": "eth",
+        "price": "$0.0379",
+        "amount": "1,708.6646",
+        "usdValue": "$64.69"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,369"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1ff4e85492982519d5800cb527d286afb1d74cde",
+    "topProtocols": [
+      {
+        "name": "0x9740…c35c",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7882…7b72",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4b1e…4084",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xfa0b…81b9",
+        "volume": "$516"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$305"
+      },
+      {
+        "name": "0x835b…2a5b",
+        "volume": "$62"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa122…d8b2",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$2K"
+      },
+      {
+        "name": "BOSON",
+        "volume": "$995"
+      },
+      {
+        "name": "GRT",
+        "volume": "$598"
+      },
+      {
+        "name": "GALA",
+        "volume": "$597"
+      },
+      {
+        "name": "OCEAN",
+        "volume": "$530"
+      },
+      {
+        "name": "POL",
+        "volume": "$516"
+      },
+      {
+        "name": "FTM",
+        "volume": "$510"
+      },
+      {
+        "name": "RSR",
+        "volume": "$506"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$180"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:17:36.980Z",
+  "source": "lido_steth",
+  "vaultBalance": 1,
+  "vaultPct": 0.0000750878423816016
+}

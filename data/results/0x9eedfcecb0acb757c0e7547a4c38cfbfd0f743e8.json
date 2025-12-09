@@ -1,0 +1,219 @@
+{
+  "portfolio": {
+    "address": "0x9eedfcecb0acb757c0e7547a4c38cfbfd0f743e8",
+    "totalValue": "$65,007",
+    "walletLifetime": "1569 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.0000",
+        "amount": "0.9493",
+        "usdValue": "$2,963.68"
+      },
+      {
+        "symbol": "SAFE",
+        "chain": "eth",
+        "price": "$0.1532",
+        "amount": "926.6357",
+        "usdValue": "$141.96"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "31.7127",
+        "usdValue": "$31.71"
+      },
+      {
+        "symbol": "BUSD",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "1.8487",
+        "usdValue": "$1.85"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9864",
+        "amount": "50,222.0000",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "Corgi",
+        "chain": "base",
+        "price": "$0.0001",
+        "amount": "1,761.4937",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "eth",
+        "price": "$0.4009",
+        "amount": "0.4930",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "CVX",
+        "chain": "eth",
+        "price": "$1.8332",
+        "amount": "0.0108",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5996",
+        "amount": "0.0235",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "$SHAKA",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "2.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$61,690"
+      },
+      {
+        "protocol": "Gnosis Safe",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SAFE",
+        "usdValue": "$176"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9eedfcecb0acb757c0e7547a4c38cfbfd0f743e8",
+    "topProtocols": [
+      {
+        "name": "Maker",
+        "volume": "$210K"
+      },
+      {
+        "name": "0x939c…46cc",
+        "volume": "$200K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$142K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$142K"
+      },
+      {
+        "name": "0x72fd…386b",
+        "volume": "$46K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$39K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$24K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$17K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$12K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$9K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$6K"
+      },
+      {
+        "name": "MultiSender",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x64f3…a636",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa9ad…4b70",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xb321…b7fa",
+        "volume": "$100"
+      },
+      {
+        "name": "disperse",
+        "volume": "$2"
+      },
+      {
+        "name": "0x5bd2…355f",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$717K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$236K"
+      },
+      {
+        "name": "XMON",
+        "volume": "$82K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$39K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$19"
+      },
+      {
+        "name": "mfer",
+        "volume": "$8K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$13"
+      },
+      {
+        "name": "Corgi",
+        "volume": "$2B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:06:26.384Z",
+  "source": "lido_steth",
+  "vaultBalance": 13.864587275167494,
+  "vaultPct": 0.001041061944003736
+}

@@ -1,0 +1,238 @@
+{
+  "portfolio": {
+    "address": "0x3c460e7b4d727f28d01acd2ebf2cc3d985839b9b",
+    "totalValue": "$2,896",
+    "walletLifetime": "1484 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,153.1500",
+        "amount": "0.3481",
+        "usdValue": "$1,097.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,153.1500",
+        "amount": "0.0593",
+        "usdValue": "$186.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,153.1500",
+        "amount": "0.0010",
+        "usdValue": "$3.00"
+      },
+      {
+        "symbol": "HOP",
+        "chain": "eth",
+        "price": "$0.0023",
+        "amount": "186.6336",
+        "usdValue": "$0.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,153.4700",
+        "amount": "0.00003438",
+        "usdValue": "$0.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,153.4700",
+        "amount": "0.0000122",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "BAL",
+        "chain": "op",
+        "price": "$0.6711",
+        "amount": "0.0183",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OX",
+        "chain": "arb",
+        "price": "$0.00005223",
+        "amount": "5.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1398",
+        "amount": "1,010.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "NBL",
+        "chain": "op",
+        "price": "$0.0000",
+        "amount": "13.3004",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,608"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3c460e7b4d727f28d01acd2ebf2cc3d985839b9b",
+    "topProtocols": [
+      {
+        "name": "0x1349…55a9",
+        "volume": "$27K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xc5aa…7ddf",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$5K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x31e9…f9a5",
+        "volume": "$4K"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xabf1…3645",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xaadc…03ce",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xaa63…4378",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0d58…91cc",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xaf8f…6542",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xe910…d092",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7147…68f4",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x23f6…c68a",
+        "volume": "$3K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$57K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$35K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "OP",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:12:50.730Z",
+  "source": "base_aave",
+  "vaultBalance": 0.508503942022438,
+  "vaultPct": 0.0007480501096234319
+}

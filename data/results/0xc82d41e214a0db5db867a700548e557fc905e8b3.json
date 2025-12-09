@@ -1,0 +1,195 @@
+{
+  "portfolio": {
+    "address": "0xc82d41e214a0db5db867a700548e557fc905e8b3",
+    "totalValue": "$436",
+    "walletLifetime": "502 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,136.0300",
+        "amount": "0.0843",
+        "usdValue": "$264.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,136.0300",
+        "amount": "0.0514",
+        "usdValue": "$161.34"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "1,151.4147",
+        "usdValue": "$9.07"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Vaultka",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc82d41e214a0db5db867a700548e557fc905e8b3",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$112K"
+      },
+      {
+        "name": "Superfluid",
+        "volume": "$65K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$65K"
+      },
+      {
+        "name": "Sonne Finance",
+        "volume": "$65K"
+      },
+      {
+        "name": "Summer.fi",
+        "volume": "$65K"
+      },
+      {
+        "name": "DackieSwap",
+        "volume": "$65K"
+      },
+      {
+        "name": "Tarot",
+        "volume": "$65K"
+      },
+      {
+        "name": "Superform",
+        "volume": "$47K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$33K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x",
+        "volume": "$24K"
+      },
+      {
+        "name": "Enso",
+        "volume": "$24K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$9K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$9K"
+      },
+      {
+        "name": "NILE",
+        "volume": "$8K"
+      },
+      {
+        "name": "Vaultka",
+        "volume": "$5K"
+      },
+      {
+        "name": "WOWMAX",
+        "volume": "$4K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$457K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$142K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$130K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$94K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$992"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$813"
+      },
+      {
+        "name": "USDz",
+        "volume": "$197"
+      },
+      {
+        "name": "USDzC",
+        "volume": "$42"
+      },
+      {
+        "name": "USR",
+        "volume": "$38"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$38"
+      },
+      {
+        "name": "NILE",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:11:22.658Z",
+  "source": "moonwell",
+  "vaultBalance": 0.08136084568357824,
+  "vaultPct": 0.0014760668794315934
+}

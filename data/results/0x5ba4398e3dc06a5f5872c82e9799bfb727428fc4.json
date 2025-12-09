@@ -1,0 +1,199 @@
+{
+  "portfolio": {
+    "address": "0x5ba4398e3dc06a5f5872c82e9799bfb727428fc4",
+    "totalValue": "$11,405",
+    "walletLifetime": "1031 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.1305",
+        "amount": "146.4600",
+        "usdValue": "$2,069.55"
+      },
+      {
+        "symbol": "sUSD",
+        "chain": "eth",
+        "price": "$0.9784",
+        "amount": "251.1439",
+        "usdValue": "$245.71"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3258",
+        "amount": "620.9252",
+        "usdValue": "$202.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,155.4400",
+        "amount": "0.0409",
+        "usdValue": "$129.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,155.4400",
+        "amount": "0.0179",
+        "usdValue": "$56.36"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "eth",
+        "price": "$0.1253",
+        "amount": "408.7112",
+        "usdValue": "$51.19"
+      },
+      {
+        "symbol": "WSM",
+        "chain": "bsc",
+        "price": "$0.0003",
+        "amount": "31,612.0000",
+        "usdValue": "$9.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$6,658"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$1,172"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$712"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$100"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5ba4398e3dc06a5f5872c82e9799bfb727428fc4",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$12K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$7K"
+      },
+      {
+        "name": "ReHold",
+        "volume": "$6K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$2K"
+      },
+      {
+        "name": "Wall Street Memes",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2789…0fd6",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe4e8…9113",
+        "volume": "$562"
+      },
+      {
+        "name": "0x4103…f422",
+        "volume": "$413B"
+      },
+      {
+        "name": "inance",
+        "volume": "$301"
+      },
+      {
+        "name": "Synthetix V3",
+        "volume": "$261"
+      },
+      {
+        "name": "Synthetix",
+        "volume": "$251"
+      },
+      {
+        "name": "0xc535…ed3e",
+        "volume": "$214"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$27K"
+      },
+      {
+        "name": "KGMX",
+        "volume": "$5K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$2K"
+      },
+      {
+        "name": "SNX",
+        "volume": "$1K"
+      },
+      {
+        "name": "WSM",
+        "volume": "$1K"
+      },
+      {
+        "name": "OP",
+        "volume": "$1K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$504"
+      },
+      {
+        "name": "POL",
+        "volume": "$419"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$251"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:32:31.072Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.2135634113056546,
+  "vaultPct": 0.00001603601576659615
+}

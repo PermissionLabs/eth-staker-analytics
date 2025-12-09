@@ -1,0 +1,213 @@
+{
+  "portfolio": {
+    "address": "0xef9d1903a1bb4c9f6c32a06a555c10935ab1a1f3",
+    "totalValue": "$55,239",
+    "walletLifetime": "1524 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.6200",
+        "amount": "5.0192",
+        "usdValue": "$15,723.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,135.2100",
+        "amount": "1.0017",
+        "usdValue": "$3,140.65"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8082",
+        "amount": "172.7716",
+        "usdValue": "$2,385.66"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "arb",
+        "price": "$191.6633",
+        "amount": "3.2314",
+        "usdValue": "$619.34"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "arb",
+        "price": "$13.8105",
+        "amount": "41.4081",
+        "usdValue": "$571.87"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$192.2972",
+        "amount": "2.0000",
+        "usdValue": "$384.59"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "209.0930",
+        "usdValue": "$209.05"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "eth",
+        "price": "$0.0463",
+        "amount": "3,500.0000",
+        "usdValue": "$162.05"
+      },
+      {
+        "symbol": "POL",
+        "chain": "eth",
+        "price": "$0.1243",
+        "amount": "500.0000",
+        "usdValue": "$62.17"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$21,342"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$10,639"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xef9d1903a1bb4c9f6c32a06a555c10935ab1a1f3",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$70K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$13K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$12K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$12K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x31e9…bde6",
+        "volume": "$4K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$4K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x9aa9…b70e",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa595…2e5f",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$987"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$909"
+      },
+      {
+        "name": "0x1411…98ad",
+        "volume": "$843"
+      },
+      {
+        "name": "0xffec…8ba4",
+        "volume": "$438"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$61K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$52K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$27K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$19K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$564"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$507"
+      },
+      {
+        "name": "GRT",
+        "volume": "$355"
+      },
+      {
+        "name": "POL",
+        "volume": "$95"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:13:51.683Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6.839155560358336,
+  "vaultPct": 0.0012716522883149362
+}

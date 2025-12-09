@@ -1,0 +1,109 @@
+{
+  "portfolio": {
+    "address": "0x6c23bd747bbe603582525d7c77d5c690ac461da3",
+    "totalValue": "$6,475",
+    "walletLifetime": "1442 days",
+    "tokens": [
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3209",
+        "amount": "9,037.4575",
+        "usdValue": "$2,900.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,145.2200",
+        "amount": "0.0108",
+        "usdValue": "$33.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,145.2200",
+        "amount": "0.0050",
+        "usdValue": "$15.59"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,526"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6c23bd747bbe603582525d7c77d5c690ac461da3",
+    "topProtocols": [
+      {
+        "name": "0x845d…9782",
+        "volume": "$4K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4200…0042",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8c92…39bb",
+        "volume": "$67M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$31"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$17"
+      },
+      {
+        "name": "Relay",
+        "volume": "$14"
+      },
+      {
+        "name": "0x52e4…6419",
+        "volume": "$5"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "OP",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:00:52.894Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.9674645161515881,
+  "vaultPct": 0.00007264482309858291
+}

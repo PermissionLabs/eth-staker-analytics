@@ -1,0 +1,227 @@
+{
+  "portfolio": {
+    "address": "0x0277d07ae3e082182e45cc5a5c2c909a82d1b39c",
+    "totalValue": "$41,117",
+    "walletLifetime": "2475 days",
+    "tokens": [
+      {
+        "symbol": "BOBO (bobothebear.io)",
+        "chain": "eth",
+        "price": "$0.0₆1717",
+        "amount": "71,031,133,264.1546",
+        "usdValue": "$12,199.31"
+      },
+      {
+        "symbol": "WOLF (landwolfavax.com)",
+        "chain": "avax",
+        "price": "$0.0₆7617",
+        "amount": "625,363,934.6531",
+        "usdValue": "$476.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.8800",
+        "amount": "0.1021",
+        "usdValue": "$317.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,103.8800",
+        "amount": "0.0363",
+        "usdValue": "$112.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.8800",
+        "amount": "0.0225",
+        "usdValue": "$69.84"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "40.7473",
+        "usdValue": "$40.74"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "132.2907",
+        "usdValue": "$16.30"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$27,372"
+      },
+      {
+        "protocol": "Aave V1",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$281"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "CRV",
+        "usdValue": "$197"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0277d07ae3e082182e45cc5a5c2c909a82d1b39c",
+    "topProtocols": [
+      {
+        "name": "dYdX",
+        "volume": "$3M"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$3M"
+      },
+      {
+        "name": "Mooniswap",
+        "volume": "$825K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$678K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$488K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$418K"
+      },
+      {
+        "name": "0x04b2…9733",
+        "volume": "$340K"
+      },
+      {
+        "name": "0x0e99…bc86",
+        "volume": "$339K"
+      },
+      {
+        "name": "SushiSwapLend",
+        "volume": "$296K"
+      },
+      {
+        "name": "HTX",
+        "volume": "$290K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$283K"
+      },
+      {
+        "name": "Nerve",
+        "volume": "$243K"
+      },
+      {
+        "name": "0x3aeb…3fec",
+        "volume": "$240K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$226K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$217K"
+      },
+      {
+        "name": "Gnosis",
+        "volume": "$208K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$6M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$866K"
+      },
+      {
+        "name": "MASK",
+        "volume": "$752K"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$458K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$451K"
+      },
+      {
+        "name": "XIO",
+        "volume": "$437K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$407K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$321K"
+      },
+      {
+        "name": "API3",
+        "volume": "$294K"
+      },
+      {
+        "name": "DYDX",
+        "volume": "$282K"
+      },
+      {
+        "name": "AXL",
+        "volume": "$250K"
+      },
+      {
+        "name": "FEI",
+        "volume": "$228K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$199K"
+      },
+      {
+        "name": "FLX",
+        "volume": "$174K"
+      },
+      {
+        "name": "KBAL",
+        "volume": "$95K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:05:43.721Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 16,
+  "vaultPct": 0.00297499251676225
+}

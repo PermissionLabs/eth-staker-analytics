@@ -1,0 +1,171 @@
+{
+  "portfolio": {
+    "address": "0xbb5baa1843f3f804077a80cfab2232e0cb64260d",
+    "totalValue": "$373",
+    "walletLifetime": "186 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$0.9998",
+        "amount": "7.8635",
+        "usdValue": "$7.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.3000",
+        "amount": "0.0013",
+        "usdValue": "$3.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.3000",
+        "amount": "0.0010",
+        "usdValue": "$3.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,131.3000",
+        "amount": "0.0007",
+        "usdValue": "$2.21"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.1000",
+        "amount": "0.0007",
+        "usdValue": "$0.67"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.0077",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.0014",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$285"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$54"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$16"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbb5baa1843f3f804077a80cfab2232e0cb64260d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$582B"
+      },
+      {
+        "name": "inance",
+        "volume": "$414"
+      },
+      {
+        "name": "Aster",
+        "volume": "$197M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$175"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$115B"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$103"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$95M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$84"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$32M"
+      },
+      {
+        "name": "etaMask Bridge",
+        "volume": "$30B"
+      },
+      {
+        "name": "Relay",
+        "volume": "$20M"
+      },
+      {
+        "name": "0x3f5a…3261",
+        "volume": "$11B"
+      },
+      {
+        "name": "Portal",
+        "volume": "$7"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$834"
+      },
+      {
+        "name": "USDC",
+        "volume": "$372"
+      },
+      {
+        "name": "USDT",
+        "volume": "$306"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$71B"
+      },
+      {
+        "name": "NB",
+        "volume": "$22"
+      },
+      {
+        "name": "FOLKS",
+        "volume": "$13"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:14:26.125Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.147,
+  "vaultPct": 0.000027332743747753165
+}

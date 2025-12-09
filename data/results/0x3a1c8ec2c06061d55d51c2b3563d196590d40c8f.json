@@ -1,0 +1,109 @@
+{
+  "portfolio": {
+    "address": "0x3a1c8ec2c06061d55d51c2b3563d196590d40c8f",
+    "totalValue": "$404",
+    "walletLifetime": "1411 days",
+    "tokens": [
+      {
+        "symbol": "OCEAN",
+        "chain": "eth",
+        "price": "$0.2127",
+        "amount": "823.9335",
+        "usdValue": "$175.25"
+      },
+      {
+        "symbol": "CVX",
+        "chain": "eth",
+        "price": "$1.8381",
+        "amount": "17.9841",
+        "usdValue": "$33.06"
+      },
+      {
+        "symbol": "FRAX",
+        "chain": "eth",
+        "price": "$0.7736",
+        "amount": "22.2044",
+        "usdValue": "$17.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.6000",
+        "amount": "0.0035",
+        "usdValue": "$10.99"
+      },
+      {
+        "symbol": "DPX",
+        "chain": "eth",
+        "price": "$3.7520",
+        "amount": "0.5978",
+        "usdValue": "$2.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$162"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "AAVE",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3a1c8ec2c06061d55d51c2b3563d196590d40c8f",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$156"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "CRV",
+        "volume": "$14K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "DPX",
+        "volume": "$965"
+      },
+      {
+        "name": "FRAX",
+        "volume": "$549"
+      },
+      {
+        "name": "CVX",
+        "volume": "$501"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:01:34.918Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.050090257324940914,
+  "vaultPct": 0.000009313633794024667
+}

@@ -1,0 +1,101 @@
+{
+  "portfolio": {
+    "address": "0xb377da2643b1ee2536823d2f4600b5a567a9abd8",
+    "totalValue": "$185",
+    "walletLifetime": "89 days",
+    "tokens": [
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3900",
+        "amount": "49.6400",
+        "usdValue": "$118.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.1700",
+        "amount": "0.0212",
+        "usdValue": "$66.09"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7898",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xb377da2643b1ee2536823d2f4600b5a567a9abd8",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$64K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x065a…cf43",
+        "volume": "$5K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$49K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$235"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:44:33.696Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 10.969805715103861,
+  "vaultPct": 0.0020396931195481092
+}

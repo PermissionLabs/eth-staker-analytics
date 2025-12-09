@@ -1,0 +1,119 @@
+{
+  "portfolio": {
+    "address": "0xabde1349429bf7ca05fc2caf9fe5ebb03cf99c8e",
+    "totalValue": "$550,720",
+    "walletLifetime": "923 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,163.1300",
+        "amount": "59.0020",
+        "usdValue": "$186,631.08"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "STEAK",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "98.7344",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$360,898"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,192"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xabde1349429bf7ca05fc2caf9fe5ebb03cf99c8e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$334K"
+      },
+      {
+        "name": "0x0301…7ff1",
+        "volume": "$318K"
+      },
+      {
+        "name": "0x77d5…031b",
+        "volume": "$182K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$177K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$168K"
+      },
+      {
+        "name": "0x9b30…f8f4",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xe268…ba83",
+        "volume": "$19K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xc336…028b",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x42dd…3df0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbb4b…7db0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$669K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$553K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$355K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:54:07.056Z",
+  "source": "lido_steth",
+  "vaultBalance": 1,
+  "vaultPct": 0.0000750878423816016
+}

@@ -1,0 +1,138 @@
+{
+  "portfolio": {
+    "address": "0xad79f071ce2974a8cc85bcdb29bab2958da4848c",
+    "totalValue": "$78,029",
+    "walletLifetime": "1784 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,147.5000",
+        "amount": "17.1637",
+        "usdValue": "$54,022.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,147.5000",
+        "amount": "0.1613",
+        "usdValue": "$507.70"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,604.0100",
+        "amount": "0.00003771",
+        "usdValue": "$3.45"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$23,495"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xad79f071ce2974a8cc85bcdb29bab2958da4848c",
+    "topProtocols": [
+      {
+        "name": "Impermax V3",
+        "volume": "$109K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$67K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$30K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$26K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x918a…0557",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x6b2f…66a4",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xbbd0…c56c",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x0ff0…8ee4",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x209b…276c",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x3890…0f28",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xb001…4145",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bitrue",
+        "volume": "$194"
+      },
+      {
+        "name": "0x6a75…b1dc",
+        "volume": "$63"
+      },
+      {
+        "name": "0x0ff0…5ee4",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$170K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$104K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:08:07.011Z",
+  "source": "base_aave",
+  "vaultBalance": 7.444418797825806,
+  "vaultPct": 0.010951337516967773
+}

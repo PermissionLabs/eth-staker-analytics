@@ -1,0 +1,133 @@
+{
+  "portfolio": {
+    "address": "0xe834d1f4b51dabe8b168f8d4bd92b9ee9e977553",
+    "totalValue": "$318,438",
+    "walletLifetime": "1109 days",
+    "tokens": [
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅858",
+        "amount": "31,359,542.5260",
+        "usdValue": "$269.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,162.2500",
+        "amount": "0.0056",
+        "usdValue": "$17.63"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001006",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$318,151"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe834d1f4b51dabe8b168f8d4bd92b9ee9e977553",
+    "topProtocols": [
+      {
+        "name": "KuCoin",
+        "volume": "$2K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8e16…11c5",
+        "volume": "$232"
+      },
+      {
+        "name": "0x8b20…7a09",
+        "volume": "$174"
+      },
+      {
+        "name": "0x9adf…a804",
+        "volume": "$164"
+      },
+      {
+        "name": "0xda23…b0bb",
+        "volume": "$130"
+      },
+      {
+        "name": "0x71ac…fda1",
+        "volume": "$120"
+      },
+      {
+        "name": "0xa4f7…60b7",
+        "volume": "$84"
+      },
+      {
+        "name": "0xb3df…9aa0",
+        "volume": "$42"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6660…f490",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x2efd…0392",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3230…4c11",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc0c3…6234",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$232"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:54:41.607Z",
+  "source": "lido_steth",
+  "vaultBalance": 94.03766415689877,
+  "vaultPct": 0.007061085304147202
+}

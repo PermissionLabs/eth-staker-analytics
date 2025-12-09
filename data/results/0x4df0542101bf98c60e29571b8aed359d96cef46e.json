@@ -1,0 +1,232 @@
+{
+  "portfolio": {
+    "address": "0x4df0542101bf98c60e29571b8aed359d96cef46e",
+    "totalValue": "$7,881",
+    "walletLifetime": "1128 days",
+    "tokens": [
+      {
+        "symbol": "GME (gmeonbase.xyz)",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1,010,781.4570",
+        "usdValue": "$1,917.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.8500",
+        "amount": "0.0036",
+        "usdValue": "$11.12"
+      },
+      {
+        "symbol": "Fartcoin",
+        "chain": "base",
+        "price": "$0.00007834",
+        "amount": "63,010.3961",
+        "usdValue": "$4.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.8500",
+        "amount": "0.0015",
+        "usdValue": "$4.78"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.0000",
+        "amount": "0.0047",
+        "usdValue": "$4.20"
+      },
+      {
+        "symbol": "AIXCB",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "4,751.4627",
+        "usdValue": "$3.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,104.8500",
+        "amount": "0.0010",
+        "usdValue": "$3.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,104.8500",
+        "amount": "0.0007",
+        "usdValue": "$2.30"
+      },
+      {
+        "symbol": "ELEPHANT",
+        "chain": "bsc",
+        "price": "$0.0₇5205",
+        "amount": "41,474,083.9907",
+        "usdValue": "$2.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.8500",
+        "amount": "0.0006",
+        "usdValue": "$2.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$5,716"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "Fartcoin",
+        "usdValue": "$164"
+      },
+      {
+        "protocol": "Furio",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "unknown",
+        "usdValue": "$41"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4df0542101bf98c60e29571b8aed359d96cef46e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$353K"
+      },
+      {
+        "name": "squid",
+        "volume": "$191K"
+      },
+      {
+        "name": "0x3799…02d7",
+        "volume": "$90K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$74K"
+      },
+      {
+        "name": "0xa7c6…62cf",
+        "volume": "$64K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$48K"
+      },
+      {
+        "name": "0xb5f5…fefd",
+        "volume": "$33K"
+      },
+      {
+        "name": "0xc677…7509",
+        "volume": "$26K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$17K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$15K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x6e21…e037",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xe919…963e",
+        "volume": "$8K"
+      },
+      {
+        "name": "Allbridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$5K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7a17…1f9d",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$455K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$382K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$76K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$63K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$48K"
+      },
+      {
+        "name": "KAVNT",
+        "volume": "$20K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$6K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "KCLO",
+        "volume": "$2K"
+      },
+      {
+        "name": "Fartcoin",
+        "volume": "$1K"
+      },
+      {
+        "name": "BRO",
+        "volume": "$1"
+      },
+      {
+        "name": "FUR",
+        "volume": "$792"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:14:53.622Z",
+  "source": "base_aave",
+  "vaultBalance": 1.6083933974118425,
+  "vaultPct": 0.0023660757721293
+}

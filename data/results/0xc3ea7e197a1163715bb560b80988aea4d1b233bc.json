@@ -1,0 +1,232 @@
+{
+  "portfolio": {
+    "address": "0xc3ea7e197a1163715bb560b80988aea4d1b233bc",
+    "totalValue": "$648",
+    "walletLifetime": "1858 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.7000",
+        "amount": "0.0099",
+        "usdValue": "$30.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.7000",
+        "amount": "0.0016",
+        "usdValue": "$5.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.7000",
+        "amount": "0.0013",
+        "usdValue": "$4.10"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "arb",
+        "price": "$0.8200",
+        "amount": "4.4675",
+        "usdValue": "$3.66"
+      },
+      {
+        "symbol": "ALT",
+        "chain": "eth",
+        "price": "$0.0131",
+        "amount": "241.0000",
+        "usdValue": "$3.16"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "1.3466",
+        "usdValue": "$1.35"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1221",
+        "amount": "7.8312",
+        "usdValue": "$0.96"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "scrl",
+        "price": "$0.9998",
+        "amount": "0.8446",
+        "usdValue": "$0.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,107.0900",
+        "amount": "0.0002",
+        "usdValue": "$0.62"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1379",
+        "amount": "2,020.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$597"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc3ea7e197a1163715bb560b80988aea4d1b233bc",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Derive",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x107e…68a8",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb4a8…dbc2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1a44…728c",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xec15…0cef",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$537"
+      },
+      {
+        "name": "0xf01f…3ea5",
+        "volume": "$530"
+      },
+      {
+        "name": "0xb263…8a4a",
+        "volume": "$456"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$427"
+      },
+      {
+        "name": "WOWMAX",
+        "volume": "$407"
+      },
+      {
+        "name": "NURI Exchange",
+        "volume": "$405"
+      },
+      {
+        "name": "AltLayer",
+        "volume": "$134"
+      },
+      {
+        "name": "Swell",
+        "volume": "$123"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$74"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "CEL",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ALT",
+        "volume": "$257"
+      },
+      {
+        "name": "SCR",
+        "volume": "$148"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$11"
+      },
+      {
+        "name": "POL",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:52:25.887Z",
+  "source": "base_aave",
+  "vaultBalance": 0.577,
+  "vaultPct": 0.0008488133081840975
+}

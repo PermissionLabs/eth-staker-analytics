@@ -1,0 +1,161 @@
+{
+  "portfolio": {
+    "address": "0x9783135e9ad72ef5878e52bf508c0677117c846c",
+    "totalValue": "$443",
+    "walletLifetime": "931 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.0000",
+        "amount": "0.0604",
+        "usdValue": "$187.89"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0321",
+        "amount": "1,124.0000",
+        "usdValue": "$36.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.0000",
+        "amount": "0.0110",
+        "usdValue": "$34.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,112.0000",
+        "amount": "0.0030",
+        "usdValue": "$9.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,112.0000",
+        "amount": "0.0017",
+        "usdValue": "$5.15"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$170"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9783135e9ad72ef5878e52bf508c0677117c846c",
+    "topProtocols": [
+      {
+        "name": "EraLend",
+        "volume": "$189K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$189K"
+      },
+      {
+        "name": "0x2941…1775",
+        "volume": "$38K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$19K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$19K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$19K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xd169…1c9f",
+        "volume": "$18K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$862"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$301B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$263"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$223"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$66"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$474K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$424"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$362"
+      },
+      {
+        "name": "ZK",
+        "volume": "$223B"
+      },
+      {
+        "name": "USD",
+        "volume": "$194"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9"
+      },
+      {
+        "name": "zkUSD",
+        "volume": "$4"
+      },
+      {
+        "name": "SNLANTHRAX",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:36:03.978Z",
+  "source": "moonwell",
+  "vaultBalance": 0.05353460107177309,
+  "vaultPct": 0.000971236850867404
+}

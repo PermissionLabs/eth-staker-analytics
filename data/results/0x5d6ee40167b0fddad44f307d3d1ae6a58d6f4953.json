@@ -1,0 +1,303 @@
+{
+  "portfolio": {
+    "address": "0x5d6ee40167b0fddad44f307d3d1ae6a58d6f4953",
+    "totalValue": "$2,836",
+    "walletLifetime": "1894 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$89,957.0600",
+        "amount": "0.0061",
+        "usdValue": "$548.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,096.2100",
+        "amount": "0.1634",
+        "usdValue": "$505.90"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5400",
+        "amount": "7.1732",
+        "usdValue": "$97.13"
+      },
+      {
+        "symbol": "WAVAX",
+        "chain": "avax",
+        "price": "$13.5400",
+        "amount": "4.0000",
+        "usdValue": "$54.16"
+      },
+      {
+        "symbol": "TBTC(threshold)",
+        "chain": "eth",
+        "price": "$90,975.8541",
+        "amount": "0.00007295",
+        "usdValue": "$6.64"
+      },
+      {
+        "symbol": "CVX",
+        "chain": "eth",
+        "price": "$1.8194",
+        "amount": "1.1810",
+        "usdValue": "$2.15"
+      },
+      {
+        "symbol": "EPS",
+        "chain": "bsc",
+        "price": "$0.0218",
+        "amount": "81.1499",
+        "usdValue": "$1.77"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,600"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$14"
+      },
+      {
+        "protocol": "Harvest",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "FARM",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Badger DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "CVX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Convex",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BADGER",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Vesper",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SnowSwap",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hegic",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "PancakeSwap",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5d6ee40167b0fddad44f307d3d1ae6a58d6f4953",
+    "topProtocols": [
+      {
+        "name": "Uniswap V2",
+        "volume": "$168K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$134K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$117K"
+      },
+      {
+        "name": "0xb2be…2a54",
+        "volume": "$72K"
+      },
+      {
+        "name": "0x",
+        "volume": "$37K"
+      },
+      {
+        "name": "Zapper",
+        "volume": "$36K"
+      },
+      {
+        "name": "Badger DAO",
+        "volume": "$32K"
+      },
+      {
+        "name": "Vesper",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x8758…fcf5",
+        "volume": "$18K"
+      },
+      {
+        "name": "Harvest",
+        "volume": "$17K"
+      },
+      {
+        "name": "Hegic",
+        "volume": "$12K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x7abd…3834",
+        "volume": "$10K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$10K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$9K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x06b9…8bac",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xcd34…3504",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xccdd…63de",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$315K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$297K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$160K"
+      },
+      {
+        "name": "DIGG",
+        "volume": "$46K"
+      },
+      {
+        "name": "BADGER",
+        "volume": "$27K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$23K"
+      },
+      {
+        "name": "FARM",
+        "volume": "$21K"
+      },
+      {
+        "name": "CVX",
+        "volume": "$13K"
+      },
+      {
+        "name": "UST",
+        "volume": "$12K"
+      },
+      {
+        "name": "cvxCRV",
+        "volume": "$12K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$9K"
+      },
+      {
+        "name": "KENS",
+        "volume": "$7K"
+      },
+      {
+        "name": "renBTC",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$6K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$5K"
+      },
+      {
+        "name": "CC10",
+        "volume": "$5K"
+      },
+      {
+        "name": "VSP",
+        "volume": "$4K"
+      },
+      {
+        "name": "MIR",
+        "volume": "$4K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:05:09.975Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.23964778537987838,
+  "vaultPct": 0.0026729330576892936
+}

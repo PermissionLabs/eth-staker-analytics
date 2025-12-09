@@ -1,0 +1,131 @@
+{
+  "portfolio": {
+    "address": "0x4def901408d0f57824f351d27622ebbdab613d2f",
+    "totalValue": "$85,344",
+    "walletLifetime": "604 days",
+    "tokens": [
+      {
+        "symbol": "wstETH",
+        "chain": "arb",
+        "price": "$3,858.2272",
+        "amount": "2.0000",
+        "usdValue": "$7,716.45"
+      },
+      {
+        "symbol": "wstETH",
+        "chain": "op",
+        "price": "$3,856.7873",
+        "amount": "0.3600",
+        "usdValue": "$1,388.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.6800",
+        "amount": "0.2803",
+        "usdValue": "$885.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,160.6800",
+        "amount": "0.0050",
+        "usdValue": "$15.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,160.6800",
+        "amount": "0.0050",
+        "usdValue": "$15.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zircuit",
+        "price": "$3,160.6800",
+        "amount": "0.00009584",
+        "usdValue": "$0.30"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$53,144"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$22,177"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4def901408d0f57824f351d27622ebbdab613d2f",
+    "topProtocols": [
+      {
+        "name": "0x3519…52cb",
+        "volume": "$19K"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$13K"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x9e33…ab3f",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x07d4…1b82",
+        "volume": "$10K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$707"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfc45…b52d",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "EIGEN",
+        "volume": "$22K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T11:16:33.824Z",
+  "source": "lido_steth",
+  "vaultBalance": 6.8515469410870775,
+  "vaultPct": 0.0005144678767824911
+}

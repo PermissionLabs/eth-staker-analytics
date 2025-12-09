@@ -1,0 +1,174 @@
+{
+  "portfolio": {
+    "address": "0xbfbec5a01c500428cd0c498f2ca81ec77e10957b",
+    "totalValue": "$23,875",
+    "walletLifetime": "904 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,147.8400",
+        "amount": "0.2276",
+        "usdValue": "$716.40"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$904.0000",
+        "amount": "0.1109",
+        "usdValue": "$100.27"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆988",
+        "amount": "3,000.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.0023",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7947",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SHIB (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "150.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SGAI",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "6,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$23,058"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbfbec5a01c500428cd0c498f2ca81ec77e10957b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$566K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$67K"
+      },
+      {
+        "name": "0x1526…cf02",
+        "volume": "$60K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$48K"
+      },
+      {
+        "name": "0xb661…5be9",
+        "volume": "$46K"
+      },
+      {
+        "name": "0xa6de…32d0",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x4b9c…268d",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x77d5…031b",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xa11c…bf7d",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x6f1c…6168",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x7321…e3da",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xa60e…0466",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x52f0…8e8d",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x594e…893b",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x14f0…d289",
+        "volume": "$750B"
+      },
+      {
+        "name": "itget",
+        "volume": "$750"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$583K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$302K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$220K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$300B"
+      },
+      {
+        "name": "NB",
+        "volume": "$27"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:55:23.146Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 7.646268798359702,
+  "vaultPct": 0.0014217245285170496
+}

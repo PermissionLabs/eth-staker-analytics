@@ -1,0 +1,234 @@
+{
+  "portfolio": {
+    "address": "0x64bea9b3960a928758a8708078cb57405c75343f",
+    "totalValue": "$2,411",
+    "walletLifetime": "2888 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "1,681.2666",
+        "usdValue": "$1,680.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.7700",
+        "amount": "0.0466",
+        "usdValue": "$145.91"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "14.5834",
+        "usdValue": "$14.58"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2856",
+        "amount": "44.0000",
+        "usdValue": "$12.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.4800",
+        "amount": "0.0037",
+        "usdValue": "$11.57"
+      },
+      {
+        "symbol": "LPT",
+        "chain": "eth",
+        "price": "$3.8600",
+        "amount": "2.0474",
+        "usdValue": "$7.90"
+      },
+      {
+        "symbol": "cUSD",
+        "chain": "celo",
+        "price": "$1.0001",
+        "amount": "5.5000",
+        "usdValue": "$5.50"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1241",
+        "amount": "22.1757",
+        "usdValue": "$2.75"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$488"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$36"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Moola",
+        "chain": "celo",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cUSD",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Toucan",
+        "chain": "matic",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "BCT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "StakedCelo",
+        "chain": "celo",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "CELO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x64bea9b3960a928758a8708078cb57405c75343f",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$7K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1533…1162",
+        "volume": "$4K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xfea1…7f7a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9e68…3d01",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3365…fc3c",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7e2f…a4c3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe1c4…7af5",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$908"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$333"
+      },
+      {
+        "name": "raken",
+        "volume": "$293"
+      },
+      {
+        "name": "0xc065…6c74",
+        "volume": "$140"
+      },
+      {
+        "name": "0x2a28…3f30",
+        "volume": "$117"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$13K"
+      },
+      {
+        "name": "REQ",
+        "volume": "$7K"
+      },
+      {
+        "name": "VEN",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$227M"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$164"
+      },
+      {
+        "name": "cUSD",
+        "volume": "$68"
+      },
+      {
+        "name": "DAI",
+        "volume": "$40"
+      },
+      {
+        "name": "CELO",
+        "volume": "$31"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$24"
+      },
+      {
+        "name": "GTC",
+        "volume": "$20B"
+      },
+      {
+        "name": "CT",
+        "volume": "$18"
+      },
+      {
+        "name": "NCT",
+        "volume": "$14"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:57:19.221Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.13694998115986232,
+  "vaultPct": 0.000010283278599495051
+}

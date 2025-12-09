@@ -1,0 +1,210 @@
+{
+  "portfolio": {
+    "address": "0xb96fb6cab0bc4076be4b36ea9fbb2becbb5140d7",
+    "totalValue": "$1,205",
+    "walletLifetime": "862 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.1200",
+        "amount": "0.1206",
+        "usdValue": "$377.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.1200",
+        "amount": "0.0067",
+        "usdValue": "$21.12"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.8000",
+        "amount": "0.0187",
+        "usdValue": "$16.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,129.1200",
+        "amount": "0.0012",
+        "usdValue": "$3.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,129.1200",
+        "amount": "0.0007",
+        "usdValue": "$2.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.1200",
+        "amount": "0.0004",
+        "usdValue": "$1.29"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "1.0152",
+        "usdValue": "$1.02"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "7.5481",
+        "usdValue": "$0.93"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$779"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb96fb6cab0bc4076be4b36ea9fbb2becbb5140d7",
+    "topProtocols": [
+      {
+        "name": "EraLend",
+        "volume": "$14K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$14K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$8K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xbf39…3f11",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x76db…b944",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$961M"
+      },
+      {
+        "name": "endi Finance",
+        "volume": "$757"
+      },
+      {
+        "name": "zkLink Nova Bridge",
+        "volume": "$649"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$610"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$502"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$407"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$335"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$312B"
+      },
+      {
+        "name": "inance",
+        "volume": "$300"
+      },
+      {
+        "name": "0x6237…459d",
+        "volume": "$248"
+      },
+      {
+        "name": "0x8882…31d6",
+        "volume": "$171"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$5K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "ALT",
+        "volume": "$562"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$111"
+      },
+      {
+        "name": "WETH",
+        "volume": "$99"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$59"
+      },
+      {
+        "name": "DMAIL",
+        "volume": "$18"
+      },
+      {
+        "name": "ZKPEPE",
+        "volume": "$16"
+      },
+      {
+        "name": "ZETA",
+        "volume": "$12"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:28:31.433Z",
+  "source": "moonwell",
+  "vaultBalance": 0.24387251466298726,
+  "vaultPct": 0.004424390364595084
+}

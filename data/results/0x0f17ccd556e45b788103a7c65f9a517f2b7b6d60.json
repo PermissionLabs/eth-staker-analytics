@@ -1,0 +1,232 @@
+{
+  "portfolio": {
+    "address": "0x0f17ccd556e45b788103a7c65f9a517f2b7b6d60",
+    "totalValue": "$5,694",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.5600",
+        "amount": "0.0060",
+        "usdValue": "$18.83"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.7275",
+        "amount": "1.7424",
+        "usdValue": "$9.98"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "4.9762",
+        "usdValue": "$4.98"
+      },
+      {
+        "symbol": "FLUID",
+        "chain": "base",
+        "price": "$3.3024",
+        "amount": "1.3511",
+        "usdValue": "$4.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,159.5600",
+        "amount": "0.0010",
+        "usdValue": "$3.24"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1291",
+        "amount": "1.5731",
+        "usdValue": "$1.78"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "mnt",
+        "price": "$0.2783",
+        "amount": "4.3391",
+        "usdValue": "$1.21"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.8223",
+        "usdValue": "$0.82"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.2251",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,158.4900",
+        "amount": "0.00002175",
+        "usdValue": "$0.07"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$2,466"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,754"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$879"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$549"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0f17ccd556e45b788103a7c65f9a517f2b7b6d60",
+    "topProtocols": [
+      {
+        "name": "Fluid",
+        "volume": "$16K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$3K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$2K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$899"
+      },
+      {
+        "name": "0x0000…5123",
+        "volume": "$749"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$605"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$30K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$11K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$6K"
+      },
+      {
+        "name": "MNT",
+        "volume": "$642"
+      },
+      {
+        "name": "AERO",
+        "volume": "$101"
+      },
+      {
+        "name": "UNI",
+        "volume": "$11"
+      },
+      {
+        "name": "FLUID",
+        "volume": "$7"
+      },
+      {
+        "name": "ENA",
+        "volume": "$1M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:00:32.200Z",
+  "source": "base_aave",
+  "vaultBalance": 0.5,
+  "vaultPct": 0.0007355401284090967
+}

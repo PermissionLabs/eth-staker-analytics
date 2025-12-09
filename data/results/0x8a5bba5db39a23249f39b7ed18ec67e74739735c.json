@@ -1,0 +1,97 @@
+{
+  "portfolio": {
+    "address": "0x8a5bba5db39a23249f39b7ed18ec67e74739735c",
+    "totalValue": "$65,601",
+    "walletLifetime": "143 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$89,817.7500",
+        "amount": "0.1750",
+        "usdValue": "$15,718.11"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "15,000.0001",
+        "usdValue": "$14,998.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.4400",
+        "amount": "0.0488",
+        "usdValue": "$151.59"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9995",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$34,732"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8a5bba5db39a23249f39b7ed18ec67e74739735c",
+    "topProtocols": [
+      {
+        "name": "0xaf19…a4d5",
+        "volume": "$45K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x8118…bf0d",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x200f…ec9a",
+        "volume": "$355"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$45K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$15K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:19:32.796Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.25,
+  "vaultPct": 0.00023242129037205075
+}

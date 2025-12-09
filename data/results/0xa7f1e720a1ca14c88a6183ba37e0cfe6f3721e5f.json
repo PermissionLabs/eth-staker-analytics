@@ -1,0 +1,168 @@
+{
+  "portfolio": {
+    "address": "0xa7f1e720a1ca14c88a6183ba37e0cfe6f3721e5f",
+    "totalValue": "$26,078",
+    "walletLifetime": "84 days",
+    "tokens": [
+      {
+        "symbol": "PEPE",
+        "chain": "eth",
+        "price": "$0.0₅4715",
+        "amount": "423,283,801.3200",
+        "usdValue": "$1,995.86"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "arb",
+        "price": "$0.0470",
+        "amount": "20,919.4200",
+        "usdValue": "$983.84"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2454",
+        "amount": "3,135.8488",
+        "usdValue": "$769.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,156.2100",
+        "amount": "0.0650",
+        "usdValue": "$205.15"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8400",
+        "amount": "6.9970",
+        "usdValue": "$96.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.2100",
+        "amount": "0.0257",
+        "usdValue": "$81.17"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0295",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9982",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.0009",
+        "usdValue": ""
+      },
+      {
+        "symbol": "PEPEBET",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "31.2357",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$15,857"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$6,088"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa7f1e720a1ca14c88a6183ba37e0cfe6f3721e5f",
+    "topProtocols": [
+      {
+        "name": "0xdca0…fa90",
+        "volume": "$36K"
+      },
+      {
+        "name": "0x3ea0…8eb4",
+        "volume": "$36K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$22K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$20K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$945"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9412…5b93",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$40K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$27K"
+      },
+      {
+        "name": "PEPE",
+        "volume": "$5K"
+      },
+      {
+        "name": "FET",
+        "volume": "$2K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$206B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:26:11.679Z",
+  "source": "lido_steth",
+  "vaultBalance": 5,
+  "vaultPct": 0.00037543921190800805
+}

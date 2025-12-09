@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x12d3eb98498c9bb9c7827936aa4f24a589901c85",
+    "totalValue": "$1,299",
+    "walletLifetime": "361 days",
+    "tokens": [
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0002",
+        "amount": "20.5983",
+        "usdValue": "$20.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,157.2200",
+        "amount": "0.0018",
+        "usdValue": "$5.84"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7900",
+        "amount": "0.2601",
+        "usdValue": "$3.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,157.2200",
+        "amount": "0.0010",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "3.1311",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "2.9332",
+        "usdValue": "$2.93"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0289",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BTC.b",
+        "usdValue": "$539"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$419"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$302"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x12d3eb98498c9bb9c7827936aa4f24a589901c85",
+    "topProtocols": [
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x1a1e…7d31",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$831M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$766"
+      },
+      {
+        "name": "OKX",
+        "volume": "$742"
+      },
+      {
+        "name": "ybit",
+        "volume": "$447B"
+      },
+      {
+        "name": "itget",
+        "volume": "$440"
+      },
+      {
+        "name": "0xafee…ad72",
+        "volume": "$359"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$301"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "KBTC.b",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$849"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$797"
+      },
+      {
+        "name": "WETH",
+        "volume": "$445"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$443"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$165"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$119"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:05:18.957Z",
+  "source": "base_aave",
+  "vaultBalance": 0.06217110377287323,
+  "vaultPct": 0.00009145868330486891
+}

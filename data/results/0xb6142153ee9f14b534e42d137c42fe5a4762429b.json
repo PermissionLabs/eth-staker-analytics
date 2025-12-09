@@ -1,0 +1,197 @@
+{
+  "portfolio": {
+    "address": "0xb6142153ee9f14b534e42d137c42fe5a4762429b",
+    "totalValue": "$377",
+    "walletLifetime": "310 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.4400",
+        "amount": "0.0095",
+        "usdValue": "$29.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.4400",
+        "amount": "0.0058",
+        "usdValue": "$17.98"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8366",
+        "amount": "6.5628",
+        "usdValue": "$5.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.4400",
+        "amount": "0.0008",
+        "usdValue": "$2.50"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.6393",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "AIXBT",
+        "chain": "base",
+        "price": "$0.0399",
+        "amount": "12.9326",
+        "usdValue": "$0.52"
+      },
+      {
+        "symbol": "B3",
+        "chain": "base",
+        "price": "$0.0010",
+        "amount": "399.4053",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "1.2937",
+        "usdValue": "$0.16"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3184",
+        "amount": "0.4532",
+        "usdValue": "$0.14"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$188"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$131"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb6142153ee9f14b534e42d137c42fe5a4762429b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$780"
+      },
+      {
+        "name": "OKX",
+        "volume": "$301M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$177"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$152"
+      },
+      {
+        "name": "Okx NFT",
+        "volume": "$46"
+      },
+      {
+        "name": "0xb3f3…0152",
+        "volume": "$29"
+      },
+      {
+        "name": "0x3bf1…7b98",
+        "volume": "$21"
+      },
+      {
+        "name": "0x313f…85fe",
+        "volume": "$13"
+      },
+      {
+        "name": "Coinbase Commerce",
+        "volume": "$10"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$4"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb45b…f628",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$957"
+      },
+      {
+        "name": "USDC",
+        "volume": "$114"
+      },
+      {
+        "name": "POL",
+        "volume": "$92"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$6"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:32:37.711Z",
+  "source": "moonwell",
+  "vaultBalance": 0.0588232536295166,
+  "vaultPct": 0.0010671847827223209
+}

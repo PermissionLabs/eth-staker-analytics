@@ -1,0 +1,210 @@
+{
+  "portfolio": {
+    "address": "0xefc0fe8253c5d8641c837865e7db7a9046fcafbe",
+    "totalValue": "$387",
+    "walletLifetime": "3757 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.6800",
+        "amount": "0.0023",
+        "usdValue": "$7.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.4000",
+        "amount": "0.0020",
+        "usdValue": "$6.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,106.4000",
+        "amount": "0.0009",
+        "usdValue": "$2.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,107.6800",
+        "amount": "0.0002",
+        "usdValue": "$0.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bob",
+        "price": "$3,107.6800",
+        "amount": "0.00001511",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "STG",
+        "chain": "linea",
+        "price": "$0.1217",
+        "amount": "0.0030",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LXP",
+        "chain": "linea",
+        "price": "$0.0000",
+        "amount": "627.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SOULS (Unfettered Ecosystem)",
+        "chain": "linea",
+        "price": "$0.0000",
+        "amount": "2.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$370"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Shoebill Finance",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xefc0fe8253c5d8641c837865e7db7a9046fcafbe",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$591"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$465"
+      },
+      {
+        "name": "0x0ba3…b8eb",
+        "volume": "$278"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$251"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$160"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$147"
+      },
+      {
+        "name": "IcecreamSwap",
+        "volume": "$121"
+      },
+      {
+        "name": "zkSwap Finance",
+        "volume": "$118"
+      },
+      {
+        "name": "OKX",
+        "volume": "$103"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$97"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$85"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$85M"
+      },
+      {
+        "name": "averick",
+        "volume": "$81"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$74"
+      },
+      {
+        "name": "Shoebill Finance",
+        "volume": "$65"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$60"
+      },
+      {
+        "name": "Fuel",
+        "volume": "$54"
+      },
+      {
+        "name": "0x6237…459d",
+        "volume": "$53"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZF",
+        "volume": "$115"
+      },
+      {
+        "name": "WETH",
+        "volume": "$97"
+      },
+      {
+        "name": "USDC",
+        "volume": "$84"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$80"
+      },
+      {
+        "name": "USDT",
+        "volume": "$80"
+      },
+      {
+        "name": "STGLXP",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:24:07.811Z",
+  "source": "base_aave",
+  "vaultBalance": 0.119,
+  "vaultPct": 0.00017505855056136502
+}

@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0x3fef5f65db5e77d5ec02c7ecb5e0f02a76265639",
+    "totalValue": "$194,251",
+    "walletLifetime": "617 days",
+    "tokens": [
+      {
+        "symbol": "TIBBIR",
+        "chain": "base",
+        "price": "$0.1650",
+        "amount": "35,202.4340",
+        "usdValue": "$5,807.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,098.2700",
+        "amount": "0.0678",
+        "usdValue": "$210.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,098.2700",
+        "amount": "0.0140",
+        "usdValue": "$43.47"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$188,189"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3fef5f65db5e77d5ec02c7ecb5e0f02a76265639",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$464K"
+      },
+      {
+        "name": "0x7161…5c29",
+        "volume": "$253K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$76K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$46K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$45K"
+      },
+      {
+        "name": "0x2261…1f66",
+        "volume": "$39K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x4fff…9650",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x3ac2…9247",
+        "volume": "$17K"
+      },
+      {
+        "name": "0xde49…6fd2",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xec7c…1f8e",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x3516…9eda",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x62af…57b0",
+        "volume": "$10K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x2134…ce04",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x3e1d…019f",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xfb36…e007",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$542K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$507K"
+      },
+      {
+        "name": "XRT",
+        "volume": "$32K"
+      },
+      {
+        "name": "CIRCLE",
+        "volume": "$14K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$13K"
+      },
+      {
+        "name": "TIBBIR",
+        "volume": "$11K"
+      },
+      {
+        "name": "NEAR",
+        "volume": "$11K"
+      },
+      {
+        "name": "CPOOL",
+        "volume": "$11K"
+      },
+      {
+        "name": "KVIRTUAL",
+        "volume": "$9K"
+      },
+      {
+        "name": "Mog",
+        "volume": "$8K"
+      },
+      {
+        "name": "WASSIE",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZYN",
+        "volume": "$3K"
+      },
+      {
+        "name": "KPLUME",
+        "volume": "$3K"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$2K"
+      },
+      {
+        "name": "DUDE",
+        "volume": "$3M"
+      },
+      {
+        "name": "HPOS10I",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:00:28.383Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 97.22736642104888,
+  "vaultPct": 0.018078167970445105
+}

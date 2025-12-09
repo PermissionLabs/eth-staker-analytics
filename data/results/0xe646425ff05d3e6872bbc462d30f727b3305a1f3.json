@@ -1,0 +1,102 @@
+{
+  "portfolio": {
+    "address": "0xe646425ff05d3e6872bbc462d30f727b3305a1f3",
+    "totalValue": "$74",
+    "walletLifetime": "186 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,148.7800",
+        "amount": "0.0157",
+        "usdValue": "$49.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,148.7800",
+        "amount": "0.0080",
+        "usdValue": "$25.17"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xe646425ff05d3e6872bbc462d30f727b3305a1f3",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$99K"
+      },
+      {
+        "name": "0x4762…b601",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x5443…0adc",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x835d…c9ed",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x8133…a9d2",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x667a…61b2",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x9da3…4f02",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xa67a…e60a",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xe8e7…f102",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xabf4…187a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4aac…73da",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$156K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$28K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$14K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:32:22.534Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 17.02928608969119,
+  "vaultPct": 0.003166374917664673
+}

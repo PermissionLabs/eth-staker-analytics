@@ -1,0 +1,114 @@
+{
+  "portfolio": {
+    "address": "0x2c528a677cdb38585e31293f4b29c0d6101c57c6",
+    "totalValue": "$34",
+    "walletLifetime": "292 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,120.2100",
+        "amount": "0.0107",
+        "usdValue": "$33.49"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1248",
+        "amount": "0.6768",
+        "usdValue": "$0.08"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x2c528a677cdb38585e31293f4b29c0d6101c57c6",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5a0e…37a2",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0211…ca58",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6d7e…604c",
+        "volume": "$892"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$743"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$603"
+      },
+      {
+        "name": "0x0269…106b",
+        "volume": "$50"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$4"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "POL",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$644"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$445"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:37:20.277Z",
+  "source": "base_aave",
+  "vaultBalance": 0.7203518227968776,
+  "vaultPct": 0.0010596953444794845
+}

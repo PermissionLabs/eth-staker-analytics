@@ -1,0 +1,110 @@
+{
+  "portfolio": {
+    "address": "0x5a327814b70dd9547e997e21978e4e25d3bd937c",
+    "totalValue": "$13,623",
+    "walletLifetime": "570 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.9900",
+        "amount": "0.0071",
+        "usdValue": "$22.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,160.5200",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "eth",
+        "price": "$0.0470",
+        "amount": "45.4354",
+        "usdValue": "$2.14"
+      },
+      {
+        "symbol": "GAL",
+        "chain": "eth",
+        "price": "$0.3000",
+        "amount": "1.2020",
+        "usdValue": "$0.36"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$13,595"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5a327814b70dd9547e997e21978e4e25d3bd937c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$1K"
+      },
+      {
+        "name": "ungee",
+        "volume": "$108"
+      },
+      {
+        "name": "0x4b34…a8b6",
+        "volume": "$108"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$87"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$12K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$14"
+      },
+      {
+        "name": "GAL",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:56:31.447Z",
+  "source": "base_aave",
+  "vaultBalance": 6.37402438937227,
+  "vaultPct": 0.009376701435683187
+}

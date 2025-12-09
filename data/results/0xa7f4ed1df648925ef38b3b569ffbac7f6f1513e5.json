@@ -1,0 +1,80 @@
+{
+  "portfolio": {
+    "address": "0xa7f4ed1df648925ef38b3b569ffbac7f6f1513e5",
+    "totalValue": "$8,195",
+    "walletLifetime": "716 days",
+    "tokens": [
+      {
+        "symbol": "SD",
+        "chain": "eth",
+        "price": "$0.2481",
+        "amount": "1,059.9093",
+        "usdValue": "$262.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.4100",
+        "amount": "0.0044",
+        "usdValue": "$13.80"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$7,918"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa7f4ed1df648925ef38b3b569ffbac7f6f1513e5",
+    "topProtocols": [
+      {
+        "name": "Stader",
+        "volume": "$180K"
+      },
+      {
+        "name": "0x5c3d…134c",
+        "volume": "$81K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$50K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$3K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$541"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$372K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:54:25.028Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 2.3418051109429165,
+  "vaultPct": 0.026119533238259718
+}

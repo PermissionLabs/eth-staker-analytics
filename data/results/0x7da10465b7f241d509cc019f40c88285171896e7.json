@@ -1,0 +1,229 @@
+{
+  "portfolio": {
+    "address": "0x7da10465b7f241d509cc019f40c88285171896e7",
+    "totalValue": "$6,779",
+    "walletLifetime": "1359 days",
+    "tokens": [
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3165",
+        "amount": "1,419.0755",
+        "usdValue": "$3,287.23"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "30,479.5913",
+        "usdValue": "$307.43"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.2000",
+        "amount": "0.1833",
+        "usdValue": "$164.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.1200",
+        "amount": "0.0497",
+        "usdValue": "$155.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.0500",
+        "amount": "0.0002",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "FTOP",
+        "chain": "bsc",
+        "price": "$0.0124",
+        "amount": "2.4600",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "DOP",
+        "chain": "bsc",
+        "price": "$0.0393",
+        "amount": "0.3200",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9986",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MARCO",
+        "chain": "bsc",
+        "price": "$0.0015",
+        "amount": "1.2628",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1383",
+        "amount": "2,556.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FTST",
+        "chain": "bsc",
+        "price": "$0.0018",
+        "amount": "0.0300",
+        "usdValue": ""
+      },
+      {
+        "symbol": "cbXRP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,987"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$868"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$9"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7da10465b7f241d509cc019f40c88285171896e7",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$31K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x9e3b…0482",
+        "volume": "$13K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$12K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$12K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$9K"
+      },
+      {
+        "name": "StellaSwap",
+        "volume": "$8K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xd952…5abf",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf391…28ce",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xa208…30f0",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6a64…746f",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x39bf…7f07",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$158M"
+      },
+      {
+        "name": "erkl",
+        "volume": "$83M"
+      },
+      {
+        "name": "oonbeam",
+        "volume": "$32"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$54K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$39K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$20K"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$17K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$81"
+      },
+      {
+        "name": "WGLMR",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:28:50.722Z",
+  "source": "moonwell",
+  "vaultBalance": 0.6170624223240763,
+  "vaultPct": 0.011194886145563247
+}

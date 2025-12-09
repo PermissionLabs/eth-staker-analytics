@@ -1,0 +1,224 @@
+{
+  "portfolio": {
+    "address": "0x4a62f7f387fce3ecb949587f5556dc4624887a28",
+    "totalValue": "$2,716",
+    "walletLifetime": "317 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7328",
+        "amount": "3.8286",
+        "usdValue": "$52.58"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "eth",
+        "price": "$31.2500",
+        "amount": "1.0660",
+        "usdValue": "$33.31"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "26.4000",
+        "usdValue": "$26.40"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,104.5500",
+        "amount": "0.0074",
+        "usdValue": "$23.07"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "23.0598",
+        "usdValue": "$23.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,105.0000",
+        "amount": "0.0034",
+        "usdValue": "$10.68"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.1000",
+        "amount": "0.0117",
+        "usdValue": "$10.50"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "70.1565",
+        "usdValue": "$8.70"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.5500",
+        "amount": "0.0004",
+        "usdValue": "$1.09"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "0.5114",
+        "usdValue": "$0.51"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,559"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$468"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$406"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETHFI",
+        "usdValue": "$93"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4a62f7f387fce3ecb949587f5556dc4624887a28",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7ffd…cd49",
+        "volume": "$1K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$942"
+      },
+      {
+        "name": "0x00dd…a610",
+        "volume": "$647"
+      },
+      {
+        "name": "Relay",
+        "volume": "$589"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$587"
+      },
+      {
+        "name": "0x4a62…7a28",
+        "volume": "$539"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$481"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$401B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$350B"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$251"
+      },
+      {
+        "name": "0x27c0…9d69",
+        "volume": "$250"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$243B"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$218"
+      },
+      {
+        "name": "0x4ee8…c925",
+        "volume": "$146"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$85"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$486"
+      },
+      {
+        "name": "USDC",
+        "volume": "$462"
+      },
+      {
+        "name": "WETH",
+        "volume": "$405"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$178"
+      },
+      {
+        "name": "LINK",
+        "volume": "$68"
+      },
+      {
+        "name": "COMP",
+        "volume": "$59"
+      },
+      {
+        "name": "POL",
+        "volume": "$38B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:58:01.205Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.4608757959040829,
+  "vaultPct": 0.0051404195052675026
+}

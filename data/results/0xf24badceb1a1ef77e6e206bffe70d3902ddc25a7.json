@@ -1,0 +1,164 @@
+{
+  "portfolio": {
+    "address": "0xf24badceb1a1ef77e6e206bffe70d3902ddc25a7",
+    "totalValue": "$1,113",
+    "walletLifetime": "2040 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.1700",
+        "amount": "0.1056",
+        "usdValue": "$327.74"
+      },
+      {
+        "symbol": "HEX",
+        "chain": "eth",
+        "price": "$0.0011",
+        "amount": "176,725.9623",
+        "usdValue": "$202.17"
+      },
+      {
+        "symbol": "ANY",
+        "chain": "bsc",
+        "price": "$0.8163",
+        "amount": "1.0000",
+        "usdValue": "$0.82"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9851",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OOMER",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$582"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf24badceb1a1ef77e6e206bffe70d3902ddc25a7",
+    "topProtocols": [
+      {
+        "name": "0x2b59…eb39",
+        "volume": "$42K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$26K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$21K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V1",
+        "volume": "$4K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf7a0…4c14",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8e57…710e",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xc7be…3f7b",
+        "volume": "$267"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$243"
+      },
+      {
+        "name": "0xd430…8792",
+        "volume": "$1"
+      },
+      {
+        "name": "0xa122…d8b2",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbf8d…2891",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf24b…25a7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb155…2f1c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8dae…7f32",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4e17…9949",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "HEX",
+        "volume": "$62K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$42K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$38K"
+      },
+      {
+        "name": "ZRX",
+        "volume": "$7K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:52:26.246Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.17,
+  "vaultPct": 0.000012764933204872273
+}

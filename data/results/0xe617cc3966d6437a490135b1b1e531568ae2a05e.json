@@ -1,0 +1,241 @@
+{
+  "portfolio": {
+    "address": "0xe617cc3966d6437a490135b1b1e531568ae2a05e",
+    "totalValue": "$74,946",
+    "walletLifetime": "1511 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$91,970.5800",
+        "amount": "0.2348",
+        "usdValue": "$21,592.23"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "matic",
+        "price": "$194.5840",
+        "amount": "4.1794",
+        "usdValue": "$813.25"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8200",
+        "amount": "51.7250",
+        "usdValue": "$714.84"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.3000",
+        "amount": "0.2000",
+        "usdValue": "$181.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.4000",
+        "amount": "0.0100",
+        "usdValue": "$31.72"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$29,866"
+      },
+      {
+        "protocol": "Sky",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDS",
+        "usdValue": "$7,316"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT0",
+        "usdValue": "$7,260"
+      },
+      {
+        "protocol": "Maker",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$7,163"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Wonderland",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "TIME (Wonderland)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe617cc3966d6437a490135b1b1e531568ae2a05e",
+    "topProtocols": [
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$70K"
+      },
+      {
+        "name": "0xac39…ebef",
+        "volume": "$33K"
+      },
+      {
+        "name": "Sky",
+        "volume": "$27K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$27K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$25K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$19K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$19K"
+      },
+      {
+        "name": "Pangolin",
+        "volume": "$17K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$17K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$14K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$8K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xb01c…331c",
+        "volume": "$7K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$150K"
+      },
+      {
+        "name": "USDS",
+        "volume": "$54K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$54K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$40K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$25K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$20K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$19K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$13K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$12K"
+      },
+      {
+        "name": "MINT",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$6K"
+      },
+      {
+        "name": "KJOE",
+        "volume": "$4K"
+      },
+      {
+        "name": "BMON",
+        "volume": "$1K"
+      },
+      {
+        "name": "SAND",
+        "volume": "$628"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$494M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:23:56.801Z",
+  "source": "lido_steth",
+  "vaultBalance": 9.275411737497125,
+  "vaultPct": 0.0006964706545696416
+}

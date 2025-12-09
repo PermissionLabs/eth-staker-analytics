@@ -1,0 +1,157 @@
+{
+  "portfolio": {
+    "address": "0x5db4ab7fffc12f5ff89fb9807f7a94c0c7b7b032",
+    "totalValue": "$12",
+    "walletLifetime": "884 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,139.2900",
+        "amount": "0.0020",
+        "usdValue": "$6.28"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "linea",
+        "price": "$3,139.4000",
+        "amount": "0.0010",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,139.4000",
+        "amount": "0.0003",
+        "usdValue": "$0.96"
+      },
+      {
+        "symbol": "USDC(Wormhole)",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.5000",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "nova",
+        "price": "$0.9998",
+        "amount": "0.4910",
+        "usdValue": "$0.49"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0970",
+        "amount": "2.5152",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "slUSDT",
+        "chain": "era",
+        "price": "$1.0002",
+        "amount": "0.0357",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "m.USDT",
+        "chain": "metis",
+        "price": "$1.0002",
+        "amount": "0.0146",
+        "usdValue": "$0.01"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x5db4ab7fffc12f5ff89fb9807f7a94c0c7b7b032",
+    "topProtocols": [
+      {
+        "name": "0xa417…0a06",
+        "volume": "$56K"
+      },
+      {
+        "name": "0x16a7…73aa",
+        "volume": "$47K"
+      },
+      {
+        "name": "0xf5cc…7e81",
+        "volume": "$35K"
+      },
+      {
+        "name": "0xbed8…945a",
+        "volume": "$29K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$27K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x41d3…87b3",
+        "volume": "$13K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x93ac…180f",
+        "volume": "$9K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xefdb…ecb8",
+        "volume": "$5K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$5K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$45K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$40K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$31K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$23K"
+      },
+      {
+        "name": "KUSDbC",
+        "volume": "$22K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$14K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:29:07.104Z",
+  "source": "base_aave",
+  "vaultBalance": 0.9280005071824525,
+  "vaultPct": 0.0013651632244333761
+}

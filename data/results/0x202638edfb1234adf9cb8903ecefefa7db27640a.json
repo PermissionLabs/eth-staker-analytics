@@ -1,0 +1,209 @@
+{
+  "portfolio": {
+    "address": "0x202638edfb1234adf9cb8903ecefefa7db27640a",
+    "totalValue": "$6,977",
+    "walletLifetime": "634 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "2,600.4000",
+        "usdValue": "$2,599.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.6400",
+        "amount": "0.2719",
+        "usdValue": "$844.52"
+      },
+      {
+        "symbol": "SIMMI",
+        "chain": "base",
+        "price": "$0.00001149",
+        "amount": "18,367,650.6054",
+        "usdValue": "$210.96"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "40.0000",
+        "usdValue": "$39.99"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.9000",
+        "amount": "0.0237",
+        "usdValue": "$21.10"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,237"
+      },
+      {
+        "protocol": "Venice",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "VVV",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x202638edfb1234adf9cb8903ecefefa7db27640a",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$12K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x996f…974c",
+        "volume": "$10K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4a6e…4933",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$4K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$3K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "Limitless Prediction Markets",
+        "volume": "$1K"
+      },
+      {
+        "name": "Venice",
+        "volume": "$488"
+      },
+      {
+        "name": "0x6d8a…e87d",
+        "volume": "$2200"
+      },
+      {
+        "name": "x",
+        "volume": "$79"
+      },
+      {
+        "name": "0x3284…11f2",
+        "volume": "$70"
+      },
+      {
+        "name": "0x0907…c201",
+        "volume": "$20"
+      },
+      {
+        "name": "Reservoir",
+        "volume": "$12"
+      },
+      {
+        "name": "Highlight",
+        "volume": "$11"
+      },
+      {
+        "name": "0xaff1…8161",
+        "volume": "$7"
+      },
+      {
+        "name": "Sound.xyz",
+        "volume": "$5"
+      },
+      {
+        "name": "0x8453…144f",
+        "volume": "$5"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "SIMMI",
+        "volume": "$7K"
+      },
+      {
+        "name": "CLANKER",
+        "volume": "$2K"
+      },
+      {
+        "name": "VVV",
+        "volume": "$488M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$407"
+      },
+      {
+        "name": "WELL",
+        "volume": "$192"
+      },
+      {
+        "name": "BNB",
+        "volume": "$15"
+      },
+      {
+        "name": "POL",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:23:44.851Z",
+  "source": "base_aave",
+  "vaultBalance": 2.0121127265653254,
+  "vaultPct": 0.002959979306542874
+}

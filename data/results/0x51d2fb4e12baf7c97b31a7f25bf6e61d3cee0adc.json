@@ -1,0 +1,147 @@
+{
+  "portfolio": {
+    "address": "0x51d2fb4e12baf7c97b31a7f25bf6e61d3cee0adc",
+    "totalValue": "$1,567,872",
+    "walletLifetime": "411 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "500,123.4670",
+        "usdValue": "$500,073.46"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "30,355.5086",
+        "usdValue": "$30,352.17"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "973.8589",
+        "usdValue": "$973.76"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,036,338"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x51d2fb4e12baf7c97b31a7f25bf6e61d3cee0adc",
+    "topProtocols": [
+      {
+        "name": "Hyperliquid",
+        "volume": "$2M"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$1M"
+      },
+      {
+        "name": "OKX",
+        "volume": "$870K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$705K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$703K"
+      },
+      {
+        "name": "0xf20f…8cac",
+        "volume": "$628K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$600K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$450K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$450K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$200K"
+      },
+      {
+        "name": "0x2d58…631a",
+        "volume": "$185K"
+      },
+      {
+        "name": "0x0000…0d95",
+        "volume": "$150K"
+      },
+      {
+        "name": "0x5594…ed53",
+        "volume": "$117K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$100K"
+      },
+      {
+        "name": "0xafee…ad72",
+        "volume": "$100K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$100K"
+      },
+      {
+        "name": "0xb521…bb1d",
+        "volume": "$51K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDe",
+        "volume": "$2M"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$102K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$135"
+      },
+      {
+        "name": "DRV",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:47:49.452Z",
+  "source": "lido_steth",
+  "vaultBalance": 30.023682918089317,
+  "vaultPct": 0.0022544135706686753
+}

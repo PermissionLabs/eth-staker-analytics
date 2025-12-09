@@ -1,0 +1,115 @@
+{
+  "portfolio": {
+    "address": "0xfddaebff9aaaad078948bba1065b11c1c2cb6980",
+    "totalValue": "$520",
+    "walletLifetime": "1425 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.1200",
+        "amount": "0.0225",
+        "usdValue": "$70.96"
+      },
+      {
+        "symbol": "MATIC",
+        "chain": "cro",
+        "price": "$0.0609",
+        "amount": "99.5000",
+        "usdValue": "$6.06"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0293",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$443"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfddaebff9aaaad078948bba1065b11c1c2cb6980",
+    "topProtocols": [
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x23f4…eef8",
+        "volume": "$1K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa794…9adf",
+        "volume": "$1K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x9aa6…6687",
+        "volume": "$615"
+      },
+      {
+        "name": "0xa994…266a",
+        "volume": "$451"
+      },
+      {
+        "name": "0xbd4a…ce7b",
+        "volume": "$245"
+      },
+      {
+        "name": "0xc921…92c5",
+        "volume": "$34"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc37d…0fcf",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "MANA",
+        "volume": "$125M"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$34M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:18:46.855Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.08810150442462555,
+  "vaultPct": 0.00000661535187781826
+}

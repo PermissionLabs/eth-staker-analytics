@@ -1,0 +1,275 @@
+{
+  "portfolio": {
+    "address": "0x8e3a138b3d2ef352c32491fec61968ff7843a358",
+    "totalValue": "$335",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "op",
+        "price": "$1.3780",
+        "amount": "56.8961",
+        "usdValue": "$78.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.8500",
+        "amount": "0.0056",
+        "usdValue": "$17.42"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0326",
+        "amount": "431.1921",
+        "usdValue": "$14.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.8500",
+        "amount": "0.0036",
+        "usdValue": "$11.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,132.6900",
+        "amount": "0.0025",
+        "usdValue": "$7.74"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$900.0000",
+        "amount": "0.0074",
+        "usdValue": "$6.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.8500",
+        "amount": "0.0020",
+        "usdValue": "$6.16"
+      },
+      {
+        "symbol": "EURA",
+        "chain": "xdai",
+        "price": "$1.1621",
+        "amount": "3.0167",
+        "usdValue": "$3.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,131.8500",
+        "amount": "0.0009",
+        "usdValue": "$2.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,131.8500",
+        "amount": "0.0007",
+        "usdValue": "$2.26"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "1.7915",
+        "usdValue": "$1.79"
+      },
+      {
+        "symbol": "CELO",
+        "chain": "celo",
+        "price": "$0.1680",
+        "amount": "8.6340",
+        "usdValue": "$1.45"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "9.6490",
+        "usdValue": "$1.19"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6300",
+        "amount": "0.0846",
+        "usdValue": "$1.15"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0964",
+        "amount": "11.0250",
+        "usdValue": "$1.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,132.2100",
+        "amount": "0.0003",
+        "usdValue": "$1.06"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.3104",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.6900",
+        "amount": "0.00009248",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "KAVA",
+        "chain": "kava",
+        "price": "$0.1027",
+        "amount": "1.8488",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$171"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8e3a138b3d2ef352c32491fec61968ff7843a358",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$215"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$210"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$187"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$173"
+      },
+      {
+        "name": "0x6985…71cd",
+        "volume": "$172"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$167B"
+      },
+      {
+        "name": "inance",
+        "volume": "$159"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$139M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$133"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$107B"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$103B"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$91B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$84"
+      },
+      {
+        "name": "averick",
+        "volume": "$70B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$723"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$369"
+      },
+      {
+        "name": "USDT",
+        "volume": "$180"
+      },
+      {
+        "name": "NB",
+        "volume": "$126M"
+      },
+      {
+        "name": "AV",
+        "volume": "$115M"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$104"
+      },
+      {
+        "name": "WETH",
+        "volume": "$103"
+      },
+      {
+        "name": "USDC",
+        "volume": "$98"
+      },
+      {
+        "name": "TC.b",
+        "volume": "$81"
+      },
+      {
+        "name": "POL",
+        "volume": "$79"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:26:35.626Z",
+  "source": "moonwell",
+  "vaultBalance": 0.052007315040134255,
+  "vaultPct": 0.0009435284819612089
+}

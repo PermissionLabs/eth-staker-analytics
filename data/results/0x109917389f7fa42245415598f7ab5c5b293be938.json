@@ -1,0 +1,83 @@
+{
+  "portfolio": {
+    "address": "0x109917389f7fa42245415598f7ab5c5b293be938",
+    "totalValue": "$1,253",
+    "walletLifetime": "2059 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "500.0001",
+        "usdValue": "$499.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,099.8100",
+        "amount": "0.0921",
+        "usdValue": "$285.61"
+      },
+      {
+        "symbol": "EEFI",
+        "chain": "eth",
+        "price": "$18.2919",
+        "amount": "4.2124",
+        "usdValue": "$77.05"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$390"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x109917389f7fa42245415598f7ab5c5b293be938",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$288"
+      },
+      {
+        "name": "0x079a…dc63",
+        "volume": "$198"
+      },
+      {
+        "name": "0x0000…0e49",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc12d…907e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:04:31.497Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.12412762563474555,
+  "vaultPct": 0.000023079922336677127
+}

@@ -1,0 +1,237 @@
+{
+  "portfolio": {
+    "address": "0xa22efe4c66aedfa480d7a5c62e93dc190c427dff",
+    "totalValue": "$49,989",
+    "walletLifetime": "1255 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,138.9200",
+        "amount": "0.1217",
+        "usdValue": "$381.89"
+      },
+      {
+        "symbol": "SAND",
+        "chain": "eth",
+        "price": "$0.1413",
+        "amount": "2,400.0001",
+        "usdValue": "$339.12"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$902.2000",
+        "amount": "0.0639",
+        "usdValue": "$57.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,138.9200",
+        "amount": "0.0153",
+        "usdValue": "$48.06"
+      },
+      {
+        "symbol": "BLOK",
+        "chain": "matic",
+        "price": "$0.0001",
+        "amount": "63,438.9379",
+        "usdValue": "$6.67"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1242",
+        "amount": "4.2497",
+        "usdValue": "$0.53"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9896",
+        "amount": "9,222.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "10.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "LEMX",
+        "chain": "bsc",
+        "price": "$36.7069",
+        "amount": "0.00001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WOOF",
+        "chain": "shib",
+        "price": "$0.0002",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.0000468",
+        "amount": "0.0690",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DLG",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.1000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LARRY",
+        "chain": "op",
+        "price": "$0.0000",
+        "amount": "1,000,000,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$42,210"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBNB",
+        "usdValue": "$5,076"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "UNI",
+        "usdValue": "$1,510"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$359"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa22efe4c66aedfa480d7a5c62e93dc190c427dff",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$961K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$312K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$42K"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x62a9…5c10",
+        "volume": "$15K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xbc8c…7b1d",
+        "volume": "$760"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KUSDT",
+        "volume": "$172K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$170K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$162K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$155K"
+      },
+      {
+        "name": "OP",
+        "volume": "$137K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$102K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$59K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$4K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$2K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$2K"
+      },
+      {
+        "name": "SAND",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:07:54.724Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.09999999999999876,
+  "vaultPct": 0.00001859370322976383
+}

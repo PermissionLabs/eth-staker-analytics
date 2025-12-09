@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0x8ffacfee997f55aac5ab948cbc20eb0711ee5ebb",
+    "totalValue": "$8,031",
+    "walletLifetime": "1253 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.9800",
+        "amount": "0.0238",
+        "usdValue": "$74.61"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "0.9936",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9886",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CZGOAT",
+        "chain": "bsc",
+        "price": "$0.0002",
+        "amount": "16.0407",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OLY",
+        "chain": "bsc",
+        "price": "$7.7491",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AS",
+        "chain": "matic",
+        "price": "$2.4984",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7922",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FLOKITA",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "606.3760",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$7,956"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8ffacfee997f55aac5ab948cbc20eb0711ee5ebb",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$99K"
+      },
+      {
+        "name": "0x9252…6569",
+        "volume": "$26K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x8da2…aeb1",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x3b00…a577",
+        "volume": "$11K"
+      },
+      {
+        "name": "HTX",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x3390…f00e",
+        "volume": "$9K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xa284…6534",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xcf71…50d5",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x9bfe…086d",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$85K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$81K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$10K"
+      },
+      {
+        "name": "POL",
+        "volume": "$692"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$300"
+      },
+      {
+        "name": "WETH",
+        "volume": "$298B"
+      },
+      {
+        "name": "NB",
+        "volume": "$25B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:18:52.742Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.0568773394476847,
+  "vaultPct": 0.0005683867005948099
+}

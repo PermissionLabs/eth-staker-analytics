@@ -1,0 +1,131 @@
+{
+  "portfolio": {
+    "address": "0x5161ee496105fcece91d01a4afaa85ca70f9e898",
+    "totalValue": "$49,631",
+    "walletLifetime": "290 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,160.6300",
+        "amount": "7.6119",
+        "usdValue": "$24,058.31"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,159.5300",
+        "amount": "0.5236",
+        "usdValue": "$1,654.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.4300",
+        "amount": "0.0364",
+        "usdValue": "$114.90"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "64.6780",
+        "usdValue": "$64.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,160.6300",
+        "amount": "0.0100",
+        "usdValue": "$31.48"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$15,962"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$7,669"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$77"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5161ee496105fcece91d01a4afaa85ca70f9e898",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$40K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$28K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x0000…d727",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$61K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:02:16.918Z",
+  "source": "base_aave",
+  "vaultBalance": 7.6,
+  "vaultPct": 0.01118020995181827
+}

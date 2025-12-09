@@ -1,0 +1,77 @@
+{
+  "portfolio": {
+    "address": "0xe6572078b7449ce93efc752b74547d8929ca40fc",
+    "totalValue": "$69",
+    "walletLifetime": "714 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.0800",
+        "amount": "0.0220",
+        "usdValue": "$69.18"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9932",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0960",
+        "amount": "0.0006",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xe6572078b7449ce93efc752b74547d8929ca40fc",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$22K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x7555…cc9b",
+        "volume": "$944"
+      },
+      {
+        "name": "0xf5ed…5b17",
+        "volume": "$674"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$43K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:02:24.203Z",
+  "source": "lido_steth",
+  "vaultBalance": 9.63284204697902,
+  "vaultPct": 0.0007233093253104252
+}

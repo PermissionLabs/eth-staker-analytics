@@ -1,0 +1,149 @@
+{
+  "portfolio": {
+    "address": "0x91b0618248fc2892cd6699a2083518a30ef706e5",
+    "totalValue": "$155",
+    "walletLifetime": "843 days",
+    "tokens": [
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0900",
+        "amount": "35.3345",
+        "usdValue": "$3.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,140.9600",
+        "amount": "0.0010",
+        "usdValue": "$3.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,139.3800",
+        "amount": "0.0002",
+        "usdValue": "$0.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,140.9600",
+        "amount": "0.00007618",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1242",
+        "amount": "1.2846",
+        "usdValue": "$0.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$148"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x91b0618248fc2892cd6699a2083518a30ef706e5",
+    "topProtocols": [
+      {
+        "name": "SyncSwap",
+        "volume": "$420"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$240"
+      },
+      {
+        "name": "Relay",
+        "volume": "$175"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$175"
+      },
+      {
+        "name": "OKX",
+        "volume": "$136"
+      },
+      {
+        "name": "Router Protocol",
+        "volume": "$134"
+      },
+      {
+        "name": "oi",
+        "volume": "$131"
+      },
+      {
+        "name": "0x2a60…be29",
+        "volume": "$109"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$103"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$101"
+      },
+      {
+        "name": "aori",
+        "volume": "$64"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$61"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$60"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$48M"
+      },
+      {
+        "name": "averick",
+        "volume": "$29"
+      },
+      {
+        "name": "ZKSwap",
+        "volume": "$29"
+      },
+      {
+        "name": "Zebra V3",
+        "volume": "$27"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$806"
+      },
+      {
+        "name": "USDC",
+        "volume": "$218"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$71"
+      },
+      {
+        "name": "SCR",
+        "volume": "$23"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:35:28.761Z",
+  "source": "base_aave",
+  "vaultBalance": 0.057440862859185045,
+  "vaultPct": 0.00008450011928674856
+}

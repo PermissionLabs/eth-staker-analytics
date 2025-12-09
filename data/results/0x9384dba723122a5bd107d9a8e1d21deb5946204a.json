@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x9384dba723122a5bd107d9a8e1d21deb5946204a",
+    "totalValue": "$639",
+    "walletLifetime": "968 days",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3980",
+        "amount": "40.4144",
+        "usdValue": "$56.50"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0326",
+        "amount": "1,148.0000",
+        "usdValue": "$37.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,112.1400",
+        "amount": "0.0038",
+        "usdValue": "$11.89"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0900",
+        "amount": "35.1481",
+        "usdValue": "$3.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.1400",
+        "amount": "0.0010",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,113.8700",
+        "amount": "0.0009",
+        "usdValue": "$2.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,112.1400",
+        "amount": "0.0005",
+        "usdValue": "$1.62"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6400",
+        "amount": "0.0202",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,112.1400",
+        "amount": "0.00005515",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0962",
+        "amount": "1.7274",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1241",
+        "amount": "1.2710",
+        "usdValue": "$0.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$399"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$122"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9384dba723122a5bd107d9a8e1d21deb5946204a",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$1K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$909"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$630M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$558"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$556"
+      },
+      {
+        "name": "Relay",
+        "volume": "$436"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$399M"
+      },
+      {
+        "name": "0x1a1e…7d31",
+        "volume": "$285"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$842"
+      },
+      {
+        "name": "BNB",
+        "volume": "$565B"
+      },
+      {
+        "name": "TC.b",
+        "volume": "$503"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$384"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$293"
+      },
+      {
+        "name": "POL",
+        "volume": "$267"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:19:43.525Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1279329007331118,
+  "vaultPct": 0.00018819956446596256
+}

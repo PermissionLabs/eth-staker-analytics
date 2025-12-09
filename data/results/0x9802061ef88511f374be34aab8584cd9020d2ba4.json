@@ -1,0 +1,263 @@
+{
+  "portfolio": {
+    "address": "0x9802061ef88511f374be34aab8584cd9020d2ba4",
+    "totalValue": "$6,132",
+    "walletLifetime": "1401 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.9900",
+        "amount": "0.1252",
+        "usdValue": "$389.39"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.3000",
+        "amount": "0.2439",
+        "usdValue": "$217.62"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3065",
+        "amount": "12.6545",
+        "usdValue": "$29.19"
+      },
+      {
+        "symbol": "WBNB",
+        "chain": "bsc",
+        "price": "$892.3000",
+        "amount": "0.0311",
+        "usdValue": "$27.79"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$0.9999",
+        "amount": "1.6129",
+        "usdValue": "$1.61"
+      },
+      {
+        "symbol": "AFP",
+        "chain": "bsc",
+        "price": "$0.2434",
+        "amount": "0.3066",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0275",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SDJT",
+        "chain": "bsc",
+        "price": "$0.1139",
+        "amount": "0.1000",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7856",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DRIPX",
+        "chain": "bsc",
+        "price": "$0.0₈2669",
+        "amount": "0.0171",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AFD",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.0106",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,036"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBNB",
+        "usdValue": "$429"
+      },
+      {
+        "protocol": "Animal Farm",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBNB",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "bsc",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "Cake",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "PancakeSwap",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "DRIP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9802061ef88511f374be34aab8584cd9020d2ba4",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$368K"
+      },
+      {
+        "name": "Animal Farm",
+        "volume": "$46K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$41K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$38K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$37K"
+      },
+      {
+        "name": "0x3acb…deb4",
+        "volume": "$37K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$27K"
+      },
+      {
+        "name": "0xbee3…a000",
+        "volume": "$25K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$19K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$12K"
+      },
+      {
+        "name": "Drip",
+        "volume": "$9K"
+      },
+      {
+        "name": "OmniBridge",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x4c40…9da5",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x43ee…75a8",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$250K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$193K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$125K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$121K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$88K"
+      },
+      {
+        "name": "AFD",
+        "volume": "$37K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$35K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$18K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$14K"
+      },
+      {
+        "name": "DRIP",
+        "volume": "$4K"
+      },
+      {
+        "name": "DRIPX",
+        "volume": "$4K"
+      },
+      {
+        "name": "AFP",
+        "volume": "$3K"
+      },
+      {
+        "name": "WDRIP",
+        "volume": "$3K"
+      },
+      {
+        "name": "PIGS",
+        "volume": "$2K"
+      },
+      {
+        "name": "BR34P",
+        "volume": "$236"
+      },
+      {
+        "name": "STARLY",
+        "volume": "$63"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:03:27.257Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.6775635262888295,
+  "vaultPct": 0.0008697322804618318
+}

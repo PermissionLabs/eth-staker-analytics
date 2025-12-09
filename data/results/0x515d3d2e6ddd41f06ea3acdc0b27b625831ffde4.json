@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0x515d3d2e6ddd41f06ea3acdc0b27b625831ffde4",
+    "totalValue": "$581",
+    "walletLifetime": "988 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,101.7000",
+        "amount": "0.0043",
+        "usdValue": "$13.21"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2007",
+        "amount": "0.3003",
+        "usdValue": "$0.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,101.7000",
+        "amount": "0.00004467",
+        "usdValue": "$0.14"
+      },
+      {
+        "symbol": "STG",
+        "chain": "scrl",
+        "price": "$0.1204",
+        "amount": "1.0038",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0100",
+        "amount": "6.3490",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "41.7493",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$382"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$183"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x515d3d2e6ddd41f06ea3acdc0b27b625831ffde4",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$8K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$5K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$3K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$3K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$875"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$695"
+      },
+      {
+        "name": "ybit",
+        "volume": "$553"
+      },
+      {
+        "name": "orpho",
+        "volume": "$448"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$395"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$330"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "KBUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$804"
+      },
+      {
+        "name": "WETH",
+        "volume": "$706"
+      },
+      {
+        "name": "USDC",
+        "volume": "$400"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$216"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$200"
+      },
+      {
+        "name": "iZi",
+        "volume": "$105"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:29:51.688Z",
+  "source": "moonwell",
+  "vaultBalance": 0.11991714364138423,
+  "vaultPct": 0.0021755639646800617
+}

@@ -1,0 +1,191 @@
+{
+  "portfolio": {
+    "address": "0x11ffe9ef471530394b781839e2370c0778c5cddb",
+    "totalValue": "$1,296,853",
+    "walletLifetime": "1516 days",
+    "tokens": [
+      {
+        "symbol": "NEXO",
+        "chain": "eth",
+        "price": "$0.9810",
+        "amount": "26,251.6007",
+        "usdValue": "$25,752.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.5900",
+        "amount": "1.5886",
+        "usdValue": "$4,963.80"
+      },
+      {
+        "symbol": "LUSD",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "1,238.2263",
+        "usdValue": "$1,238.16"
+      },
+      {
+        "symbol": "LQTY",
+        "chain": "eth",
+        "price": "$0.4767",
+        "amount": "633.1492",
+        "usdValue": "$301.82"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "261.4852",
+        "usdValue": "$261.49"
+      },
+      {
+        "symbol": "CP",
+        "chain": "mobm",
+        "price": "$0.0158",
+        "amount": "1.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "yRise",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "0.0001",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,264,335"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x11ffe9ef471530394b781839e2370c0778c5cddb",
+    "topProtocols": [
+      {
+        "name": "Liquity",
+        "volume": "$4M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$2M"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x7eb7…9006",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x59a7…7f42",
+        "volume": "$585K"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$563K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$400K"
+      },
+      {
+        "name": "0x121e…37a4",
+        "volume": "$320K"
+      },
+      {
+        "name": "0x5824…6ef4",
+        "volume": "$234K"
+      },
+      {
+        "name": "0xf1fd…e962",
+        "volume": "$132K"
+      },
+      {
+        "name": "0x",
+        "volume": "$130K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$113K"
+      },
+      {
+        "name": "0xffec…8ba4",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x59cd…ea7b",
+        "volume": "$960"
+      },
+      {
+        "name": "0xe25b…3395",
+        "volume": "$721"
+      },
+      {
+        "name": "0xc602…cc27",
+        "volume": "$154"
+      },
+      {
+        "name": "Nexus Mutual",
+        "volume": "$8"
+      },
+      {
+        "name": "0xe1db…e8c9",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9fda…f948",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x11ff…cddb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "LUSD",
+        "volume": "$3M"
+      },
+      {
+        "name": "MIM",
+        "volume": "$601K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$271K"
+      },
+      {
+        "name": "STRONG",
+        "volume": "$225K"
+      },
+      {
+        "name": "NEXO",
+        "volume": "$16K"
+      },
+      {
+        "name": "LQTY",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:16:14.535Z",
+  "source": "lido_steth",
+  "vaultBalance": 401.574149298251,
+  "vaultPct": 0.030153336427032818
+}

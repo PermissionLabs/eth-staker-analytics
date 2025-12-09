@@ -1,0 +1,196 @@
+{
+  "portfolio": {
+    "address": "0xf744658d67e615fc12c59a4f383d3a0e327348bc",
+    "totalValue": "$672",
+    "walletLifetime": "972 days",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.4040",
+        "amount": "45.8014",
+        "usdValue": "$64.31"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0333",
+        "amount": "1,073.0000",
+        "usdValue": "$35.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.6000",
+        "amount": "0.0010",
+        "usdValue": "$3.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,159.6000",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0920",
+        "amount": "32.6142",
+        "usdValue": "$3.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,159.6000",
+        "amount": "0.0006",
+        "usdValue": "$1.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,159.6000",
+        "amount": "0.0003",
+        "usdValue": "$0.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,159.6000",
+        "amount": "0.00007999",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1249",
+        "amount": "1.6721",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,159.4900",
+        "amount": "0.00005514",
+        "usdValue": "$0.17"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$528"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$30"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf744658d67e615fc12c59a4f383d3a0e327348bc",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$730"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$707"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$541"
+      },
+      {
+        "name": "Relay",
+        "volume": "$534"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$511"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$352"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$772"
+      },
+      {
+        "name": "NB",
+        "volume": "$512"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$467"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$291"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:52:22.269Z",
+  "source": "base_aave",
+  "vaultBalance": 0.16683311018256108,
+  "vaultPct": 0.0002454248945731399
+}

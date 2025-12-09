@@ -1,0 +1,256 @@
+{
+  "portfolio": {
+    "address": "0xd48c282b27ae50fc04076996b16b6fe4880a1b4f",
+    "totalValue": "$4,196",
+    "walletLifetime": "483 days",
+    "tokens": [
+      {
+        "symbol": "CRV",
+        "chain": "eth",
+        "price": "$0.3944",
+        "amount": "628.3586",
+        "usdValue": "$247.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.5500",
+        "amount": "0.0535",
+        "usdValue": "$167.57"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4844",
+        "amount": "258.4775",
+        "usdValue": "$125.20"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2404",
+        "amount": "50.0000",
+        "usdValue": "$12.02"
+      },
+      {
+        "symbol": "DMTR",
+        "chain": "eth",
+        "price": "$0.0157",
+        "amount": "510.0814",
+        "usdValue": "$8.02"
+      },
+      {
+        "symbol": "W",
+        "chain": "eth",
+        "price": "$0.0410",
+        "amount": "127.9317",
+        "usdValue": "$5.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.5500",
+        "amount": "0.0008",
+        "usdValue": "$2.58"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,129.5500",
+        "amount": "0.0006",
+        "usdValue": "$1.77"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$0.9998",
+        "amount": "1.0000",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "0.6385",
+        "usdValue": "$0.64"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,906"
+      },
+      {
+        "protocol": "Curve LlamaLend",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "CRV",
+        "usdValue": "$1,004"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$671"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$43"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd48c282b27ae50fc04076996b16b6fe4880a1b4f",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "lighter",
+        "volume": "$9K"
+      },
+      {
+        "name": "Curve LlamaLend",
+        "volume": "$7K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x16c8…c46d",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb800…1ec1",
+        "volume": "$2K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$1K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$1K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$973"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$717"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$5630"
+      },
+      {
+        "name": "x",
+        "volume": "$274"
+      },
+      {
+        "name": "0x7108…c96c",
+        "volume": "$223B"
+      },
+      {
+        "name": "itget",
+        "volume": "$146"
+      },
+      {
+        "name": "0x3723…1ba0",
+        "volume": "$146"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$10K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$5K"
+      },
+      {
+        "name": "crvUSD",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$1K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$433"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$280"
+      },
+      {
+        "name": "RETT",
+        "volume": "$182"
+      },
+      {
+        "name": "ACOLYT",
+        "volume": "$163"
+      },
+      {
+        "name": "DMTR",
+        "volume": "$56"
+      },
+      {
+        "name": "FET",
+        "volume": "$44"
+      },
+      {
+        "name": "POL",
+        "volume": "$42"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:08:23.945Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.3342532051868574,
+  "vaultPct": 0.00024808708130605924
+}

@@ -1,0 +1,268 @@
+{
+  "portfolio": {
+    "address": "0xc841cd0ad77d714b3c6ad86c1160034a1f11fed3",
+    "totalValue": "$39,227",
+    "walletLifetime": "3113 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "17,380.0100",
+        "usdValue": "$17,378.27"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$91,745.3200",
+        "amount": "0.0373",
+        "usdValue": "$3,426.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.3800",
+        "amount": "0.6615",
+        "usdValue": "$2,069.56"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "1,636.4667",
+        "usdValue": "$1,636.73"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.0000",
+        "amount": "0.1891",
+        "usdValue": "$171.74"
+      },
+      {
+        "symbol": "WHY",
+        "chain": "bsc",
+        "price": "$0.0₇1799",
+        "amount": "7,777,862,670.5348",
+        "usdValue": "$139.94"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2857",
+        "amount": "450.0000",
+        "usdValue": "$128.56"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2118",
+        "amount": "330.8936",
+        "usdValue": "$70.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.1800",
+        "amount": "0.0100",
+        "usdValue": "$31.28"
+      },
+      {
+        "symbol": "CRV",
+        "chain": "arb",
+        "price": "$0.3960",
+        "amount": "64.0635",
+        "usdValue": "$25.37"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$13,207"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$823"
+      },
+      {
+        "protocol": "Perion",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "PERC",
+        "usdValue": "$17"
+      },
+      {
+        "protocol": "EtherDelta",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "REQ",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc841cd0ad77d714b3c6ad86c1160034a1f11fed3",
+    "topProtocols": [
+      {
+        "name": "0x4e43…df6e",
+        "volume": "$513K"
+      },
+      {
+        "name": "0x011d…4e27",
+        "volume": "$383K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$377K"
+      },
+      {
+        "name": "0x9f40…5be6",
+        "volume": "$182K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$108K"
+      },
+      {
+        "name": "0xb624…f99a",
+        "volume": "$90K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$87K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$63K"
+      },
+      {
+        "name": "0x43ca…bb7f",
+        "volume": "$61K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$52K"
+      },
+      {
+        "name": "0x0fd1…645c",
+        "volume": "$41K"
+      },
+      {
+        "name": "0x5b99…be77",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x1d66…1ec2",
+        "volume": "$33K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$26K"
+      },
+      {
+        "name": "EtherDelta",
+        "volume": "$24K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$23K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$22K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "DLCBTC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$873K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$138K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$116K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$61K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$43K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$42K"
+      },
+      {
+        "name": "KFTM",
+        "volume": "$23K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$21K"
+      },
+      {
+        "name": "OGN",
+        "volume": "$20K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$15K"
+      },
+      {
+        "name": "KUMA",
+        "volume": "$14K"
+      },
+      {
+        "name": "DYDX",
+        "volume": "$12K"
+      },
+      {
+        "name": "OPEN",
+        "volume": "$9K"
+      },
+      {
+        "name": "GOOD",
+        "volume": "$6K"
+      },
+      {
+        "name": "BAT",
+        "volume": "$4K"
+      },
+      {
+        "name": "PERC",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:54:26.313Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.2420955930864431,
+  "vaultPct": 0.0000181784357349552
+}

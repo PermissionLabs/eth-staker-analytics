@@ -1,0 +1,140 @@
+{
+  "portfolio": {
+    "address": "0x1ad552871ecc336987c3db8fc278f2af008f99ce",
+    "totalValue": "$21,495",
+    "walletLifetime": "1791 days",
+    "tokens": [
+      {
+        "symbol": "BTCB",
+        "chain": "bsc",
+        "price": "$90,410.5300",
+        "amount": "0.0566",
+        "usdValue": "$5,119.04"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,414.0000",
+        "amount": "0.0086",
+        "usdValue": "$777.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.1200",
+        "amount": "0.1929",
+        "usdValue": "$601.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.1200",
+        "amount": "0.1124",
+        "usdValue": "$350.24"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$90,477.1500",
+        "amount": "0.0033",
+        "usdValue": "$299.79"
+      },
+      {
+        "symbol": "weETH",
+        "chain": "base",
+        "price": "$3,375.6524",
+        "amount": "0.0745",
+        "usdValue": "$251.35"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.4000",
+        "amount": "0.0957",
+        "usdValue": "$85.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,116.1200",
+        "amount": "0.0049",
+        "usdValue": "$15.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Puffer Finance",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$3,977"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,309"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,977"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$1,607"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,259"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$1,144"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$631"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "HYPE",
+        "usdValue": "$75"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1ad552871ecc336987c3db8fc278f2af008f99ce",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T01:15:08.182Z",
+  "source": "moonwell",
+  "vaultBalance": 0.3579018292908459,
+  "vaultPct": 0.006493136002528383
+}

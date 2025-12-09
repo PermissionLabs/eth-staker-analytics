@@ -1,0 +1,120 @@
+{
+  "portfolio": {
+    "address": "0x9645e7c2d59b9a1ef8095d7444f0cba2538e4c43",
+    "totalValue": "$877",
+    "walletLifetime": "1546 days",
+    "tokens": [
+      {
+        "symbol": "DPS",
+        "chain": "avax",
+        "price": "$0.1498",
+        "amount": "550.0000",
+        "usdValue": "$82.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.9700",
+        "amount": "0.0071",
+        "usdValue": "$22.29"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7400",
+        "amount": "0.9916",
+        "usdValue": "$13.62"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0283",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9958",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$758"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9645e7c2d59b9a1ef8095d7444f0cba2538e4c43",
+    "topProtocols": [
+      {
+        "name": "0xf5be…84f3",
+        "volume": "$801"
+      },
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$374"
+      },
+      {
+        "name": "Sablier",
+        "volume": "$175"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$60"
+      },
+      {
+        "name": "0x8c8d…7465",
+        "volume": "$53"
+      },
+      {
+        "name": "0xb233…c460",
+        "volume": "$23"
+      },
+      {
+        "name": "0x2b3f…5dbb",
+        "volume": "$22"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "DPS",
+        "volume": "$175"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$23B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:06:01.059Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.2253,
+  "vaultPct": 0.000016917290888574842
+}

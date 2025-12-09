@@ -1,0 +1,158 @@
+{
+  "portfolio": {
+    "address": "0x83e74b8c74152000b0177d1ad35a97a2515db2bc",
+    "totalValue": "$26,896",
+    "walletLifetime": "95 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,147.4400",
+        "amount": "0.0435",
+        "usdValue": "$136.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,147.4400",
+        "amount": "0.0141",
+        "usdValue": "$44.45"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "EUL",
+        "chain": "arb",
+        "price": "$0.23",
+        "amount": "0.03",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$14,762"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$11,952"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "Claimable",
+        "token": "EUL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x83e74b8c74152000b0177d1ad35a97a2515db2bc",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$39K"
+      },
+      {
+        "name": "0xe570…f27a",
+        "volume": "$23K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$16K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xd689…1beb",
+        "volume": "$11K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$10K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$4K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$129"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$128"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$111M"
+      },
+      {
+        "name": "erkl",
+        "volume": "$25"
+      },
+      {
+        "name": "0x69b9…0962",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfaf8…db84",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x83e7…b2bc",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$72K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$23K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$205"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$79"
+      },
+      {
+        "name": "ARB",
+        "volume": "$50M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:16:25.787Z",
+  "source": "base_aave",
+  "vaultBalance": 3.5307409931804585,
+  "vaultPct": 0.005194003367006432
+}

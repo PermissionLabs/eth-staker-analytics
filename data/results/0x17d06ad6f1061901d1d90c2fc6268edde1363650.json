@@ -1,0 +1,260 @@
+{
+  "portfolio": {
+    "address": "0x17d06ad6f1061901d1d90c2fc6268edde1363650",
+    "totalValue": "$5,768",
+    "walletLifetime": "558 days",
+    "tokens": [
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6789",
+        "amount": "200.6197",
+        "usdValue": "$136.20"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8627",
+        "amount": "156.6177",
+        "usdValue": "$135.11"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,132.1200",
+        "amount": "0.0208",
+        "usdValue": "$65.10"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "48.4567",
+        "usdValue": "$48.45"
+      },
+      {
+        "symbol": "CDX",
+        "chain": "base",
+        "price": "$0.0443",
+        "amount": "221.4400",
+        "usdValue": "$9.82"
+      },
+      {
+        "symbol": "VISION",
+        "chain": "base",
+        "price": "$0.00007254",
+        "amount": "55,914.6197",
+        "usdValue": "$4.06"
+      },
+      {
+        "symbol": "TONY",
+        "chain": "base",
+        "price": "$0.0₅4518",
+        "amount": "781,662.9434",
+        "usdValue": "$3.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.1200",
+        "amount": "0.0010",
+        "usdValue": "$3.09"
+      },
+      {
+        "symbol": "ROCKET",
+        "chain": "base",
+        "price": "$0.0003",
+        "amount": "5,076.4619",
+        "usdValue": "$1.57"
+      },
+      {
+        "symbol": "APE",
+        "chain": "ape",
+        "price": "$0.2411",
+        "amount": "2.0405",
+        "usdValue": "$0.49"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "VIRTUAL",
+        "usdValue": "$3,529"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,688"
+      },
+      {
+        "protocol": "Venice",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "VVV",
+        "usdValue": "$136"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$6"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x17d06ad6f1061901d1d90c2fc6268edde1363650",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$19K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$14K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x79bb…ee24",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$1K"
+      },
+      {
+        "name": "Kosher Capital",
+        "volume": "$503"
+      },
+      {
+        "name": "0x4b56…e968",
+        "volume": "$412"
+      },
+      {
+        "name": "0x4859…abd2",
+        "volume": "$329"
+      },
+      {
+        "name": "Venice",
+        "volume": "$321"
+      },
+      {
+        "name": "Velora",
+        "volume": "$300"
+      },
+      {
+        "name": "0x8467…3d9d",
+        "volume": "$94"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$67"
+      },
+      {
+        "name": "0xfefc…ff8b",
+        "volume": "$48"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$130"
+      },
+      {
+        "name": "x",
+        "volume": "$2"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$51K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$23K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "WELS",
+        "volume": "$7K"
+      },
+      {
+        "name": "KLIMA",
+        "volume": "$7K"
+      },
+      {
+        "name": "SHEKEL",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "VVV",
+        "volume": "$609"
+      },
+      {
+        "name": "TONY",
+        "volume": "$539"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$231"
+      },
+      {
+        "name": "VISION",
+        "volume": "$58"
+      },
+      {
+        "name": "ROCKET",
+        "volume": "$51"
+      },
+      {
+        "name": "CDX",
+        "volume": "$48"
+      },
+      {
+        "name": "AIXCB",
+        "volume": "$28"
+      },
+      {
+        "name": "SYMP",
+        "volume": "$11"
+      },
+      {
+        "name": "AEROBUD",
+        "volume": "$2M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:59:39.349Z",
+  "source": "base_aave",
+  "vaultBalance": 0.6063055235200091,
+  "vaultPct": 0.0008919240852501042
+}

@@ -1,0 +1,122 @@
+{
+  "portfolio": {
+    "address": "0x0bffc34eac18854023b0e4305106db00fceeecde",
+    "totalValue": "$49,257",
+    "walletLifetime": "117 days",
+    "tokens": [
+      {
+        "symbol": "SDT",
+        "chain": "eth",
+        "price": "$0.2686",
+        "amount": "16,360.9650",
+        "usdValue": "$4,394.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.8700",
+        "amount": "0.0091",
+        "usdValue": "$28.29"
+      },
+      {
+        "symbol": "JULIEN",
+        "chain": "eth",
+        "price": "$0.1139",
+        "amount": "101.0000",
+        "usdValue": "$11.51"
+      },
+      {
+        "symbol": "BPT",
+        "chain": "eth",
+        "price": "$0.0041",
+        "amount": "352.6585",
+        "usdValue": "$1.44"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LAGOON",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$30,463"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$10,608"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "tBTC",
+        "usdValue": "$3,750"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0bffc34eac18854023b0e4305106db00fceeecde",
+    "topProtocols": [
+      {
+        "name": "0xa094…893d",
+        "volume": "$49K"
+      },
+      {
+        "name": "LAGOON",
+        "volume": "$30K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x9449…24d2",
+        "volume": "$10K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$7K"
+      },
+      {
+        "name": "Upshift",
+        "volume": "$5K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$134"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$74K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$10K"
+      },
+      {
+        "name": "SDT",
+        "volume": "$9K"
+      },
+      {
+        "name": "JULIEN",
+        "volume": "$25B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:58:54.386Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 3.1215855086471556,
+  "vaultPct": 0.03481688380821316
+}

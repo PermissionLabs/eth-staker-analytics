@@ -1,0 +1,138 @@
+{
+  "portfolio": {
+    "address": "0x70b5aa63ecd5ddc8f3226a3858c926f0bb58dadf",
+    "totalValue": "$734",
+    "walletLifetime": "1567 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,138.3100",
+        "amount": "0.1764",
+        "usdValue": "$553.53"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "98.1200",
+        "usdValue": "$98.10"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "34.9872",
+        "usdValue": "$34.98"
+      },
+      {
+        "symbol": "SOLX",
+        "chain": "eth",
+        "price": "$0.0002",
+        "amount": "166,587.8129",
+        "usdValue": "$34.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,139.9500",
+        "amount": "0.0040",
+        "usdValue": "$12.71"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "op",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x70b5aa63ecd5ddc8f3226a3858c926f0bb58dadf",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "Solaxy",
+        "volume": "$275"
+      },
+      {
+        "name": "0x9390…e49e",
+        "volume": "$266"
+      },
+      {
+        "name": "0x5900…d640",
+        "volume": "$251"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$250"
+      },
+      {
+        "name": "x",
+        "volume": "$213"
+      },
+      {
+        "name": "0xd7a8…fd2d",
+        "volume": "$167"
+      },
+      {
+        "name": "0x92bd…226b",
+        "volume": "$98"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa0b8…eb48",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$965"
+      },
+      {
+        "name": "weETH",
+        "volume": "$425"
+      },
+      {
+        "name": "SOLX",
+        "volume": "$119"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:43:50.132Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.7,
+  "vaultPct": 0.0005020299872036297
+}

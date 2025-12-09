@@ -1,0 +1,88 @@
+{
+  "portfolio": {
+    "address": "0x671b7966dfc59ec51ddfec300abefaae0f2a859b",
+    "totalValue": "$261",
+    "walletLifetime": "339 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.7400",
+        "amount": "0.0228",
+        "usdValue": "$70.99"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$190"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x671b7966dfc59ec51ddfec300abefaae0f2a859b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x61a2…3dbd",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x4aad…b96f",
+        "volume": "$9K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "ungee",
+        "volume": "$101"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$97"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$24K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:03:12.707Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.06066007589928901,
+  "vaultPct": 0.000011278954491663431
+}

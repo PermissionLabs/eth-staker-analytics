@@ -1,0 +1,159 @@
+{
+  "portfolio": {
+    "address": "0x39b164ef561c3b0955693317908e5c11caad9817",
+    "totalValue": "$1,387",
+    "walletLifetime": "1405 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,150.1500",
+        "amount": "0.2318",
+        "usdValue": "$730.18"
+      },
+      {
+        "symbol": "SOL (Wormhole)",
+        "chain": "eth",
+        "price": "$138.5030",
+        "amount": "2.2594",
+        "usdValue": "$312.94"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3217",
+        "amount": "30.0000",
+        "usdValue": "$9.65"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "31,222.0000",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "0.0210",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SPORK",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "53.8000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$334"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x39b164ef561c3b0955693317908e5c11caad9817",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd108…3ba6",
+        "volume": "$997"
+      },
+      {
+        "name": "0xa108…318c",
+        "volume": "$695M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$232"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$232"
+      },
+      {
+        "name": "0x19a8…887a",
+        "volume": "$136"
+      },
+      {
+        "name": "0x8f21…84e0",
+        "volume": "$64"
+      },
+      {
+        "name": "0x1289…71f9",
+        "volume": "$46"
+      },
+      {
+        "name": "0xe07d…9cd6",
+        "volume": "$45"
+      },
+      {
+        "name": "ENS",
+        "volume": "$31"
+      },
+      {
+        "name": "0xd439…ae11",
+        "volume": "$1"
+      },
+      {
+        "name": "0x6732…d3cd",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x22c1…b415",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe140…ec2a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "OP",
+        "volume": "$64"
+      },
+      {
+        "name": "SPORK",
+        "volume": "$1B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:14:49.058Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.1,
+  "vaultPct": 0.000007508784238160162
+}

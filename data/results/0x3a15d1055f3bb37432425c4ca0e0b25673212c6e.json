@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0x3a15d1055f3bb37432425c4ca0e0b25673212c6e",
+    "totalValue": "$1,106",
+    "walletLifetime": "68 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.9700",
+        "amount": "0.0030",
+        "usdValue": "$9.33"
+      },
+      {
+        "symbol": "APEX",
+        "chain": "arb",
+        "price": "$0.5553",
+        "amount": "9.0000",
+        "usdValue": "$5.00"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.0928",
+        "amount": "1.0248",
+        "usdValue": "$1.12"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "mnt",
+        "price": "$1.0001",
+        "amount": "0.0005",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,090"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3a15d1055f3bb37432425c4ca0e0b25673212c6e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x14d1…89fe",
+        "volume": "$541"
+      },
+      {
+        "name": "0x3ba9…bc35",
+        "volume": "$3551"
+      },
+      {
+        "name": "inch",
+        "volume": "$282"
+      },
+      {
+        "name": "0x264b…97b5",
+        "volume": "$256"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$210K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$207"
+      },
+      {
+        "name": "0x6531…5125",
+        "volume": "$207"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$203"
+      },
+      {
+        "name": "zkLink Nova Bridge",
+        "volume": "$199"
+      },
+      {
+        "name": "0x8fd7…4736",
+        "volume": "$1910"
+      },
+      {
+        "name": "x",
+        "volume": "$180"
+      },
+      {
+        "name": "0x97c6…7706",
+        "volume": "$8"
+      },
+      {
+        "name": "0x4ae2…3075",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$458M"
+      },
+      {
+        "name": "NT",
+        "volume": "$417"
+      },
+      {
+        "name": "USDT",
+        "volume": "$398"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:19:38.294Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.556482549466773,
+  "vaultPct": 0.00010347071377327675
+}

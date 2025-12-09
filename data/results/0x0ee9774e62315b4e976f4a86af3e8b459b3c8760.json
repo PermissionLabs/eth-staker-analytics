@@ -1,0 +1,157 @@
+{
+  "portfolio": {
+    "address": "0x0ee9774e62315b4e976f4a86af3e8b459b3c8760",
+    "totalValue": "$133,696",
+    "walletLifetime": "520 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.1000",
+        "amount": "0.5798",
+        "usdValue": "$1,799.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.0000",
+        "amount": "0.3801",
+        "usdValue": "$1,179.31"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.00005",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7844",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$117,740"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$12,976"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0ee9774e62315b4e976f4a86af3e8b459b3c8760",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$832K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$412K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$349K"
+      },
+      {
+        "name": "0x7868…cca3",
+        "volume": "$249K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$234K"
+      },
+      {
+        "name": "0xc995…76ff",
+        "volume": "$192K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$82K"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$80K"
+      },
+      {
+        "name": "0xf456…c271",
+        "volume": "$44K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x2985…1fea",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x97c1…a8f3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$964K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$693K"
+      },
+      {
+        "name": "LUSD",
+        "volume": "$172K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$135K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:30:02.352Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 12.88547361638976,
+  "vaultPct": 0.0023958867239810585
+}

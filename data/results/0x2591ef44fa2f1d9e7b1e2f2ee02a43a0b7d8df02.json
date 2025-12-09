@@ -1,0 +1,102 @@
+{
+  "portfolio": {
+    "address": "0x2591ef44fa2f1d9e7b1e2f2ee02a43a0b7d8df02",
+    "totalValue": "$2,141",
+    "walletLifetime": "1170 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$895.2000",
+        "amount": "0.0965",
+        "usdValue": "$86.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,099.5300",
+        "amount": "0.0098",
+        "usdValue": "$30.34"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅98",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,024"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2591ef44fa2f1d9e7b1e2f2ee02a43a0b7d8df02",
+    "topProtocols": [
+      {
+        "name": "1inch",
+        "volume": "$680"
+      },
+      {
+        "name": "OKX",
+        "volume": "$427"
+      },
+      {
+        "name": "inance",
+        "volume": "$46B"
+      },
+      {
+        "name": "Wombat Exchange",
+        "volume": "$25"
+      },
+      {
+        "name": "0x7334…7495",
+        "volume": "$21"
+      },
+      {
+        "name": "0x849f…1f23",
+        "volume": "$14"
+      },
+      {
+        "name": "0x309e…4220",
+        "volume": "$13"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$113B"
+      },
+      {
+        "name": "NB",
+        "volume": "$74"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:02:52.872Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.5854469264420578,
+  "vaultPct": 0.000043959946535474346
+}

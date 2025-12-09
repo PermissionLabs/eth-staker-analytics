@@ -1,0 +1,298 @@
+{
+  "portfolio": {
+    "address": "0x87ee10c54e23ba8149ba66f2467bf50a6e07ca36",
+    "totalValue": "$1,399",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.1600",
+        "amount": "0.0343",
+        "usdValue": "$108.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.1600",
+        "amount": "0.0219",
+        "usdValue": "$69.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,159.9900",
+        "amount": "0.0157",
+        "usdValue": "$49.69"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8100",
+        "amount": "3.0241",
+        "usdValue": "$41.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,159.1600",
+        "amount": "0.0069",
+        "usdValue": "$21.79"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.4000",
+        "amount": "0.0181",
+        "usdValue": "$16.52"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "opbnb",
+        "price": "$1.0002",
+        "amount": "11.3048",
+        "usdValue": "$11.31"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$910.1200",
+        "amount": "0.0081",
+        "usdValue": "$7.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,158.9500",
+        "amount": "0.0019",
+        "usdValue": "$6.15"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1054",
+        "amount": "4.4037",
+        "usdValue": "$4.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,159.1600",
+        "amount": "0.0015",
+        "usdValue": "$4.62"
+      },
+      {
+        "symbol": "GTC",
+        "chain": "eth",
+        "price": "$0.1400",
+        "amount": "10.6041",
+        "usdValue": "$1.48"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.9015",
+        "usdValue": "$0.90"
+      },
+      {
+        "symbol": "Metis",
+        "chain": "metis",
+        "price": "$6.5600",
+        "amount": "0.1062",
+        "usdValue": "$0.70"
+      },
+      {
+        "symbol": "VC(old)",
+        "chain": "era",
+        "price": "$0.0026",
+        "amount": "195.6311",
+        "usdValue": "$0.52"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0973",
+        "amount": "3.8036",
+        "usdValue": "$0.37"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,030"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$16"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "Locked",
+        "token": "WETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Loanshark",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Alien Base",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ALB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZKSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Mendi Finance",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SpaceFi",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "SPACE",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Premius",
+        "chain": "era",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x87ee10c54e23ba8149ba66f2467bf50a6e07ca36",
+    "topProtocols": [
+      {
+        "name": "0x87ee…ca36",
+        "volume": "$62K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$24K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$8K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x45a3…642a",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$2K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$2K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$79K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$62K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "KUSDbC",
+        "volume": "$6K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$4K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:48:05.439Z",
+  "source": "base_aave",
+  "vaultBalance": 0.3250430496638833,
+  "vaultPct": 0.0004781644129765143
+}

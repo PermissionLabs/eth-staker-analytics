@@ -1,0 +1,115 @@
+{
+  "portfolio": {
+    "address": "0x90944b30ee1ea1879dc3da9f3a68500ccfe28eca",
+    "totalValue": "$34,923",
+    "walletLifetime": "81 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,143.9200",
+        "amount": "0.0105",
+        "usdValue": "$33.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,143.9300",
+        "amount": "0.0026",
+        "usdValue": "$8.06"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7947",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$34,882"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x90944b30ee1ea1879dc3da9f3a68500ccfe28eca",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$123K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$79K"
+      },
+      {
+        "name": "0xa60b…b665",
+        "volume": "$55K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$22K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x6160…8bb5",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x5edb…8e08",
+        "volume": "$6"
+      },
+      {
+        "name": "0x0872…ee63",
+        "volume": "$5"
+      },
+      {
+        "name": "0xeef8…c9c6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xeef8…39c6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$132K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$115K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$317"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:52:26.012Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 15.547506077046412,
+  "vaultPct": 0.0028908571395955423
+}

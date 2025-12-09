@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "address": "0xae73136b6b77c7d03b7b6aac8da98875b1f21ff7",
+    "totalValue": "$8,078",
+    "walletLifetime": "1955 days",
+    "tokens": [
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2787",
+        "amount": "1,818.1640",
+        "usdValue": "$506.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.2900",
+        "amount": "0.0225",
+        "usdValue": "$70.18"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "DRV",
+        "chain": "eth",
+        "price": "$0.0370",
+        "amount": "0.6199",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅986",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$5,996"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$1,505"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xae73136b6b77c7d03b7b6aac8da98875b1f21ff7",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$12K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$11K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$11K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$8K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x89b7…db03",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x4b0d…a2a1",
+        "volume": "$3K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xca1a…de87",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2051…50ff",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa23e…275c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$63K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$7K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:13:57.329Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.7640910859980103,
+  "vaultPct": 0.019675948071310657
+}

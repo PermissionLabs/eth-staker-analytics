@@ -1,0 +1,186 @@
+{
+  "portfolio": {
+    "address": "0x80c7e5ced3f3e16fdd3ffda4b90ccd63f18c2108",
+    "totalValue": "$2,296",
+    "walletLifetime": "3920 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "402.9925",
+        "usdValue": "$402.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.8000",
+        "amount": "0.1257",
+        "usdValue": "$390.52"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "234.1985",
+        "usdValue": "$234.18"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3760",
+        "amount": "39.9000",
+        "usdValue": "$54.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.8000",
+        "amount": "0.0142",
+        "usdValue": "$44.12"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$888.7000",
+        "amount": "0.0304",
+        "usdValue": "$27.05"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "10.4005",
+        "usdValue": "$10.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,107.8000",
+        "amount": "0.0020",
+        "usdValue": "$6.15"
+      },
+      {
+        "symbol": "TEN",
+        "chain": "eth",
+        "price": "$0.0078",
+        "amount": "656.2500",
+        "usdValue": "$5.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.8000",
+        "amount": "0.0011",
+        "usdValue": "$3.51"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1220",
+        "amount": "20.1831",
+        "usdValue": "$2.46"
+      },
+      {
+        "symbol": "pUSD",
+        "chain": "plume",
+        "price": "$1.0009",
+        "amount": "2.0000",
+        "usdValue": "$2.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,110"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x80c7e5ced3f3e16fdd3ffda4b90ccd63f18c2108",
+    "topProtocols": [
+      {
+        "name": "ODOS",
+        "volume": "$17K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$17K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$15K"
+      },
+      {
+        "name": "MegaETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$9K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "LEGION",
+        "volume": "$8K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$8K"
+      },
+      {
+        "name": "Falcon Finance",
+        "volume": "$6K"
+      },
+      {
+        "name": "OpenUSDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$32K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$22K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDf",
+        "volume": "$12K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:59:40.010Z",
+  "source": "base_aave",
+  "vaultBalance": 0.2499999999999999,
+  "vaultPct": 0.00036777006420454816
+}

@@ -1,0 +1,195 @@
+{
+  "portfolio": {
+    "address": "0x146b5b68451f7dda62dd1e495f4e197f61f85602",
+    "totalValue": "$2,283,914",
+    "walletLifetime": "45 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "9,006.3633",
+        "usdValue": "$9,004.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.3800",
+        "amount": "0.0544",
+        "usdValue": "$170.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.3800",
+        "amount": "0.0507",
+        "usdValue": "$158.64"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,127.3800",
+        "amount": "0.0352",
+        "usdValue": "$110.18"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$28.4400",
+        "amount": "0.2697",
+        "usdValue": "$7.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.3800",
+        "amount": "0.0020",
+        "usdValue": "$6.25"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "0.9357",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Instadapp Lite",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$600,569"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "monad",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "AUSD",
+        "usdValue": "$567,824"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$438,554"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$353,654"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$313,851"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDE",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x146b5b68451f7dda62dd1e495f4e197f61f85602",
+    "topProtocols": [
+      {
+        "name": "0xbea9…055a",
+        "volume": "$918K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$765K"
+      },
+      {
+        "name": "Instadapp Lite",
+        "volume": "$612K"
+      },
+      {
+        "name": "0x324e…57c6",
+        "volume": "$589K"
+      },
+      {
+        "name": "0x8218…fa5e",
+        "volume": "$582K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$568K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$353K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$353K"
+      },
+      {
+        "name": "0xb076…6dba",
+        "volume": "$112"
+      },
+      {
+        "name": "0x0709…a53d",
+        "volume": "$15"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$5"
+      },
+      {
+        "name": "0x5d40…6737",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcba3…2d32",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfffc…3825",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5d3a…ef34",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDe",
+        "volume": "$706K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$112"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:27:48.192Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 128.69523971107304,
+  "vaultPct": 1.4354138931252476
+}

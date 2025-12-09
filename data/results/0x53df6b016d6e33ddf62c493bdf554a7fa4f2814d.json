@@ -1,0 +1,185 @@
+{
+  "portfolio": {
+    "address": "0x53df6b016d6e33ddf62c493bdf554a7fa4f2814d",
+    "totalValue": "$1,265",
+    "walletLifetime": "1256 days",
+    "tokens": [
+      {
+        "symbol": "MOON (moonSwap)",
+        "chain": "eth",
+        "price": "$0.0106",
+        "amount": "17,886.6164",
+        "usdValue": "$190.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,137.6800",
+        "amount": "0.0045",
+        "usdValue": "$14.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.6800",
+        "amount": "0.0036",
+        "usdValue": "$11.18"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2053",
+        "amount": "3.6011",
+        "usdValue": "$4.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,137.6200",
+        "amount": "0.0010",
+        "usdValue": "$3.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,137.6800",
+        "amount": "0.0004",
+        "usdValue": "$1.21"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.3600",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OX",
+        "chain": "arb",
+        "price": "$0.00004733",
+        "amount": "5.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,037"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x53df6b016d6e33ddf62c493bdf554a7fa4f2814d",
+    "topProtocols": [
+      {
+        "name": "GMX",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x2a08…de75",
+        "volume": "$6K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$1K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$749"
+      },
+      {
+        "name": "0x33d3…bc06",
+        "volume": "$473"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$331"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$264"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$105M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$2"
+      },
+      {
+        "name": "0x95f9…7aca",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x101b…2cc4",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$10"
+      },
+      {
+        "name": "WELL",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:09:54.278Z",
+  "source": "moonwell",
+  "vaultBalance": 0.3232255070692306,
+  "vaultPct": 0.005864030315366687
+}

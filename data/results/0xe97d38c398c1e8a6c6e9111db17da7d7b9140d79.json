@@ -1,0 +1,191 @@
+{
+  "portfolio": {
+    "address": "0xe97d38c398c1e8a6c6e9111db17da7d7b9140d79",
+    "totalValue": "$255,077",
+    "walletLifetime": "602 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.6000",
+        "amount": "0.0607",
+        "usdValue": "$189.41"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.0900",
+        "amount": "7.8932",
+        "usdValue": "$8.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,119.8600",
+        "amount": "0.0007",
+        "usdValue": "$2.13"
+      },
+      {
+        "symbol": "ezETH",
+        "chain": "arb",
+        "price": "$3,314.5552",
+        "amount": "0.00009455",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "mnt",
+        "price": "$3,119.6000",
+        "amount": "0.00007505",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "PUFF",
+        "chain": "mnt",
+        "price": "$0.0575",
+        "amount": "1.0000",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$254,876"
+      },
+      {
+        "protocol": "MantleETH",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe97d38c398c1e8a6c6e9111db17da7d7b9140d79",
+    "topProtocols": [
+      {
+        "name": "Pendle V2",
+        "volume": "$468K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$395K"
+      },
+      {
+        "name": "MantleETH",
+        "volume": "$391K"
+      },
+      {
+        "name": "Karak",
+        "volume": "$388K"
+      },
+      {
+        "name": "0xc8f2…9bf1",
+        "volume": "$252K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$251K"
+      },
+      {
+        "name": "squid",
+        "volume": "$214K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$214K"
+      },
+      {
+        "name": "0xfa8e…1e8a",
+        "volume": "$214K"
+      },
+      {
+        "name": "0x9d4e…cea8",
+        "volume": "$155K"
+      },
+      {
+        "name": "0x2d58…631a",
+        "volume": "$142K"
+      },
+      {
+        "name": "Mantle Bridge",
+        "volume": "$137K"
+      },
+      {
+        "name": "0xa9ff…d82f",
+        "volume": "$48K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$39K"
+      },
+      {
+        "name": "Go",
+        "volume": "$22K"
+      },
+      {
+        "name": "0x373d…6d32",
+        "volume": "$19K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$16K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$933K"
+      },
+      {
+        "name": "mETH",
+        "volume": "$776K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$427K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$25K"
+      },
+      {
+        "name": "COOK",
+        "volume": "$8K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$2K"
+      },
+      {
+        "name": "MNT",
+        "volume": "$18"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:08:49.940Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 74.98394215810644,
+  "vaultPct": 0.8363401208676186
+}

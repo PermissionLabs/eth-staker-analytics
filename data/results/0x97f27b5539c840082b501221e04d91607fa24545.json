@@ -1,0 +1,147 @@
+{
+  "portfolio": {
+    "address": "0x97f27b5539c840082b501221e04d91607fa24545",
+    "totalValue": "$428,671",
+    "walletLifetime": "1636 days",
+    "tokens": [
+      {
+        "symbol": "USDx (Dollar)",
+        "chain": "eth",
+        "price": "$0.7278",
+        "amount": "69.9416",
+        "usdValue": "$50.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.9700",
+        "amount": "0.0092",
+        "usdValue": "$28.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.9700",
+        "amount": "0.0009",
+        "usdValue": "$2.80"
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.7068",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POV",
+        "chain": "base",
+        "price": "$0.0₇175",
+        "amount": "17,420.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7863",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004638",
+        "amount": "0.0690",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$426,002"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$2,587"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x97f27b5539c840082b501221e04d91607fa24545",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$746K"
+      },
+      {
+        "name": "0x53a3…2ee3",
+        "volume": "$325K"
+      },
+      {
+        "name": "0x8fe9…15c6",
+        "volume": "$110K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$87K"
+      },
+      {
+        "name": "0x6f67…e9e5",
+        "volume": "$50K"
+      },
+      {
+        "name": "0xfa70…5823",
+        "volume": "$20K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2M"
+      },
+      {
+        "name": "ENA",
+        "volume": "$5K"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$5K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$3K"
+      },
+      {
+        "name": "MANA",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:12:52.195Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 227.64975060818196,
+  "vaultPct": 0.042328519031383356
+}

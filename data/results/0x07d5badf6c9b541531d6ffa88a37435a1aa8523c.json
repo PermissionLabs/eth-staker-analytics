@@ -1,0 +1,182 @@
+{
+  "portfolio": {
+    "address": "0x07d5badf6c9b541531d6ffa88a37435a1aa8523c",
+    "totalValue": "$1,009",
+    "walletLifetime": "580 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.9100",
+        "amount": "0.0429",
+        "usdValue": "$133.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.9100",
+        "amount": "0.0009",
+        "usdValue": "$2.92"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.0000674",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "kurbi",
+        "chain": "base",
+        "price": "$0.0002",
+        "amount": "0.1000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "OOMER",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.4000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$539"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$286"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$39"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x07d5badf6c9b541531d6ffa88a37435a1aa8523c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$79K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$62K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$51K"
+      },
+      {
+        "name": "0x749a…6221",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$8K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa122…d8b2",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4a82…444c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x2a01…17bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa209…9315",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9f4c…679a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$154K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$110K"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:25:22.801Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.09085750174361062,
+  "vaultPct": 0.000016893774236184668
+}

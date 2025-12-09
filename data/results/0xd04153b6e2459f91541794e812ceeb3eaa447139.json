@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0xd04153b6e2459f91541794e812ceeb3eaa447139",
+    "totalValue": "$229",
+    "walletLifetime": "555 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,098.5500",
+        "amount": "0.0024",
+        "usdValue": "$7.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,098.2100",
+        "amount": "0.0022",
+        "usdValue": "$6.93"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "482.4735",
+        "usdValue": "$3.82"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$1.0000",
+        "amount": "0.4435",
+        "usdValue": "$0.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,098.5500",
+        "amount": "0.0001",
+        "usdValue": "$0.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,098.5500",
+        "amount": "0.00003034",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "linea",
+        "price": "$1.0000",
+        "amount": "0.0057",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.0034",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MITO",
+        "chain": "mito",
+        "price": "$0.0820",
+        "amount": "0.0092",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "TBA",
+        "chain": "matic",
+        "price": "$0.0₉5885",
+        "amount": "0.0001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Arcadia Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$210"
+      },
+      {
+        "protocol": "Sommelier",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd04153b6e2459f91541794e812ceeb3eaa447139",
+    "topProtocols": [
+      {
+        "name": "Hyperlane",
+        "volume": "$62K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$62K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$19K"
+      },
+      {
+        "name": "Secta",
+        "volume": "$8K"
+      },
+      {
+        "name": "zkDX",
+        "volume": "$6K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$4K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x400d…c047",
+        "volume": "$4K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$528M"
+      },
+      {
+        "name": "itosis",
+        "volume": "$489"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$412"
+      },
+      {
+        "name": "Eclipse Bridge",
+        "volume": "$357"
+      },
+      {
+        "name": "Nillion",
+        "volume": "$355"
+      },
+      {
+        "name": "Sommelier",
+        "volume": "$326"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$326B"
+      },
+      {
+        "name": "ebop",
+        "volume": "$287"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$124K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$12K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$567"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$420"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$401"
+      },
+      {
+        "name": "HYPER",
+        "volume": "$102"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$81"
+      },
+      {
+        "name": "STG",
+        "volume": "$60"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$13"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:18:29.237Z",
+  "source": "base_aave",
+  "vaultBalance": 0.0677,
+  "vaultPct": 0.0000995921333865917
+}

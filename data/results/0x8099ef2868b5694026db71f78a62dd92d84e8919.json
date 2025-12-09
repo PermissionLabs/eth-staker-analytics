@@ -1,0 +1,125 @@
+{
+  "portfolio": {
+    "address": "0x8099ef2868b5694026db71f78a62dd92d84e8919",
+    "totalValue": "$9",
+    "walletLifetime": "192 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.9900",
+        "amount": "0.0030",
+        "usdValue": "$9.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,123.9900",
+        "amount": "0.00003029",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "CATX",
+        "chain": "uni",
+        "price": "$0.0005",
+        "amount": "10.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7893",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x8099ef2868b5694026db71f78a62dd92d84e8919",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "WhiteBIT",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$793"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$729"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$520"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$459B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$200"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$601"
+      },
+      {
+        "name": "inch",
+        "volume": "$49M"
+      },
+      {
+        "name": "erkl",
+        "volume": "$201"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$12"
+      },
+      {
+        "name": "0xa5b8…8357",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$920"
+      },
+      {
+        "name": "UNI",
+        "volume": "$34"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:39:53.636Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.5948843892349774,
+  "vaultPct": 0.0001106110378945462
+}

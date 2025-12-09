@@ -1,0 +1,93 @@
+{
+  "portfolio": {
+    "address": "0x5b481f6167fa6cf69e3b7df50d18ba6a4b166135",
+    "totalValue": "$10,385",
+    "walletLifetime": "1524 days",
+    "tokens": [
+      {
+        "symbol": "AIOZ",
+        "chain": "eth",
+        "price": "$0.1190",
+        "amount": "277.8050",
+        "usdValue": "$33.06"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2103",
+        "amount": "15.3367",
+        "usdValue": "$18.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,140.7300",
+        "amount": "0.0052",
+        "usdValue": "$16.46"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0102",
+        "amount": "1,121.3319",
+        "usdValue": "$11.39"
+      },
+      {
+        "symbol": "ENJ",
+        "chain": "eth",
+        "price": "$0.0402",
+        "amount": "33.2452",
+        "usdValue": "$1.34"
+      },
+      {
+        "symbol": "LSS",
+        "chain": "eth",
+        "price": "$0.0014",
+        "amount": "349.7505",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,140.7300",
+        "amount": "0.00005892",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$6,857"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3,442"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5b481f6167fa6cf69e3b7df50d18ba6a4b166135",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T00:20:51.108Z",
+  "source": "moonwell",
+  "vaultBalance": 1.0725549623850599,
+  "vaultPct": 0.019458534913755557
+}

@@ -1,0 +1,283 @@
+{
+  "portfolio": {
+    "address": "0xac87e099566f33233969a80a43255a25d4c989d0",
+    "totalValue": "$1,210",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,100.8900",
+        "amount": "0.0721",
+        "usdValue": "$223.68"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "102.6971",
+        "usdValue": "$102.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.3800",
+        "amount": "0.0113",
+        "usdValue": "$35.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,097.4400",
+        "amount": "0.0111",
+        "usdValue": "$34.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,100.3800",
+        "amount": "0.0066",
+        "usdValue": "$20.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,100.3800",
+        "amount": "0.0012",
+        "usdValue": "$3.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,100.3800",
+        "amount": "0.0011",
+        "usdValue": "$3.43"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$89,879.1500",
+        "amount": "0.00003621",
+        "usdValue": "$3.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,100.3800",
+        "amount": "0.0007",
+        "usdValue": "$2.04"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3905",
+        "amount": "1.3026",
+        "usdValue": "$1.81"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5600",
+        "amount": "0.1171",
+        "usdValue": "$1.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "world",
+        "price": "$3,100.3800",
+        "amount": "0.0005",
+        "usdValue": "$1.56"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1131",
+        "amount": "1.0394",
+        "usdValue": "$1.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,100.3800",
+        "amount": "0.0002",
+        "usdValue": "$0.77"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.1000",
+        "amount": "0.0007",
+        "usdValue": "$0.65"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$897.7400",
+        "amount": "0.0006",
+        "usdValue": "$0.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "taiko",
+        "price": "$3,100.3800",
+        "amount": "0.0002",
+        "usdValue": "$0.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,100.8900",
+        "amount": "0.0002",
+        "usdValue": "$0.51"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4860",
+        "amount": "0.9638",
+        "usdValue": "$0.47"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "soneium",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$349"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$311"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "ink",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$78"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "uni",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$16"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Uniswap V4",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$6"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xac87e099566f33233969a80a43255a25d4c989d0",
+    "topProtocols": [
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x1f49…6d86",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$18K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$12K"
+      },
+      {
+        "name": "Kinza Finance",
+        "volume": "$11K"
+      },
+      {
+        "name": "WOO Network",
+        "volume": "$10K"
+      },
+      {
+        "name": "Owlto Finance",
+        "volume": "$7K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "OpenUSDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "Merkly",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$55K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:51:52.775Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1,
+  "vaultPct": 0.00014710802568181934
+}

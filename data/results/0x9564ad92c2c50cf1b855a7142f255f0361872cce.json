@@ -1,0 +1,83 @@
+{
+  "portfolio": {
+    "address": "0x9564ad92c2c50cf1b855a7142f255f0361872cce",
+    "totalValue": "$5,509",
+    "walletLifetime": "151 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.7900",
+        "amount": "0.0085",
+        "usdValue": "$26.57"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4840",
+        "amount": "20.0955",
+        "usdValue": "$9.73"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9808",
+        "amount": "555.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,576"
+      },
+      {
+        "protocol": "Yield Basis",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "tBTC",
+        "usdValue": "$1,897"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9564ad92c2c50cf1b855a7142f255f0361872cce",
+    "topProtocols": [
+      {
+        "name": "Yield Basis",
+        "volume": "$2K"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xfdc3…12bc",
+        "volume": "$55"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "tBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$28"
+      },
+      {
+        "name": "ETH",
+        "volume": "$28B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:53:36.103Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.1374494094907182,
+  "vaultPct": 0.00008540862197688488
+}

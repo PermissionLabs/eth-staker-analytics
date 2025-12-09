@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x928564aded0003a654927830ae21fc128b4a4d94",
+    "totalValue": "$6,911",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "VEIL",
+        "chain": "base",
+        "price": "$0.0855",
+        "amount": "14,029.1117",
+        "usdValue": "$1,199.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,149.7100",
+        "amount": "0.0127",
+        "usdValue": "$40.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,149.7100",
+        "amount": "0.0100",
+        "usdValue": "$31.61"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,149.7100",
+        "amount": "0.0080",
+        "usdValue": "$25.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.7100",
+        "amount": "0.0076",
+        "usdValue": "$23.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "rari",
+        "price": "$3,150.0600",
+        "amount": "0.0018",
+        "usdValue": "$5.59"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6790",
+        "amount": "0.3997",
+        "usdValue": "$2.27"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,577"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "plasma",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WXPL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x928564aded0003a654927830ae21fc128b4a4d94",
+    "topProtocols": [
+      {
+        "name": "Wrapped Ether",
+        "volume": "$128K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$70K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$55K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$33K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$26K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$24K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$22K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xeee0…022b",
+        "volume": "$17K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$15K"
+      },
+      {
+        "name": "Nillion",
+        "volume": "$13K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$9K"
+      },
+      {
+        "name": "Superform",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$292K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$182K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$60K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$35K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "jesse",
+        "volume": "$2K"
+      },
+      {
+        "name": "VEIL",
+        "volume": "$1K"
+      },
+      {
+        "name": "FF",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "SAHARA",
+        "volume": "$876M"
+      },
+      {
+        "name": "OLTEN",
+        "volume": "$246"
+      },
+      {
+        "name": "OP",
+        "volume": "$154"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:21:56.149Z",
+  "source": "base_aave",
+  "vaultBalance": 2.68,
+  "vaultPct": 0.003942495088272759
+}

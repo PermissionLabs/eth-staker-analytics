@@ -1,0 +1,100 @@
+{
+  "portfolio": {
+    "address": "0x63999dd7f5d9b7fd17f14c667bccfae9b0d16047",
+    "totalValue": "$22,326",
+    "walletLifetime": "1401 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.2900",
+        "amount": "0.2305",
+        "usdValue": "$725.95"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$12,804"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$8,532"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "SUSHI",
+        "usdValue": "$264"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x63999dd7f5d9b7fd17f14c667bccfae9b0d16047",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$35K"
+      },
+      {
+        "name": "0x13dd…31e8",
+        "volume": "$12K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$8K"
+      },
+      {
+        "name": "StakeWise",
+        "volume": "$7K"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$5K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$765K"
+      },
+      {
+        "name": "raken",
+        "volume": "$383"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$68K"
+      },
+      {
+        "name": "SUSHI",
+        "volume": "$767M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:07:15.101Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.9797263631466073,
+  "vaultPct": 0.00029882906587785706
+}

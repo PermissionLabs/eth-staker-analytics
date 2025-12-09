@@ -1,0 +1,107 @@
+{
+  "portfolio": {
+    "address": "0xe42ae5208a3350de374f12944ffe28d9bf93d372",
+    "totalValue": "$15,279",
+    "walletLifetime": "66 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.0300",
+        "amount": "0.6414",
+        "usdValue": "$1,999.77"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.000048",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6,256"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3,813"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3,211"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe42ae5208a3350de374f12944ffe28d9bf93d372",
+    "topProtocols": [
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$20K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Kernel DAO",
+        "volume": "$3K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x43ea…2a7a",
+        "volume": "$97"
+      },
+      {
+        "name": "0x3e5d…4aad",
+        "volume": "$23"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:12:47.665Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.6587015075303876,
+  "vaultPct": 0.007346886314166529
+}

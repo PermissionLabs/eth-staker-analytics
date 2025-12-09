@@ -1,0 +1,121 @@
+{
+  "portfolio": {
+    "address": "0x655befcd60517f17c0e25c6f7456b1fba105a40e",
+    "totalValue": "$4,803",
+    "walletLifetime": "1522 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.5900",
+        "amount": "0.5593",
+        "usdValue": "$1,743.22"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,116.5900",
+        "amount": "0.2700",
+        "usdValue": "$841.48"
+      },
+      {
+        "symbol": "ENS",
+        "chain": "eth",
+        "price": "$11.2600",
+        "amount": "54.6917",
+        "usdValue": "$615.83"
+      },
+      {
+        "symbol": "GROW",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.1000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,602"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x655befcd60517f17c0e25c6f7456b1fba105a40e",
+    "topProtocols": [
+      {
+        "name": "0xa446…37ed",
+        "volume": "$6K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1798…13e1",
+        "volume": "$227"
+      },
+      {
+        "name": "0xf866…62ea",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8c85…6a6a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3abf…0c67",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x219e…2cf6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe5c7…e4e1",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:59:56.119Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.5,
+  "vaultPct": 0.00009296851614882031
+}

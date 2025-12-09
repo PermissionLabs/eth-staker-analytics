@@ -1,0 +1,191 @@
+{
+  "portfolio": {
+    "address": "0x828b04363bfa8337555d18714164e8dae3c0c276",
+    "totalValue": "$798,235",
+    "walletLifetime": "1298 days",
+    "tokens": [
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.4060",
+        "amount": "14,667.9113",
+        "usdValue": "$35,290.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.2900",
+        "amount": "5.6810",
+        "usdValue": "$17,822.93"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "eth",
+        "price": "$1.2106",
+        "amount": "5,168.6622",
+        "usdValue": "$6,257.18"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$469,275"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$269,553"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x828b04363bfa8337555d18714164e8dae3c0c276",
+    "topProtocols": [
+      {
+        "name": "Euler",
+        "volume": "$626K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$625K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$458K"
+      },
+      {
+        "name": "Tornado",
+        "volume": "$410K"
+      },
+      {
+        "name": "Notional",
+        "volume": "$311K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$294K"
+      },
+      {
+        "name": "Pendle",
+        "volume": "$243K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$235K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$153K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$77K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$9K"
+      },
+      {
+        "name": "Seawise",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x7c7a…9e97",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x479e…401e",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x805f…21d0",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x87b7…6bfa",
+        "volume": "$1K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe905…b819",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0961…5291",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$153K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$49K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$22K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$10K"
+      },
+      {
+        "name": "KEUL",
+        "volume": "$3K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:12:18.978Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 84.93,
+  "vaultPct": 0.01579163215303862
+}

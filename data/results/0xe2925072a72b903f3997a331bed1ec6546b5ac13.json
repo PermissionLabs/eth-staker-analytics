@@ -1,0 +1,200 @@
+{
+  "portfolio": {
+    "address": "0xe2925072a72b903f3997a331bed1ec6546b5ac13",
+    "totalValue": "$90,093",
+    "walletLifetime": "282 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "15,289.1400",
+        "usdValue": "$15,287.61"
+      },
+      {
+        "symbol": "BTC.b",
+        "chain": "avax",
+        "price": "$90,890.0800",
+        "amount": "0.0930",
+        "usdValue": "$8,453.47"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "avax",
+        "price": "$0.9999",
+        "amount": "4,966.8411",
+        "usdValue": "$4,966.34"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "4,952.7820",
+        "usdValue": "$4,952.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.2300",
+        "amount": "0.9820",
+        "usdValue": "$3,078.74"
+      },
+      {
+        "symbol": "ALB",
+        "chain": "base",
+        "price": "$0.0185",
+        "amount": "75,827.2380",
+        "usdValue": "$1,404.36"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$51,838"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$55"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "matic",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe2925072a72b903f3997a331bed1ec6546b5ac13",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$313K"
+      },
+      {
+        "name": "Alien Base",
+        "volume": "$186K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$103K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$89K"
+      },
+      {
+        "name": "BEX",
+        "volume": "$88K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$84K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$81K"
+      },
+      {
+        "name": "0x217f…7380",
+        "volume": "$66K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$45K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$40K"
+      },
+      {
+        "name": "Bera Honey",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$39K"
+      },
+      {
+        "name": "Dolomite",
+        "volume": "$37K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$812K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$175K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$130K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$124K"
+      },
+      {
+        "name": "HONEY",
+        "volume": "$91K"
+      },
+      {
+        "name": "OP",
+        "volume": "$49K"
+      },
+      {
+        "name": "TOSHI",
+        "volume": "$37K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$30K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$29K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$9K"
+      },
+      {
+        "name": "iBGT",
+        "volume": "$5K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$2K"
+      },
+      {
+        "name": "ALB",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:06:19.403Z",
+  "source": "base_aave",
+  "vaultBalance": 16.4905971916205,
+  "vaultPct": 0.024258991951734463
+}

@@ -1,0 +1,270 @@
+{
+  "portfolio": {
+    "address": "0x5dcf934578ebe3a22c82f725ee8de8a142048bd1",
+    "totalValue": "$475",
+    "walletLifetime": "2996 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,124.3700",
+        "amount": "0.0277",
+        "usdValue": "$86.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.3700",
+        "amount": "0.0121",
+        "usdValue": "$37.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.3700",
+        "amount": "0.0024",
+        "usdValue": "$7.58"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.4000",
+        "amount": "0.0022",
+        "usdValue": "$1.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,124.3700",
+        "amount": "0.0006",
+        "usdValue": "$1.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,124.3700",
+        "amount": "0.0003",
+        "usdValue": "$0.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "abs",
+        "price": "$3,124.3700",
+        "amount": "0.0002",
+        "usdValue": "$0.58"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$28.6350",
+        "amount": "0.0173",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3175",
+        "amount": "1.5229",
+        "usdValue": "$0.48"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7400",
+        "amount": "0.0334",
+        "usdValue": "$0.46"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1234",
+        "amount": "2.5082",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "BERA",
+        "chain": "bera",
+        "price": "$0.8420",
+        "amount": "0.3119",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "STG",
+        "chain": "arb",
+        "price": "$0.1211",
+        "amount": "1.6846",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "LIN",
+        "chain": "linea",
+        "price": "$0.1780",
+        "amount": "1.1111",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "22.5142",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.3700",
+        "amount": "0.00004932",
+        "usdValue": "$0.15"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$194"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$140"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Locked",
+        "token": "ZERO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "DEGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "avax",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5dcf934578ebe3a22c82f725ee8de8a142048bd1",
+    "topProtocols": [
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$7K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$5K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$3K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "KBUSD",
+        "volume": "$5K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$882"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$866"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:13:23.611Z",
+  "source": "base_aave",
+  "vaultBalance": 0.0861193550337783,
+  "vaultPct": 0.00012668848292010776
+}

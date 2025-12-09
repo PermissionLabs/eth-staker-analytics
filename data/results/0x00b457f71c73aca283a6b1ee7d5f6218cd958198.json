@@ -1,0 +1,192 @@
+{
+  "portfolio": {
+    "address": "0x00b457f71c73aca283a6b1ee7d5f6218cd958198",
+    "totalValue": "$46,325",
+    "walletLifetime": "358 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.3000",
+        "amount": "1.0517",
+        "usdValue": "$3,287.90"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7908",
+        "amount": "197.1736",
+        "usdValue": "$2,719.18"
+      },
+      {
+        "symbol": "SKY",
+        "chain": "eth",
+        "price": "$0.0532",
+        "amount": "6,164.9144",
+        "usdValue": "$328.04"
+      },
+      {
+        "symbol": "CHEX",
+        "chain": "eth",
+        "price": "$0.0465",
+        "amount": "2,089.8481",
+        "usdValue": "$97.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.3000",
+        "amount": "0.0107",
+        "usdValue": "$33.35"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9873",
+        "amount": "175.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7897",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$39,860"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x00b457f71c73aca283a6b1ee7d5f6218cd958198",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$104K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$90K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$68K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x36b5…5f93",
+        "volume": "$2K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$981"
+      },
+      {
+        "name": "0x807c…bd38",
+        "volume": "$805"
+      },
+      {
+        "name": "0xeff6…a167",
+        "volume": "$687"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$622"
+      },
+      {
+        "name": "0x4c74…82b2",
+        "volume": "$432"
+      },
+      {
+        "name": "0xf517…5d82",
+        "volume": "$431"
+      },
+      {
+        "name": "0x8357…f5e5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$234K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$62K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$3K"
+      },
+      {
+        "name": "MOR",
+        "volume": "$3K"
+      },
+      {
+        "name": "CHEX",
+        "volume": "$2K"
+      },
+      {
+        "name": "SKY",
+        "volume": "$2K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$864B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:17:24.948Z",
+  "source": "lido_steth",
+  "vaultBalance": 12.481395907037987,
+  "vaultPct": 0.0009372010885700359
+}

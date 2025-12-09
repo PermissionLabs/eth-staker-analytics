@@ -1,0 +1,310 @@
+{
+  "portfolio": {
+    "address": "0x06a803a9632c51c2105dee765d87a8634fbb8eb6",
+    "totalValue": "$1,682",
+    "walletLifetime": "969 days",
+    "tokens": [
+      {
+        "symbol": "wstETH",
+        "chain": "arb",
+        "price": "$3,836.8861",
+        "amount": "0.1961",
+        "usdValue": "$752.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,129.8000",
+        "amount": "0.0195",
+        "usdValue": "$60.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.1000",
+        "amount": "0.0099",
+        "usdValue": "$30.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.8000",
+        "amount": "0.0060",
+        "usdValue": "$18.77"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,130.1000",
+        "amount": "0.0042",
+        "usdValue": "$13.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,130.6100",
+        "amount": "0.0019",
+        "usdValue": "$5.94"
+      },
+      {
+        "symbol": "EGP",
+        "chain": "arb",
+        "price": "$53.57",
+        "amount": "44.48",
+        "usdValue": ""
+      },
+      {
+        "symbol": "EUL",
+        "chain": "eth",
+        "price": "$34.56",
+        "amount": "6.72",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Dolomite",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$319"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$211"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$96"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$81"
+      },
+      {
+        "protocol": "Magpie XYZ",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "EGP",
+        "usdValue": "$54"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "EUL",
+        "usdValue": "$35"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EUL",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Puffer Finance",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x06a803a9632c51c2105dee765d87a8634fbb8eb6",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$6M"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$5M"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$4M"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$3M"
+      },
+      {
+        "name": "0x03b5…bccd",
+        "volume": "$3M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "Euler",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xe1e2…ab6e",
+        "volume": "$1M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x7ceb…f619",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x85e8…23bb",
+        "volume": "$991K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$742K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$668K"
+      },
+      {
+        "name": "0x04c0…150a",
+        "volume": "$543K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$474K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$419K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$419K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$408K"
+      },
+      {
+        "name": "0x4c1e…58d7",
+        "volume": "$390K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$15M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$10M"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$9M"
+      },
+      {
+        "name": "weETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "GMX",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$577K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$559K"
+      },
+      {
+        "name": "AIDOGE",
+        "volume": "$452K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$174K"
+      },
+      {
+        "name": "POL",
+        "volume": "$173K"
+      },
+      {
+        "name": "AISHIB",
+        "volume": "$13K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:27:15.869Z",
+  "source": "moonwell",
+  "vaultBalance": 0.06610029160865044,
+  "vaultPct": 0.0011992064529878907
+}

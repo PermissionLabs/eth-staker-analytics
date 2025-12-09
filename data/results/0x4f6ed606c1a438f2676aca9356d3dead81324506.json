@@ -1,0 +1,178 @@
+{
+  "portfolio": {
+    "address": "0x4f6ed606c1a438f2676aca9356d3dead81324506",
+    "totalValue": "$407",
+    "walletLifetime": "1122 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.2800",
+        "amount": "0.0353",
+        "usdValue": "$110.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.2800",
+        "amount": "0.0113",
+        "usdValue": "$35.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,130.2800",
+        "amount": "0.0110",
+        "usdValue": "$34.48"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$908.4000",
+        "amount": "0.0022",
+        "usdValue": "$2.03"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6490",
+        "amount": "0.2331",
+        "usdValue": "$1.32"
+      },
+      {
+        "symbol": "STG",
+        "chain": "linea",
+        "price": "$0.1215",
+        "amount": "8.8767",
+        "usdValue": "$1.08"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "100.0000",
+        "usdValue": "$0.80"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "0.4125",
+        "usdValue": "$0.41"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$220"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4f6ed606c1a438f2676aca9356d3dead81324506",
+    "topProtocols": [
+      {
+        "name": "EraLend",
+        "volume": "$492K"
+      },
+      {
+        "name": "Aboard",
+        "volume": "$175K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$165K"
+      },
+      {
+        "name": "0x34b2…6a35",
+        "volume": "$81K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$81K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$74K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$40K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$37K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$19K"
+      },
+      {
+        "name": "Angle Protocol",
+        "volume": "$15K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$13K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$11K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x1fd1…3382",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "EURA",
+        "volume": "$15K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$7K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$7K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:55:26.777Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07003071935526194,
+  "vaultPct": 0.00010302080861430156
+}

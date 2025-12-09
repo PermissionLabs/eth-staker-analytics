@@ -1,0 +1,173 @@
+{
+  "portfolio": {
+    "address": "0xe4239bd9953c100f779556ac9687e370c8c76d84",
+    "totalValue": "$5,569",
+    "walletLifetime": "1240 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,150.6800",
+        "amount": "0.6892",
+        "usdValue": "$2,171.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,150.4900",
+        "amount": "0.6737",
+        "usdValue": "$2,122.53"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,881.9200",
+        "amount": "0.0033",
+        "usdValue": "$301.84"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2129",
+        "amount": "920.6055",
+        "usdValue": "$196.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,150.4900",
+        "amount": "0.0260",
+        "usdValue": "$82.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,149.9200",
+        "amount": "0.0169",
+        "usdValue": "$53.23"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3231",
+        "amount": "121.1563",
+        "usdValue": "$39.15"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbETH",
+        "usdValue": "$564"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$32"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Polynomial",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "sUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "vooi",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ARB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ReactorFusion",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Everclear",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "nextWETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe4239bd9953c100f779556ac9687e370c8c76d84",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T13:11:32.098Z",
+  "source": "base_aave",
+  "vaultBalance": 0.08017904521640462,
+  "vaultPct": 0.00011794981042838607
+}

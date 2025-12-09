@@ -1,0 +1,77 @@
+{
+  "portfolio": {
+    "address": "0xa277475d77db4ef44aec0688c3437615bbc5c7f2",
+    "totalValue": "$35,095",
+    "walletLifetime": "968 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "360.0000",
+        "usdValue": "$360.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.7900",
+        "amount": "0.0219",
+        "usdValue": "$68.67"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "CZGOAT",
+        "chain": "bsc",
+        "price": "$0.0002",
+        "amount": "81.5442",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "TUSD",
+        "chain": "eth",
+        "price": "$0.9973",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7918",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.0168",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$34,666"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa277475d77db4ef44aec0688c3437615bbc5c7f2",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T23:03:21.799Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 13.005405132798325,
+  "vaultPct": 0.002418186434221023
+}

@@ -1,0 +1,178 @@
+{
+  "portfolio": {
+    "address": "0x7d460e4de2e716b6bd82eab9b31e8159e2870992",
+    "totalValue": "$40,366",
+    "walletLifetime": "343 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.5900",
+        "amount": "2.8519",
+        "usdValue": "$8,922.42"
+      },
+      {
+        "symbol": "tBTC",
+        "chain": "base",
+        "price": "$90,254.1485",
+        "amount": "0.0795",
+        "usdValue": "$7,177.41"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2022",
+        "amount": "52.1253",
+        "usdValue": "$62.67"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "1,797.7908",
+        "usdValue": "$18.14"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$12,768"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$11,411"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$6"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7d460e4de2e716b6bd82eab9b31e8159e2870992",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$42K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$31K"
+      },
+      {
+        "name": "Solv",
+        "volume": "$28K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$25K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xc8a1…ff76",
+        "volume": "$2K"
+      },
+      {
+        "name": "Merkl",
+        "volume": "$44"
+      },
+      {
+        "name": "0xd137…d9c6",
+        "volume": "$7"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xad3b…5b39",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9ed4…e4d0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x3d35…7668",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9dc2…014e",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8873…8555",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfa76…4e88",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe411…14dd",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1497…a57f",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$104K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$27K"
+      },
+      {
+        "name": "SolvBTC",
+        "volume": "$21K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$15K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$9K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$107"
+      },
+      {
+        "name": "WELL",
+        "volume": "$50"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:18:05.441Z",
+  "source": "moonwell",
+  "vaultBalance": 2.2327823293728812,
+  "vaultPct": 0.040507642437554454
+}

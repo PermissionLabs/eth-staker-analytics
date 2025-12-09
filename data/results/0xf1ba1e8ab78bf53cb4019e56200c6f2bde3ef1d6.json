@@ -1,0 +1,253 @@
+{
+  "portfolio": {
+    "address": "0xf1ba1e8ab78bf53cb4019e56200c6f2bde3ef1d6",
+    "totalValue": "$12,119",
+    "walletLifetime": "3760 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.4100",
+        "amount": "0.3443",
+        "usdValue": "$1,070.36"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "414.8369",
+        "usdValue": "$414.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,108.4100",
+        "amount": "0.0050",
+        "usdValue": "$15.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.4900",
+        "amount": "0.0020",
+        "usdValue": "$6.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.4900",
+        "amount": "0.0014",
+        "usdValue": "$4.34"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "uni",
+        "price": "$0.9998",
+        "amount": "3.8103",
+        "usdValue": "$3.81"
+      },
+      {
+        "symbol": "xSWAP",
+        "chain": "hyper",
+        "price": "$0.0219",
+        "amount": "127.4005",
+        "usdValue": "$2.79"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$893.8000",
+        "amount": "0.0029",
+        "usdValue": "$2.60"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.0610",
+        "amount": "0.0804",
+        "usdValue": "$2.34"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$4,763"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$1,326"
+      },
+      {
+        "protocol": "Silo",
+        "chain": "sonic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "unknown",
+        "usdValue": "$1,047"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-alUSD-11DEC2025",
+        "usdValue": "$1,040"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$766"
+      },
+      {
+        "protocol": "ICHI",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$604"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$514"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "tBTC",
+        "usdValue": "$447"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$70"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf1ba1e8ab78bf53cb4019e56200c6f2bde3ef1d6",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$45K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$35K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$31K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$24K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$17K"
+      },
+      {
+        "name": "NURI Exchange",
+        "volume": "$16K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$15K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$11K"
+      },
+      {
+        "name": "Etherex",
+        "volume": "$11K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$9K"
+      },
+      {
+        "name": "Gamma",
+        "volume": "$9K"
+      },
+      {
+        "name": "Beets",
+        "volume": "$8K"
+      },
+      {
+        "name": "Umami Finance",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$48K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$45K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$39K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$33K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$26K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$18K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$14K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$11K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:09:57.106Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.15189393420007732,
+  "vaultPct": 0.001694162611777502
+}

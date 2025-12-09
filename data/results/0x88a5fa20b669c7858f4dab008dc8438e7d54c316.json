@@ -1,0 +1,234 @@
+{
+  "portfolio": {
+    "address": "0x88a5fa20b669c7858f4dab008dc8438e7d54c316",
+    "totalValue": "$7,206",
+    "walletLifetime": "333 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,147.3400",
+        "amount": "0.0026",
+        "usdValue": "$8.31"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.0000",
+        "amount": "0.0033",
+        "usdValue": "$3.03"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "2.6208",
+        "usdValue": "$2.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,146.6300",
+        "amount": "0.0003",
+        "usdValue": "$0.79"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "sonic",
+        "price": "$5.6792",
+        "amount": "0.0432",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0974",
+        "amount": "1.6420",
+        "usdValue": "$0.16"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7400",
+        "amount": "0.0012",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,846"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$2,646"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$1,247"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$452"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "sonic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wS",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x88a5fa20b669c7858f4dab008dc8438e7d54c316",
+    "topProtocols": [
+      {
+        "name": "Compound V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$7K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x88a5…c316",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x05f1…59f8",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3491…fa1c",
+        "volume": "$2K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$1K"
+      },
+      {
+        "name": "Beets V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$13K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$3K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$776"
+      },
+      {
+        "name": "COMP",
+        "volume": "$16B"
+      },
+      {
+        "name": "eetsFragmentsS1",
+        "volume": "$5"
+      },
+      {
+        "name": "wS",
+        "volume": "$4B"
+      },
+      {
+        "name": "NB",
+        "volume": "$2"
+      },
+      {
+        "name": "S",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:52:55.367Z",
+  "source": "base_aave",
+  "vaultBalance": 0.984777462677878,
+  "vaultPct": 0.0014486866827049419
+}

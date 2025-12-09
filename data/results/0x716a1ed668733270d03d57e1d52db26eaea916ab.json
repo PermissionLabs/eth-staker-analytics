@@ -1,0 +1,293 @@
+{
+  "portfolio": {
+    "address": "0x716a1ed668733270d03d57e1d52db26eaea916ab",
+    "totalValue": "$26,314",
+    "walletLifetime": "2100 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "329.0783",
+        "usdValue": "$329.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.1700",
+        "amount": "0.0183",
+        "usdValue": "$56.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,103.1700",
+        "amount": "0.0089",
+        "usdValue": "$27.74"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "27.3533",
+        "usdValue": "$27.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.1700",
+        "amount": "0.0084",
+        "usdValue": "$26.01"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "18.8213",
+        "usdValue": "$18.82"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6000",
+        "amount": "0.7545",
+        "usdValue": "$10.26"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "5.1077",
+        "usdValue": "$5.11"
+      },
+      {
+        "symbol": "wstUSR",
+        "chain": "plasma",
+        "price": "$1.1225",
+        "amount": "2.5542",
+        "usdValue": "$2.87"
+      },
+      {
+        "symbol": "USDt",
+        "chain": "avax",
+        "price": "$1.0001",
+        "amount": "2.7600",
+        "usdValue": "$2.76"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2111",
+        "amount": "10.9606",
+        "usdValue": "$2.31"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1603",
+        "amount": "8.3214",
+        "usdValue": "$1.33"
+      },
+      {
+        "symbol": "RZR",
+        "chain": "eth",
+        "price": "$1.3713",
+        "amount": "0.4129",
+        "usdValue": "$0.57"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$10,516"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BTC.b",
+        "usdValue": "$6,574"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3,290"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$1,907"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,745"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$888"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$879"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "plasma",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WXPL",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AVAX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aArbARB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x716a1ed668733270d03d57e1d52db26eaea916ab",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xe03c…f372",
+        "volume": "$19K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xad24…6749",
+        "volume": "$11K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xc70f…6161",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x1880…0858",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xe058…f556",
+        "volume": "$5K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$4K"
+      },
+      {
+        "name": "Meson",
+        "volume": "$4K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "BTC.b",
+        "volume": "$29K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$18K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$12K"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$10K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$9K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$28"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$24"
+      },
+      {
+        "name": "RZR",
+        "volume": "$3"
+      },
+      {
+        "name": "BTC",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:55:43.031Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.8058290448704126,
+  "vaultPct": 0.0003357704934400874
+}

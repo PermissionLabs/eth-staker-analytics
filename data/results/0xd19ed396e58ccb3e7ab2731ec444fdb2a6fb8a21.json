@@ -1,0 +1,204 @@
+{
+  "portfolio": {
+    "address": "0xd19ed396e58ccb3e7ab2731ec444fdb2a6fb8a21",
+    "totalValue": "$928",
+    "walletLifetime": "596 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.0300",
+        "amount": "0.1131",
+        "usdValue": "$353.52"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.0300",
+        "amount": "0.0118",
+        "usdValue": "$36.96"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.9000",
+        "amount": "0.0075",
+        "usdValue": "$6.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.0300",
+        "amount": "0.0016",
+        "usdValue": "$5.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,126.0300",
+        "amount": "0.0003",
+        "usdValue": "$0.89"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1233",
+        "amount": "4.2744",
+        "usdValue": "$0.53"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.4131",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,126.0300",
+        "amount": "0.000055",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BERA",
+        "chain": "bera",
+        "price": "$0.8370",
+        "amount": "0.0100",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$524"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Blur",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd19ed396e58ccb3e7ab2731ec444fdb2a6fb8a21",
+    "topProtocols": [
+      {
+        "name": "0x9aac…afe3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3c6d…a519",
+        "volume": "$1K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$673"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$496"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$334"
+      },
+      {
+        "name": "0x9318…9780",
+        "volume": "$6"
+      },
+      {
+        "name": "0x6237…459d",
+        "volume": "$5"
+      },
+      {
+        "name": "0x391e…a604",
+        "volume": "$5"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$5B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$3"
+      },
+      {
+        "name": "Relay",
+        "volume": "$2"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2"
+      },
+      {
+        "name": "Sahara AI",
+        "volume": "$2"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$1"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$1B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "BERA",
+        "volume": "$1K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$5"
+      },
+      {
+        "name": "SAHARA",
+        "volume": "$4"
+      },
+      {
+        "name": "POL",
+        "volume": "$2"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:19:40.635Z",
+  "source": "moonwell",
+  "vaultBalance": 0.16422484082861108,
+  "vaultPct": 0.0029794042366494866
+}

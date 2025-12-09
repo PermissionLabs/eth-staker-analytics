@@ -1,0 +1,95 @@
+{
+  "portfolio": {
+    "address": "0xb4e6c4044aa556a967f8c7d0ab983f33daeabc05",
+    "totalValue": "$131,446",
+    "walletLifetime": "1263 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.7500",
+        "amount": "0.2568",
+        "usdValue": "$808.73"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$130,637"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb4e6c4044aa556a967f8c7d0ab983f33daeabc05",
+    "topProtocols": [
+      {
+        "name": "0x3a24…25ea",
+        "volume": "$104K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$80K"
+      },
+      {
+        "name": "0xf263…ea73",
+        "volume": "$80K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$52K"
+      },
+      {
+        "name": "0x870b…9892",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x1658…2041",
+        "volume": "$123"
+      },
+      {
+        "name": "Gnosis Safe",
+        "volume": "$1"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$132K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$87K"
+      },
+      {
+        "name": "TRIBE",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:14:12.971Z",
+  "source": "lido_steth",
+  "vaultBalance": 39.001,
+  "vaultPct": 0.002928500940724844
+}

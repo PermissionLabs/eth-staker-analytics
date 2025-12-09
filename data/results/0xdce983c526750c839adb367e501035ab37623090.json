@@ -1,0 +1,231 @@
+{
+  "portfolio": {
+    "address": "0xdce983c526750c839adb367e501035ab37623090",
+    "totalValue": "$111,155",
+    "walletLifetime": "1301 days",
+    "tokens": [
+      {
+        "symbol": "FLUID",
+        "chain": "eth",
+        "price": "$3.2815",
+        "amount": "1,026.7060",
+        "usdValue": "$3,369.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,143.9900",
+        "amount": "0.1496",
+        "usdValue": "$470.49"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3211",
+        "amount": "1,243.5387",
+        "usdValue": "$399.30"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,144.6600",
+        "amount": "0.0269",
+        "usdValue": "$84.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,143.9900",
+        "amount": "0.0199",
+        "usdValue": "$62.56"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$904.3000",
+        "amount": "0.0642",
+        "usdValue": "$58.02"
+      },
+      {
+        "symbol": "BAL",
+        "chain": "arb",
+        "price": "$0.6716",
+        "amount": "15.1671",
+        "usdValue": "$10.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$101,694"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,051"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,951"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdce983c526750c839adb367e501035ab37623090",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "0xd51a…eb4d",
+        "volume": "$991K"
+      },
+      {
+        "name": "0x21aa…e299",
+        "volume": "$393K"
+      },
+      {
+        "name": "0x6c00…49f9",
+        "volume": "$212K"
+      },
+      {
+        "name": "0x8842…554c",
+        "volume": "$210K"
+      },
+      {
+        "name": "0x4b78…6eb9",
+        "volume": "$192K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$187K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$176K"
+      },
+      {
+        "name": "0x2ded…1098",
+        "volume": "$165K"
+      },
+      {
+        "name": "0x20a3…0cb4",
+        "volume": "$148K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$116K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$78K"
+      },
+      {
+        "name": "0x0591…f9b5",
+        "volume": "$77K"
+      },
+      {
+        "name": "0xf1ff…29a8",
+        "volume": "$60K"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$58K"
+      },
+      {
+        "name": "0x975c…d17c",
+        "volume": "$56K"
+      },
+      {
+        "name": "0x576c…ecc6",
+        "volume": "$45K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$1M"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$277K"
+      },
+      {
+        "name": "TWT",
+        "volume": "$234K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$153K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$115K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$111K"
+      },
+      {
+        "name": "IMX",
+        "volume": "$104K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$73K"
+      },
+      {
+        "name": "OP",
+        "volume": "$73K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$71K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$21K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$21K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$16K"
+      },
+      {
+        "name": "NEAR",
+        "volume": "$10K"
+      },
+      {
+        "name": "FLUID",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:02:22.504Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.5337864729226425,
+  "vaultPct": 0.00009925067265586105
+}

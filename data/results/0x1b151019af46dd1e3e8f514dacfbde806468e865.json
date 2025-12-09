@@ -1,0 +1,138 @@
+{
+  "portfolio": {
+    "address": "0x1b151019af46dd1e3e8f514dacfbde806468e865",
+    "totalValue": "$276,549",
+    "walletLifetime": "1388 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,145.5000",
+        "amount": "0.0657",
+        "usdValue": "$206.69"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9918",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7947",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$276,342"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1b151019af46dd1e3e8f514dacfbde806468e865",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$992K"
+      },
+      {
+        "name": "0x9314…0dba",
+        "volume": "$959K"
+      },
+      {
+        "name": "0x9521…a9a2",
+        "volume": "$669K"
+      },
+      {
+        "name": "0x42d1…e2cd",
+        "volume": "$362K"
+      },
+      {
+        "name": "0x503d…1ad8",
+        "volume": "$230K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$105K"
+      },
+      {
+        "name": "0x2886…0871",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x7321…e3da",
+        "volume": "$40K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$40K"
+      },
+      {
+        "name": "0xec64…6171",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x59d4…47ff",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd4bc…80e3",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xeff6…a167",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$434K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$334K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$9K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$7K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:57:05.938Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 107.41921027156194,
+  "vaultPct": 0.01997320916965046
+}

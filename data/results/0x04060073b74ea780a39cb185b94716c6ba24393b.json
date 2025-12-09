@@ -1,0 +1,151 @@
+{
+  "portfolio": {
+    "address": "0x04060073b74ea780a39cb185b94716c6ba24393b",
+    "totalValue": "$13,972",
+    "walletLifetime": "418 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.4700",
+        "amount": "4.2499",
+        "usdValue": "$13,197.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.4700",
+        "amount": "0.0461",
+        "usdValue": "$143.21"
+      },
+      {
+        "symbol": "SKIBIDI",
+        "chain": "base",
+        "price": "$0.0042",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SAMURAI",
+        "chain": "base",
+        "price": "$0.00002554",
+        "amount": "50.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FARTWARS",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0100",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$315"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$315"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x04060073b74ea780a39cb185b94716c6ba24393b",
+    "topProtocols": [
+      {
+        "name": "Fuel",
+        "volume": "$22K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$19K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xe6ed…a382",
+        "volume": "$18K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$13K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$12K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xad3b…5b39",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbba0…d668",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf2a9…c3ea",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$59K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$18K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:08:21.572Z",
+  "source": "base_aave",
+  "vaultBalance": 0.10000040304344804,
+  "vaultPct": 0.0001471086185910784
+}

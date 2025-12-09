@@ -1,0 +1,106 @@
+{
+  "portfolio": {
+    "address": "0xed6c67d0ec82dd206e1d333e37b7d56259b82172",
+    "totalValue": "$8,808",
+    "walletLifetime": "1610 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.5900",
+        "amount": "1.4982",
+        "usdValue": "$4,649.85"
+      },
+      {
+        "symbol": "RSR",
+        "chain": "eth",
+        "price": "$0.0033",
+        "amount": "109,959.4077",
+        "usdValue": "$357.77"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9808",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,800"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xed6c67d0ec82dd206e1d333e37b7d56259b82172",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xa913…28dd",
+        "volume": "$6K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$6K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5afd…9a17",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xb6d5…daa9",
+        "volume": "$2K"
+      },
+      {
+        "name": "inance",
+        "volume": "$397B"
+      },
+      {
+        "name": "0xc330…380e",
+        "volume": "$250B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$84"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$53K"
+      },
+      {
+        "name": "RSR",
+        "volume": "$349B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:53:01.192Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.054968430638199,
+  "vaultPct": 0.0000792153032373267
+}

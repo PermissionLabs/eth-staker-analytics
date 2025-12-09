@@ -1,0 +1,200 @@
+{
+  "portfolio": {
+    "address": "0x95405fce7d7a132b530ff595b2e3111658f67c07",
+    "totalValue": "$35,707",
+    "walletLifetime": "823 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.4600",
+        "amount": "2.9618",
+        "usdValue": "$9,227.41"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.2000",
+        "amount": "1.0194",
+        "usdValue": "$914.65"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "85.9910",
+        "usdValue": "$86.00"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.8770",
+        "usdValue": "$0.88"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "MPC",
+        "chain": "bsc",
+        "price": "$0.0₅1949",
+        "amount": "6,082.5200",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "CORX",
+        "chain": "bsc",
+        "price": "$0.0076",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9846",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.0168",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$25,478"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x95405fce7d7a132b530ff595b2e3111658f67c07",
+    "topProtocols": [
+      {
+        "name": "0xe5b1…18ad",
+        "volume": "$30K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$26K"
+      },
+      {
+        "name": "0xd4c4…68fc",
+        "volume": "$19K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x751a…46e8",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x0b3c…6611",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x422b…7812",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xb661…0f6b",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xfc9b…6242",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x16bb…5672",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x6b74…86d3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe6af…c952",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x68dc…2a48",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0f44…b452",
+        "volume": "$1K"
+      },
+      {
+        "name": "WhiteBIT",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$999"
+      },
+      {
+        "name": "0x8c8d…7465",
+        "volume": "$741"
+      },
+      {
+        "name": "0x5b01…0d4e",
+        "volume": "$740B"
+      },
+      {
+        "name": "itMEX",
+        "volume": "$694"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$73K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$66K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$222"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$137"
+      },
+      {
+        "name": "EOS",
+        "volume": "$49M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:19:50.756Z",
+  "source": "lido_steth",
+  "vaultBalance": 7.7,
+  "vaultPct": 0.0005781763863383324
+}

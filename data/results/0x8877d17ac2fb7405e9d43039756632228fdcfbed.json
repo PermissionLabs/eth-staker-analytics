@@ -1,0 +1,159 @@
+{
+  "portfolio": {
+    "address": "0x8877d17ac2fb7405e9d43039756632228fdcfbed",
+    "totalValue": "$270",
+    "walletLifetime": "988 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.0000",
+        "amount": "0.0112",
+        "usdValue": "$35.05"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2053",
+        "amount": "0.7141",
+        "usdValue": "$0.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,135.0000",
+        "amount": "0.00001495",
+        "usdValue": "$0.05"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$234"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8877d17ac2fb7405e9d43039756632228fdcfbed",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$3K"
+      },
+      {
+        "name": "Floorswap",
+        "volume": "$3K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$803"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$417B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$402M"
+      },
+      {
+        "name": "averick",
+        "volume": "$336"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$328"
+      },
+      {
+        "name": "orpho",
+        "volume": "$272M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$267"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$236"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$235"
+      },
+      {
+        "name": "0x8877…fbed",
+        "volume": "$170"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$534"
+      },
+      {
+        "name": "ZK",
+        "volume": "$419B"
+      },
+      {
+        "name": "USD",
+        "volume": "$235"
+      },
+      {
+        "name": "USDT",
+        "volume": "$125"
+      },
+      {
+        "name": "iZi",
+        "volume": "$72"
+      },
+      {
+        "name": "USDC",
+        "volume": "$26M"
+      },
+      {
+        "name": "AV",
+        "volume": "$21M"
+      },
+      {
+        "name": "ZAT",
+        "volume": "$10"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:12:18.796Z",
+  "source": "moonwell",
+  "vaultBalance": 0.07312914298424797,
+  "vaultPct": 0.001326725465711978
+}

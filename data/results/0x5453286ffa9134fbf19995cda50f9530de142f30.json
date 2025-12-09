@@ -1,0 +1,169 @@
+{
+  "portfolio": {
+    "address": "0x5453286ffa9134fbf19995cda50f9530de142f30",
+    "totalValue": "$1,075,954",
+    "walletLifetime": "1413 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,147.6700",
+        "amount": "0.0058",
+        "usdValue": "$18.32"
+      },
+      {
+        "symbol": "MTV",
+        "chain": "eth",
+        "price": "$0.0003",
+        "amount": "1,000.0000",
+        "usdValue": "$0.33"
+      },
+      {
+        "symbol": "DECT",
+        "chain": "eth",
+        "price": "$0.0003",
+        "amount": "928.0000",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "AMC",
+        "chain": "arb",
+        "price": "$0.0500",
+        "amount": "0.1015",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MCC",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.1106",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,075,935"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5453286ffa9134fbf19995cda50f9530de142f30",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$17M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "0x8690…abab",
+        "volume": "$2M"
+      },
+      {
+        "name": "Loopring",
+        "volume": "$1M"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x8aa2…a8c0",
+        "volume": "$998K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$944K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$734K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$689K"
+      },
+      {
+        "name": "0x02d8…ea0f",
+        "volume": "$625K"
+      },
+      {
+        "name": "0xcaa3…61ad",
+        "volume": "$583K"
+      },
+      {
+        "name": "0x43e2…4f5c",
+        "volume": "$408K"
+      },
+      {
+        "name": "0x562d…554e",
+        "volume": "$77K"
+      },
+      {
+        "name": "0xa8cc…fed7",
+        "volume": "$75K"
+      },
+      {
+        "name": "0x1e16…a312",
+        "volume": "$74K"
+      },
+      {
+        "name": "0x5d9c…25f7",
+        "volume": "$73K"
+      },
+      {
+        "name": "0xc203…6123",
+        "volume": "$68K"
+      },
+      {
+        "name": "0x236c…513f",
+        "volume": "$68K"
+      },
+      {
+        "name": "0x069c…a43c",
+        "volume": "$67K"
+      },
+      {
+        "name": "0x6a42…bcae",
+        "volume": "$66K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "DAI",
+        "volume": "$16M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$13M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$11M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10M"
+      },
+      {
+        "name": "LRC",
+        "volume": "$1M"
+      },
+      {
+        "name": "MTV",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:59:56.916Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 561.8363512492001,
+  "vaultPct": 0.10446618378821108
+}

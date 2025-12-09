@@ -1,0 +1,94 @@
+{
+  "portfolio": {
+    "address": "0x891f0c0a7335752cc5b824bea340f4d2a8135329",
+    "totalValue": "$250,636",
+    "walletLifetime": "1146 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,163.7300",
+        "amount": "0.0718",
+        "usdValue": "$227.13"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "15.1350",
+        "usdValue": "$15.13"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$250,393"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x891f0c0a7335752cc5b824bea340f4d2a8135329",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$94K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$94K"
+      },
+      {
+        "name": "inch",
+        "volume": "$501"
+      },
+      {
+        "name": "0x9d14…36ca",
+        "volume": "$480"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$189K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$975B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:40:27.742Z",
+  "source": "lido_steth",
+  "vaultBalance": 70.70823528243936,
+  "vaultPct": 0.005309328825969009
+}

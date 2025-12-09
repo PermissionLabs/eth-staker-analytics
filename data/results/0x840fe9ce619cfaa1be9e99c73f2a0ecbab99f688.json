@@ -1,0 +1,208 @@
+{
+  "portfolio": {
+    "address": "0x840fe9ce619cfaa1be9e99c73f2a0ecbab99f688",
+    "totalValue": "$98,839",
+    "walletLifetime": "2922 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.3100",
+        "amount": "0.2645",
+        "usdValue": "$824.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,116.3100",
+        "amount": "0.0320",
+        "usdValue": "$99.77"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Fluid",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "wstETH",
+        "usdValue": "$57,324"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "crvUSD",
+        "usdValue": "$21,276"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$19,314"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x840fe9ce619cfaa1be9e99c73f2a0ecbab99f688",
+    "topProtocols": [
+      {
+        "name": "CoW Swap",
+        "volume": "$231K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$181K"
+      },
+      {
+        "name": "Nexus Mutual",
+        "volume": "$168K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$155K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$106K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$83K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$80K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$70K"
+      },
+      {
+        "name": "0x9520…0799",
+        "volume": "$70K"
+      },
+      {
+        "name": "0xa356…1fdc",
+        "volume": "$68K"
+      },
+      {
+        "name": "DODO",
+        "volume": "$67K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$58K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$48K"
+      },
+      {
+        "name": "0x6f3a…83ab",
+        "volume": "$43K"
+      },
+      {
+        "name": "Beanstalk",
+        "volume": "$22K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$963K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$215K"
+      },
+      {
+        "name": "NXM",
+        "volume": "$175K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$152K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$149K"
+      },
+      {
+        "name": "ALCX",
+        "volume": "$136K"
+      },
+      {
+        "name": "DODO",
+        "volume": "$61K"
+      },
+      {
+        "name": "wNXM",
+        "volume": "$37K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "VVV",
+        "volume": "$11K"
+      },
+      {
+        "name": "crvUSD",
+        "volume": "$7K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$7K"
+      },
+      {
+        "name": "BEAN",
+        "volume": "$6K"
+      },
+      {
+        "name": "KEEP",
+        "volume": "$2K"
+      },
+      {
+        "name": "ALT",
+        "volume": "$2K"
+      },
+      {
+        "name": "OMNI",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:19:04.670Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.4175764852696275,
+  "vaultPct": 0.000406794129216197
+}

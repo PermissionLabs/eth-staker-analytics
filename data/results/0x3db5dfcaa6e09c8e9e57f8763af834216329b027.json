@@ -1,0 +1,102 @@
+{
+  "portfolio": {
+    "address": "0x3db5dfcaa6e09c8e9e57f8763af834216329b027",
+    "totalValue": "$27,812",
+    "walletLifetime": "309 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,117.1600",
+        "amount": "0.0363",
+        "usdValue": "$113.19"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4880",
+        "amount": "68.1481",
+        "usdValue": "$33.26"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0281",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9848",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$26,617"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$1,049"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3db5dfcaa6e09c8e9e57f8763af834216329b027",
+    "topProtocols": [
+      {
+        "name": "Kernel DAO",
+        "volume": "$1K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x40b8…21c2",
+        "volume": "$263"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$149"
+      },
+      {
+        "name": "ETH",
+        "volume": "$115B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:05:16.165Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 4.079038689479125,
+  "vaultPct": 0.04549592369242824
+}

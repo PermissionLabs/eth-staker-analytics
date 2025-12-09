@@ -1,0 +1,51 @@
+{
+  "portfolio": {
+    "address": "0x251c3d948c8ad00efa00da2a36d4d8a497cb84e4",
+    "totalValue": "$14,031",
+    "walletLifetime": "915 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.4200",
+        "amount": "4.5174",
+        "usdValue": "$14,014.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.4200",
+        "amount": "0.0050",
+        "usdValue": "$15.51"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x251c3d948c8ad00efa00da2a36d4d8a497cb84e4",
+    "topProtocols": [
+      {
+        "name": "0xc843…6241",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x7114…926e",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xcb68…31d0",
+        "volume": "$39"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:48:25.201Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.6821673360137888,
+  "vaultPct": 0.00005122247340448043
+}

@@ -1,0 +1,149 @@
+{
+  "portfolio": {
+    "address": "0x13ed4b498206ed70801a6ee0498133c5ab57f4d4",
+    "totalValue": "$643",
+    "walletLifetime": "374 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,161.8600",
+        "amount": "0.0045",
+        "usdValue": "$14.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,161.8600",
+        "amount": "0.0019",
+        "usdValue": "$5.86"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1253",
+        "amount": "5.1647",
+        "usdValue": "$0.65"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0294",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1403",
+        "amount": "1,011.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$621"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x13ed4b498206ed70801a6ee0498133c5ab57f4d4",
+    "topProtocols": [
+      {
+        "name": "0x7652…276b",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$988"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$809"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$791"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$320"
+      },
+      {
+        "name": "0x3a0c…a749",
+        "volume": "$233"
+      },
+      {
+        "name": "0xbee3…a000",
+        "volume": "$157"
+      },
+      {
+        "name": "0xca8f…88e2",
+        "volume": "$155"
+      },
+      {
+        "name": "0x3a0d…5288",
+        "volume": "$12"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfaf8…db84",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x10fa…2942",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT0",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$639"
+      },
+      {
+        "name": "USDT",
+        "volume": "$317"
+      },
+      {
+        "name": "POL",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:42:25.039Z",
+  "source": "base_aave",
+  "vaultBalance": 0.246,
+  "vaultPct": 0.0003618857431772756
+}

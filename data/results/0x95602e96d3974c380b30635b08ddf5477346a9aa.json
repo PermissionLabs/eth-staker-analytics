@@ -1,0 +1,153 @@
+{
+  "portfolio": {
+    "address": "0x95602e96d3974c380b30635b08ddf5477346a9aa",
+    "totalValue": "$179",
+    "walletLifetime": "851 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "scrl",
+        "price": "$1.0001",
+        "amount": "1.8923",
+        "usdValue": "$1.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,106.6500",
+        "amount": "0.000056",
+        "usdValue": "$0.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,107.9700",
+        "amount": "0.00003846",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.2400",
+        "amount": "0.00002692",
+        "usdValue": "$0.08"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9833",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$176"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x95602e96d3974c380b30635b08ddf5477346a9aa",
+    "topProtocols": [
+      {
+        "name": "ReactorFusion",
+        "volume": "$12K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$4K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x0a97…19cf",
+        "volume": "$3K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x45a3…642a",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xbf39…3f11",
+        "volume": "$9701"
+      },
+      {
+        "name": "inch",
+        "volume": "$950"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$930"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$11K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$6K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:52:06.037Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.05426029202524547,
+  "vaultPct": 0.000004074288255171306
+}

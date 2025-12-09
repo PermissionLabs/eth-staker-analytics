@@ -1,0 +1,139 @@
+{
+  "portfolio": {
+    "address": "0xe69b8f8aed4d8c322582b4ad4ea1b8bd7dd2701d",
+    "totalValue": "$4,225",
+    "walletLifetime": "1679 days",
+    "tokens": [
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "5.1383",
+        "usdValue": "$69.93"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.1000",
+        "amount": "0.0192",
+        "usdValue": "$17.10"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9996",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,138"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe69b8f8aed4d8c322582b4ad4ea1b8bd7dd2701d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xd0f8…5706",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8eb8…3f23",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x7bcf…b11b",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xb2b5…5e3f",
+        "volume": "$3K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1e25…635a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1c71…bcbf",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$850B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$799"
+      },
+      {
+        "name": "UNI",
+        "volume": "$552M"
+      },
+      {
+        "name": "ATIC",
+        "volume": "$323"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$148B"
+      },
+      {
+        "name": "NB",
+        "volume": "$131B"
+      },
+      {
+        "name": "USD",
+        "volume": "$101B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:58:06.443Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.8197589597071897,
+  "vaultPct": 0.0003383605804649966
+}

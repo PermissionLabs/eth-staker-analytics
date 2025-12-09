@@ -1,0 +1,181 @@
+{
+  "portfolio": {
+    "address": "0xfaa85453feeb3cdf51985b170a86469d0d142d7e",
+    "totalValue": "$476",
+    "walletLifetime": "988 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.3900",
+        "amount": "0.0105",
+        "usdValue": "$32.66"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2108",
+        "amount": "2.3487",
+        "usdValue": "$2.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,123.3900",
+        "amount": "0.0000721",
+        "usdValue": "$0.23"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "41.7493",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,123.3900",
+        "amount": "0.00001191",
+        "usdValue": "$0.04"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$440"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfaa85453feeb3cdf51985b170a86469d0d142d7e",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$3K"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$2K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$2K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$991"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$720"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$711"
+      },
+      {
+        "name": "0xa1a1…82bc",
+        "volume": "$694B"
+      },
+      {
+        "name": "alancer V2",
+        "volume": "$684"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$572"
+      },
+      {
+        "name": "Swell",
+        "volume": "$512M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$486"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$409"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$431"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$364"
+      },
+      {
+        "name": "USDT",
+        "volume": "$298"
+      },
+      {
+        "name": "SWELL",
+        "volume": "$196"
+      },
+      {
+        "name": "SCR",
+        "volume": "$55"
+      },
+      {
+        "name": "toby",
+        "volume": "$22"
+      },
+      {
+        "name": "USDC",
+        "volume": "$19"
+      },
+      {
+        "name": "ZKPEPE",
+        "volume": "$13M"
+      },
+      {
+        "name": "AV",
+        "volume": "$12M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:37:26.249Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09950760180072205,
+  "vaultPct": 0.0018052894366529359
+}

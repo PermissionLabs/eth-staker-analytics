@@ -1,0 +1,254 @@
+{
+  "portfolio": {
+    "address": "0x26d8d3a6dfecc5444fb463237048e70b77588d03",
+    "totalValue": "$5,139",
+    "walletLifetime": "1102 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.4900",
+        "amount": "0.0421",
+        "usdValue": "$130.55"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.1000",
+        "amount": "0.0380",
+        "usdValue": "$33.81"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "1,912.3162",
+        "usdValue": "$15.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,101.4900",
+        "amount": "0.0043",
+        "usdValue": "$13.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,101.4900",
+        "amount": "0.0026",
+        "usdValue": "$8.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,101.5000",
+        "amount": "0.0020",
+        "usdValue": "$6.13"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4720",
+        "amount": "11.3663",
+        "usdValue": "$5.36"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$0.9998",
+        "amount": "2.6670",
+        "usdValue": "$2.67"
+      },
+      {
+        "symbol": "SAND",
+        "chain": "matic",
+        "price": "$0.1398",
+        "amount": "6.0000",
+        "usdValue": "$0.84"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.3443",
+        "amount": "0.2395",
+        "usdValue": "$0.56"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0880",
+        "amount": "3.2558",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.2626",
+        "usdValue": "$0.26"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$4,509"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$399"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$14"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x26d8d3a6dfecc5444fb463237048e70b77588d03",
+    "topProtocols": [
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$6K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$4K"
+      },
+      {
+        "name": "MetaMask Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "Gelato",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "Kernel DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x31ca…660d",
+        "volume": "$2K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$2K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$528"
+      },
+      {
+        "name": "0xec5f…3455",
+        "volume": "$434M"
+      },
+      {
+        "name": "ovement Network Bridge",
+        "volume": "$353"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "wBETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "FDUSD",
+        "volume": "$8K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$926"
+      },
+      {
+        "name": "WETH",
+        "volume": "$705"
+      },
+      {
+        "name": "ERNEL",
+        "volume": "$227m"
+      },
+      {
+        "name": "USD",
+        "volume": "$207B"
+      },
+      {
+        "name": "NB",
+        "volume": "$72"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$49"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$32"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$16"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:30:06.117Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.334095541538471,
+  "vaultPct": 0.014879954218819533
+}

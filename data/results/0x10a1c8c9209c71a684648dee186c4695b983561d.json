@@ -1,0 +1,240 @@
+{
+  "portfolio": {
+    "address": "0x10a1c8c9209c71a684648dee186c4695b983561d",
+    "totalValue": "$32,082",
+    "walletLifetime": "1601 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.3000",
+        "amount": "2.6990",
+        "usdValue": "$2,419.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,101.6800",
+        "amount": "0.7598",
+        "usdValue": "$2,356.56"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "era",
+        "price": "$0.9983",
+        "amount": "719.0877",
+        "usdValue": "$717.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,101.6800",
+        "amount": "0.1982",
+        "usdValue": "$614.90"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "560.1500",
+        "usdValue": "$560.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,101.6800",
+        "amount": "0.0704",
+        "usdValue": "$218.45"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2116",
+        "amount": "625.0000",
+        "usdValue": "$132.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,101.2700",
+        "amount": "0.0304",
+        "usdValue": "$94.23"
+      },
+      {
+        "symbol": "IMX",
+        "chain": "eth",
+        "price": "$0.2899",
+        "amount": "100.0000",
+        "usdValue": "$28.99"
+      },
+      {
+        "symbol": "UST",
+        "chain": "eth",
+        "price": "$0.0081",
+        "amount": "2,658.3340",
+        "usdValue": "$21.57"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$24,716"
+      },
+      {
+        "protocol": "ApeStake",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "APE",
+        "usdValue": "$162"
+      },
+      {
+        "protocol": "Tokenlon",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LON",
+        "usdValue": "$21"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x10a1c8c9209c71a684648dee186c4695b983561d",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$13K"
+      },
+      {
+        "name": "StrongBlock",
+        "volume": "$12K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$9K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xd7a8…fd2d",
+        "volume": "$7K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xaa99…a839",
+        "volume": "$5K"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$3K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "ApeStake",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6f64…b62a",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x626e…c149",
+        "volume": "$1K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x9123…1175",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$39K"
+      },
+      {
+        "name": "STRONG",
+        "volume": "$20K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$8K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$3K"
+      },
+      {
+        "name": "KAPE",
+        "volume": "$3K"
+      },
+      {
+        "name": "UST",
+        "volume": "$2K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$976"
+      },
+      {
+        "name": "USDT",
+        "volume": "$720"
+      },
+      {
+        "name": "FINO",
+        "volume": "$550"
+      },
+      {
+        "name": "IMX",
+        "volume": "$527"
+      },
+      {
+        "name": "SPHERE",
+        "volume": "$257"
+      },
+      {
+        "name": "LON",
+        "volume": "$114"
+      },
+      {
+        "name": "GTAI",
+        "volume": "$68"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:01:41.774Z",
+  "source": "lido_steth",
+  "vaultBalance": 7.3,
+  "vaultPct": 0.0005481412493856917
+}

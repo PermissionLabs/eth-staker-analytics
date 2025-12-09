@@ -1,0 +1,140 @@
+{
+  "portfolio": {
+    "address": "0xf9e8b42c53d08a6f47497e37d8a8215bb44d9976",
+    "totalValue": "$180,067",
+    "walletLifetime": "1119 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,166.0300",
+        "amount": "8.8850",
+        "usdValue": "$28,130.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,166.4700",
+        "amount": "0.1319",
+        "usdValue": "$417.59"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0295",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AGC",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "2,444.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$102,483"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$49,035"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf9e8b42c53d08a6f47497e37d8a8215bb44d9976",
+    "topProtocols": [
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$66K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$66K"
+      },
+      {
+        "name": "0x",
+        "volume": "$49K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$34K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$32K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf15b…a2ed",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$99K"
+      },
+      {
+        "name": "GUSD",
+        "volume": "$99K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$69K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$34K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:35:55.772Z",
+  "source": "lido_steth",
+  "vaultBalance": 29.087736781116572,
+  "vaultPct": 0.0021841353946579966
+}

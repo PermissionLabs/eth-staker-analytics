@@ -1,0 +1,189 @@
+{
+  "portfolio": {
+    "address": "0xda09dc389d5710579550199a75753d28addb31d1",
+    "totalValue": "$9,512",
+    "walletLifetime": "2912 days",
+    "tokens": [
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅849",
+        "amount": "140,672,585.4300",
+        "usdValue": "$1,194.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.2000",
+        "amount": "0.1193",
+        "usdValue": "$369.98"
+      },
+      {
+        "symbol": "FORTH",
+        "chain": "eth",
+        "price": "$1.7236",
+        "amount": "100.4623",
+        "usdValue": "$173.16"
+      },
+      {
+        "symbol": "SAND",
+        "chain": "eth",
+        "price": "$0.1398",
+        "amount": "704.3794",
+        "usdValue": "$98.47"
+      },
+      {
+        "symbol": "IOST(old)",
+        "chain": "eth",
+        "price": "$0.0018",
+        "amount": "9,305.1726",
+        "usdValue": "$16.35"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$7,557"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$99"
+      },
+      {
+        "protocol": "EtherDelta",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xda09dc389d5710579550199a75753d28addb31d1",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$75K"
+      },
+      {
+        "name": "0x8beb…4634",
+        "volume": "$37K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$17K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$16K"
+      },
+      {
+        "name": "Uniswap V1",
+        "volume": "$12K"
+      },
+      {
+        "name": "Ampleforth",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xaf3f…3b59",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x1e46…f665",
+        "volume": "$4K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xe654…2612",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bittrex",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$119K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$57K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$21K"
+      },
+      {
+        "name": "FORTH",
+        "volume": "$16K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$6K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$3K"
+      },
+      {
+        "name": "KSHIB",
+        "volume": "$1K"
+      },
+      {
+        "name": "AMPL",
+        "volume": "$837"
+      },
+      {
+        "name": "SAND",
+        "volume": "$434"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:12:48.823Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.061684499793864,
+  "vaultPct": 0.00038334349742571674
+}

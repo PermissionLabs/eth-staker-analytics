@@ -1,0 +1,189 @@
+{
+  "portfolio": {
+    "address": "0xc682d363032918cb7680bde05c6c81d495f1eb4b",
+    "totalValue": "$390",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.8500",
+        "amount": "0.0100",
+        "usdValue": "$30.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.6500",
+        "amount": "0.0014",
+        "usdValue": "$4.30"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.9111",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OOMER",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.3000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$353"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc682d363032918cb7680bde05c6c81d495f1eb4b",
+    "topProtocols": [
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$73K"
+      },
+      {
+        "name": "Velocore",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0541…9aa4",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xc033…9e86",
+        "volume": "$2K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$515"
+      },
+      {
+        "name": "OKX",
+        "volume": "$490"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$365"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$245"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$238"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$237"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$216"
+      },
+      {
+        "name": "0x9b6c…71fb",
+        "volume": "$216M"
+      },
+      {
+        "name": "averick",
+        "volume": "$207"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$189M"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$158"
+      },
+      {
+        "name": "ZKSwap",
+        "volume": "$117M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$104B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$102"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$102"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$82K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$77K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$433"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$429"
+      },
+      {
+        "name": "USDT",
+        "volume": "$115"
+      },
+      {
+        "name": "ZKPEPE",
+        "volume": "$8"
+      },
+      {
+        "name": "ZPET",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:33:31.841Z",
+  "source": "moonwell",
+  "vaultBalance": 0.1114071118939792,
+  "vaultPct": 0.0020211730423670294
+}

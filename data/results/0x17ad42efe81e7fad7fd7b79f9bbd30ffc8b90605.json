@@ -1,0 +1,309 @@
+{
+  "portfolio": {
+    "address": "0x17ad42efe81e7fad7fd7b79f9bbd30ffc8b90605",
+    "totalValue": "$47,574",
+    "walletLifetime": "236 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.0000",
+        "amount": "0.0297",
+        "usdValue": "$92.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.7800",
+        "amount": "0.0181",
+        "usdValue": "$56.52"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,123.8900",
+        "amount": "0.0049",
+        "usdValue": "$15.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,124.0000",
+        "amount": "0.0025",
+        "usdValue": "$7.80"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "5.7651",
+        "usdValue": "$5.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.0000",
+        "amount": "0.0014",
+        "usdValue": "$4.48"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$28.7160",
+        "amount": "0.0749",
+        "usdValue": "$2.15"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "13.3453",
+        "usdValue": "$1.64"
+      },
+      {
+        "symbol": "WHYPE",
+        "chain": "hyper",
+        "price": "$28.6970",
+        "amount": "0.0409",
+        "usdValue": "$1.17"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,124.0000",
+        "amount": "0.0004",
+        "usdValue": "$1.11"
+      },
+      {
+        "symbol": "USDXL",
+        "chain": "hyper",
+        "price": "$0.9954",
+        "amount": "0.8799",
+        "usdValue": "$0.88"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.7021",
+        "usdValue": "$0.70"
+      },
+      {
+        "symbol": "SOL",
+        "chain": "arb",
+        "price": "$133.8750",
+        "amount": "0.0050",
+        "usdValue": "$0.66"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$13,601"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$10,175"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$9,974"
+      },
+      {
+        "protocol": "Enzyme",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$6,935"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,426"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,798"
+      },
+      {
+        "protocol": "HyperLend",
+        "chain": "hyper",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WHYPE",
+        "usdValue": "$201"
+      },
+      {
+        "protocol": "HyperSwap V3",
+        "chain": "hyper",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$176"
+      },
+      {
+        "protocol": "HypurrFi",
+        "chain": "hyper",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WHYPE",
+        "usdValue": "$98"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x17ad42efe81e7fad7fd7b79f9bbd30ffc8b90605",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Revert",
+        "volume": "$999K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$860K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$154K"
+      },
+      {
+        "name": "0x2e69…bcb3",
+        "volume": "$147K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$104K"
+      },
+      {
+        "name": "0x6160…8bb5",
+        "volume": "$86K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$71K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$62K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$47K"
+      },
+      {
+        "name": "0xbcfc…0130",
+        "volume": "$41K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$31K"
+      },
+      {
+        "name": "0xc85c…5d90",
+        "volume": "$31K"
+      },
+      {
+        "name": "0xfde3…3ba7",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x5600…1f2b",
+        "volume": "$29K"
+      },
+      {
+        "name": "0xcd82…3e13",
+        "volume": "$28K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$977K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$971K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$707K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$492K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$82K"
+      },
+      {
+        "name": "KUNI",
+        "volume": "$32K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$17K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$15K"
+      },
+      {
+        "name": "SYRUP",
+        "volume": "$12K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$11K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$8K"
+      },
+      {
+        "name": "POL",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:16:48.622Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.5122737669669286,
+  "vaultPct": 0.0002811876962514044
+}

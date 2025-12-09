@@ -1,0 +1,72 @@
+{
+  "portfolio": {
+    "address": "0x3eae7cd40056a89f59363f49b20bec9fa3775eaa",
+    "totalValue": "$125,912",
+    "walletLifetime": "146 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.1100",
+        "amount": "0.0379",
+        "usdValue": "$118.58"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$125,793"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3eae7cd40056a89f59363f49b20bec9fa3775eaa",
+    "topProtocols": [
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$125K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$125K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$100K"
+      },
+      {
+        "name": "0x8656…b0b3",
+        "volume": "$25K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$251K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$250K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:52:59.677Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 39.950000887415484,
+  "vaultPct": 0.007428184605294144
+}

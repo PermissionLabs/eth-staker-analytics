@@ -1,0 +1,194 @@
+{
+  "portfolio": {
+    "address": "0xb49cec1b5846fa7f3fd3bd2f41d702a586ac9dee",
+    "totalValue": "$635",
+    "walletLifetime": "1109 days",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.3860",
+        "amount": "61.7276",
+        "usdValue": "$85.55"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2099",
+        "amount": "214.9049",
+        "usdValue": "$45.11"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0319",
+        "amount": "1,078.0000",
+        "usdValue": "$34.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,104.3900",
+        "amount": "0.0013",
+        "usdValue": "$3.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.3900",
+        "amount": "0.0010",
+        "usdValue": "$3.10"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0880",
+        "amount": "32.7939",
+        "usdValue": "$2.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.3900",
+        "amount": "0.0005",
+        "usdValue": "$1.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,105.1200",
+        "amount": "0.00009501",
+        "usdValue": "$0.30"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$431"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$25"
+      },
+      {
+        "protocol": "Uniswap V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb49cec1b5846fa7f3fd3bd2f41d702a586ac9dee",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$12K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$6K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$989"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$689"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$607"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$596"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$479"
+      },
+      {
+        "name": "Relay",
+        "volume": "$458"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KUSDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$4K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$444"
+      },
+      {
+        "name": "ZK",
+        "volume": "$230"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$199B"
+      },
+      {
+        "name": "TC.b",
+        "volume": "$162"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:24:21.797Z",
+  "source": "base_aave",
+  "vaultBalance": 0.13862106414314943,
+  "vaultPct": 0.00020392271064011554
+}

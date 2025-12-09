@@ -1,0 +1,182 @@
+{
+  "portfolio": {
+    "address": "0x8adf08110a82b5b473dfcef50a87c7da5d8acdd3",
+    "totalValue": "$13,660",
+    "walletLifetime": "805 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.9600",
+        "amount": "0.0017",
+        "usdValue": "$5.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.1800",
+        "amount": "0.00004922",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "10.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "0.0001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$8,927"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$3,003"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,725"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8adf08110a82b5b473dfcef50a87c7da5d8acdd3",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$90K"
+      },
+      {
+        "name": "cega",
+        "volume": "$63K"
+      },
+      {
+        "name": "0xb03e…d85a",
+        "volume": "$34K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$20K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x9929…4d3b",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xe7c7…a83e",
+        "volume": "$5K"
+      },
+      {
+        "name": "Maple",
+        "volume": "$4K"
+      },
+      {
+        "name": "Rocket Pool",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$1K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$671"
+      },
+      {
+        "name": "GAIB",
+        "volume": "$670"
+      },
+      {
+        "name": "0xc2b0…18d1",
+        "volume": "$462"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$98"
+      },
+      {
+        "name": "0x9160…c499",
+        "volume": "$35"
+      },
+      {
+        "name": "ENS",
+        "volume": "$291"
+      },
+      {
+        "name": "inch",
+        "volume": "$28"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$228K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "AID",
+        "volume": "$666"
+      },
+      {
+        "name": "STG",
+        "volume": "$287"
+      },
+      {
+        "name": "SYRUP",
+        "volume": "$121"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$4"
+      },
+      {
+        "name": "GAIB",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:00:22.192Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.5095579580770982,
+  "vaultPct": 0.005683400365223196
+}

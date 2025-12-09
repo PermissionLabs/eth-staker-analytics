@@ -1,0 +1,142 @@
+{
+  "portfolio": {
+    "address": "0x91fdf952ecddf513454c4ad12515a0d27328ece5",
+    "totalValue": "$154",
+    "walletLifetime": "674 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.8400",
+        "amount": "0.0054",
+        "usdValue": "$16.77"
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004646",
+        "amount": "30.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Boe",
+        "chain": "base",
+        "price": "$0.0000269",
+        "amount": "0.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.0168",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$137"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x91fdf952ecddf513454c4ad12515a0d27328ece5",
+    "topProtocols": [
+      {
+        "name": "Wrapped Ether",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4e5b…972f",
+        "volume": "$5K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "Seawise",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x874d…530a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x98ba…a3ef",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x12b9…0f98",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x6b61…f06f",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x5f41…88ae",
+        "volume": "$221"
+      },
+      {
+        "name": "0x2654…d50e",
+        "volume": "$23"
+      },
+      {
+        "name": "0x3a71…700c",
+        "volume": "$5"
+      },
+      {
+        "name": "0x0ff8…0e18",
+        "volume": "$1"
+      },
+      {
+        "name": "0x0414…e4c7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xbd32…079c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…1234",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "PORK",
+        "volume": "$9269M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:18:29.675Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.05761086187115233,
+  "vaultPct": 0.000010711992684431363
+}

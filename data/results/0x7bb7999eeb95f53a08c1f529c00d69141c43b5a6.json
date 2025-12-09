@@ -1,0 +1,116 @@
+{
+  "portfolio": {
+    "address": "0x7bb7999eeb95f53a08c1f529c00d69141c43b5a6",
+    "totalValue": "$5,088",
+    "walletLifetime": "805 days",
+    "tokens": [
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4758",
+        "amount": "664.5239",
+        "usdValue": "$316.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.4500",
+        "amount": "0.0239",
+        "usdValue": "$74.41"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9842",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LYD",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "19,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "ITRUMP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "80.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$4,698"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7bb7999eeb95f53a08c1f529c00d69141c43b5a6",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$1K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$846"
+      },
+      {
+        "name": "0x92d4…7771",
+        "volume": "$836B"
+      },
+      {
+        "name": "inance",
+        "volume": "$430"
+      },
+      {
+        "name": "0x6e63…d961",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf25f…fb03",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$822"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:05:59.118Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.4194403786099095,
+  "vaultPct": 0.00010658271541914179
+}

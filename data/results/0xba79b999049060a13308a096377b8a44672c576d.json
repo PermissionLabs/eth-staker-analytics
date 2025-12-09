@@ -1,0 +1,117 @@
+{
+  "portfolio": {
+    "address": "0xba79b999049060a13308a096377b8a44672c576d",
+    "totalValue": "$1,096",
+    "walletLifetime": "1134 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.6100",
+        "amount": "0.0076",
+        "usdValue": "$23.68"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "cro",
+        "price": "$0.1038",
+        "amount": "0.5637",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9918",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1243",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$611"
+      },
+      {
+        "protocol": "VENO",
+        "chain": "cro",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "CRO",
+        "usdValue": "$461"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xba79b999049060a13308a096377b8a44672c576d",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$302"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$296"
+      },
+      {
+        "name": "0xc921…92c5",
+        "volume": "$244"
+      },
+      {
+        "name": "VENO",
+        "volume": "$208"
+      },
+      {
+        "name": "0xfa0b…81b9",
+        "volume": "$125"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe577…618e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$525"
+      },
+      {
+        "name": "CRO",
+        "volume": "$452"
+      },
+      {
+        "name": "POL",
+        "volume": "$248"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$239B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:18:27.157Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.178026110156504,
+  "vaultPct": 0.000013367596499241217
+}

@@ -1,0 +1,269 @@
+{
+  "portfolio": {
+    "address": "0x5af46a04aec8ede1aa041d55111c65a55b927eaf",
+    "totalValue": "$11,533",
+    "walletLifetime": "1291 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,123.3600",
+        "amount": "1.2224",
+        "usdValue": "$3,817.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.3600",
+        "amount": "0.5884",
+        "usdValue": "$1,837.64"
+      },
+      {
+        "symbol": "wBETH",
+        "chain": "eth",
+        "price": "$3,378.9568",
+        "amount": "0.1918",
+        "usdValue": "$648.16"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.3000",
+        "amount": "0.0638",
+        "usdValue": "$57.20"
+      },
+      {
+        "symbol": "ION",
+        "chain": "mode",
+        "price": "$0.00",
+        "amount": "1,395.31",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3,643"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,483"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "RCPSwap",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Infusion",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Shoebill Finance",
+        "chain": "manta",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "MantleETH",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Sentiment",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Reya",
+        "chain": "reya",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ionic",
+        "chain": "mode",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "ION",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5af46a04aec8ede1aa041d55111c65a55b927eaf",
+    "topProtocols": [
+      {
+        "name": "ionic",
+        "volume": "$35K"
+      },
+      {
+        "name": "Ironclad",
+        "volume": "$23K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$19K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$19K"
+      },
+      {
+        "name": "Pencils Protocol",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$10K"
+      },
+      {
+        "name": "TRANCHESS V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "Sturdy V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "Everclear",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x1a44…728c",
+        "volume": "$8K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$7K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xf9d6…27d0",
+        "volume": "$6K"
+      },
+      {
+        "name": "Shoebill Finance",
+        "volume": "$6K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$6K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x6d80…6b4d",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "wrsETH",
+        "volume": "$52K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$17K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "stoneQUEEN2",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "staYSTONE2",
+        "volume": "$5K"
+      },
+      {
+        "name": "wBETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:14:50.918Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.0702209827306435,
+  "vaultPct": 0.011936805671869343
+}

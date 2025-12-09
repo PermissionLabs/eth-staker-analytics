@@ -1,0 +1,214 @@
+{
+  "portfolio": {
+    "address": "0x5f6be8783e45f23af048e84b3938980b7ff690e7",
+    "totalValue": "$943,768",
+    "walletLifetime": "1754 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.9000",
+        "amount": "105.8414",
+        "usdValue": "$328,732.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.9000",
+        "amount": "0.0008",
+        "usdValue": "$2.59"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "eth",
+        "price": "$30.9900",
+        "amount": "0.0280",
+        "usdValue": "$0.87"
+      },
+      {
+        "symbol": "DUDE",
+        "chain": "base",
+        "price": "$0.0₅3341",
+        "amount": "63,636.0000",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BENTO",
+        "chain": "base",
+        "price": "$0.0₈1722",
+        "amount": "8,880,888.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "POV",
+        "chain": "base",
+        "price": "$0.0₇175",
+        "amount": "25,000.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BROGE",
+        "chain": "base",
+        "price": "$0.0₁₀6068",
+        "amount": "10,000.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$605,414"
+      },
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$8,648"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$970"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5f6be8783e45f23af048e84b3938980b7ff690e7",
+    "topProtocols": [
+      {
+        "name": "Rocket Pool",
+        "volume": "$626K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$618K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$315K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$257K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$247K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$221K"
+      },
+      {
+        "name": "0x",
+        "volume": "$108K"
+      },
+      {
+        "name": "0xb982…8398",
+        "volume": "$108K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$101K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$61K"
+      },
+      {
+        "name": "0x7033…eaa9",
+        "volume": "$61K"
+      },
+      {
+        "name": "0x9590…b8bd",
+        "volume": "$37K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x31e9…bde6",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x4d7f…9abb",
+        "volume": "$12K"
+      },
+      {
+        "name": "PoolTogether",
+        "volume": "$10K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$652K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$608K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$21K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "TUSD",
+        "volume": "$8K"
+      },
+      {
+        "name": "POOL",
+        "volume": "$2K"
+      },
+      {
+        "name": "NEXO",
+        "volume": "$252"
+      },
+      {
+        "name": "USDS",
+        "volume": "$231"
+      },
+      {
+        "name": "DUDE",
+        "volume": "$9"
+      },
+      {
+        "name": "COMP",
+        "volume": "$1B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:31:47.653Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 13.276150954492197,
+  "vaultPct": 0.0024685281088137677
+}

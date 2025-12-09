@@ -1,0 +1,195 @@
+{
+  "portfolio": {
+    "address": "0x539ee70082ee32ce1cfc3cb69e004d8d06fca2b4",
+    "totalValue": "$27,935",
+    "walletLifetime": "1206 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.9304",
+        "amount": "250.6356",
+        "usdValue": "$3,491.46"
+      },
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4850",
+        "amount": "6,359.1055",
+        "usdValue": "$3,084.32"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4910",
+        "amount": "1,687.4742",
+        "usdValue": "$828.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.5700",
+        "amount": "0.0439",
+        "usdValue": "$137.54"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$905.9000",
+        "amount": "0.0921",
+        "usdValue": "$83.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,134.5700",
+        "amount": "0.0061",
+        "usdValue": "$19.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,134.5700",
+        "amount": "0.0044",
+        "usdValue": "$13.70"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$17,452"
+      },
+      {
+        "protocol": "Hourglass",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,742"
+      },
+      {
+        "protocol": "QiDao",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "QI",
+        "usdValue": "$44"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x539ee70082ee32ce1cfc3cb69e004d8d06fca2b4",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$93K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$43K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$38K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$28K"
+      },
+      {
+        "name": "0x5b93…f995",
+        "volume": "$19K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$18K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$18K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$17K"
+      },
+      {
+        "name": "Go",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x0000…0d95",
+        "volume": "$15K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$11K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$124K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$96K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$63K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$55K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$33K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$14K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$13K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$13K"
+      },
+      {
+        "name": "mCake",
+        "volume": "$12K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$11K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:05:08.660Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.367657204271846,
+  "vaultPct": 0.0004030457981128327
+}

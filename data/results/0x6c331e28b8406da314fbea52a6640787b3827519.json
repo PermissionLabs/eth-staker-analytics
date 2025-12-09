@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x6c331e28b8406da314fbea52a6640787b3827519",
+    "totalValue": "$259",
+    "walletLifetime": "1718 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.7500",
+        "amount": "0.0067",
+        "usdValue": "$21.11"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "13.7292",
+        "usdValue": "$13.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.4900",
+        "amount": "0.0029",
+        "usdValue": "$9.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.4900",
+        "amount": "0.0010",
+        "usdValue": "$3.02"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9901",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "TBA",
+        "chain": "matic",
+        "price": "$0.0₉5883",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "299.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "400.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$185"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$16"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6c331e28b8406da314fbea52a6640787b3827519",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$45K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x202a…d7f3",
+        "volume": "$370B"
+      },
+      {
+        "name": "inance",
+        "volume": "$348"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$244"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$196"
+      },
+      {
+        "name": "0x54ad…deee",
+        "volume": "$159"
+      },
+      {
+        "name": "Relay",
+        "volume": "$100"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$61"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$50"
+      },
+      {
+        "name": "Pimlico",
+        "volume": "$50"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$16"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$13"
+      },
+      {
+        "name": "0x6c33…7519",
+        "volume": "$11"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$25K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$753"
+      },
+      {
+        "name": "USDT",
+        "volume": "$660"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$384"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$169"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:42:48.434Z",
+  "source": "base_aave",
+  "vaultBalance": 0.08311575680085861,
+  "vaultPct": 0.0001222699488602456
+}

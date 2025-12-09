@@ -1,0 +1,111 @@
+{
+  "portfolio": {
+    "address": "0x541661b2cd1b0d1e06bbe25cddc5e698ae576400",
+    "totalValue": "$2,418",
+    "walletLifetime": "1798 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.8700",
+        "amount": "0.0125",
+        "usdValue": "$39.51"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9987",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,378"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x541661b2cd1b0d1e06bbe25cddc5e698ae576400",
+    "topProtocols": [
+      {
+        "name": "ENS",
+        "volume": "$4K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3fef…f951",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe6dc…c2cf",
+        "volume": "$884"
+      },
+      {
+        "name": "0x5ab6…1129",
+        "volume": "$438"
+      },
+      {
+        "name": "0xf39b…004a",
+        "volume": "$51"
+      },
+      {
+        "name": "0x2b4a…1d6e",
+        "volume": "$50"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8c85…6a6a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x219e…2cf6",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ENS",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "ALCX",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:36:04.834Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.65,
+  "vaultPct": 0.00004880709754804105
+}

@@ -1,0 +1,103 @@
+{
+  "portfolio": {
+    "address": "0x5d9d4823c9ce75218dec010966a84d061510939a",
+    "totalValue": "$4",
+    "walletLifetime": "259 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,108.5600",
+        "amount": "0.0009",
+        "usdValue": "$2.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.5600",
+        "amount": "0.0004",
+        "usdValue": "$1.20"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x5d9d4823c9ce75218dec010966a84d061510939a",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x003b…324a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd86c…2805",
+        "volume": "$588"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$434"
+      },
+      {
+        "name": "ungee",
+        "volume": "$156"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$155"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$19K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$363"
+      },
+      {
+        "name": "cbXRP",
+        "volume": "$20"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:58:28.074Z",
+  "source": "base_aave",
+  "vaultBalance": 0.5188897721596821,
+  "vaultPct": 0.0007633284992889991
+}

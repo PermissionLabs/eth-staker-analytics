@@ -1,0 +1,160 @@
+{
+  "portfolio": {
+    "address": "0x58dcef3ed403f915aac053b444e14ed1f20b4a99",
+    "totalValue": "$157,369",
+    "walletLifetime": "1011 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.2800",
+        "amount": "0.1935",
+        "usdValue": "$606.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,133.5400",
+        "amount": "0.0024",
+        "usdValue": "$7.38"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$156,754"
+      },
+      {
+        "protocol": "Sturdy",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Asymetrix Protocol",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x58dcef3ed403f915aac053b444e14ed1f20b4a99",
+    "topProtocols": [
+      {
+        "name": "1inch",
+        "volume": "$6M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xbd4d…d09a",
+        "volume": "$1M"
+      },
+      {
+        "name": "0x7636…8a6c",
+        "volume": "$803K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$408K"
+      },
+      {
+        "name": "Sturdy",
+        "volume": "$351K"
+      },
+      {
+        "name": "Seawise",
+        "volume": "$265K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$253K"
+      },
+      {
+        "name": "0x",
+        "volume": "$231K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$217K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$180K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$180K"
+      },
+      {
+        "name": "0x6705…4c71",
+        "volume": "$95K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$65K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$64K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$7M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "KASX",
+        "volume": "$18K"
+      },
+      {
+        "name": "STG",
+        "volume": "$2K"
+      },
+      {
+        "name": "KSTG",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:20:02.388Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 122.83410141511224,
+  "vaultPct": 0.022839408282073387
+}

@@ -1,0 +1,241 @@
+{
+  "portfolio": {
+    "address": "0x618c59a56c8884dcab6c7c5165b192fad71fb374",
+    "totalValue": "$1,007",
+    "walletLifetime": "747 days",
+    "tokens": [
+      {
+        "symbol": "SOL (Wormhole)",
+        "chain": "eth",
+        "price": "$133.7043",
+        "amount": "3.0668",
+        "usdValue": "$410.05"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "uni",
+        "price": "$1.0001",
+        "amount": "199.6039",
+        "usdValue": "$199.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.7100",
+        "amount": "0.0299",
+        "usdValue": "$93.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.5000",
+        "amount": "0.0277",
+        "usdValue": "$86.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,123.5000",
+        "amount": "0.0080",
+        "usdValue": "$24.96"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "1.2092",
+        "usdValue": "$16.51"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6267",
+        "amount": "1.6146",
+        "usdValue": "$9.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,123.5000",
+        "amount": "0.0019",
+        "usdValue": "$6.05"
+      },
+      {
+        "symbol": "WAVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "0.3935",
+        "usdValue": "$5.37"
+      },
+      {
+        "symbol": "APE",
+        "chain": "eth",
+        "price": "$0.2380",
+        "amount": "22.4823",
+        "usdValue": "$5.35"
+      },
+      {
+        "symbol": "KTA",
+        "chain": "base",
+        "price": "$0.2385",
+        "amount": "10.9293",
+        "usdValue": "$2.61"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1234",
+        "amount": "12.1589",
+        "usdValue": "$1.50"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "1.1108",
+        "usdValue": "$1.11"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$144"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x618c59a56c8884dcab6c7c5165b192fad71fb374",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$5K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$3K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x618c…b374",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$1K"
+      },
+      {
+        "name": "000Aave V3",
+        "volume": "$804"
+      },
+      {
+        "name": "0x3bce…0158",
+        "volume": "$652"
+      },
+      {
+        "name": "0x0000…f24f",
+        "volume": "$609"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$500"
+      },
+      {
+        "name": "0x2523…32b2",
+        "volume": "$405B"
+      },
+      {
+        "name": "eefy",
+        "volume": "$285"
+      },
+      {
+        "name": "zkLink Nova Bridge",
+        "volume": "$250"
+      },
+      {
+        "name": "0xb0ee…c279",
+        "volume": "$156"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$150"
+      },
+      {
+        "name": "GMX",
+        "volume": "$103"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$12K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$5K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$860"
+      },
+      {
+        "name": "ETH",
+        "volume": "$270"
+      },
+      {
+        "name": "GMX",
+        "volume": "$206"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$30"
+      },
+      {
+        "name": "APE",
+        "volume": "$16K"
+      },
+      {
+        "name": "TA",
+        "volume": "$14"
+      },
+      {
+        "name": "UNI",
+        "volume": "$11"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:37:42.753Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.11293378375332568,
+  "vaultPct": 0.000020998572597236876
+}

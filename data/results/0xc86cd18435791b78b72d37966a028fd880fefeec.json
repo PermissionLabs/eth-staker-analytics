@@ -1,0 +1,160 @@
+{
+  "portfolio": {
+    "address": "0xc86cd18435791b78b72d37966a028fd880fefeec",
+    "totalValue": "$1,708",
+    "walletLifetime": "743 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,116.5400",
+        "amount": "0.0101",
+        "usdValue": "$31.37"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9852",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0965",
+        "amount": "0.0003",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7878",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1240",
+        "amount": "0.00005486",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,677"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc86cd18435791b78b72d37966a028fd880fefeec",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$8K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x1711…565f",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9740…c35c",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$441"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc86c…feec",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "POL",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$2K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$888"
+      },
+      {
+        "name": "GALA",
+        "volume": "$802"
+      },
+      {
+        "name": "SAND",
+        "volume": "$643"
+      },
+      {
+        "name": "LINK",
+        "volume": "$537M"
+      },
+      {
+        "name": "ANA",
+        "volume": "$534M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:53:35.455Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.4942507825632868,
+  "vaultPct": 0.000037112224858095325
+}

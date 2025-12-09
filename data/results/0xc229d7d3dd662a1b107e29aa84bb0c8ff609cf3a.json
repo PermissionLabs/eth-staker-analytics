@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0xc229d7d3dd662a1b107e29aa84bb0c8ff609cf3a",
+    "totalValue": "$783,112",
+    "walletLifetime": "1923 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.2100",
+        "amount": "7.7808",
+        "usdValue": "$24,161.05"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4710",
+        "amount": "24,227.1864",
+        "usdValue": "$11,411.00"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "5,168.8770",
+        "usdValue": "$5,169.19"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2686",
+        "amount": "13,177.2692",
+        "usdValue": "$3,539.41"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.5094",
+        "amount": "400.0001",
+        "usdValue": "$2,203.74"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3630",
+        "amount": "870.7494",
+        "usdValue": "$2,057.58"
+      },
+      {
+        "symbol": "XMON",
+        "chain": "eth",
+        "price": "$255.9841",
+        "amount": "7.0399",
+        "usdValue": "$1,802.09"
+      },
+      {
+        "symbol": "LORDS",
+        "chain": "eth",
+        "price": "$0.0158",
+        "amount": "69,975.3867",
+        "usdValue": "$1,102.30"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "37,343.0000",
+        "usdValue": "$1,024.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "canto",
+        "price": "$3,107.2000",
+        "amount": "0.2606",
+        "usdValue": "$809.63"
+      },
+      {
+        "symbol": "SMOL",
+        "chain": "arb",
+        "price": "$0.0₆8267",
+        "amount": "742,747,292.6576",
+        "usdValue": "$614.01"
+      },
+      {
+        "symbol": "BET (betbase.xyz)",
+        "chain": "base",
+        "price": "$0.0076",
+        "amount": "26,347.7779",
+        "usdValue": "$199.44"
+      },
+      {
+        "symbol": "OMNI(layerzero)",
+        "chain": "arb",
+        "price": "$0.00001005",
+        "amount": "10,511,320.3288",
+        "usdValue": "$105.59"
+      },
+      {
+        "symbol": "DRV",
+        "chain": "eth",
+        "price": "$0.0370",
+        "amount": "2,295.7228",
+        "usdValue": "$84.92"
+      },
+      {
+        "symbol": "BPS",
+        "chain": "base",
+        "price": "$0.0001",
+        "amount": "550,010.2183",
+        "usdValue": "$70.29"
+      },
+      {
+        "symbol": "BURGER",
+        "chain": "base",
+        "price": "$0.0₅1471",
+        "amount": "43,557,015.7904",
+        "usdValue": "$64.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,105.6800",
+        "amount": "0.0189",
+        "usdValue": "$58.74"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$320,484"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$133,930"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$110,476"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDe",
+        "usdValue": "$109,676"
+      },
+      {
+        "protocol": "MegaETH",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$51,692"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,688"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc229d7d3dd662a1b107e29aa84bb0c8ff609cf3a",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T01:52:21.915Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 59.995142732095694,
+  "vaultPct": 0.011155318791879235
+}

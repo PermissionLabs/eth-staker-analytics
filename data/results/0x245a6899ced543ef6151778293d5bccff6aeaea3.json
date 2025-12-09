@@ -1,0 +1,99 @@
+{
+  "portfolio": {
+    "address": "0x245a6899ced543ef6151778293d5bccff6aeaea3",
+    "totalValue": "$762,706",
+    "walletLifetime": "335 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.2000",
+        "amount": "0.1802",
+        "usdValue": "$161.11"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.8900",
+        "amount": "0.0487",
+        "usdValue": "$152.06"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$762,334"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$59"
+      },
+      {
+        "protocol": "Lista DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x245a6899ced543ef6151778293d5bccff6aeaea3",
+    "topProtocols": [
+      {
+        "name": "WhiteBIT",
+        "volume": "$508K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$355K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$196K"
+      },
+      {
+        "name": "Lista DAO",
+        "volume": "$195K"
+      },
+      {
+        "name": "0xcacc…b373",
+        "volume": "$181K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$862K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$391K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:16:19.754Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 223.95939241987168,
+  "vaultPct": 2.497951160408874
+}

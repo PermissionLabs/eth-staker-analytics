@@ -1,0 +1,207 @@
+{
+  "portfolio": {
+    "address": "0x82768fe47d8f94b1d36c9b284c57c761b6e3b310",
+    "totalValue": "$324",
+    "walletLifetime": "2778 days",
+    "tokens": [
+      {
+        "symbol": "PLUME",
+        "chain": "plume",
+        "price": "$0.0207",
+        "amount": "2,308.3677",
+        "usdValue": "$47.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.5600",
+        "amount": "0.0109",
+        "usdValue": "$34.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.5600",
+        "amount": "0.0017",
+        "usdValue": "$5.48"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1054",
+        "amount": "4.8874",
+        "usdValue": "$5.40"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.4068",
+        "amount": "2.8398",
+        "usdValue": "$4.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,159.5600",
+        "amount": "0.0010",
+        "usdValue": "$3.18"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1248",
+        "amount": "0.9947",
+        "usdValue": "$0.12"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$224"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Superform",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "PIGGY",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x82768fe47d8f94b1d36c9b284c57c761b6e3b310",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xb2d6…25a1",
+        "volume": "$1K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$638"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$449"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$446"
+      },
+      {
+        "name": "Superform",
+        "volume": "$426"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$402B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$353"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$275"
+      },
+      {
+        "name": "0xb7b6…c484",
+        "volume": "$262"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$251"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$197"
+      },
+      {
+        "name": "Plume",
+        "volume": "$197"
+      },
+      {
+        "name": "Velodrome V2",
+        "volume": "$149"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$132"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$124"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$714"
+      },
+      {
+        "name": "PLUME",
+        "volume": "$640"
+      },
+      {
+        "name": "pUSD",
+        "volume": "$420"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$195"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$110"
+      },
+      {
+        "name": "WETH",
+        "volume": "$89"
+      },
+      {
+        "name": "DAI",
+        "volume": "$7"
+      },
+      {
+        "name": "POL",
+        "volume": "$6"
+      },
+      {
+        "name": "POOL",
+        "volume": "$3M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:44:32.186Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07067873231417554,
+  "vaultPct": 0.00010397408768432171
+}

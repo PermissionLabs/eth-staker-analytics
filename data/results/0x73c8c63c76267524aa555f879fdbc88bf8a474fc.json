@@ -1,0 +1,85 @@
+{
+  "portfolio": {
+    "address": "0x73c8c63c76267524aa555f879fdbc88bf8a474fc",
+    "totalValue": "$165,594",
+    "walletLifetime": "1064 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.5500",
+        "amount": "0.0160",
+        "usdValue": "$49.55"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5800",
+        "amount": "1.8202",
+        "usdValue": "$24.72"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "3,240.4762",
+        "usdValue": "$8.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,102.5500",
+        "amount": "0.0019",
+        "usdValue": "$5.79"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1215",
+        "amount": "4.0000",
+        "usdValue": "$4.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,102.5500",
+        "amount": "0.0001",
+        "usdValue": "$0.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.5500",
+        "amount": "0.0001",
+        "usdValue": "$0.35"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$165,500"
+      },
+      {
+        "protocol": "Frax",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "frxETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x73c8c63c76267524aa555f879fdbc88bf8a474fc",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T03:31:19.870Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 48.955210206428994,
+  "vaultPct": 0.5460263256740251
+}

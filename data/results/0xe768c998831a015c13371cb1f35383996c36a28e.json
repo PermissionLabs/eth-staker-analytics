@@ -1,0 +1,331 @@
+{
+  "portfolio": {
+    "address": "0xe768c998831a015c13371cb1f35383996c36a28e",
+    "totalValue": "$3,898",
+    "walletLifetime": "1426 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.0800",
+        "amount": "0.0245",
+        "usdValue": "$76.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.0800",
+        "amount": "0.0213",
+        "usdValue": "$66.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bob",
+        "price": "$3,128.0800",
+        "amount": "0.0117",
+        "usdValue": "$36.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,128.5000",
+        "amount": "0.0111",
+        "usdValue": "$34.70"
+      },
+      {
+        "symbol": "WMON",
+        "chain": "monad",
+        "price": "$0.0289",
+        "amount": "233.6587",
+        "usdValue": "$6.75"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0400",
+        "amount": "27.5125",
+        "usdValue": "$1.10"
+      },
+      {
+        "symbol": "MOVR",
+        "chain": "movr",
+        "price": "$3.1870",
+        "amount": "0.2467",
+        "usdValue": "$0.79"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆981",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2211",
+        "amount": "0.4858",
+        "usdValue": "$0.59"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0289",
+        "amount": "18.3975",
+        "usdValue": "$0.53"
+      },
+      {
+        "symbol": "WETH(Wormhole)",
+        "chain": "mobm",
+        "price": "$3,129.0000",
+        "amount": "0.00008027",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,510"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BIFI",
+        "usdValue": "$117"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "monad",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WMON",
+        "usdValue": "$23"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "ICHI",
+        "chain": "mobm",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "STELLA",
+        "usdValue": "$5"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "movr",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "MOVR",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Kintsu",
+        "chain": "monad",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MON",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "shMonad",
+        "chain": "monad",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "MON",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Shoebill Finance",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "mobm",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "xcUSDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SolarFlare",
+        "chain": "mobm",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "FLARE",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Zenlink",
+        "chain": "mobm",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ZLK",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe768c998831a015c13371cb1f35383996c36a28e",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$36K"
+      },
+      {
+        "name": "StellaSwap",
+        "volume": "$24K"
+      },
+      {
+        "name": "Moonbeam",
+        "volume": "$18K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$11K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$10K"
+      },
+      {
+        "name": "Velodrome V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x0cec…0093",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$5K"
+      },
+      {
+        "name": "Shoebill Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$5K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xacc1…077f",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$3K"
+      },
+      {
+        "name": "BOB",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$3K"
+      },
+      {
+        "name": "StellaSwap V4",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "GLMR",
+        "volume": "$38K"
+      },
+      {
+        "name": "xcUSDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$27K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$23K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$12K"
+      },
+      {
+        "name": "STELLA",
+        "volume": "$7K"
+      },
+      {
+        "name": "xcDOT",
+        "volume": "$6K"
+      },
+      {
+        "name": "WGLMR",
+        "volume": "$6K"
+      },
+      {
+        "name": "xcUSDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "xcMANTA",
+        "volume": "$3K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "MOVR",
+        "volume": "$3K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:38:07.946Z",
+  "source": "moonwell",
+  "vaultBalance": 1.0195535356654306,
+  "vaultPct": 0.0184969710326754
+}

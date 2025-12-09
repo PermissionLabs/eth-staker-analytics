@@ -1,0 +1,126 @@
+{
+  "portfolio": {
+    "address": "0x2af926e416409fce19041494ad8e5f63620f6fdf",
+    "totalValue": "$641",
+    "walletLifetime": "338 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.2800",
+        "amount": "0.0021",
+        "usdValue": "$6.52"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.3000",
+        "amount": "0.0067",
+        "usdValue": "$5.99"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "5.0000",
+        "usdValue": "$5.00"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅986",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Dinero",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "pxETH",
+        "usdValue": "$338"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$286"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2af926e416409fce19041494ad8e5f63620f6fdf",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$735"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$735B"
+      },
+      {
+        "name": "alancer V2",
+        "volume": "$568"
+      },
+      {
+        "name": "Dinero",
+        "volume": "$422"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$314"
+      },
+      {
+        "name": "THORSwap",
+        "volume": "$5"
+      },
+      {
+        "name": "THORChain",
+        "volume": "$4"
+      },
+      {
+        "name": "0x98cc…f583",
+        "volume": "$2"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "osETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "pxETH",
+        "volume": "$422"
+      },
+      {
+        "name": "USDT",
+        "volume": "$15B"
+      },
+      {
+        "name": "NB",
+        "volume": "$4B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:13:22.631Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.08400689006288056,
+  "vaultPct": 0.0009369783791943072
+}

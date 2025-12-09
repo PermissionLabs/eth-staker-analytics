@@ -1,0 +1,176 @@
+{
+  "portfolio": {
+    "address": "0x4c8ea78e4537743f77488293a85896c4d7cf56bf",
+    "totalValue": "$1,696",
+    "walletLifetime": "429 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,093.5600",
+        "amount": "0.1910",
+        "usdValue": "$590.88"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,093.2900",
+        "amount": "0.1580",
+        "usdValue": "$488.88"
+      },
+      {
+        "symbol": "UETH",
+        "chain": "hyper",
+        "price": "$3,086.1305",
+        "amount": "0.0995",
+        "usdValue": "$307.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,093.2900",
+        "amount": "0.0907",
+        "usdValue": "$280.53"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "17.5234",
+        "usdValue": "$17.52"
+      },
+      {
+        "symbol": "BABY4",
+        "chain": "bsc",
+        "price": "$0.0012",
+        "amount": "4,444.0000",
+        "usdValue": "$5.26"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4c8ea78e4537743f77488293a85896c4d7cf56bf",
+    "topProtocols": [
+      {
+        "name": "deBridge",
+        "volume": "$452K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$322K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$277K"
+      },
+      {
+        "name": "Fly",
+        "volume": "$180K"
+      },
+      {
+        "name": "0x",
+        "volume": "$142K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$136K"
+      },
+      {
+        "name": "0x488f…b2c6",
+        "volume": "$134K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$75K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$70K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$19K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x7a14…e24d",
+        "volume": "$7K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$538K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$526K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$325K"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$323K"
+      },
+      {
+        "name": "DOGE",
+        "volume": "$201K"
+      },
+      {
+        "name": "IMF",
+        "volume": "$160K"
+      },
+      {
+        "name": "CRO",
+        "volume": "$153K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$123K"
+      },
+      {
+        "name": "KBNB",
+        "volume": "$70K"
+      },
+      {
+        "name": "BRETT",
+        "volume": "$32K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "RDNT",
+        "volume": "$8K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:22:42.323Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 9.619706053713111,
+  "vaultPct": 0.0017886595952030634
+}

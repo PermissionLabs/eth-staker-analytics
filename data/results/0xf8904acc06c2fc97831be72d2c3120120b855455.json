@@ -1,0 +1,90 @@
+{
+  "portfolio": {
+    "address": "0xf8904acc06c2fc97831be72d2c3120120b855455",
+    "totalValue": "$127",
+    "walletLifetime": "318 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.7000",
+        "amount": "0.0406",
+        "usdValue": "$126.10"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1229",
+        "amount": "5.6806",
+        "usdValue": "$0.70"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0276",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xf8904acc06c2fc97831be72d2c3120120b855455",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$49K"
+      },
+      {
+        "name": "0xab51…daa8",
+        "volume": "$17K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$14K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xd38c…1330",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$94"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$62K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$30K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$211"
+      },
+      {
+        "name": "POL",
+        "volume": "$2M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:35:43.052Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.600525106304608,
+  "vaultPct": 0.0008554079852770665
+}

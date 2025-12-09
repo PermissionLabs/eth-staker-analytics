@@ -1,0 +1,124 @@
+{
+  "portfolio": {
+    "address": "0x240c163a0714c8012e82fec814d6e23f229b692d",
+    "totalValue": "$2,038",
+    "walletLifetime": "1002 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.3500",
+        "amount": "0.0912",
+        "usdValue": "$285.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.3500",
+        "amount": "0.0078",
+        "usdValue": "$24.31"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0963",
+        "amount": "49.0642",
+        "usdValue": "$4.72"
+      },
+      {
+        "symbol": "x33",
+        "chain": "sonic",
+        "price": "$4.1188",
+        "amount": "1.0079",
+        "usdValue": "$4.15"
+      },
+      {
+        "symbol": "wS",
+        "chain": "sonic",
+        "price": "$0.0963",
+        "amount": "22.4846",
+        "usdValue": "$2.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.0900",
+        "amount": "0.0003",
+        "usdValue": "$0.82"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "era",
+        "price": "$1.0004",
+        "amount": "0.4587",
+        "usdValue": "$0.46"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.8000",
+        "amount": "0.0004",
+        "usdValue": "$0.33"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Trevee",
+        "chain": "sonic",
+        "category": "Yield",
+        "label": "Locked",
+        "token": "USDC",
+        "usdValue": "$1,389"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$317"
+      },
+      {
+        "protocol": "Shadow Exchange",
+        "chain": "sonic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "xSHADOW",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Beets",
+        "chain": "sonic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "S",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Sonic Airdrop",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "S",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x240c163a0714c8012e82fec814d6e23f229b692d",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T00:11:24.937Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09931127314255966,
+  "vaultPct": 0.0018017275976951186
+}

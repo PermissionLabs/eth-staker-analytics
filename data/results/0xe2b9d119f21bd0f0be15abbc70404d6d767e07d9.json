@@ -1,0 +1,102 @@
+{
+  "portfolio": {
+    "address": "0xe2b9d119f21bd0f0be15abbc70404d6d767e07d9",
+    "totalValue": "$66,001",
+    "walletLifetime": "1959 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.2800",
+        "amount": "2.9356",
+        "usdValue": "$9,156.94"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.4847",
+        "amount": "432.2745",
+        "usdValue": "$2,370.92"
+      },
+      {
+        "symbol": "FORTH",
+        "chain": "eth",
+        "price": "$1.7285",
+        "amount": "580.8933",
+        "usdValue": "$1,004.07"
+      },
+      {
+        "symbol": "AMPL",
+        "chain": "eth",
+        "price": "$1.2789",
+        "amount": "700.5394",
+        "usdValue": "$895.95"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "110.6898",
+        "usdValue": "$110.68"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4760",
+        "amount": "154.4876",
+        "usdValue": "$73.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$29,333"
+      },
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$22,880"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$138"
+      },
+      {
+        "protocol": "CoW Swap",
+        "chain": "xdai",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "COW",
+        "usdValue": "$20"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe2b9d119f21bd0f0be15abbc70404d6d767e07d9",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T03:40:43.710Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 8.630051435137121,
+  "vaultPct": 0.09625605233101298
+}

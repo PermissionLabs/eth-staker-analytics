@@ -1,0 +1,185 @@
+{
+  "portfolio": {
+    "address": "0xe019b72b18cbde76d050d6384fb11b22699e1a08",
+    "totalValue": "$78",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,107.3700",
+        "amount": "0.0058",
+        "usdValue": "$18.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,107.3700",
+        "amount": "0.0041",
+        "usdValue": "$12.68"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$889.0000",
+        "amount": "0.0132",
+        "usdValue": "$11.75"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3002",
+        "amount": "3.9465",
+        "usdValue": "$9.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.3900",
+        "amount": "0.0021",
+        "usdValue": "$6.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,108.3900",
+        "amount": "0.0010",
+        "usdValue": "$3.07"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "op",
+        "price": "$3,107.3700",
+        "amount": "0.0010",
+        "usdValue": "$3.06"
+      },
+      {
+        "symbol": "wS",
+        "chain": "sonic",
+        "price": "$0.0937",
+        "amount": "18.4600",
+        "usdValue": "$1.73"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$28.0320",
+        "amount": "0.0088",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$12"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe019b72b18cbde76d050d6384fb11b22699e1a08",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$435K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$388K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$194K"
+      },
+      {
+        "name": "Shadow Exchange",
+        "volume": "$186K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$177K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$152K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$148K"
+      },
+      {
+        "name": "0x2131…11f2",
+        "volume": "$141K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$109K"
+      },
+      {
+        "name": "Velodrome V3",
+        "volume": "$94K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$843K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$412K"
+      },
+      {
+        "name": "SOL",
+        "volume": "$321K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$318K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$307K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$177K"
+      },
+      {
+        "name": "wS",
+        "volume": "$133K"
+      },
+      {
+        "name": "S",
+        "volume": "$46K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:57:21.697Z",
+  "source": "base_aave",
+  "vaultBalance": 9.708158482237188,
+  "vaultPct": 0.014281480273281206
+}

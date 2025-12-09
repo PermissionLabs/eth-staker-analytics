@@ -1,0 +1,65 @@
+{
+  "portfolio": {
+    "address": "0x1b34abfdfe8597340a240ee5c2bae3047c1001ca",
+    "totalValue": "$66,108",
+    "walletLifetime": "1759 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,129.3400",
+        "amount": "0.0002",
+        "usdValue": "$0.55"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$63,032"
+      },
+      {
+        "protocol": "MetaMask Swaps",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3,075"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1b34abfdfe8597340a240ee5c2bae3047c1001ca",
+    "topProtocols": [
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$176K"
+      },
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$87K"
+      },
+      {
+        "name": "0xccb0…4fdb",
+        "volume": "$27K"
+      },
+      {
+        "name": "Bittrex",
+        "volume": "$11K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$300K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:00:30.988Z",
+  "source": "lido_steth",
+  "vaultBalance": 20,
+  "vaultPct": 0.0015017568476320322
+}

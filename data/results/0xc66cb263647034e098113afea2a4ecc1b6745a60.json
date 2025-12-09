@@ -1,0 +1,148 @@
+{
+  "portfolio": {
+    "address": "0xc66cb263647034e098113afea2a4ecc1b6745a60",
+    "totalValue": "$55,313",
+    "walletLifetime": "1018 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.4300",
+        "amount": "1.5106",
+        "usdValue": "$4,715.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.4300",
+        "amount": "0.0052",
+        "usdValue": "$16.33"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$50,580"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc66cb263647034e098113afea2a4ecc1b6745a60",
+    "topProtocols": [
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x46a9…5256",
+        "volume": "$34K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x700a…f48c",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xf4f1…d78f",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xd52a…d900",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xd37a…2410",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1356…b323",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x41a4…14d7",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1942…3088",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe9f1…1142",
+        "volume": "$691M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$375"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$341"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$266"
+      },
+      {
+        "name": "0x0493…64e9",
+        "volume": "$264"
+      },
+      {
+        "name": "0x0306…6f93",
+        "volume": "$248"
+      },
+      {
+        "name": "0xcdb4…a249",
+        "volume": "$184"
+      },
+      {
+        "name": "0x43d1…edcc",
+        "volume": "$107M"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$104"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$110K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$21"
+      },
+      {
+        "name": "poop",
+        "volume": "$215"
+      },
+      {
+        "name": "J3FF",
+        "volume": "$22B"
+      },
+      {
+        "name": "ASED",
+        "volume": "$2"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:09:19.845Z",
+  "source": "lido_steth",
+  "vaultBalance": 16,
+  "vaultPct": 0.0012014054781056256
+}

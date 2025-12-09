@@ -1,0 +1,158 @@
+{
+  "portfolio": {
+    "address": "0xccb489a30ddd52916bd31d36e9fd555f763c95cc",
+    "totalValue": "$1,422",
+    "walletLifetime": "174 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "1,023.2587",
+        "usdValue": "$1,023.26"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "377.3626",
+        "usdValue": "$377.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.7100",
+        "amount": "0.0045",
+        "usdValue": "$14.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,128.5200",
+        "amount": "0.0022",
+        "usdValue": "$6.82"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,128.5200",
+        "amount": "0.0003",
+        "usdValue": "$0.89"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xccb489a30ddd52916bd31d36e9fd555f763c95cc",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x76b0…44d6",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xc709…0d27",
+        "volume": "$1K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$862"
+      },
+      {
+        "name": "0xc93e…0f5e",
+        "volume": "$857"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$656"
+      },
+      {
+        "name": "Relay",
+        "volume": "$391"
+      },
+      {
+        "name": "0x81c9…1c56",
+        "volume": "$305B"
+      },
+      {
+        "name": "alancer V3",
+        "volume": "$264"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$173"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$104"
+      },
+      {
+        "name": "0xd888…8b2f",
+        "volume": "$70"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$41B"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$526"
+      },
+      {
+        "name": "GHO",
+        "volume": "$259"
+      },
+      {
+        "name": "STG",
+        "volume": "$3"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:40:15.364Z",
+  "source": "base_aave",
+  "vaultBalance": 0.15999999999999995,
+  "vaultPct": 0.0002353728410909109
+}

@@ -1,0 +1,285 @@
+{
+  "portfolio": {
+    "address": "0x0a7efc254724ab50969d57d23a98f19095190dd9",
+    "totalValue": "$1,552,623",
+    "walletLifetime": "1255 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.5000",
+        "amount": "87.1188",
+        "usdValue": "$271,679.84"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,118.5000",
+        "amount": "14.9335",
+        "usdValue": "$46,570.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,118.5000",
+        "amount": "2.7432",
+        "usdValue": "$8,554.58"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2072",
+        "amount": "4,582.9584",
+        "usdValue": "$5,532.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,118.5000",
+        "amount": "1.0000",
+        "usdValue": "$3,118.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,118.5000",
+        "amount": "0.8377",
+        "usdValue": "$2,612.33"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "2,090.9093",
+        "usdValue": "$2,090.49"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "158,036.0887",
+        "usdValue": "$1,595.88"
+      },
+      {
+        "symbol": "FLUID",
+        "chain": "eth",
+        "price": "$3.2476",
+        "amount": "203.6729",
+        "usdValue": "$661.44"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Instadapp Lite",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$347,057"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$305,435"
+      },
+      {
+        "protocol": "AO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$196,859"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$138,561"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$80,777"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$54,284"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$44,113"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USD₮0",
+        "usdValue": "$41,705"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$325"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0a7efc254724ab50969d57d23a98f19095190dd9",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$873K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$738K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$369K"
+      },
+      {
+        "name": "Instadapp Lite",
+        "volume": "$361K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$169K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$144K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$131K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$129K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$110K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$79K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$76K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$49K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$49K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$42K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$42K"
+      },
+      {
+        "name": "0x6867…e48a",
+        "volume": "$41K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$378K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$131K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$122K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$64K"
+      },
+      {
+        "name": "FET",
+        "volume": "$23K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$19K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$9K"
+      },
+      {
+        "name": "FLUID",
+        "volume": "$3K"
+      },
+      {
+        "name": "ALPH",
+        "volume": "$2K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$2K"
+      },
+      {
+        "name": "SPK",
+        "volume": "$1K"
+      },
+      {
+        "name": "WLD",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:25:47.761Z",
+  "source": "moonwell",
+  "vaultBalance": 95.96301747060055,
+  "vaultPct": 1.7409827853750892
+}

@@ -1,0 +1,64 @@
+{
+  "portfolio": {
+    "address": "0x300e020c4b02f7b41e840a8b964ab7fcdb1131fc",
+    "totalValue": "$8,889",
+    "walletLifetime": "1297 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.3800",
+        "amount": "0.0165",
+        "usdValue": "$52.19"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1244",
+        "amount": "4.5918",
+        "usdValue": "$0.57"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9983",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$8,613"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$223"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x300e020c4b02f7b41e840a8b964ab7fcdb1131fc",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T11:17:08.270Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.55,
+  "vaultPct": 0.00019147399807308411
+}

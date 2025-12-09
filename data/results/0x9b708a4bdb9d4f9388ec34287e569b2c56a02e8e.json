@@ -1,0 +1,238 @@
+{
+  "portfolio": {
+    "address": "0x9b708a4bdb9d4f9388ec34287e569b2c56a02e8e",
+    "totalValue": "$760,325",
+    "walletLifetime": "950 days",
+    "tokens": [
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1596",
+        "amount": "1,886,176.0199",
+        "usdValue": "$301,033.69"
+      },
+      {
+        "symbol": "SOCKS",
+        "chain": "eth",
+        "price": "$15,810.9782",
+        "amount": "2.2900",
+        "usdValue": "$36,207.01"
+      },
+      {
+        "symbol": "DRV",
+        "chain": "base",
+        "price": "$0.0369",
+        "amount": "858,980.2903",
+        "usdValue": "$31,722.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.9700",
+        "amount": "5.3298",
+        "usdValue": "$16,559.57"
+      },
+      {
+        "symbol": "BOLD",
+        "chain": "eth",
+        "price": "$0.9955",
+        "amount": "4,932.5296",
+        "usdValue": "$4,910.42"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.5066",
+        "amount": "690.3423",
+        "usdValue": "$3,801.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,105.7400",
+        "amount": "0.2191",
+        "usdValue": "$680.45"
+      },
+      {
+        "symbol": "SBET",
+        "chain": "eth",
+        "price": "$0.00001498",
+        "amount": "28,012,992.7364",
+        "usdValue": "$419.55"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "LICKO",
+        "usdValue": "$204,211"
+      },
+      {
+        "protocol": "Turtle",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "Locked",
+        "token": "USDC",
+        "usdValue": "$151,593"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "plasma",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WXPL",
+        "usdValue": "$8,166"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$206"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "UNI",
+        "usdValue": "$44"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9b708a4bdb9d4f9388ec34287e569b2c56a02e8e",
+    "topProtocols": [
+      {
+        "name": "0x1157…4101",
+        "volume": "$37M"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$14M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$12M"
+      },
+      {
+        "name": "0x2c58…5755",
+        "volume": "$11M"
+      },
+      {
+        "name": "Plasma",
+        "volume": "$10M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$8M"
+      },
+      {
+        "name": "0xbb9f…c613",
+        "volume": "$1M"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1M"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$1M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$1M"
+      },
+      {
+        "name": "000KEthena",
+        "volume": "$940K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$811K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$500K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$49M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$37M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6M"
+      },
+      {
+        "name": "METH",
+        "volume": "$5M"
+      },
+      {
+        "name": "ENA",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDe",
+        "volume": "$808K"
+      },
+      {
+        "name": "SOCKS",
+        "volume": "$104K"
+      },
+      {
+        "name": "APE",
+        "volume": "$97K"
+      },
+      {
+        "name": "DRV",
+        "volume": "$24K"
+      },
+      {
+        "name": "SBET",
+        "volume": "$22K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$19K"
+      },
+      {
+        "name": "LOOKS",
+        "volume": "$7K"
+      },
+      {
+        "name": "BOLD",
+        "volume": "$5K"
+      },
+      {
+        "name": "EPS",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$906"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:55:50.779Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.06549140944627807,
+  "vaultPct": 0.00001217727831343061
+}

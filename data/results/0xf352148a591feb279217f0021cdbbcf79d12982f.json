@@ -1,0 +1,206 @@
+{
+  "portfolio": {
+    "address": "0xf352148a591feb279217f0021cdbbcf79d12982f",
+    "totalValue": "$933,127",
+    "walletLifetime": "321 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.2700",
+        "amount": "25.1704",
+        "usdValue": "$78,689.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "katana",
+        "price": "$3,126.2700",
+        "amount": "0.0500",
+        "usdValue": "$156.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.3800",
+        "amount": "0.0138",
+        "usdValue": "$43.21"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "81.2279",
+        "usdValue": "$10.05"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "0.0022",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "0.00006",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7906",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Yearn V3",
+        "chain": "katana",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "vbUSDC",
+        "usdValue": "$464,194"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$390,034"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf352148a591feb279217f0021cdbbcf79d12982f",
+    "topProtocols": [
+      {
+        "name": "Hyperliquid",
+        "volume": "$1M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$597K"
+      },
+      {
+        "name": "Agglayer Unified Bridge",
+        "volume": "$461K"
+      },
+      {
+        "name": "Yearn V3",
+        "volume": "$460K"
+      },
+      {
+        "name": "Agglayer",
+        "volume": "$460K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$414K"
+      },
+      {
+        "name": "0x5594…ed53",
+        "volume": "$283K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$264K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$214K"
+      },
+      {
+        "name": "Hyperlane",
+        "volume": "$200K"
+      },
+      {
+        "name": "0x",
+        "volume": "$193K"
+      },
+      {
+        "name": "0x6d1b…d941",
+        "volume": "$189K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$153K"
+      },
+      {
+        "name": "0xc897…30c1",
+        "volume": "$130K"
+      },
+      {
+        "name": "0x2887…b8d8",
+        "volume": "$119K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$119K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$100K"
+      },
+      {
+        "name": "0xc20f…ff57",
+        "volume": "$100K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "vbUSDC",
+        "volume": "$921K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$327K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$260K"
+      },
+      {
+        "name": "POL",
+        "volume": "$16"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:57:20.782Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 38.9,
+  "vaultPct": 0.00723295055637822
+}

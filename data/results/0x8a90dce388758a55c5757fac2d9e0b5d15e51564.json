@@ -1,0 +1,206 @@
+{
+  "portfolio": {
+    "address": "0x8a90dce388758a55c5757fac2d9e0b5d15e51564",
+    "totalValue": "$78,027",
+    "walletLifetime": "851 days",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,617.3900",
+        "amount": "0.0800",
+        "usdValue": "$7,249.39"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7628",
+        "amount": "200.4949",
+        "usdValue": "$2,759.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.4500",
+        "amount": "0.0298",
+        "usdValue": "$93.01"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "52.1670",
+        "usdValue": "$52.16"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "11.1218",
+        "usdValue": "$11.12"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001002",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "OOMER",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0300",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$67,862"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8a90dce388758a55c5757fac2d9e0b5d15e51564",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$378K"
+      },
+      {
+        "name": "0xf1fd…1116",
+        "volume": "$137K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$97K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$53K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$48K"
+      },
+      {
+        "name": "0x5323…43e6",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x4361…6141",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xfeee…e046",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xb491…a729",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x09d1…23c2",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x86f1…42bd",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x3489…2950",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xe787…2adb",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x6d40…6e97",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4d16…37ca",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xce59…946b",
+        "volume": "$4K"
+      },
+      {
+        "name": "OTSea",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$471K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$216K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$149K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$57K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$38K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$32K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$11K"
+      },
+      {
+        "name": "OTSea",
+        "volume": "$8K"
+      },
+      {
+        "name": "BOB",
+        "volume": "$3K"
+      },
+      {
+        "name": "FUNDED",
+        "volume": "$2K"
+      },
+      {
+        "name": "OTACON",
+        "volume": "$2K"
+      },
+      {
+        "name": "OPUL",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:05:23.319Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 9.010731817087137,
+  "vaultPct": 0.0016754287328991087
+}

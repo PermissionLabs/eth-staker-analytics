@@ -1,0 +1,92 @@
+{
+  "portfolio": {
+    "address": "0xb6da1080a28348bebb4313798601378fc76a9e52",
+    "totalValue": "$8,333",
+    "walletLifetime": "1411 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,155.1500",
+        "amount": "0.9874",
+        "usdValue": "$3,115.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,155.1500",
+        "amount": "0.0082",
+        "usdValue": "$25.93"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "10.8673",
+        "usdValue": "$10.87"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9973",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0019",
+        "amount": "1.1999",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WLTH",
+        "chain": "base",
+        "price": "$0.0028",
+        "amount": "0.7224",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1401",
+        "amount": "2,330.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$4,883"
+      },
+      {
+        "protocol": "Common Wealth",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WLTH",
+        "usdValue": "$297"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb6da1080a28348bebb4313798601378fc76a9e52",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T09:31:21.080Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.330267109095683,
+  "vaultPct": 0.00009988688701320548
+}

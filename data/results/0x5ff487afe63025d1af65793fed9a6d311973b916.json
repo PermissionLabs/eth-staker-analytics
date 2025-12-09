@@ -1,0 +1,171 @@
+{
+  "portfolio": {
+    "address": "0x5ff487afe63025d1af65793fed9a6d311973b916",
+    "totalValue": "$3,860",
+    "walletLifetime": "1306 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,095.2200",
+        "amount": "0.1107",
+        "usdValue": "$342.66"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3197",
+        "amount": "94.8646",
+        "usdValue": "$30.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,095.2200",
+        "amount": "0.0066",
+        "usdValue": "$20.37"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "104.9612",
+        "usdValue": "$12.96"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,095.2200",
+        "amount": "0.0002",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅978",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,453"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5ff487afe63025d1af65793fed9a6d311973b916",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x43fb…47b1",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8077…464d",
+        "volume": "$1K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$921"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$920"
+      },
+      {
+        "name": "0x2a42…32f9",
+        "volume": "$487"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$372"
+      },
+      {
+        "name": "0x46ae…5c61",
+        "volume": "$371"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$134"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$78"
+      },
+      {
+        "name": "0xae23…d94f",
+        "volume": "$5"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "POL",
+        "volume": "$2K"
+      },
+      {
+        "name": "stMATIC",
+        "volume": "$939"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$743"
+      },
+      {
+        "name": "USDT",
+        "volume": "$742"
+      },
+      {
+        "name": "OP",
+        "volume": "$376"
+      },
+      {
+        "name": "SHIB",
+        "volume": "$37"
+      },
+      {
+        "name": "FRAX",
+        "volume": "$24"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:17:46.182Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.9965597081206545,
+  "vaultPct": 0.00007482951828721861
+}

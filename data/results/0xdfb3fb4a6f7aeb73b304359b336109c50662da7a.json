@@ -1,0 +1,268 @@
+{
+  "portfolio": {
+    "address": "0xdfb3fb4a6f7aeb73b304359b336109c50662da7a",
+    "totalValue": "$14,548",
+    "walletLifetime": "1089 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.9300",
+        "amount": "0.1037",
+        "usdValue": "$321.97"
+      },
+      {
+        "symbol": "SWISE",
+        "chain": "eth",
+        "price": "$0.0061",
+        "amount": "5,478.6180",
+        "usdValue": "$33.24"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1044",
+        "amount": "4.0000",
+        "usdValue": "$4.42"
+      },
+      {
+        "symbol": "OBOL",
+        "chain": "eth",
+        "price": "$0.0307",
+        "amount": "82.7086",
+        "usdValue": "$2.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,103.9300",
+        "amount": "0.0006",
+        "usdValue": "$1.87"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7844",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "0.00001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRM",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "2,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$9,193"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "osETH",
+        "usdValue": "$2,395"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$798"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$534"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$496"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDe",
+        "usdValue": "$414"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$354"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdfb3fb4a6f7aeb73b304359b336109c50662da7a",
+    "topProtocols": [
+      {
+        "name": "StakeWise",
+        "volume": "$26K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$18K"
+      },
+      {
+        "name": "0x5e87…b703",
+        "volume": "$16K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$15K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$11K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "Beets",
+        "volume": "$10K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x4880…ec71",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x1a58…f738",
+        "volume": "$10K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$9K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$9K"
+      },
+      {
+        "name": "Symbiotic",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$9K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$8K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$144K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$48K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "osETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$955"
+      },
+      {
+        "name": "SWISE",
+        "volume": "$893"
+      },
+      {
+        "name": "USDe",
+        "volume": "$600"
+      },
+      {
+        "name": "OBOL",
+        "volume": "$397"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$125"
+      },
+      {
+        "name": "NT",
+        "volume": "$2B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:27:10.556Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.941975423338848,
+  "vaultPct": 0.0005470221793082203
+}

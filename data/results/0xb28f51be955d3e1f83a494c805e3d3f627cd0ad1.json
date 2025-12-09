@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0xb28f51be955d3e1f83a494c805e3d3f627cd0ad1",
+    "totalValue": "$262,064",
+    "walletLifetime": "881 days",
+    "tokens": [
+      {
+        "symbol": "upNUSD",
+        "chain": "eth",
+        "price": "$1.0032",
+        "amount": "102,016.3069",
+        "usdValue": "$102,343.22"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "80,866.1619",
+        "usdValue": "$80,849.99"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "54,990.0000",
+        "usdValue": "$54,979.00"
+      },
+      {
+        "symbol": "thBILL",
+        "chain": "arb",
+        "price": "$1.0126",
+        "amount": "8,456.4472",
+        "usdValue": "$8,562.58"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "7,194.2857",
+        "usdValue": "$7,195.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.7200",
+        "amount": "1.3766",
+        "usdValue": "$4,273.82"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,104.7200",
+        "amount": "0.4054",
+        "usdValue": "$1,258.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,105.1600",
+        "amount": "0.3196",
+        "usdValue": "$992.33"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "hyper",
+        "price": "$1.0002",
+        "amount": "519.9444",
+        "usdValue": "$520.03"
+      },
+      {
+        "symbol": "BERA",
+        "chain": "bera",
+        "price": "$0.8360",
+        "amount": "399.7979",
+        "usdValue": "$334.23"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0272",
+        "amount": "10,638.0000",
+        "usdValue": "$289.43"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$18"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb28f51be955d3e1f83a494c805e3d3f627cd0ad1",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$971K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$941K"
+      },
+      {
+        "name": "0x",
+        "volume": "$921K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$912K"
+      },
+      {
+        "name": "0x022d…4e42",
+        "volume": "$670K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$605K"
+      },
+      {
+        "name": "MegaETH",
+        "volume": "$547K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$528K"
+      },
+      {
+        "name": "0x6552…35da",
+        "volume": "$449K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$433K"
+      },
+      {
+        "name": "0xb281…e4b2",
+        "volume": "$405K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$395K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$361K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$359K"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$333K"
+      },
+      {
+        "name": "Upshift",
+        "volume": "$323K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$295K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$292K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$282K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "USR",
+        "volume": "$903K"
+      },
+      {
+        "name": "thBILL",
+        "volume": "$619K"
+      },
+      {
+        "name": "iUSD",
+        "volume": "$413K"
+      },
+      {
+        "name": "cUSD",
+        "volume": "$378K"
+      },
+      {
+        "name": "USDB",
+        "volume": "$375K"
+      },
+      {
+        "name": "USD0",
+        "volume": "$341K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$306K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$227K"
+      },
+      {
+        "name": "USUAL",
+        "volume": "$218K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:39:52.853Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.05000000000000071,
+  "vaultPct": 0.0005576794822978071
+}

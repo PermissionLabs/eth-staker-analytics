@@ -1,0 +1,131 @@
+{
+  "portfolio": {
+    "address": "0x3ed2b32726fe789397bdd7ea929f140347fdfede",
+    "totalValue": "$32,423",
+    "walletLifetime": "517 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "32,293.1159",
+        "usdValue": "$32,289.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.6800",
+        "amount": "0.0150",
+        "usdValue": "$46.89"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x3ed2b32726fe789397bdd7ea929f140347fdfede",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$619K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$536K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$521K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$412K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$412K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$281K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$192K"
+      },
+      {
+        "name": "0x53f0…58d4",
+        "volume": "$191K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$190K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$126K"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$122K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$115K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$581K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$367K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$145K"
+      },
+      {
+        "name": "WETH.e",
+        "volume": "$104K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$95K"
+      },
+      {
+        "name": "FRAX",
+        "volume": "$90K"
+      },
+      {
+        "name": "frxETH",
+        "volume": "$89K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$855"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:42:44.662Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 154.86139341719561,
+  "vaultPct": 0.02879446790947073
+}

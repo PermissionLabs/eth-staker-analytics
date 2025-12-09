@@ -1,0 +1,196 @@
+{
+  "portfolio": {
+    "address": "0x23d0f8944468f79fb06850c136a0e6b3ee4a450f",
+    "totalValue": "$441,059",
+    "walletLifetime": "1379 days",
+    "tokens": [
+      {
+        "symbol": "MAI",
+        "chain": "base",
+        "price": "$0.9949",
+        "amount": "228.1474",
+        "usdValue": "$226.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.0200",
+        "amount": "0.0621",
+        "usdValue": "$192.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,102.0200",
+        "amount": "0.0332",
+        "usdValue": "$103.10"
+      },
+      {
+        "symbol": "QI",
+        "chain": "ftm",
+        "price": "$0.0168",
+        "amount": "5,827.7100",
+        "usdValue": "$98.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,102.0200",
+        "amount": "0.0174",
+        "usdValue": "$54.06"
+      },
+      {
+        "symbol": "mooBIFI",
+        "chain": "base",
+        "price": "$142.8957",
+        "amount": "0.3419",
+        "usdValue": "$48.86"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1229",
+        "amount": "107.7961",
+        "usdValue": "$13.25"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.8000",
+        "amount": "0.0133",
+        "usdValue": "$11.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.0200",
+        "amount": "0.0012",
+        "usdValue": "$3.75"
+      },
+      {
+        "symbol": "BAL",
+        "chain": "matic",
+        "price": "$0.6736",
+        "amount": "4.9968",
+        "usdValue": "$3.37"
+      },
+      {
+        "symbol": "WBNB",
+        "chain": "bsc",
+        "price": "$891.8000",
+        "amount": "0.0029",
+        "usdValue": "$2.60"
+      },
+      {
+        "symbol": "GMONAD",
+        "chain": "monad",
+        "price": "$0.0₅4074",
+        "amount": "590,318.0000",
+        "usdValue": "$2.41"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "2.1858",
+        "usdValue": "$2.19"
+      },
+      {
+        "symbol": "NOGS",
+        "chain": "base",
+        "price": "$0.0₅6031",
+        "amount": "321,243.7755",
+        "usdValue": "$1.94"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "1.9042",
+        "usdValue": "$1.90"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6000",
+        "amount": "0.1306",
+        "usdValue": "$1.78"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "cap",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "cUSD",
+        "usdValue": "$322,097"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$117,947"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$158"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BIFI",
+        "usdValue": "$67"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "YT-stcUSD-29JAN2026",
+        "usdValue": "$20"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "QiDao",
+        "chain": "matic",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x23d0f8944468f79fb06850c136a0e6b3ee4a450f",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T03:02:11.996Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 88.27646816688201,
+  "vaultPct": 0.016413864512667183
+}

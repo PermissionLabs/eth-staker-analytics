@@ -1,0 +1,164 @@
+{
+  "portfolio": {
+    "address": "0x6783190c98c886f09bb8276b56b3a89edde9b8f5",
+    "totalValue": "$1,655",
+    "walletLifetime": "715 days",
+    "tokens": [
+      {
+        "symbol": "BEAM",
+        "chain": "eth",
+        "price": "$0.0033",
+        "amount": "72,075.1393",
+        "usdValue": "$239.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,147.4600",
+        "amount": "0.0009",
+        "usdValue": "$2.76"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,413"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6783190c98c886f09bb8276b56b3a89edde9b8f5",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x58b7…5023",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x936a…2f6b",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xb144…9f9a",
+        "volume": "$941"
+      },
+      {
+        "name": "0x1c72…de5d",
+        "volume": "$8880"
+      },
+      {
+        "name": "x",
+        "volume": "$217"
+      },
+      {
+        "name": "0xdc1b…0b44",
+        "volume": "$116"
+      },
+      {
+        "name": "0x4a7f…3901",
+        "volume": "$47"
+      },
+      {
+        "name": "0x78e1…5982",
+        "volume": "$11B"
+      },
+      {
+        "name": "inance",
+        "volume": "$10"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7"
+      },
+      {
+        "name": "0x505a…7c33",
+        "volume": "$5B"
+      },
+      {
+        "name": "asenames",
+        "volume": "$2"
+      },
+      {
+        "name": "0x544f…feaa",
+        "volume": "$2B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$20"
+      },
+      {
+        "name": "0xd36f…2c4c",
+        "volume": "$1"
+      },
+      {
+        "name": "0xa08f…dd2c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "BEAM",
+        "volume": "$1"
+      },
+      {
+        "name": "PAAL",
+        "volume": "$574"
+      },
+      {
+        "name": "WLFI",
+        "volume": "$418"
+      },
+      {
+        "name": "GPU",
+        "volume": "$176"
+      },
+      {
+        "name": "x0",
+        "volume": "$157"
+      },
+      {
+        "name": "DEAI",
+        "volume": "$118"
+      },
+      {
+        "name": "USDC",
+        "volume": "$66"
+      },
+      {
+        "name": "IMX",
+        "volume": "$57"
+      },
+      {
+        "name": "RETT",
+        "volume": "$5B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:58:13.747Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.0909332217938845,
+  "vaultPct": 0.00020284488569525866
+}

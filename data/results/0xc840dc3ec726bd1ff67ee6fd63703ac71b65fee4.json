@@ -1,0 +1,175 @@
+{
+  "portfolio": {
+    "address": "0xc840dc3ec726bd1ff67ee6fd63703ac71b65fee4",
+    "totalValue": "$386",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,134.2100",
+        "amount": "0.0220",
+        "usdValue": "$68.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,134.2100",
+        "amount": "0.0062",
+        "usdValue": "$19.35"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "1,606.5548",
+        "usdValue": "$12.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,134.7100",
+        "amount": "0.0040",
+        "usdValue": "$12.51"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$901.7000",
+        "amount": "0.0054",
+        "usdValue": "$4.87"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,134.2100",
+        "amount": "0.0011",
+        "usdValue": "$3.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,134.7100",
+        "amount": "0.0005",
+        "usdValue": "$1.46"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$262"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Loanshark",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc840dc3ec726bd1ff67ee6fd63703ac71b65fee4",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$6K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$6K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x9026…587a",
+        "volume": "$5K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "endi Finance",
+        "volume": "$699"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$549B"
+      },
+      {
+        "name": "itget",
+        "volume": "$531"
+      },
+      {
+        "name": "Rho Markets",
+        "volume": "$384"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$359"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$357"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$354"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$248"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$230"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$471"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$298"
+      },
+      {
+        "name": "DAI",
+        "volume": "$180"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:40:22.892Z",
+  "source": "moonwell",
+  "vaultBalance": 0.08118982880766205,
+  "vaultPct": 0.0014729642525569235
+}

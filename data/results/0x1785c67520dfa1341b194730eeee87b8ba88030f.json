@@ -1,0 +1,83 @@
+{
+  "portfolio": {
+    "address": "0x1785c67520dfa1341b194730eeee87b8ba88030f",
+    "totalValue": "$1,133",
+    "walletLifetime": "728 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,133.9600",
+        "amount": "0.0180",
+        "usdValue": "$56.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.9600",
+        "amount": "0.0057",
+        "usdValue": "$17.94"
+      },
+      {
+        "symbol": "BTCETF",
+        "chain": "eth",
+        "price": "$0.0001",
+        "amount": "28,007.0000",
+        "usdValue": "$3.97"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,055"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1785c67520dfa1341b194730eeee87b8ba88030f",
+    "topProtocols": [
+      {
+        "name": "Kelp DAO",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x94db…0c74",
+        "volume": "$518B"
+      },
+      {
+        "name": "itget",
+        "volume": "$228B"
+      },
+      {
+        "name": "itcoin ETF",
+        "volume": "$195K"
+      },
+      {
+        "name": "raken",
+        "volume": "$154"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$154K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "BTCETF",
+        "volume": "$104"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:17:55.070Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.3089602217877453,
+  "vaultPct": 0.0034460155307440604
+}

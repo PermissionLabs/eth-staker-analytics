@@ -1,0 +1,135 @@
+{
+  "portfolio": {
+    "address": "0x3e10d3249bae1dbed6269b3fa7a11859af6c35d0",
+    "totalValue": "$314,835",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "352.7262",
+        "usdValue": "$352.66"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.3400",
+        "amount": "0.0470",
+        "usdValue": "$146.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.3400",
+        "amount": "0.0364",
+        "usdValue": "$113.71"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$257,527"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$56,694"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3e10d3249bae1dbed6269b3fa7a11859af6c35d0",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$4M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3M"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$379K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$298K"
+      },
+      {
+        "name": "0x8fbc…3587",
+        "volume": "$166K"
+      },
+      {
+        "name": "0x9df1…34cd",
+        "volume": "$87K"
+      },
+      {
+        "name": "0xe773…e107",
+        "volume": "$80K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$62K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$55K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$53K"
+      },
+      {
+        "name": "Bebop",
+        "volume": "$50K"
+      },
+      {
+        "name": "0xedca…40c0",
+        "volume": "$46K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$37K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$6M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$973K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$104K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:23:17.513Z",
+  "source": "base_aave",
+  "vaultBalance": 121.2586146200002,
+  "vaultPct": 0.17838115393660822
+}

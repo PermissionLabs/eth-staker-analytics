@@ -1,0 +1,98 @@
+{
+  "portfolio": {
+    "address": "0x2274b36256f7e9ec76b3746bd8ce6d63fb2bf8ec",
+    "totalValue": "$1,333",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.7100",
+        "amount": "0.0016",
+        "usdValue": "$4.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.7100",
+        "amount": "0.0010",
+        "usdValue": "$3.08"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "1.8200",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,325"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2274b36256f7e9ec76b3746bd8ce6d63fb2bf8ec",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$16K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x2b2e…48b0",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x6852…f281",
+        "volume": "$18"
+      },
+      {
+        "name": "0x228e…86bc",
+        "volume": "$2"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$31K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:38:42.350Z",
+  "source": "base_aave",
+  "vaultBalance": 0.4257805616395012,
+  "vaultPct": 0.000626357377964832
+}

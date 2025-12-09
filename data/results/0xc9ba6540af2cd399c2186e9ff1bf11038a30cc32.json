@@ -1,0 +1,87 @@
+{
+  "portfolio": {
+    "address": "0xc9ba6540af2cd399c2186e9ff1bf11038a30cc32",
+    "totalValue": "$500",
+    "walletLifetime": "373 days",
+    "tokens": [
+      {
+        "symbol": "GHO",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "5.0000",
+        "usdValue": "$5.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.4100",
+        "amount": "0.0007",
+        "usdValue": "$2.28"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1218",
+        "amount": "0.6014",
+        "usdValue": "$0.07"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$493"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc9ba6540af2cd399c2186e9ff1bf11038a30cc32",
+    "topProtocols": [
+      {
+        "name": "0x8a37…9533",
+        "volume": "$618B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$618"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$604"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$603"
+      },
+      {
+        "name": "0xc386…9da5",
+        "volume": "$4"
+      },
+      {
+        "name": "0x706a…0528",
+        "volume": "$4"
+      },
+      {
+        "name": "0x0197…192c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "POL",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:18:58.321Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.15938826517859433,
+  "vaultPct": 0.0000296361810103772
+}

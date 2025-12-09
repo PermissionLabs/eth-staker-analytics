@@ -1,0 +1,185 @@
+{
+  "portfolio": {
+    "address": "0x75f4e977f1a88e77b0308209c5bf47172ab35d92",
+    "totalValue": "$9,593",
+    "walletLifetime": "348 days",
+    "tokens": [
+      {
+        "symbol": "USD1",
+        "chain": "eth",
+        "price": "$0.9990",
+        "amount": "47.0000",
+        "usdValue": "$46.95"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8615",
+        "amount": "14.9470",
+        "usdValue": "$12.88"
+      },
+      {
+        "symbol": "KAITO",
+        "chain": "base",
+        "price": "$0.6598",
+        "amount": "9.2822",
+        "usdValue": "$6.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.3400",
+        "amount": "0.0012",
+        "usdValue": "$3.75"
+      },
+      {
+        "symbol": "PAI",
+        "chain": "bsc",
+        "price": "$0.0094",
+        "amount": "47.0000",
+        "usdValue": "$0.44"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,793"
+      },
+      {
+        "protocol": "World Liberty Financial",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "WLFI",
+        "usdValue": "$3,690"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$39"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x75f4e977f1a88e77b0308209c5bf47172ab35d92",
+    "topProtocols": [
+      {
+        "name": "vfat.io",
+        "volume": "$94K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$48K"
+      },
+      {
+        "name": "0x6160…8bb5",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x4a2b…b67c",
+        "volume": "$8K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$7K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$6K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0e2e…8d90",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2d58…631a",
+        "volume": "$2K"
+      },
+      {
+        "name": "World Liberty Financial",
+        "volume": "$1K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$859"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$95K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$51K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$25K"
+      },
+      {
+        "name": "uSUI",
+        "volume": "$6K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$774K"
+      },
+      {
+        "name": "AITO",
+        "volume": "$148"
+      },
+      {
+        "name": "USD1",
+        "volume": "$47"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$30"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:56:15.673Z",
+  "source": "base_aave",
+  "vaultBalance": 3.9227977157789375,
+  "vaultPct": 0.005770750271173902
+}

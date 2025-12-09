@@ -1,0 +1,193 @@
+{
+  "portfolio": {
+    "address": "0x9cbffef6f51755d92e491615b32a2b7c729ba4ed",
+    "totalValue": "$5,608",
+    "walletLifetime": "566 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.9800",
+        "amount": "0.0291",
+        "usdValue": "$91.05"
+      },
+      {
+        "symbol": "BTC",
+        "chain": "b2",
+        "price": "$90,445.6000",
+        "amount": "0.0001",
+        "usdValue": "$9.04"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7917",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "WW",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "1.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LUCI",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "4,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "L2GPT",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "35.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SGAI",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "6,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$5,508"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9cbffef6f51755d92e491615b32a2b7c729ba4ed",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$365K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$123K"
+      },
+      {
+        "name": "0x4dec…af4f",
+        "volume": "$73K"
+      },
+      {
+        "name": "0x6dd7…72b9",
+        "volume": "$30K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x8434…a44e",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x786f…e220",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x30a6…1e53",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xdf3f…c7a6",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x91e9…ba4b",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1c72…de5d",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xc869…a518",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3263…ac67",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xbcda…6548",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa690…655a",
+        "volume": "$947"
+      },
+      {
+        "name": "0xf517…5d82",
+        "volume": "$529"
+      },
+      {
+        "name": "0x3dc8…c264",
+        "volume": "$352"
+      },
+      {
+        "name": "0x0d46…90c1",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$390K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$224K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$80K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$27K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$11K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:14:35.290Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.10519140950285338,
+  "vaultPct": 0.00001955897850616639
+}

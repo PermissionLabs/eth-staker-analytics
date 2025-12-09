@@ -1,0 +1,140 @@
+{
+  "portfolio": {
+    "address": "0x77479a74abdfe9acb6626b15950b4cc5e3fe6414",
+    "totalValue": "$16,587",
+    "walletLifetime": "1089 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.3900",
+        "amount": "1.3920",
+        "usdValue": "$4,347.86"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "5.0008",
+        "usdValue": "$5.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$11,603"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$630"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x77479a74abdfe9acb6626b15950b4cc5e3fe6414",
+    "topProtocols": [
+      {
+        "name": "0x",
+        "volume": "$44K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$42K"
+      },
+      {
+        "name": "0x19db…f066",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x13cb…23f3",
+        "volume": "$25K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x21d8…8879",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x4a69…b212",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x58b7…5023",
+        "volume": "$8K"
+      },
+      {
+        "name": "Gelato",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xd6d9…851f",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xe724…3315",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xcea8…85af",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x6f35…216c",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x928e…9117",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x76ce…ddc0",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xea32…2158",
+        "volume": "$817"
+      },
+      {
+        "name": "0x5666…89af",
+        "volume": "$815"
+      },
+      {
+        "name": "0x413a…4dae",
+        "volume": "$422"
+      },
+      {
+        "name": "0xf2cc…99a8",
+        "volume": "$48"
+      },
+      {
+        "name": "0xef02…5d8f",
+        "volume": "$25"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$166K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$118K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:56:30.195Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.19919504099215812,
+  "vaultPct": 0.00003703773477048875
+}

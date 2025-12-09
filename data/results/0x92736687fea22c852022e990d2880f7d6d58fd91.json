@@ -1,0 +1,211 @@
+{
+  "portfolio": {
+    "address": "0x92736687fea22c852022e990d2880f7d6d58fd91",
+    "totalValue": "$600",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,150.2100",
+        "amount": "0.0310",
+        "usdValue": "$97.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,149.8800",
+        "amount": "0.0166",
+        "usdValue": "$52.34"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0328",
+        "amount": "1,479.7342",
+        "usdValue": "$48.58"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "6,032.5322",
+        "usdValue": "$48.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,149.8800",
+        "amount": "0.0104",
+        "usdValue": "$32.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.8800",
+        "amount": "0.0010",
+        "usdValue": "$3.29"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$911.6000",
+        "amount": "0.0004",
+        "usdValue": "$0.32"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$158"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$158"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "WOO Network",
+        "chain": "era",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "era",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "ZK",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x92736687fea22c852022e990d2880f7d6d58fd91",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$932"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$843"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$795M"
+      },
+      {
+        "name": "averick",
+        "volume": "$776B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$524"
+      },
+      {
+        "name": "ES Protocol",
+        "volume": "$353"
+      },
+      {
+        "name": "WOO Network",
+        "volume": "$318K"
+      },
+      {
+        "name": "oi",
+        "volume": "$317"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$311"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$290"
+      },
+      {
+        "name": "Etherex",
+        "volume": "$2721"
+      },
+      {
+        "name": "inch",
+        "volume": "$264"
+      },
+      {
+        "name": "Onchain",
+        "volume": "$264"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$262"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$708"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$695"
+      },
+      {
+        "name": "USDt",
+        "volume": "$517"
+      },
+      {
+        "name": "m.USDT",
+        "volume": "$517"
+      },
+      {
+        "name": "USDT",
+        "volume": "$514"
+      },
+      {
+        "name": "ZK",
+        "volume": "$294"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$239"
+      },
+      {
+        "name": "ZAT",
+        "volume": "$238"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:06:14.651Z",
+  "source": "base_aave",
+  "vaultBalance": 0.05000058491261604,
+  "vaultPct": 0.00007355487329431109
+}

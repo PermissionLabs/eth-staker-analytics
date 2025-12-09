@@ -1,0 +1,111 @@
+{
+  "portfolio": {
+    "address": "0xcf756e6dd27bbb5e402ae955e47693263a46105c",
+    "totalValue": "$476",
+    "walletLifetime": "1314 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.4200",
+        "amount": "0.0105",
+        "usdValue": "$32.82"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9904",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$443"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcf756e6dd27bbb5e402ae955e47693263a46105c",
+    "topProtocols": [
+      {
+        "name": "FTX",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x87cb…1f56",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$186"
+      },
+      {
+        "name": "0x8934…ddc3",
+        "volume": "$178"
+      },
+      {
+        "name": "0x4656…513e",
+        "volume": "$146"
+      },
+      {
+        "name": "0x98db…ef8b",
+        "volume": "$102"
+      },
+      {
+        "name": "0x5b0a…33a5",
+        "volume": "$57B"
+      },
+      {
+        "name": "inance",
+        "volume": "$57"
+      },
+      {
+        "name": "0x151b…e96d",
+        "volume": "$48"
+      },
+      {
+        "name": "0x8216…4fd7",
+        "volume": "$43"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$7K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$203"
+      },
+      {
+        "name": "POL",
+        "volume": "$105B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:12:05.205Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.12886775560322558,
+  "vaultPct": 0.00000967640172080576
+}

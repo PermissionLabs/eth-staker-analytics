@@ -1,0 +1,257 @@
+{
+  "portfolio": {
+    "address": "0x1e81c2946d8cc07f08638428b37c95fc79111825",
+    "totalValue": "$22,647",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "PAXG",
+        "chain": "eth",
+        "price": "$4,200.1061",
+        "amount": "0.4449",
+        "usdValue": "$1,868.83"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "bsc",
+        "price": "$13.6795",
+        "amount": "132.0080",
+        "usdValue": "$1,805.80"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "1,585.4932",
+        "usdValue": "$1,585.49"
+      },
+      {
+        "symbol": "XRP",
+        "chain": "bsc",
+        "price": "$2.0514",
+        "amount": "586.6301",
+        "usdValue": "$1,203.44"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "bsc",
+        "price": "$13.6100",
+        "amount": "39.0619",
+        "usdValue": "$531.63"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "bsc",
+        "price": "$188.4400",
+        "amount": "2.1120",
+        "usdValue": "$397.99"
+      },
+      {
+        "symbol": "INJ",
+        "chain": "bsc",
+        "price": "$5.5300",
+        "amount": "38.5489",
+        "usdValue": "$213.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.0600",
+        "amount": "0.0283",
+        "usdValue": "$88.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.0600",
+        "amount": "0.0162",
+        "usdValue": "$50.42"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "base",
+        "price": "$2.3107",
+        "amount": "13.9444",
+        "usdValue": "$32.22"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.6000",
+        "amount": "0.0234",
+        "usdValue": "$20.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,113.0600",
+        "amount": "0.0050",
+        "usdValue": "$15.56"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1597",
+        "amount": "50.9021",
+        "usdValue": "$8.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LBTC",
+        "usdValue": "$10,627"
+      },
+      {
+        "protocol": "PancakeSwap V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "cbBTC",
+        "usdValue": "$1,905"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$1,218"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,039"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$27"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1e81c2946d8cc07f08638428b37c95fc79111825",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$27K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$10K"
+      },
+      {
+        "name": "Lombard",
+        "volume": "$8K"
+      },
+      {
+        "name": "Pimlico",
+        "volume": "$6K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$5K"
+      },
+      {
+        "name": "Krystal",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$5K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$5K"
+      },
+      {
+        "name": "Brink",
+        "volume": "$3K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$63K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$24K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$4K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$2K"
+      },
+      {
+        "name": "XRP",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$653"
+      },
+      {
+        "name": "LEND",
+        "volume": "$637"
+      },
+      {
+        "name": "INJ",
+        "volume": "$567"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:13:26.169Z",
+  "source": "base_aave",
+  "vaultBalance": 2.1372452727450697,
+  "vaultPct": 0.0031440593247132873
+}

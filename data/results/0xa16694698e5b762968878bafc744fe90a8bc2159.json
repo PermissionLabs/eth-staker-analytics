@@ -1,0 +1,337 @@
+{
+  "portfolio": {
+    "address": "0xa16694698e5b762968878bafc744fe90a8bc2159",
+    "totalValue": "$47,124",
+    "walletLifetime": "1479 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,155.7500",
+        "amount": "5.4877",
+        "usdValue": "$17,317.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,155.7500",
+        "amount": "2.6562",
+        "usdValue": "$8,382.26"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,155.7500",
+        "amount": "0.5188",
+        "usdValue": "$1,637.14"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$91,944.6200",
+        "amount": "0.0089",
+        "usdValue": "$817.00"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "arb",
+        "price": "$0.8350",
+        "amount": "421.3850",
+        "usdValue": "$351.86"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "eth",
+        "price": "$0.8350",
+        "amount": "390.4768",
+        "usdValue": "$326.05"
+      },
+      {
+        "symbol": "FLOKI",
+        "chain": "eth",
+        "price": "$0.00004741",
+        "amount": "4,237,792.1735",
+        "usdValue": "$200.90"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.4680",
+        "amount": "77.7307",
+        "usdValue": "$191.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,155.7500",
+        "amount": "0.0597",
+        "usdValue": "$188.43"
+      },
+      {
+        "symbol": "TOSHI",
+        "chain": "base",
+        "price": "$0.0004",
+        "amount": "379,940.7336",
+        "usdValue": "$157.33"
+      },
+      {
+        "symbol": "RDNT",
+        "chain": "arb",
+        "price": "$0.0107",
+        "amount": "13,377.8066",
+        "usdValue": "$143.28"
+      },
+      {
+        "symbol": "TOKEN",
+        "chain": "eth",
+        "price": "$0.0040",
+        "amount": "33,184.1774",
+        "usdValue": "$132.51"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.1000",
+        "amount": "0.1385",
+        "usdValue": "$126.01"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.4590",
+        "amount": "45.5059",
+        "usdValue": "$111.90"
+      },
+      {
+        "symbol": "GMX",
+        "chain": "arb",
+        "price": "$9.0090",
+        "amount": "10.0000",
+        "usdValue": "$90.09"
+      },
+      {
+        "symbol": "DEGEN",
+        "chain": "base",
+        "price": "$0.0015",
+        "amount": "39,889.4618",
+        "usdValue": "$58.36"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0102",
+        "amount": "5,459.3905",
+        "usdValue": "$55.61"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1251",
+        "amount": "366.4973",
+        "usdValue": "$45.85"
+      },
+      {
+        "symbol": "BNB(Legacy)",
+        "chain": "eth",
+        "price": "$1,026.9598",
+        "amount": "0.0377",
+        "usdValue": "$38.68"
+      },
+      {
+        "symbol": "BRETT",
+        "chain": "base",
+        "price": "$0.0191",
+        "amount": "1,884.4842",
+        "usdValue": "$36.03"
+      },
+      {
+        "symbol": "VITA",
+        "chain": "eth",
+        "price": "$0.4563",
+        "amount": "75.0000",
+        "usdValue": "$34.23"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$15,936"
+      },
+      {
+        "protocol": "FLOKI",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "FLOKI",
+        "usdValue": "$402"
+      },
+      {
+        "protocol": "TokenFi",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "TOKEN",
+        "usdValue": "$98"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$87"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$41"
+      },
+      {
+        "protocol": "Swell",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "SWELL",
+        "usdValue": "$30"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa16694698e5b762968878bafc744fe90a8bc2159",
+    "topProtocols": [
+      {
+        "name": "0xa47c…1acd",
+        "volume": "$76K"
+      },
+      {
+        "name": "Radiant Capital V2",
+        "volume": "$69K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$64K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$63K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$61K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$60K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$57K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$44K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$26K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$20K"
+      },
+      {
+        "name": "Magpie XYZ",
+        "volume": "$19K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$19K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$17K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$15K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$14K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "UST",
+        "volume": "$233K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$154K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$94K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$80K"
+      },
+      {
+        "name": "KweETH",
+        "volume": "$69K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$36K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$14K"
+      },
+      {
+        "name": "POL",
+        "volume": "$13K"
+      },
+      {
+        "name": "mETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "cmETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$10K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:47:52.029Z",
+  "source": "base_aave",
+  "vaultBalance": 5.036035335645064,
+  "vaultPct": 0.007408412154906238
+}

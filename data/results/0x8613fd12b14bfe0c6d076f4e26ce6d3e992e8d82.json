@@ -1,0 +1,100 @@
+{
+  "portfolio": {
+    "address": "0x8613fd12b14bfe0c6d076f4e26ce6d3e992e8d82",
+    "totalValue": "$557",
+    "walletLifetime": "410 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.0600",
+        "amount": "0.0961",
+        "usdValue": "$299.32"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$258"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8613fd12b14bfe0c6d076f4e26ce6d3e992e8d82",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x804b…013a",
+        "volume": "$7K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x795e…a63c",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$529"
+      },
+      {
+        "name": "0x973d…5595",
+        "volume": "$529"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa090…8984",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…0e49",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x49e2…de09",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "GUSD",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:04:23.237Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.08170266647207036,
+  "vaultPct": 0.000015191551334620706
+}

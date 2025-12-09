@@ -1,0 +1,227 @@
+{
+  "portfolio": {
+    "address": "0x4dc76f78b76886a3e9ced0cc0055568d491c52b9",
+    "totalValue": "$4,278",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,104.5500",
+        "amount": "0.0890",
+        "usdValue": "$276.36"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "196.4610",
+        "usdValue": "$196.42"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,104.5500",
+        "amount": "0.0074",
+        "usdValue": "$22.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.5500",
+        "amount": "0.0022",
+        "usdValue": "$6.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,104.5500",
+        "amount": "0.0021",
+        "usdValue": "$6.62"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6200",
+        "amount": "0.2475",
+        "usdValue": "$3.37"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "1.8989",
+        "usdValue": "$1.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.5500",
+        "amount": "0.0003",
+        "usdValue": "$1.07"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "base",
+        "price": "$1.0001",
+        "amount": "0.9987",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.2434",
+        "usdValue": "$0.24"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,516"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,242"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "avax",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,003"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "UNI",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4dc76f78b76886a3e9ced0cc0055568d491c52b9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "000Across V2",
+        "volume": "$999"
+      },
+      {
+        "name": "Euler",
+        "volume": "$996"
+      },
+      {
+        "name": "edgeX",
+        "volume": "$856"
+      },
+      {
+        "name": "0xe82e…26ce",
+        "volume": "$500"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$458"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$373"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$275M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$251M"
+      },
+      {
+        "name": "ungee",
+        "volume": "$251"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$222"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$207"
+      },
+      {
+        "name": "AERO",
+        "volume": "$165"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$46"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$19"
+      },
+      {
+        "name": "Cake",
+        "volume": "$7"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$5M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:13:15.905Z",
+  "source": "base_aave",
+  "vaultBalance": 0.9280164337099726,
+  "vaultPct": 0.0013651866536335704
+}

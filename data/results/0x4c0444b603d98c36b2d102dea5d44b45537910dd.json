@@ -1,0 +1,212 @@
+{
+  "portfolio": {
+    "address": "0x4c0444b603d98c36b2d102dea5d44b45537910dd",
+    "totalValue": "$350",
+    "walletLifetime": "916 days",
+    "tokens": [
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "3,997.0000",
+        "usdValue": "$31.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.9700",
+        "amount": "0.0012",
+        "usdValue": "$3.84"
+      },
+      {
+        "symbol": "EURA",
+        "chain": "celo",
+        "price": "$1.1621",
+        "amount": "0.1312",
+        "usdValue": "$0.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.9700",
+        "amount": "0.00002929",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "core",
+        "price": "$0.9999",
+        "amount": "0.0644",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "0.0363",
+        "usdValue": "$0.04"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$314"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Sonne Finance",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "SONNE",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4c0444b603d98c36b2d102dea5d44b45537910dd",
+    "topProtocols": [
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$28K"
+      },
+      {
+        "name": "0xa90e…394e",
+        "volume": "$14K"
+      },
+      {
+        "name": "Seamless Protocol",
+        "volume": "$14K"
+      },
+      {
+        "name": "Sonne Finance",
+        "volume": "$14K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xd3d7…c240",
+        "volume": "$7K"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$7K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$6K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$2K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$2K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$977"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$628B"
+      },
+      {
+        "name": "inance",
+        "volume": "$566"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$508"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$55K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$4K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$105M"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$40"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:17:03.155Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09831432036472823,
+  "vaultPct": 0.0017836406547270302
+}

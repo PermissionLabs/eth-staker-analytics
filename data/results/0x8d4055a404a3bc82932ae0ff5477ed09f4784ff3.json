@@ -1,0 +1,229 @@
+{
+  "portfolio": {
+    "address": "0x8d4055a404a3bc82932ae0ff5477ed09f4784ff3",
+    "totalValue": "$10,703",
+    "walletLifetime": "620 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,132.9800",
+        "amount": "0.1400",
+        "usdValue": "$438.62"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "198.7000",
+        "usdValue": "$198.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.9800",
+        "amount": "0.0300",
+        "usdValue": "$93.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.9800",
+        "amount": "0.0154",
+        "usdValue": "$48.24"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "2.8069",
+        "usdValue": "$2.81"
+      },
+      {
+        "symbol": "ORO",
+        "chain": "bsc",
+        "price": "$0.0004",
+        "amount": "2,566.3762",
+        "usdValue": "$0.90"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.0083",
+        "usdValue": ""
+      },
+      {
+        "symbol": "opBNB",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "2,329.2206",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "DeFAI",
+        "chain": "arb",
+        "price": "$0.0000",
+        "amount": "640.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,468"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,269"
+      },
+      {
+        "protocol": "Renzo",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "ETH",
+        "usdValue": "$159"
+      },
+      {
+        "protocol": "Swell",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$24"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8d4055a404a3bc82932ae0ff5477ed09f4784ff3",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$49K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$29K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$17K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$7K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$6K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x8a3a…6401",
+        "volume": "$5K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf2ec…1fc3",
+        "volume": "$502"
+      },
+      {
+        "name": "ZKasino",
+        "volume": "$466"
+      },
+      {
+        "name": "0x5ccd…e264",
+        "volume": "$155"
+      },
+      {
+        "name": "0xf4e0…d9c4",
+        "volume": "$133"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$42"
+      },
+      {
+        "name": "0xea34…c72d",
+        "volume": "$15"
+      },
+      {
+        "name": "0x940f…452e",
+        "volume": "$10"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$55K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$36K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$9K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$635"
+      },
+      {
+        "name": "USDT",
+        "volume": "$221"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$15"
+      },
+      {
+        "name": "ORO",
+        "volume": "$8"
+      },
+      {
+        "name": "opBNB",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:09:10.431Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.85,
+  "vaultPct": 0.00034398350975063517
+}

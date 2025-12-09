@@ -1,0 +1,111 @@
+{
+  "portfolio": {
+    "address": "0x98f88ae49ca1aa700f616cb5bf89e1c156886f32",
+    "totalValue": "$2,173",
+    "walletLifetime": "626 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.9400",
+        "amount": "0.4247",
+        "usdValue": "$1,328.74"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6452",
+        "amount": "143.5924",
+        "usdValue": "$810.61"
+      },
+      {
+        "symbol": "TOWNS",
+        "chain": "eth",
+        "price": "$0.0078",
+        "amount": "4,274.2213",
+        "usdValue": "$33.30"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0286",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9896",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x98f88ae49ca1aa700f616cb5bf89e1c156886f32",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xef9e…2d54",
+        "volume": "$2K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$847"
+      },
+      {
+        "name": "0xbdce…8802",
+        "volume": "$43"
+      },
+      {
+        "name": "0x9740…c35c",
+        "volume": "$42"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xff1e…73b9",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$925"
+      },
+      {
+        "name": "TOWNS",
+        "volume": "$138"
+      },
+      {
+        "name": "USDT",
+        "volume": "$85B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:22:02.143Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.36378376388175215,
+  "vaultPct": 0.000027315737923338782
+}

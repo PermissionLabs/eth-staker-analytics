@@ -1,0 +1,177 @@
+{
+  "portfolio": {
+    "address": "0x3223ff0f272306030903f0444161f85c8dcdab9f",
+    "totalValue": "$2,501",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "LBTC",
+        "chain": "base",
+        "price": "$90,470.7524",
+        "amount": "0.0083",
+        "usdValue": "$746.41"
+      },
+      {
+        "symbol": "weETH",
+        "chain": "arb",
+        "price": "$3,385.8138",
+        "amount": "0.1830",
+        "usdValue": "$619.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.1100",
+        "amount": "0.0305",
+        "usdValue": "$95.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.1100",
+        "amount": "0.0089",
+        "usdValue": "$27.77"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "12.9353",
+        "usdValue": "$12.93"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "9.9939",
+        "usdValue": "$9.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.1100",
+        "amount": "0.0028",
+        "usdValue": "$8.70"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "5.7374",
+        "usdValue": "$5.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,130.1100",
+        "amount": "0.0014",
+        "usdValue": "$4.35"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.1000",
+        "amount": "0.0039",
+        "usdValue": "$3.48"
+      },
+      {
+        "symbol": "SEAM",
+        "chain": "base",
+        "price": "$0.54",
+        "amount": "3.81",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$963"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SEAM",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "YO",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDT0",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "bsc",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3223ff0f272306030903f0444161f85c8dcdab9f",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T20:21:40.890Z",
+  "source": "moonwell",
+  "vaultBalance": 0.16461727858259215,
+  "vaultPct": 0.0029865239312153813
+}

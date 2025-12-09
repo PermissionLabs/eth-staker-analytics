@@ -1,0 +1,249 @@
+{
+  "portfolio": {
+    "address": "0x468136142fa661443aa1c4ec0b3c11897a5112ab",
+    "totalValue": "$477",
+    "walletLifetime": "722 days",
+    "tokens": [
+      {
+        "symbol": "BLEU",
+        "chain": "base",
+        "price": "$0.00005404",
+        "amount": "3,000,095.8597",
+        "usdValue": "$162.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.5300",
+        "amount": "0.0113",
+        "usdValue": "$35.34"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6693",
+        "amount": "20.7475",
+        "usdValue": "$13.89"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "11.7432",
+        "usdValue": "$11.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,133.5300",
+        "amount": "0.0010",
+        "usdValue": "$3.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.4500",
+        "amount": "0.0010",
+        "usdValue": "$3.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.5300",
+        "amount": "0.0007",
+        "usdValue": "$2.19"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.3000",
+        "amount": "0.0017",
+        "usdValue": "$1.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,133.5300",
+        "amount": "0.0003",
+        "usdValue": "$1.08"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3194",
+        "amount": "1.9838",
+        "usdValue": "$0.63"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.3731",
+        "usdValue": "$0.37"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1239",
+        "amount": "2.7663",
+        "usdValue": "$0.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,133.5300",
+        "amount": "0.0001",
+        "usdValue": "$0.34"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$241"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "NURI Exchange",
+        "chain": "scrl",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "NURI",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x468136142fa661443aa1c4ec0b3c11897a5112ab",
+    "topProtocols": [
+      {
+        "name": "Ambient",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xc948…fe91",
+        "volume": "$4K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$3K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "Zebra V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$2K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$2K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$1K"
+      },
+      {
+        "name": "Element",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0000…a032",
+        "volume": "$1K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$994"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "SCR",
+        "volume": "$6K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$6K"
+      },
+      {
+        "name": "KSEND",
+        "volume": "$4K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "HOLD",
+        "volume": "$866"
+      },
+      {
+        "name": "weETH",
+        "volume": "$557B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:25:55.459Z",
+  "source": "moonwell",
+  "vaultBalance": 0.07551023047282153,
+  "vaultPct": 0.0013699236939184699
+}

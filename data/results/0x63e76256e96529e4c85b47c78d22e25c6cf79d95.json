@@ -1,0 +1,201 @@
+{
+  "portfolio": {
+    "address": "0x63e76256e96529e4c85b47c78d22e25c6cf79d95",
+    "totalValue": "$250,997",
+    "walletLifetime": "448 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.5500",
+        "amount": "1.0072",
+        "usdValue": "$3,128.91"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "344.8316",
+        "usdValue": "$344.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.5500",
+        "amount": "0.0463",
+        "usdValue": "$143.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.5500",
+        "amount": "0.0069",
+        "usdValue": "$21.58"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.9000",
+        "amount": "0.0100",
+        "usdValue": "$8.87"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "SKYA",
+        "chain": "base",
+        "price": "$0.0018",
+        "amount": "10.0000",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "0.0200",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "MCC",
+        "chain": "bsc",
+        "price": "$0.0000",
+        "amount": "0.0454",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$141,578"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$55,994"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$40,456"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$9,320"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x63e76256e96529e4c85b47c78d22e25c6cf79d95",
+    "topProtocols": [
+      {
+        "name": "0xb62a…34a6",
+        "volume": "$180K"
+      },
+      {
+        "name": "0xdd3c…9e0c",
+        "volume": "$140K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$140K"
+      },
+      {
+        "name": "0xe477…5412",
+        "volume": "$67K"
+      },
+      {
+        "name": "0xa034…7687",
+        "volume": "$37K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$35K"
+      },
+      {
+        "name": "0x552e…b9f8",
+        "volume": "$17K"
+      },
+      {
+        "name": "0xbf81…a10f",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x44e9…00e1",
+        "volume": "$11K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x8a0d…a99c",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xa5c5…0535",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x24a8…ea46",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x565c…15bc",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x5478…b301",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x71e9…adc4",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6896…08c0",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$280K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$240K"
+      },
+      {
+        "name": "XAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$8"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:09:24.003Z",
+  "source": "base_aave",
+  "vaultBalance": 18,
+  "vaultPct": 0.02647944462272748
+}

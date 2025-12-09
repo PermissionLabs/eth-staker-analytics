@@ -1,0 +1,282 @@
+{
+  "portfolio": {
+    "address": "0xb63965691aa9a71d4f99be87e5a6f8520692d26f",
+    "totalValue": "$46,185",
+    "walletLifetime": "212 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "7,875.1706",
+        "usdValue": "$7,875.17"
+      },
+      {
+        "symbol": "cUSD",
+        "chain": "celo",
+        "price": "$1.0001",
+        "amount": "5,188.0000",
+        "usdValue": "$5,188.40"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6640",
+        "amount": "3,734.4596",
+        "usdValue": "$2,479.80"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.5795",
+        "amount": "366.3054",
+        "usdValue": "$2,043.80"
+      },
+      {
+        "symbol": "USDS",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "280.0000",
+        "usdValue": "$279.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.4000",
+        "amount": "0.0783",
+        "usdValue": "$242.98"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.0360",
+        "amount": "2.9962",
+        "usdValue": "$87.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,103.5000",
+        "amount": "0.0100",
+        "usdValue": "$31.02"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Pendle V2",
+        "chain": "hyper",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-vkHYPE-13NOV2025",
+        "usdValue": "$8,602"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$7,997"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$5,762"
+      },
+      {
+        "protocol": "Instadapp Lite",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$3,166"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "PENDLE",
+        "usdValue": "$2,397"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "mtwCARROT",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb63965691aa9a71d4f99be87e5a6f8520692d26f",
+    "topProtocols": [
+      {
+        "name": "0x701e…3cda",
+        "volume": "$19K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$15K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xa2c3…43eb",
+        "volume": "$10K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xb639…d26f",
+        "volume": "$5K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xfbee…8737",
+        "volume": "$4K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xde34…4b8f",
+        "volume": "$2K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xefbd…d2dd",
+        "volume": "$300"
+      },
+      {
+        "name": "0xb4c2…2575",
+        "volume": "$150"
+      },
+      {
+        "name": "0x8b58…69b7",
+        "volume": "$51"
+      },
+      {
+        "name": "0x2f5f…16ab",
+        "volume": "$26"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$20B"
+      },
+      {
+        "name": "inance",
+        "volume": "$11"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$26K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$24K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$19K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "cUSD",
+        "volume": "$5K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$5K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$4K"
+      },
+      {
+        "name": "CPOOL",
+        "volume": "$2K"
+      },
+      {
+        "name": "CHEX",
+        "volume": "$669"
+      },
+      {
+        "name": "USDS",
+        "volume": "$320"
+      },
+      {
+        "name": "SNX",
+        "volume": "$301"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$31"
+      },
+      {
+        "name": "DRV",
+        "volume": "$7"
+      },
+      {
+        "name": "POL",
+        "volume": "$1B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:05:46.298Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.7044670751334612,
+  "vaultPct": 0.019010926321081454
+}

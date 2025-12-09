@@ -1,0 +1,261 @@
+{
+  "portfolio": {
+    "address": "0xb11312c6e33a702450c1c2ee5d3dbb35abf17679",
+    "totalValue": "$2,777",
+    "walletLifetime": "582 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.2900",
+        "amount": "0.0208",
+        "usdValue": "$65.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.2900",
+        "amount": "0.0088",
+        "usdValue": "$27.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,135.2900",
+        "amount": "0.0067",
+        "usdValue": "$20.90"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,135.0800",
+        "amount": "0.0010",
+        "usdValue": "$3.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,135.2900",
+        "amount": "0.0003",
+        "usdValue": "$0.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,135.2900",
+        "amount": "0.0001",
+        "usdValue": "$0.47"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1242",
+        "amount": "0.1818",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "POV",
+        "chain": "base",
+        "price": "$0.0₇1767",
+        "amount": "17,420.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1392",
+        "amount": "1,277.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "DAPP",
+        "chain": "scrl",
+        "price": "$0.0000",
+        "amount": "7.1322",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$1,416"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,018"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$225"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "StakeStone",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb11312c6e33a702450c1c2ee5d3dbb35abf17679",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$3K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "Zebra V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Scribe",
+        "volume": "$3K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$2K"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$2K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$961"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$961"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$805"
+      },
+      {
+        "name": "0x3885…6835",
+        "volume": "$701"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$622"
+      },
+      {
+        "name": "0xe088…ec60",
+        "volume": "$573"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$1K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$1K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$235"
+      },
+      {
+        "name": "SCR",
+        "volume": "$103"
+      },
+      {
+        "name": "DAI",
+        "volume": "$38B"
+      },
+      {
+        "name": "ERA",
+        "volume": "$32"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4"
+      },
+      {
+        "name": "DAPP",
+        "volume": "$3"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:12:54.402Z",
+  "source": "moonwell",
+  "vaultBalance": 0.06962879405614963,
+  "vaultPct": 0.0012632213431108693
+}

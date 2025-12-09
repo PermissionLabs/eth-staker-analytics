@@ -1,0 +1,78 @@
+{
+  "portfolio": {
+    "address": "0x103c985bff15aec755b2aa78509bd2fe4ba7baea",
+    "totalValue": "$104,461",
+    "walletLifetime": "292 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,112.3500",
+        "amount": "0.2820",
+        "usdValue": "$877.66"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,430.0000",
+        "amount": "0.0058",
+        "usdValue": "$526.62"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6634",
+        "amount": "727.8187",
+        "usdValue": "$482.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.3500",
+        "amount": "0.1033",
+        "usdValue": "$321.36"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,112.3500",
+        "amount": "0.0972",
+        "usdValue": "$302.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,112.3500",
+        "amount": "0.0465",
+        "usdValue": "$144.76"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$101,679"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$126"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x103c985bff15aec755b2aa78509bd2fe4ba7baea",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T01:11:28.231Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 94.79231257437782,
+  "vaultPct": 0.017625401284710133
+}

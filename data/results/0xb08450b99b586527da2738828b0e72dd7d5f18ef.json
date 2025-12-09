@@ -1,0 +1,133 @@
+{
+  "portfolio": {
+    "address": "0xb08450b99b586527da2738828b0e72dd7d5f18ef",
+    "totalValue": "$351",
+    "walletLifetime": "81 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.3000",
+        "amount": "0.0999",
+        "usdValue": "$312.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.6000",
+        "amount": "0.0090",
+        "usdValue": "$28.05"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "eth",
+        "price": "$0.2121",
+        "amount": "50.0000",
+        "usdValue": "$10.61"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001002",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb08450b99b586527da2738828b0e72dd7d5f18ef",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$52K"
+      },
+      {
+        "name": "0xf4c1…3f6c",
+        "volume": "$17K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$15K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$10K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x4663…ff94",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x3980…a54d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$42K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$39K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$41"
+      },
+      {
+        "name": "ARB",
+        "volume": "$26B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:39:18.034Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.33226633806163175,
+  "vaultPct": 0.0000617806168315844
+}

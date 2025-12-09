@@ -1,0 +1,183 @@
+{
+  "portfolio": {
+    "address": "0xf4ae94450beaaddb8fa4059d68bbb7de7e2df980",
+    "totalValue": "$378,623",
+    "walletLifetime": "995 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "63.2993",
+        "usdValue": "$63.29"
+      },
+      {
+        "symbol": "FLUID",
+        "chain": "eth",
+        "price": "$3.2440",
+        "amount": "14.2419",
+        "usdValue": "$46.20"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$256,406"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$122,101"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf4ae94450beaaddb8fa4059d68bbb7de7e2df980",
+    "topProtocols": [
+      {
+        "name": "ether.fi",
+        "volume": "$1M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$556K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$494K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$418K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$391K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$271K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$181K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$178K"
+      },
+      {
+        "name": "0x4dd1…3d56",
+        "volume": "$96K"
+      },
+      {
+        "name": "0xbeef…c555",
+        "volume": "$91K"
+      },
+      {
+        "name": "0x6bf9…823f",
+        "volume": "$90K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$90K"
+      },
+      {
+        "name": "0x05c9…d071",
+        "volume": "$71K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$69K"
+      },
+      {
+        "name": "0x25bb…e3a5",
+        "volume": "$46K"
+      },
+      {
+        "name": "0x609e…74d2",
+        "volume": "$15K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x75a9…3dfa",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xcbbc…40be",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x124f…5d0b",
+        "volume": "$9K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$972K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$782K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$623K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$610"
+      },
+      {
+        "name": "FLUID",
+        "volume": "$376M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$19"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:09:17.483Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 82.64446920809951,
+  "vaultPct": 0.015366667340367762
+}

@@ -1,0 +1,119 @@
+{
+  "portfolio": {
+    "address": "0xdca363380baa18ac4c58fb22d9b8c18ffd76c432",
+    "totalValue": "$226",
+    "walletLifetime": "1315 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.0900",
+        "amount": "0.0033",
+        "usdValue": "$10.48"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1242",
+        "amount": "0.0047",
+        "usdValue": ""
+      },
+      {
+        "symbol": "CP",
+        "chain": "matic",
+        "price": "$0.0₈1479",
+        "amount": "10.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$216"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdca363380baa18ac4c58fb22d9b8c18ffd76c432",
+    "topProtocols": [
+      {
+        "name": "SushiSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Giddy",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xca7a…14e7",
+        "volume": "$477B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$462"
+      },
+      {
+        "name": "Velora",
+        "volume": "$461"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$461B"
+      },
+      {
+        "name": "x",
+        "volume": "$319"
+      },
+      {
+        "name": "0x05c4…ca52",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x93aa…1cd7",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf487…0bf5",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "GIDDY",
+        "volume": "$7K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$948"
+      },
+      {
+        "name": "USDC",
+        "volume": "$922"
+      },
+      {
+        "name": "ETH",
+        "volume": "$896"
+      },
+      {
+        "name": "USDS",
+        "volume": "$638"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$633"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:11:30.995Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.1,
+  "vaultPct": 0.000018593703229764063
+}

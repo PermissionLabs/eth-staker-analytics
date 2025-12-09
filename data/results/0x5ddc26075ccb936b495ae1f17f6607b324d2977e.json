@@ -1,0 +1,158 @@
+{
+  "portfolio": {
+    "address": "0x5ddc26075ccb936b495ae1f17f6607b324d2977e",
+    "totalValue": "$37,213",
+    "walletLifetime": "1088 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.0947",
+        "amount": "466.9290",
+        "usdValue": "$6,581.24"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$194.7360",
+        "amount": "9.6409",
+        "usdValue": "$1,877.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.2700",
+        "amount": "0.0109",
+        "usdValue": "$34.47"
+      },
+      {
+        "symbol": "AUDIO",
+        "chain": "eth",
+        "price": "$0.0337",
+        "amount": "787.7000",
+        "usdValue": "$26.55"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9969",
+        "amount": "175.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USA(BASED USA)",
+        "chain": "base",
+        "price": "$0.0000664",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$28,693"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5ddc26075ccb936b495ae1f17f6607b324d2977e",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xd875…9b4e",
+        "volume": "$10K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x9b50…8d3e",
+        "volume": "$504"
+      },
+      {
+        "name": "0x29d5…274b",
+        "volume": "$207B"
+      },
+      {
+        "name": "inance",
+        "volume": "$105"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5be7…1f66",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$15K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$3K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$544"
+      },
+      {
+        "name": "AUDIO",
+        "volume": "$105B"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      },
+      {
+        "name": "AXOMESNL",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:29:11.459Z",
+  "source": "lido_steth",
+  "vaultBalance": 8.480147044527136,
+  "vaultPct": 0.0006367559446522584
+}

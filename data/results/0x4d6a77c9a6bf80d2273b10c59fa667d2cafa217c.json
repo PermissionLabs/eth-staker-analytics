@@ -1,0 +1,71 @@
+{
+  "portfolio": {
+    "address": "0x4d6a77c9a6bf80d2273b10c59fa667d2cafa217c",
+    "totalValue": "$2",
+    "walletLifetime": "324 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.0100",
+        "amount": "0.0007",
+        "usdValue": "$2.26"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6800",
+        "amount": "0.0025",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x4d6a77c9a6bf80d2273b10c59fa667d2cafa217c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x0432…a7cd",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa01e…831e",
+        "volume": "$537B"
+      },
+      {
+        "name": "inance",
+        "volume": "$537"
+      },
+      {
+        "name": "0xaa8b…3efb",
+        "volume": "$48"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:41:35.653Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.8408021457765181,
+  "vaultPct": 0.00015633625573517398
+}

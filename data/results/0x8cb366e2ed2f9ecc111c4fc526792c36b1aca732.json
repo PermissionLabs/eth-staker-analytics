@@ -1,0 +1,89 @@
+{
+  "portfolio": {
+    "address": "0x8cb366e2ed2f9ecc111c4fc526792c36b1aca732",
+    "totalValue": "$297",
+    "walletLifetime": "1354 days",
+    "tokens": [
+      {
+        "symbol": "GUSD",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "260.0000",
+        "usdValue": "$260.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.5600",
+        "amount": "0.0117",
+        "usdValue": "$36.95"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9977",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x8cb366e2ed2f9ecc111c4fc526792c36b1aca732",
+    "topProtocols": [
+      {
+        "name": "zkSync Lite",
+        "volume": "$7K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$6K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$612"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$540"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$260"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x359f…fe0d",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "DAI",
+        "volume": "$12K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "GUSD",
+        "volume": "$260B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:05:44.660Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.0048436353866101,
+  "vaultPct": 0.00007545154051206534
+}

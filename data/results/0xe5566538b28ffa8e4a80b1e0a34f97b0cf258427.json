@@ -1,0 +1,316 @@
+{
+  "portfolio": {
+    "address": "0xe5566538b28ffa8e4a80b1e0a34f97b0cf258427",
+    "totalValue": "$7,239",
+    "walletLifetime": "1541 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,104.6400",
+        "amount": "0.7080",
+        "usdValue": "$2,198.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,104.6400",
+        "amount": "0.1398",
+        "usdValue": "$434.18"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "116.2226",
+        "usdValue": "$116.20"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.6000",
+        "amount": "0.1061",
+        "usdValue": "$94.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.6400",
+        "amount": "0.0183",
+        "usdValue": "$56.75"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0937",
+        "amount": "504.4498",
+        "usdValue": "$47.27"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "blast",
+        "price": "$3,104.6400",
+        "amount": "0.0130",
+        "usdValue": "$40.47"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,104.6400",
+        "amount": "0.0054",
+        "usdValue": "$16.73"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "1.1335",
+        "usdValue": "$15.43"
+      },
+      {
+        "symbol": "BUSD",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "14.4114",
+        "usdValue": "$14.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,104.6400",
+        "amount": "0.0030",
+        "usdValue": "$9.31"
+      },
+      {
+        "symbol": "DAI.e",
+        "chain": "avax",
+        "price": "$1.0000",
+        "amount": "9.2093",
+        "usdValue": "$9.21"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1220",
+        "amount": "26.3399",
+        "usdValue": "$3.21"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "cro",
+        "price": "$0.1033",
+        "amount": "30.9127",
+        "usdValue": "$3.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,838"
+      },
+      {
+        "protocol": "BLASTOFF",
+        "chain": "blast",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$310"
+      },
+      {
+        "protocol": "DistrictOne",
+        "chain": "blast",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "WETH",
+        "usdValue": "$24"
+      },
+      {
+        "protocol": "Alpaca Finance",
+        "chain": "bsc",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "ALPACA",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "VVS Finance",
+        "chain": "cro",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "VVS",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Snowbank",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LFJ",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "MIM(multichain)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Wonderland",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "TIME (Wonderland)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe5566538b28ffa8e4a80b1e0a34f97b0cf258427",
+    "topProtocols": [
+      {
+        "name": "LFJ",
+        "volume": "$32K"
+      },
+      {
+        "name": "0x0e2b…13ba",
+        "volume": "$21K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "SpookySwap",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x960f…0fbe",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xf351…ca57",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x47ea…0a58",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "RUGenerous",
+        "volume": "$3K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x06c3…c42f",
+        "volume": "$3K"
+      },
+      {
+        "name": "ICE DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "Ape.Store",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$2K"
+      },
+      {
+        "name": "Pangolin",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xc378…0f20",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$73K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$33K"
+      },
+      {
+        "name": "KTOSHI",
+        "volume": "$12K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$6K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$5K"
+      },
+      {
+        "name": "ICE",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$3K"
+      },
+      {
+        "name": "RUG",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "OLE",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT.e",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:21:55.461Z",
+  "source": "base_aave",
+  "vaultBalance": 1.2333425556959918,
+  "vaultPct": 0.0018143458835780668
+}

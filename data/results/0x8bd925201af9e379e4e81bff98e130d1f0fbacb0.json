@@ -1,0 +1,61 @@
+{
+  "portfolio": {
+    "address": "0x8bd925201af9e379e4e81bff98e130d1f0fbacb0",
+    "totalValue": "$1,092",
+    "walletLifetime": "157 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.7000",
+        "amount": "0.0016",
+        "usdValue": "$5.04"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,087"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8bd925201af9e379e4e81bff98e130d1f0fbacb0",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8216…4fd7",
+        "volume": "$582"
+      },
+      {
+        "name": "0x8c71…323f",
+        "volume": "$445K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:02:09.134Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.32100555695410476,
+  "vaultPct": 0.0035803642563376373
+}

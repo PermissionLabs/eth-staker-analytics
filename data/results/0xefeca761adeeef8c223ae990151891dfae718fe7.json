@@ -1,0 +1,236 @@
+{
+  "portfolio": {
+    "address": "0xefeca761adeeef8c223ae990151891dfae718fe7",
+    "totalValue": "$231,316",
+    "walletLifetime": "765 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.4800",
+        "amount": "1.5143",
+        "usdValue": "$4,708.58"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "3,132.7529",
+        "usdValue": "$3,132.13"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "1,186.1419",
+        "usdValue": "$1,185.90"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "1,076.7421",
+        "usdValue": "$1,076.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.4800",
+        "amount": "0.1426",
+        "usdValue": "$443.33"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1228",
+        "amount": "2,518.1018",
+        "usdValue": "$309.22"
+      },
+      {
+        "symbol": "CLANKER",
+        "chain": "base",
+        "price": "$42.8200",
+        "amount": "1.4581",
+        "usdValue": "$62.44"
+      },
+      {
+        "symbol": "BID",
+        "chain": "base",
+        "price": "$0.0344",
+        "amount": "1,672.2088",
+        "usdValue": "$57.59"
+      },
+      {
+        "symbol": "AIXBT",
+        "chain": "base",
+        "price": "$0.0397",
+        "amount": "1,046.2236",
+        "usdValue": "$41.54"
+      },
+      {
+        "symbol": "VVV",
+        "chain": "base",
+        "price": "$1.1234",
+        "amount": "11.0000",
+        "usdValue": "$12.36"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$217,044"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,188"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$35"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xefeca761adeeef8c223ae990151891dfae718fe7",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$392K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$148K"
+      },
+      {
+        "name": "0x0a0f…133d",
+        "volume": "$77K"
+      },
+      {
+        "name": "0xad60…7267",
+        "volume": "$64K"
+      },
+      {
+        "name": "0x043a…6145",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x1c4e…6088",
+        "volume": "$5K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7a8f…8d2d",
+        "volume": "$3K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase Wallet",
+        "volume": "$1K"
+      },
+      {
+        "name": "Polygon",
+        "volume": "$960"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$960M"
+      },
+      {
+        "name": "erkl",
+        "volume": "$911"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$503K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$138K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$64K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$40K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$5K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$3K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$2K"
+      },
+      {
+        "name": "POL",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$2K"
+      },
+      {
+        "name": "SEAM",
+        "volume": "$1K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$1K"
+      },
+      {
+        "name": "OP",
+        "volume": "$484"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$414M"
+      },
+      {
+        "name": "KR",
+        "volume": "$306"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:32:13.110Z",
+  "source": "moonwell",
+  "vaultBalance": 12.952761449499501,
+  "vaultPct": 0.23499193023559678
+}

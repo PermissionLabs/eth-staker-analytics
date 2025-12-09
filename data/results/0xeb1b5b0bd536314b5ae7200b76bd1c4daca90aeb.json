@@ -1,0 +1,85 @@
+{
+  "portfolio": {
+    "address": "0xeb1b5b0bd536314b5ae7200b76bd1c4daca90aeb",
+    "totalValue": "$612",
+    "walletLifetime": "145 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.1800",
+        "amount": "0.1807",
+        "usdValue": "$565.18"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "46.6053",
+        "usdValue": "$46.60"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7896",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xeb1b5b0bd536314b5ae7200b76bd1c4daca90aeb",
+    "topProtocols": [
+      {
+        "name": "Kraken",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$923"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$463"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$47"
+      },
+      {
+        "name": "ENS",
+        "volume": "$27"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$511"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:32:22.482Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.15,
+  "vaultPct": 0.00002789055484464609
+}

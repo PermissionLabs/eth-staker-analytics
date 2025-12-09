@@ -1,0 +1,60 @@
+{
+  "portfolio": {
+    "address": "0x0c37b65ddb5a8854d5c002b2f81d5f895695f0aa",
+    "totalValue": "$4,730",
+    "walletLifetime": "1576 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.8000",
+        "amount": "0.9776",
+        "usdValue": "$872.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.9400",
+        "amount": "0.0100",
+        "usdValue": "$31.14"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,827"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0c37b65ddb5a8854d5c002b2f81d5f895695f0aa",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$3K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "inance",
+        "volume": "$216B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:13:47.663Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.2190311519364603,
+  "vaultPct": 0.00009153441899486717
+}

@@ -1,0 +1,200 @@
+{
+  "portfolio": {
+    "address": "0x1df541298a13fce51fe09fcdd8e6bc482965191a",
+    "totalValue": "$11,281",
+    "walletLifetime": "2442 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,094.1400",
+        "amount": "0.0130",
+        "usdValue": "$40.37"
+      },
+      {
+        "symbol": "GUSD",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "30.0000",
+        "usdValue": "$29.99"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,093.2000",
+        "amount": "0.0039",
+        "usdValue": "$11.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,094.1400",
+        "amount": "0.0034",
+        "usdValue": "$10.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,093.2000",
+        "amount": "0.0026",
+        "usdValue": "$8.18"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1230",
+        "amount": "9.1228",
+        "usdValue": "$1.12"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "1.0000",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3176",
+        "amount": "2.6732",
+        "usdValue": "$0.85"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9783",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "PAW",
+        "chain": "base",
+        "price": "$0.00002008",
+        "amount": "48.8888",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$11,173"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1df541298a13fce51fe09fcdd8e6bc482965191a",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$10K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xe597…1d46",
+        "volume": "$2K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf0b4…0abe",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x9f39…8ade",
+        "volume": "$317"
+      },
+      {
+        "name": "0x4904…013d",
+        "volume": "$298B"
+      },
+      {
+        "name": "itstamp",
+        "volume": "$263"
+      },
+      {
+        "name": "0x59a5…06e8",
+        "volume": "$236"
+      },
+      {
+        "name": "0xaecb…2ddc",
+        "volume": "$174"
+      },
+      {
+        "name": "0x1a07…2466",
+        "volume": "$150"
+      },
+      {
+        "name": "0xb9c0…6deb",
+        "volume": "$120"
+      },
+      {
+        "name": "0xb138…219d",
+        "volume": "$92"
+      },
+      {
+        "name": "0x681c…8d10",
+        "volume": "$34"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$30"
+      },
+      {
+        "name": "0x8c49…284b",
+        "volume": "$7"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "BAT",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$222"
+      },
+      {
+        "name": "GUSD",
+        "volume": "$30"
+      },
+      {
+        "name": "WETH",
+        "volume": "$11"
+      },
+      {
+        "name": "OP",
+        "volume": "$10"
+      },
+      {
+        "name": "POL",
+        "volume": "$9"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:04:32.349Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.4218940312032333,
+  "vaultPct": 0.0002569426396615317
+}

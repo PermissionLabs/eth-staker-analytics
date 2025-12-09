@@ -1,0 +1,120 @@
+{
+  "portfolio": {
+    "address": "0x180d661768ae1f2cb6ad235d96bfa20c6e3c2c23",
+    "totalValue": "$5,049",
+    "walletLifetime": "124 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.5600",
+        "amount": "0.2452",
+        "usdValue": "$761.44"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "88.7979",
+        "usdValue": "$88.81"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,105.5600",
+        "amount": "0.0142",
+        "usdValue": "$44.11"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "6.0813",
+        "usdValue": "$6.08"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7852",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,148"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x180d661768ae1f2cb6ad235d96bfa20c6e3c2c23",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$22K"
+      },
+      {
+        "name": "Bitkub",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$991"
+      },
+      {
+        "name": "0x9da8…2c69",
+        "volume": "$138"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa9d6…2392",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$43"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:16:56.722Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 3.012028331265408,
+  "vaultPct": 0.0005600476091119047
+}

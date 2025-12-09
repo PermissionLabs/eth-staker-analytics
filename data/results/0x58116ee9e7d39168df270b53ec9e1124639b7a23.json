@@ -1,0 +1,74 @@
+{
+  "portfolio": {
+    "address": "0x58116ee9e7d39168df270b53ec9e1124639b7a23",
+    "totalValue": "$188",
+    "walletLifetime": "141 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,138.7400",
+        "amount": "0.0596",
+        "usdValue": "$187.06"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.4529",
+        "usdValue": "$0.45"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0284",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x58116ee9e7d39168df270b53ec9e1124639b7a23",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$108K"
+      },
+      {
+        "name": "0x555c…c35b",
+        "volume": "$68K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$29K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$6K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$182K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$35K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:48:30.801Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 21.023751448100604,
+  "vaultPct": 0.0039090939520230504
+}

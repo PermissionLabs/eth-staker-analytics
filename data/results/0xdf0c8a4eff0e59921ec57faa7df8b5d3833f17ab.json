@@ -1,0 +1,233 @@
+{
+  "portfolio": {
+    "address": "0xdf0c8a4eff0e59921ec57faa7df8b5d3833f17ab",
+    "totalValue": "$667",
+    "walletLifetime": "980 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,728.2400",
+        "amount": "0.0015",
+        "usdValue": "$141.46"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,145.8700",
+        "amount": "0.0315",
+        "usdValue": "$99.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,145.8700",
+        "amount": "0.0159",
+        "usdValue": "$50.10"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,145.8700",
+        "amount": "0.0011",
+        "usdValue": "$3.40"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1246",
+        "amount": "2.6180",
+        "usdValue": "$0.33"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$371"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ZERO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Mendi Finance",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ReactorFusion",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "vooi",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Loanshark",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdf0c8a4eff0e59921ec57faa7df8b5d3833f17ab",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$152K"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$70K"
+      },
+      {
+        "name": "0x7421…a971",
+        "volume": "$70K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$26K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$25K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$19K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$13K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$10K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x8882…31d6",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$3K"
+      },
+      {
+        "name": "Satori",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$317K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$13K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$6K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$904"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$645"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$514"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:21:58.800Z",
+  "source": "base_aave",
+  "vaultBalance": 0.12445000183456886,
+  "vaultPct": 0.00018307594065982222
+}

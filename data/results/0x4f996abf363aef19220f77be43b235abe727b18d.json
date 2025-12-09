@@ -1,0 +1,160 @@
+{
+  "portfolio": {
+    "address": "0x4f996abf363aef19220f77be43b235abe727b18d",
+    "totalValue": "$10,482",
+    "walletLifetime": "115 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "250.8664",
+        "usdValue": "$250.84"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,126.8300",
+        "amount": "0.0800",
+        "usdValue": "$250.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.6200",
+        "amount": "0.0616",
+        "usdValue": "$192.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.6200",
+        "amount": "0.0008",
+        "usdValue": "$2.48"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7896",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "HYPE",
+        "usdValue": "$9,786"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4f996abf363aef19220f77be43b235abe727b18d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$262K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$163K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$158K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$131K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$52K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$14K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x6160…8bb5",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xc85c…5d90",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe274…a1a7",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf000…96ba",
+        "volume": "$471"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$36"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$34"
+      },
+      {
+        "name": "0x8bea…ba2e",
+        "volume": "$28"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$266K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$235K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$209K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$104K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$26K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$24K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:33:29.902Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 22.0426550731979,
+  "vaultPct": 0.004098545868270949
+}

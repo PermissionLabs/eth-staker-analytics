@@ -1,0 +1,150 @@
+{
+  "portfolio": {
+    "address": "0x32b364f4bf6cd547082e12705553baeb46da795d",
+    "totalValue": "$4,556,220",
+    "walletLifetime": "1165 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.9600",
+        "amount": "0.6167",
+        "usdValue": "$1,931.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.3100",
+        "amount": "0.3198",
+        "usdValue": "$1,001.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,131.9600",
+        "amount": "0.0052",
+        "usdValue": "$16.39"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "4.0843",
+        "usdValue": "$4.08"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,300,189"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,253,072"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x32b364f4bf6cd547082e12705553baeb46da795d",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$8M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2M"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$2M"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$538K"
+      },
+      {
+        "name": "0x5b9c…09d8",
+        "volume": "$526K"
+      },
+      {
+        "name": "0xc586…7a18",
+        "volume": "$54K"
+      },
+      {
+        "name": "0xdc23…2083",
+        "volume": "$12K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$4K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$19M"
+      },
+      {
+        "name": "MSHIB",
+        "volume": "$1M"
+      },
+      {
+        "name": "XAI",
+        "volume": "$854K"
+      },
+      {
+        "name": "STG",
+        "volume": "$19K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$8K"
+      },
+      {
+        "name": "APE",
+        "volume": "$3K"
+      },
+      {
+        "name": "SLP",
+        "volume": "$128M"
+      },
+      {
+        "name": "ONKY",
+        "volume": "$17"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:17:17.949Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 718,
+  "vaultPct": 0.13350278918970596
+}

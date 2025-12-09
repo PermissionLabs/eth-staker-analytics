@@ -1,0 +1,191 @@
+{
+  "portfolio": {
+    "address": "0xdfb0179c4af0bb73f1210a6016f33ca9a5e07e2b",
+    "totalValue": "$7,723",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "哈基米",
+        "chain": "bsc",
+        "price": "$0.0247",
+        "amount": "150,209.9340",
+        "usdValue": "$3,708.06"
+      },
+      {
+        "symbol": "ANITA",
+        "chain": "ink",
+        "price": "$0.0015",
+        "amount": "1,555,325.8903",
+        "usdValue": "$2,302.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,157.6500",
+        "amount": "0.0712",
+        "usdValue": "$224.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,157.6500",
+        "amount": "0.0594",
+        "usdValue": "$187.67"
+      },
+      {
+        "symbol": "APESTR",
+        "chain": "eth",
+        "price": "$0.0020",
+        "amount": "62,187.1419",
+        "usdValue": "$123.67"
+      },
+      {
+        "symbol": "AVC",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "95,240.7614",
+        "usdValue": "$62.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.6500",
+        "amount": "0.0063",
+        "usdValue": "$20.05"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,087"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SushiSwap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdfb0179c4af0bb73f1210a6016f33ca9a5e07e2b",
+    "topProtocols": [
+      {
+        "name": "xBank",
+        "volume": "$111K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$76K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$32K"
+      },
+      {
+        "name": "0xa004…a5d8",
+        "volume": "$24K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$21K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$20K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x0541…9aa4",
+        "volume": "$19K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$18K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$18K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$18K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$13K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$148K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$85K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$70K"
+      },
+      {
+        "name": "WINK",
+        "volume": "$46K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$41K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$18K"
+      },
+      {
+        "name": "CLANKER",
+        "volume": "$17K"
+      },
+      {
+        "name": "KSYND",
+        "volume": "$13K"
+      },
+      {
+        "name": "FLUID",
+        "volume": "$13"
+      },
+      {
+        "name": "KZRO",
+        "volume": "$10K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:46:54.685Z",
+  "source": "base_aave",
+  "vaultBalance": 0.34399999999999964,
+  "vaultPct": 0.000506051608345458
+}

@@ -1,0 +1,239 @@
+{
+  "portfolio": {
+    "address": "0x0e7713fc3041e5e7ad2b5a1a5a6a591279819a35",
+    "totalValue": "$1,468",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0328",
+        "amount": "11,862.0000",
+        "usdValue": "$388.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,140.3900",
+        "amount": "0.0103",
+        "usdValue": "$32.33"
+      },
+      {
+        "symbol": "MAV",
+        "chain": "era",
+        "price": "$0.0314",
+        "amount": "800.7447",
+        "usdValue": "$25.18"
+      },
+      {
+        "symbol": "BRETT",
+        "chain": "base",
+        "price": "$0.0186",
+        "amount": "573.7791",
+        "usdValue": "$10.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,140.3900",
+        "amount": "0.0018",
+        "usdValue": "$5.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,140.3900",
+        "amount": "0.0010",
+        "usdValue": "$3.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,140.3900",
+        "amount": "0.0006",
+        "usdValue": "$1.73"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$997"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "UniDex Exchange",
+        "chain": "era",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ReactorFusion",
+        "chain": "era",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RF",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0e7713fc3041e5e7ad2b5a1a5a6a591279819a35",
+    "topProtocols": [
+      {
+        "name": "SyncSwap",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$5K"
+      },
+      {
+        "name": "UniDex Exchange",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$2K"
+      },
+      {
+        "name": "Koi",
+        "volume": "$2K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf508…5eef",
+        "volume": "$2K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$1K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$1K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$1K"
+      },
+      {
+        "name": "Onchain",
+        "volume": "$1K"
+      },
+      {
+        "name": "zkSwap Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$1K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$976B"
+      },
+      {
+        "name": "inance",
+        "volume": "$586"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$575"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$542"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$3K"
+      },
+      {
+        "name": "KLUSD",
+        "volume": "$1K"
+      },
+      {
+        "name": "eUSD",
+        "volume": "$1K"
+      },
+      {
+        "name": "MAI",
+        "volume": "$1K"
+      },
+      {
+        "name": "MAV",
+        "volume": "$354B"
+      },
+      {
+        "name": "RETT",
+        "volume": "$93"
+      },
+      {
+        "name": "ZAT",
+        "volume": "$4"
+      },
+      {
+        "name": "RF",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:38:30.687Z",
+  "source": "moonwell",
+  "vaultBalance": 0.3084266851486944,
+  "vaultPct": 0.005595546738186777
+}

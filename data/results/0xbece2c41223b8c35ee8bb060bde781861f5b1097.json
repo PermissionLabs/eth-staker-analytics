@@ -1,0 +1,279 @@
+{
+  "portfolio": {
+    "address": "0xbece2c41223b8c35ee8bb060bde781861f5b1097",
+    "totalValue": "$434",
+    "walletLifetime": "1591 days",
+    "tokens": [
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7500",
+        "amount": "6.3799",
+        "usdValue": "$87.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.3000",
+        "amount": "0.0235",
+        "usdValue": "$73.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,128.0900",
+        "amount": "0.0233",
+        "usdValue": "$72.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,128.3000",
+        "amount": "0.0018",
+        "usdValue": "$5.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,128.3000",
+        "amount": "0.0008",
+        "usdValue": "$2.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,128.3000",
+        "amount": "0.0006",
+        "usdValue": "$1.74"
+      },
+      {
+        "symbol": "ASTR",
+        "chain": "astar",
+        "price": "$0.0125",
+        "amount": "39.2892",
+        "usdValue": "$0.49"
+      },
+      {
+        "symbol": "TSD",
+        "chain": "avax",
+        "price": "$1.0987",
+        "amount": "0.4083",
+        "usdValue": "$0.45"
+      },
+      {
+        "symbol": "QI (BENQI)",
+        "chain": "avax",
+        "price": "$0.0037",
+        "amount": "113.7916",
+        "usdValue": "$0.42"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$1.0000",
+        "amount": "0.3876",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "PNG",
+        "chain": "avax",
+        "price": "$0.0479",
+        "amount": "6.8057",
+        "usdValue": "$0.33"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$157"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GMX",
+        "usdValue": "$30"
+      },
+      {
+        "protocol": "Starlay Finance",
+        "chain": "astar",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "MATIC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "BENQI",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "AVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WAVAX",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WPOL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LFJ",
+        "chain": "avax",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "JOE",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Synapse",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "nUSD",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbece2c41223b8c35ee8bb060bde781861f5b1097",
+    "topProtocols": [
+      {
+        "name": "BENQI",
+        "volume": "$168K"
+      },
+      {
+        "name": "Synapse",
+        "volume": "$107K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$96K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$90K"
+      },
+      {
+        "name": "Starlay Finance",
+        "volume": "$75K"
+      },
+      {
+        "name": "GMX",
+        "volume": "$35K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$34K"
+      },
+      {
+        "name": "Platypus",
+        "volume": "$34K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$28K"
+      },
+      {
+        "name": "Pangolin",
+        "volume": "$25K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xe854…d140",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$15K"
+      },
+      {
+        "name": "Hyphen",
+        "volume": "$15K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$14K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$14K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "DAI.e",
+        "volume": "$321K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$158K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$110K"
+      },
+      {
+        "name": "KUSDT.e",
+        "volume": "$57K"
+      },
+      {
+        "name": "KAVAX",
+        "volume": "$48K"
+      },
+      {
+        "name": "KDAI",
+        "volume": "$29K"
+      },
+      {
+        "name": "WBTC.e",
+        "volume": "$27K"
+      },
+      {
+        "name": "KPOL",
+        "volume": "$26K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$21K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$21K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$18K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:19:04.613Z",
+  "source": "base_aave",
+  "vaultBalance": 0.05,
+  "vaultPct": 0.00007355401284090967
+}

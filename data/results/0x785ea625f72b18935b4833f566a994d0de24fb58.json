@@ -1,0 +1,109 @@
+{
+  "portfolio": {
+    "address": "0x785ea625f72b18935b4833f566a994d0de24fb58",
+    "totalValue": "$2,597",
+    "walletLifetime": "327 days",
+    "tokens": [
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2708",
+        "amount": "2,390.9220",
+        "usdValue": "$647.46"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "eth",
+        "price": "$0.8361",
+        "amount": "361.4549",
+        "usdValue": "$302.21"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2400",
+        "amount": "813.5309",
+        "usdValue": "$195.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.9900",
+        "amount": "0.0007",
+        "usdValue": "$2.13"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7868",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,450"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x785ea625f72b18935b4833f566a994d0de24fb58",
+    "topProtocols": [
+      {
+        "name": "0x4c9a…03a8",
+        "volume": "$3K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$3K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$562"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$1K"
+      },
+      {
+        "name": "FET",
+        "volume": "$986"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$862"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:08:29.126Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.46464473953382585,
+  "vaultPct": 0.00008639466394162978
+}

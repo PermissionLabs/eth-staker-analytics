@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x0c6c8f5307cdfc0d5908c3d77501320cb5f6c1e9",
+    "totalValue": "$16,063",
+    "walletLifetime": "809 days",
+    "tokens": [
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0966",
+        "amount": "1,670.9000",
+        "usdValue": "$161.41"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.6000",
+        "amount": "0.0300",
+        "usdValue": "$27.28"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9998",
+        "amount": "4.0300",
+        "usdValue": "$4.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,155.6900",
+        "amount": "0.0011",
+        "usdValue": "$3.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,155.9000",
+        "amount": "0.0010",
+        "usdValue": "$3.15"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$909.3500",
+        "amount": "0.0011",
+        "usdValue": "$0.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.2100",
+        "amount": "0.0003",
+        "usdValue": "$0.92"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "arb",
+        "price": "$5.7318",
+        "amount": "0.1572",
+        "usdValue": "$0.90"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$11,418"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "XRP",
+        "usdValue": "$4,405"
+      },
+      {
+        "protocol": "Revert",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$38"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0c6c8f5307cdfc0d5908c3d77501320cb5f6c1e9",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$62K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$35K"
+      },
+      {
+        "name": "0x0963…24d3",
+        "volume": "$25K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x368d…1511",
+        "volume": "$9K"
+      },
+      {
+        "name": "Revert",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xbf95…ad12",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$7K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x6666…e7cb",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x2662…7617",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$58K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$48K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "XRP",
+        "volume": "$14K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$2K"
+      },
+      {
+        "name": "S",
+        "volume": "$813"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$451"
+      },
+      {
+        "name": "USDt",
+        "volume": "$30"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$27B"
+      },
+      {
+        "name": "NB",
+        "volume": "$22"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:55:04.035Z",
+  "source": "base_aave",
+  "vaultBalance": 1.8524684121889217,
+  "vaultPct": 0.0027251297075504698
+}

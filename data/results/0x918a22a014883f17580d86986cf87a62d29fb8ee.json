@@ -1,0 +1,223 @@
+{
+  "portfolio": {
+    "address": "0x918a22a014883f17580d86986cf87a62d29fb8ee",
+    "totalValue": "$95,152",
+    "walletLifetime": "618 days",
+    "tokens": [
+      {
+        "symbol": "BounceBit BBUSD",
+        "chain": "bb",
+        "price": "$1.0014",
+        "amount": "1,017.9889",
+        "usdValue": "$1,019.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.9400",
+        "amount": "0.0845",
+        "usdValue": "$263.85"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2108",
+        "amount": "167.0666",
+        "usdValue": "$202.28"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "6,517.7210",
+        "usdValue": "$65.84"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.7000",
+        "amount": "0.0171",
+        "usdValue": "$15.43"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2123",
+        "amount": "20.0000",
+        "usdValue": "$4.25"
+      },
+      {
+        "symbol": "EURC",
+        "chain": "base",
+        "price": "$1.1632",
+        "amount": "1.8887",
+        "usdValue": "$2.20"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$58,548"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$34,926"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$94"
+      },
+      {
+        "protocol": "BounceBit",
+        "chain": "bb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BB",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "mobm",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x918a22a014883f17580d86986cf87a62d29fb8ee",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$1M"
+      },
+      {
+        "name": "Venus",
+        "volume": "$429K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$220K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$209K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$196K"
+      },
+      {
+        "name": "StellaSwap",
+        "volume": "$187K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$156K"
+      },
+      {
+        "name": "squid",
+        "volume": "$80K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$36K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$34K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x5a29…527c",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x1952…a966",
+        "volume": "$14K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "wstETH",
+        "volume": "$629K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$552K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$546K"
+      },
+      {
+        "name": "wBETH",
+        "volume": "$385K"
+      },
+      {
+        "name": "xcUSDC",
+        "volume": "$296K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$277K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$241K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$216K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$177K"
+      },
+      {
+        "name": "xcUSDT",
+        "volume": "$150K"
+      },
+      {
+        "name": "KBTCB",
+        "volume": "$117K"
+      },
+      {
+        "name": "xcDOT",
+        "volume": "$26K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:38:01.572Z",
+  "source": "moonwell",
+  "vaultBalance": 10.940457169219863,
+  "vaultPct": 0.19848425047264265
+}

@@ -1,0 +1,246 @@
+{
+  "portfolio": {
+    "address": "0x6c04064d36004b50f187ebe0f875e969fffd326a",
+    "totalValue": "$227,732",
+    "walletLifetime": "686 days",
+    "tokens": [
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3167",
+        "amount": "369.2500",
+        "usdValue": "$116.94"
+      },
+      {
+        "symbol": "WETH(Wormhole)",
+        "chain": "matic",
+        "price": "$3,108.5800",
+        "amount": "0.0060",
+        "usdValue": "$18.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.3700",
+        "amount": "0.0056",
+        "usdValue": "$17.32"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6200",
+        "amount": "0.9805",
+        "usdValue": "$13.35"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0946",
+        "amount": "115.1007",
+        "usdValue": "$10.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,111.3700",
+        "amount": "0.0010",
+        "usdValue": "$3.09"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "2.9120",
+        "usdValue": "$2.91"
+      },
+      {
+        "symbol": "DYDX",
+        "chain": "eth",
+        "price": "$0.1963",
+        "amount": "11.4310",
+        "usdValue": "$2.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$160,752"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$66,779"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6c04064d36004b50f187ebe0f875e969fffd326a",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$130K"
+      },
+      {
+        "name": "0xc695…39ce",
+        "volume": "$97K"
+      },
+      {
+        "name": "0x23f4…eef8",
+        "volume": "$66K"
+      },
+      {
+        "name": "Kernel DAO",
+        "volume": "$66K"
+      },
+      {
+        "name": "0xd390…6be2",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x68e8…097a",
+        "volume": "$17K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$16K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x10fb…e396",
+        "volume": "$5K"
+      },
+      {
+        "name": "Injective",
+        "volume": "$4K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$4K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$4K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x5f57…436f",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x1dfc…c66c",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa5a1…e090",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$283K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$167K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "INJ",
+        "volume": "$9K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$5K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$5K"
+      },
+      {
+        "name": "RNDR",
+        "volume": "$3K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$3K"
+      },
+      {
+        "name": "OP",
+        "volume": "$1K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$1K"
+      },
+      {
+        "name": "RARI",
+        "volume": "$127"
+      },
+      {
+        "name": "DYDX",
+        "volume": "$34"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$33"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$21"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T03:34:29.940Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 47.4159574051102,
+  "vaultPct": 0.5288581315667271
+}

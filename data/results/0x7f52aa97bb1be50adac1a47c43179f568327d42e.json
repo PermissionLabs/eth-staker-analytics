@@ -1,0 +1,211 @@
+{
+  "portfolio": {
+    "address": "0x7f52aa97bb1be50adac1a47c43179f568327d42e",
+    "totalValue": "$4,765",
+    "walletLifetime": "157 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.3000",
+        "amount": "0.0048",
+        "usdValue": "$4.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,160.2500",
+        "amount": "0.0009",
+        "usdValue": "$2.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,160.2500",
+        "amount": "0.0003",
+        "usdValue": "$0.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,160.2500",
+        "amount": "0.0002",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "crvUSD",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.0071",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "0.000076",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "88.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,612"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "bsc",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "BTCB",
+        "usdValue": "$793"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$170"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "OP",
+        "usdValue": "$98"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$83"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7f52aa97bb1be50adac1a47c43179f568327d42e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x5405…9a48",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x974a…df3e",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x13ed…513d",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x9653…2541",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xfde3…3ba7",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xcb51…b0cd",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xc220…eec7",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xfd5c…fc59",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5600…1f2b",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x9a8e…b627",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6160…8bb5",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x03ad…d4d8",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$35K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$16K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$14K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$8K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$7K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "crvUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "OP",
+        "volume": "$504"
+      },
+      {
+        "name": "WETH",
+        "volume": "$406"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:58:19.950Z",
+  "source": "base_aave",
+  "vaultBalance": 2.2309775801858356,
+  "vaultPct": 0.003281947071615411
+}

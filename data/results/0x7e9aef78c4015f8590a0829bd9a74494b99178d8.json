@@ -1,0 +1,250 @@
+{
+  "portfolio": {
+    "address": "0x7e9aef78c4015f8590a0829bd9a74494b99178d8",
+    "totalValue": "$68,666",
+    "walletLifetime": "241 days",
+    "tokens": [
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$28.9280",
+        "amount": "0.0788",
+        "usdValue": "$2.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,085.0400",
+        "amount": "0.0007",
+        "usdValue": "$2.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,085.0400",
+        "amount": "0.0006",
+        "usdValue": "$1.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,085.0400",
+        "amount": "0.00009503",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "msETH",
+        "chain": "base",
+        "price": "$3,067.4607",
+        "amount": "0.00008986",
+        "usdValue": "$0.28"
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BRUMP",
+        "chain": "base",
+        "price": "$0.00001614",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7822",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$30,040"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$25,980"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$8,467"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "msETH",
+        "usdValue": "$4,159"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$13"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7e9aef78c4015f8590a0829bd9a74494b99178d8",
+    "topProtocols": [
+      {
+        "name": "MEXC",
+        "volume": "$39K"
+      },
+      {
+        "name": "Beets V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$19K"
+      },
+      {
+        "name": "Balancer V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$18K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$15K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$15K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$15K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$14K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$14K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$12K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$8K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$8K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$5K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$108K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$59K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$29K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "rETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "OP",
+        "volume": "$205"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$107B"
+      },
+      {
+        "name": "AL",
+        "volume": "$56B"
+      },
+      {
+        "name": "AURA",
+        "volume": "$21K"
+      },
+      {
+        "name": "ERNEL",
+        "volume": "$18"
+      },
+      {
+        "name": "sETH",
+        "volume": "$8"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:59:07.041Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 4.40081127446806,
+  "vaultPct": 0.04908484306471331
+}

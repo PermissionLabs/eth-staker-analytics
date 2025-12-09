@@ -1,0 +1,98 @@
+{
+  "portfolio": {
+    "address": "0x25462b077557bf0d052680a81393d65240f82e81",
+    "totalValue": "$70,052",
+    "walletLifetime": "1267 days",
+    "tokens": [
+      {
+        "symbol": "PRO",
+        "chain": "eth",
+        "price": "$0.3933",
+        "amount": "1,071.6793",
+        "usdValue": "$421.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.4300",
+        "amount": "0.0130",
+        "usdValue": "$40.49"
+      },
+      {
+        "symbol": "MAPU",
+        "chain": "matic",
+        "price": "$6.2686",
+        "amount": "0.0100",
+        "usdValue": "$0.06"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9904",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$68,996"
+      },
+      {
+        "protocol": "API3",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "API3",
+        "usdValue": "$594"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x25462b077557bf0d052680a81393d65240f82e81",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$42K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$38K"
+      },
+      {
+        "name": "0x9637…ef9a",
+        "volume": "$3K"
+      },
+      {
+        "name": "API3",
+        "volume": "$701"
+      },
+      {
+        "name": "0x1825…7ffd",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$80K"
+      },
+      {
+        "name": "API3",
+        "volume": "$3K"
+      },
+      {
+        "name": "PRO",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:11:30.594Z",
+  "source": "lido_steth",
+  "vaultBalance": 20.56719801019007,
+  "vaultPct": 0.001544346522420342
+}

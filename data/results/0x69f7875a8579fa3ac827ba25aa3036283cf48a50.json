@@ -1,0 +1,77 @@
+{
+  "portfolio": {
+    "address": "0x69f7875a8579fa3ac827ba25aa3036283cf48a50",
+    "totalValue": "$176",
+    "walletLifetime": "1191 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,154.8200",
+        "amount": "0.0559",
+        "usdValue": "$176.34"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9981",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BEZOGE",
+        "chain": "eth",
+        "price": "$0.0₁₁571",
+        "amount": "3,188.3077",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x69f7875a8579fa3ac827ba25aa3036283cf48a50",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x04d2…fbf7",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x7d95…faeb",
+        "volume": "$30"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "BEZOGE",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$158B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:46:07.053Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.6855927509909258,
+  "vaultPct": 0.00005147968042437528
+}

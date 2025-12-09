@@ -1,0 +1,273 @@
+{
+  "portfolio": {
+    "address": "0xa8ff6d49ec5278ce38760093c0afeb3adabf8789",
+    "totalValue": "$863",
+    "walletLifetime": "1107 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.6900",
+        "amount": "0.0676",
+        "usdValue": "$211.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.6900",
+        "amount": "0.0580",
+        "usdValue": "$181.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,133.0100",
+        "amount": "0.0279",
+        "usdValue": "$87.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,133.0100",
+        "amount": "0.0135",
+        "usdValue": "$42.29"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,132.6900",
+        "amount": "0.0114",
+        "usdValue": "$35.73"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$904.0000",
+        "amount": "0.0296",
+        "usdValue": "$26.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "taiko",
+        "price": "$3,133.0100",
+        "amount": "0.0071",
+        "usdValue": "$22.09"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,132.6900",
+        "amount": "0.0068",
+        "usdValue": "$21.28"
+      },
+      {
+        "symbol": "USDC.e",
+        "chain": "soneium",
+        "price": "$0.9999",
+        "amount": "18.4367",
+        "usdValue": "$18.43"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0335",
+        "amount": "501.0000",
+        "usdValue": "$16.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,133.0100",
+        "amount": "0.0032",
+        "usdValue": "$10.17"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6815",
+        "amount": "1.1351",
+        "usdValue": "$6.45"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "20.1657",
+        "usdValue": "$2.51"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "linea",
+        "price": "$0.9999",
+        "amount": "2.5000",
+        "usdValue": "$2.50"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6900",
+        "amount": "0.1200",
+        "usdValue": "$1.64"
+      },
+      {
+        "symbol": "USDbC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1.1419",
+        "usdValue": "$1.14"
+      },
+      {
+        "symbol": "EURA",
+        "chain": "xdai",
+        "price": "$1.1649",
+        "amount": "0.8500",
+        "usdValue": "$0.99"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$173"
+      },
+      {
+        "protocol": "Mendi Finance",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Sonus",
+        "chain": "soneium",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "SONUS",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "vooi",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa8ff6d49ec5278ce38760093c0afeb3adabf8789",
+    "topProtocols": [
+      {
+        "name": "ReactorFusion",
+        "volume": "$86K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$52K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$39K"
+      },
+      {
+        "name": "Para Space",
+        "volume": "$39K"
+      },
+      {
+        "name": "0x7421…a971",
+        "volume": "$39K"
+      },
+      {
+        "name": "Element",
+        "volume": "$22K"
+      },
+      {
+        "name": "Okx NFT",
+        "volume": "$22K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$21K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$21K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$21K"
+      },
+      {
+        "name": "vooi",
+        "volume": "$21K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$18K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$17K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$11K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$8K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$174K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$28K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$23K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$3K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:45:16.450Z",
+  "source": "base_aave",
+  "vaultBalance": 0.06,
+  "vaultPct": 0.0000882648154090916
+}

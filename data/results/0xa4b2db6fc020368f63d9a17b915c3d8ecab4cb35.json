@@ -1,0 +1,141 @@
+{
+  "portfolio": {
+    "address": "0xa4b2db6fc020368f63d9a17b915c3d8ecab4cb35",
+    "totalValue": "$14,927",
+    "walletLifetime": "639 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,117.8600",
+        "amount": "0.1405",
+        "usdValue": "$438.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$14,469"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$20"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "op",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa4b2db6fc020368f63d9a17b915c3d8ecab4cb35",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$489K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$180K"
+      },
+      {
+        "name": "0x0dce…892f",
+        "volume": "$173K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$69K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$49K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$22K"
+      },
+      {
+        "name": "Superbridge",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xaeac…23e2",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x0c87…33fa",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xfddc…24a1",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$877K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$175K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$40K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$29K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$7K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$590"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$15"
+      },
+      {
+        "name": "BASED",
+        "volume": "$unknown"
+      },
+      {
+        "name": "USA",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:28:12.064Z",
+  "source": "moonwell",
+  "vaultBalance": 4.4375502173144685,
+  "vaultPct": 0.08050704053724486
+}

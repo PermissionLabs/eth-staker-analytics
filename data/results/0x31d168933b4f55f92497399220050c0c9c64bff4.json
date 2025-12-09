@@ -1,0 +1,153 @@
+{
+  "portfolio": {
+    "address": "0x31d168933b4f55f92497399220050c0c9c64bff4",
+    "totalValue": "$471,419",
+    "walletLifetime": "1488 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,095.6200",
+        "amount": "0.0513",
+        "usdValue": "$158.74"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "69.5860",
+        "usdValue": "$69.58"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "YFTE",
+        "chain": "eth",
+        "price": "$1.2516",
+        "amount": "0.0154",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9785",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.0031",
+        "usdValue": ""
+      },
+      {
+        "symbol": "crvUSD",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7825",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$471,191"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x31d168933b4f55f92497399220050c0c9c64bff4",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$569K"
+      },
+      {
+        "name": "0xf9db…2421",
+        "volume": "$512K"
+      },
+      {
+        "name": "0x2b8c…f9b8",
+        "volume": "$479K"
+      },
+      {
+        "name": "0x581c…8736",
+        "volume": "$337K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$165K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$161K"
+      },
+      {
+        "name": "0x7596…662d",
+        "volume": "$140K"
+      },
+      {
+        "name": "0x1241…2476",
+        "volume": "$29K"
+      },
+      {
+        "name": "0x3dc3…d2af",
+        "volume": "$24K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x454b…232d",
+        "volume": "$661"
+      },
+      {
+        "name": "0x1ef6…8674",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$322K"
+      },
+      {
+        "name": "BAT",
+        "volume": "$67K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:04:02.255Z",
+  "source": "lido_steth",
+  "vaultBalance": 124.56634447993014,
+  "vaultPct": 0.009353418040361284
+}

@@ -1,0 +1,163 @@
+{
+  "portfolio": {
+    "address": "0xb286927b6434077e59c0fc4cb6e812a25e7e88c7",
+    "totalValue": "$74,631",
+    "walletLifetime": "1504 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.2500",
+        "amount": "0.1520",
+        "usdValue": "$475.67"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$898.8000",
+        "amount": "0.3231",
+        "usdValue": "$290.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.2500",
+        "amount": "0.0698",
+        "usdValue": "$218.55"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$73,646"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb286927b6434077e59c0fc4cb6e812a25e7e88c7",
+    "topProtocols": [
+      {
+        "name": "CoinWind",
+        "volume": "$3M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$3M"
+      },
+      {
+        "name": "Venus",
+        "volume": "$2M"
+      },
+      {
+        "name": "0x741b…8657",
+        "volume": "$1M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$402K"
+      },
+      {
+        "name": "0xcc54…efb2",
+        "volume": "$274K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$172K"
+      },
+      {
+        "name": "CLever CVX",
+        "volume": "$122K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$64K"
+      },
+      {
+        "name": "Concentrator",
+        "volume": "$51K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$38K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$34K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "FIL",
+        "volume": "$6M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "CVX",
+        "volume": "$197K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$114K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$93K"
+      },
+      {
+        "name": "Cake",
+        "volume": "$92K"
+      },
+      {
+        "name": "clevCVX",
+        "volume": "$84K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$78K"
+      },
+      {
+        "name": "sdCRV",
+        "volume": "$38K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$29K"
+      },
+      {
+        "name": "ZYB",
+        "volume": "$6K"
+      },
+      {
+        "name": "COW",
+        "volume": "$6K"
+      },
+      {
+        "name": "CLEV",
+        "volume": "$4K"
+      },
+      {
+        "name": "XVS",
+        "volume": "$273M"
+      },
+      {
+        "name": "DX",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:14:16.117Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 18.660042994103243,
+  "vaultPct": 0.003469593016869937
+}

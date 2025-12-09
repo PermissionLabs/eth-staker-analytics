@@ -1,0 +1,208 @@
+{
+  "portfolio": {
+    "address": "0x7ad3f62493419bd338d75135329758a658c9ae4f",
+    "totalValue": "$1,103",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.3200",
+        "amount": "0.1700",
+        "usdValue": "$530.99"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "198.6796",
+        "usdValue": "$198.68"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.3200",
+        "amount": "0.0237",
+        "usdValue": "$73.92"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.3200",
+        "amount": "0.0050",
+        "usdValue": "$15.61"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1230",
+        "amount": "18.8922",
+        "usdValue": "$2.32"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "0.8017",
+        "usdValue": "$0.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,124.3200",
+        "amount": "0.0002",
+        "usdValue": "$0.49"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,124.0700",
+        "amount": "0.00001302",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0267",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "0.000039",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$275"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$5"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7ad3f62493419bd338d75135329758a658c9ae4f",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x2d4e…11eb",
+        "volume": "$8K"
+      },
+      {
+        "name": "0x30ab…f55f",
+        "volume": "$6K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa1a1…82bc",
+        "volume": "$4K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$4K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$3K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd756…29ae",
+        "volume": "$2K"
+      },
+      {
+        "name": "lighter",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$1K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$1K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$855B"
+      },
+      {
+        "name": "MP",
+        "volume": "$402"
+      },
+      {
+        "name": "WETH",
+        "volume": "$401"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$18"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:48:48.518Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09810015407311701,
+  "vaultPct": 0.0017797552013854134
+}

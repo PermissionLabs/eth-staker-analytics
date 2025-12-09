@@ -1,0 +1,224 @@
+{
+  "portfolio": {
+    "address": "0x1b5e2ba43c73c9dfe39ba80f059e4c139be37b95",
+    "totalValue": "$6,019",
+    "walletLifetime": "1650 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.6000",
+        "amount": "0.3137",
+        "usdValue": "$279.74"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "bsc",
+        "price": "$13.6467",
+        "amount": "16.1830",
+        "usdValue": "$220.84"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "82.3867",
+        "usdValue": "$82.38"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.2900",
+        "amount": "0.0190",
+        "usdValue": "$58.95"
+      },
+      {
+        "symbol": "MKR",
+        "chain": "bsc",
+        "price": "$1,262.0672",
+        "amount": "0.0353",
+        "usdValue": "$44.49"
+      },
+      {
+        "symbol": "DOT",
+        "chain": "bsc",
+        "price": "$2.1060",
+        "amount": "16.5410",
+        "usdValue": "$34.84"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "bsc",
+        "price": "$5.4890",
+        "amount": "5.1220",
+        "usdValue": "$28.11"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "201.4929",
+        "usdValue": "$24.72"
+      },
+      {
+        "symbol": "YFI",
+        "chain": "bsc",
+        "price": "$3,646.0000",
+        "amount": "0.0029",
+        "usdValue": "$10.58"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "1.1599",
+        "usdValue": "$1.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$5,229"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1b5e2ba43c73c9dfe39ba80f059e4c139be37b95",
+    "topProtocols": [
+      {
+        "name": "0x186f…7d40",
+        "volume": "$101K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$58K"
+      },
+      {
+        "name": "0xaf84…5a67",
+        "volume": "$33K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$23K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$13K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$8K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$7K"
+      },
+      {
+        "name": "UwU Lend",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xefc0…2289",
+        "volume": "$5K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$4K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$4K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$3K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$851B"
+      },
+      {
+        "name": "inance",
+        "volume": "$446m"
+      },
+      {
+        "name": "imic",
+        "volume": "$283"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$226K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$24K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$9K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$526"
+      },
+      {
+        "name": "UNI",
+        "volume": "$359"
+      },
+      {
+        "name": "DOT",
+        "volume": "$277"
+      },
+      {
+        "name": "LINK",
+        "volume": "$222B"
+      },
+      {
+        "name": "NB",
+        "volume": "$119M"
+      },
+      {
+        "name": "KR",
+        "volume": "$65"
+      },
+      {
+        "name": "YFI",
+        "volume": "$58M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:02:17.129Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.1454926728693058,
+  "vaultPct": 0.00021298950811201076
+}

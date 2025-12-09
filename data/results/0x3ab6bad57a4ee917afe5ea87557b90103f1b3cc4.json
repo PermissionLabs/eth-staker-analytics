@@ -1,0 +1,229 @@
+{
+  "portfolio": {
+    "address": "0x3ab6bad57a4ee917afe5ea87557b90103f1b3cc4",
+    "totalValue": "$927,333",
+    "walletLifetime": "1351 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,219.9300",
+        "amount": "2.9066",
+        "usdValue": "$265,143.45"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,141.5100",
+        "amount": "20.0889",
+        "usdValue": "$63,109.57"
+      },
+      {
+        "symbol": "PAXG",
+        "chain": "eth",
+        "price": "$4,208.5846",
+        "amount": "7.5255",
+        "usdValue": "$31,671.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,140.5700",
+        "amount": "8.3001",
+        "usdValue": "$26,067.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "bsc",
+        "price": "$0.9999",
+        "amount": "500.0068",
+        "usdValue": "$499.96"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$183,433"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "frxETH",
+        "usdValue": "$119,822"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$80,003"
+      },
+      {
+        "protocol": "Puffer Finance",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$49,043"
+      },
+      {
+        "protocol": "MantleETH",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$38,720"
+      },
+      {
+        "protocol": "Karak",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$34,540"
+      },
+      {
+        "protocol": "mellow",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$32,863"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETHFI",
+        "usdValue": "$922"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$545"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3ab6bad57a4ee917afe5ea87557b90103f1b3cc4",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$334K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$294K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$262K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$227K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$183K"
+      },
+      {
+        "name": "Rainbow Bridge",
+        "volume": "$173K"
+      },
+      {
+        "name": "StellaSwap",
+        "volume": "$164K"
+      },
+      {
+        "name": "MegaETH",
+        "volume": "$150K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$149K"
+      },
+      {
+        "name": "Excalibur Exchange",
+        "volume": "$141K"
+      },
+      {
+        "name": "IDEX v3",
+        "volume": "$132K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$126K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$913K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$555K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$540K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$236K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$192K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$164K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$150K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:36:40.673Z",
+  "source": "moonwell",
+  "vaultBalance": 24.85352574295594,
+  "vaultPct": 0.45089828993360986
+}

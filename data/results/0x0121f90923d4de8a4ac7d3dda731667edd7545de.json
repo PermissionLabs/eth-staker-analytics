@@ -1,0 +1,88 @@
+{
+  "portfolio": {
+    "address": "0x0121f90923d4de8a4ac7d3dda731667edd7545de",
+    "totalValue": "$53",
+    "walletLifetime": "53 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.7600",
+        "amount": "0.0087",
+        "usdValue": "$27.35"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5800",
+        "amount": "1.0581",
+        "usdValue": "$14.37"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "10.0000",
+        "usdValue": "$10.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "avax",
+        "price": "$0.9998",
+        "amount": "0.9810",
+        "usdValue": "$0.98"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x0121f90923d4de8a4ac7d3dda731667edd7545de",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x3434…eab5",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$8K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$24"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:40:30.850Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.55,
+  "vaultPct": 0.00010226536776370234
+}

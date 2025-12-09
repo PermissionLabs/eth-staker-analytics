@@ -1,0 +1,211 @@
+{
+  "portfolio": {
+    "address": "0x730a80f364926bb1227241012e2fbcbb42590b79",
+    "totalValue": "$14,222",
+    "walletLifetime": "100 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,151.5000",
+        "amount": "0.0117",
+        "usdValue": "$36.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,151.5000",
+        "amount": "0.0055",
+        "usdValue": "$17.47"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.7000",
+        "amount": "0.0119",
+        "usdValue": "$10.83"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.4380",
+        "amount": "0.2503",
+        "usdValue": "$0.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,151.8100",
+        "amount": "0.00006299",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "0.0012",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "0.00001398",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$6,012"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$4,957"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3,173"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x730a80f364926bb1227241012e2fbcbb42590b79",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x5240…e8db",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$9K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$9K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$9K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$7K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$6K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$4K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$4K"
+      },
+      {
+        "name": "Etherex",
+        "volume": "$4K"
+      },
+      {
+        "name": "aori",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xffe6…d3d8",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x21fe…06cd",
+        "volume": "$2K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2100…0cc6",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$23B"
+      },
+      {
+        "name": "NB",
+        "volume": "$10"
+      },
+      {
+        "name": "REX",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:14:04.220Z",
+  "source": "base_aave",
+  "vaultBalance": 2.5422353176967696,
+  "vaultPct": 0.0037398321840496455
+}

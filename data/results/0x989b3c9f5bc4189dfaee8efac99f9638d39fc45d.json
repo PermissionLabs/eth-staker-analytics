@@ -1,0 +1,208 @@
+{
+  "portfolio": {
+    "address": "0x989b3c9f5bc4189dfaee8efac99f9638d39fc45d",
+    "totalValue": "$397,616",
+    "walletLifetime": "1719 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.5300",
+        "amount": "0.3940",
+        "usdValue": "$1,221.59"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$889.3000",
+        "amount": "0.1005",
+        "usdValue": "$89.40"
+      },
+      {
+        "symbol": "CRO",
+        "chain": "cro",
+        "price": "$0.1031",
+        "amount": "418.9203",
+        "usdValue": "$43.20"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6100",
+        "amount": "2.2435",
+        "usdValue": "$30.53"
+      },
+      {
+        "symbol": "DRV",
+        "chain": "eth",
+        "price": "$0.0370",
+        "amount": "184.5091",
+        "usdValue": "$6.83"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0936",
+        "amount": "72.6399",
+        "usdValue": "$6.80"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1220",
+        "amount": "27.6075",
+        "usdValue": "$3.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,099.8200",
+        "amount": "0.0010",
+        "usdValue": "$3.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zircuit",
+        "price": "$3,102.7400",
+        "amount": "0.0010",
+        "usdValue": "$3.10"
+      },
+      {
+        "symbol": "GMONAD",
+        "chain": "monad",
+        "price": "$0.0₅3913",
+        "amount": "590,318.0000",
+        "usdValue": "$2.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "PYUSD",
+        "usdValue": "$396,110"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x989b3c9f5bc4189dfaee8efac99f9638d39fc45d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$35M"
+      },
+      {
+        "name": "Venus",
+        "volume": "$30M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$19M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$19M"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$17M"
+      },
+      {
+        "name": "RAMSES",
+        "volume": "$16M"
+      },
+      {
+        "name": "0x6d53…1f21",
+        "volume": "$11M"
+      },
+      {
+        "name": "Thena",
+        "volume": "$11M"
+      },
+      {
+        "name": "Solidly",
+        "volume": "$9M"
+      },
+      {
+        "name": "Velodrome",
+        "volume": "$8M"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$7M"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$5M"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$5M"
+      },
+      {
+        "name": "MM.Finance",
+        "volume": "$5M"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$5M"
+      },
+      {
+        "name": "Beets",
+        "volume": "$4M"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$52M"
+      },
+      {
+        "name": "RLUSD",
+        "volume": "$38M"
+      },
+      {
+        "name": "MGUSD",
+        "volume": "$26M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$22M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$17M"
+      },
+      {
+        "name": "METH",
+        "volume": "$12M"
+      },
+      {
+        "name": "McrvUSD",
+        "volume": "$10M"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$10M"
+      },
+      {
+        "name": "BNB",
+        "volume": "$8M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$7M"
+      },
+      {
+        "name": "MUSDe",
+        "volume": "$6M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:11:53.243Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.7,
+  "vaultPct": 0.00013015592260834843
+}

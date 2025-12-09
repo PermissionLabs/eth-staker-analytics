@@ -1,0 +1,187 @@
+{
+  "portfolio": {
+    "address": "0x7eaf8e65c5f21e3efae0b54c8f4db87a7a108060",
+    "totalValue": "$2,923",
+    "walletLifetime": "1154 days",
+    "tokens": [
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.8000",
+        "amount": "0.0931",
+        "usdValue": "$82.99"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.5800",
+        "amount": "0.0081",
+        "usdValue": "$25.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,105.5800",
+        "amount": "0.0020",
+        "usdValue": "$6.36"
+      },
+      {
+        "symbol": "BLUR",
+        "chain": "eth",
+        "price": "$0.0347",
+        "amount": "124.9803",
+        "usdValue": "$4.34"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1227",
+        "amount": "1.1554",
+        "usdValue": "$0.14"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,105.5800",
+        "amount": "0.0000375",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9953",
+        "amount": "9,222.0000",
+        "usdValue": "$0.09"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,803"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7eaf8e65c5f21e3efae0b54c8f4db87a7a108060",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$36K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$25K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x411d…b324",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xf060…81aa",
+        "volume": "$8K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x8fc0…9171",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5cc9…7efd",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x9b1b…ac49",
+        "volume": "$4K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x45c2…7633",
+        "volume": "$3K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8f8a…1e7b",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xde6c…9b43",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$94K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$24K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$24K"
+      },
+      {
+        "name": "VELA",
+        "volume": "$8K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "uPEPE",
+        "volume": "$1K"
+      },
+      {
+        "name": "PEPEG",
+        "volume": "$376B"
+      },
+      {
+        "name": "USD",
+        "volume": "$145"
+      },
+      {
+        "name": "LUR",
+        "volume": "$117B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:56:59.256Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.373490492667819,
+  "vaultPct": 0.0002553827460956786
+}

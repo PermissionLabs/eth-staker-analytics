@@ -1,0 +1,212 @@
+{
+  "portfolio": {
+    "address": "0xff96265d90b4d57a4890d439e8d31f21bada3652",
+    "totalValue": "$382",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,133.7000",
+        "amount": "0.0556",
+        "usdValue": "$174.33"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,133.8700",
+        "amount": "0.0052",
+        "usdValue": "$16.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,133.8700",
+        "amount": "0.0003",
+        "usdValue": "$0.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,133.8700",
+        "amount": "0.0002",
+        "usdValue": "$0.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,133.7000",
+        "amount": "0.0001",
+        "usdValue": "$0.35"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,133.8700",
+        "amount": "0.00008602",
+        "usdValue": "$0.27"
+      },
+      {
+        "symbol": "G",
+        "chain": "gravity",
+        "price": "$0.0050",
+        "amount": "51.0209",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,133.8700",
+        "amount": "0.00007991",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,133.8700",
+        "amount": "0.00007987",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,133.8700",
+        "amount": "0.00007516",
+        "usdValue": "$0.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$188"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xff96265d90b4d57a4890d439e8d31f21bada3652",
+    "topProtocols": [
+      {
+        "name": "0x4200…0006",
+        "volume": "$15K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$12K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x5300…0004",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x7949…18d0",
+        "volume": "$5K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$5K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$5K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$4K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$4K"
+      },
+      {
+        "name": "Gate.io",
+        "volume": "$3K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$47K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$5K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$746"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$576B"
+      },
+      {
+        "name": "USD",
+        "volume": "$293"
+      },
+      {
+        "name": "USDT",
+        "volume": "$146"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:52:43.434Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07199999999999995,
+  "vaultPct": 0.00010591777849090987
+}

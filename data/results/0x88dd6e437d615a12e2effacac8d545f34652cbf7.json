@@ -1,0 +1,77 @@
+{
+  "portfolio": {
+    "address": "0x88dd6e437d615a12e2effacac8d545f34652cbf7",
+    "totalValue": "$5,648",
+    "walletLifetime": "82 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,130.5800",
+        "amount": "0.0010",
+        "usdValue": "$3.12"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3,852"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,793"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x88dd6e437d615a12e2effacac8d545f34652cbf7",
+    "topProtocols": [
+      {
+        "name": "0xf4c6…2f22",
+        "volume": "$2K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mamo",
+        "volume": "$2K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1887…3cdd",
+        "volume": "$600"
+      },
+      {
+        "name": "0xf4c4…2f22",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:33:56.873Z",
+  "source": "moonwell",
+  "vaultBalance": 0.6444090914512167,
+  "vaultPct": 0.011691015607126768
+}

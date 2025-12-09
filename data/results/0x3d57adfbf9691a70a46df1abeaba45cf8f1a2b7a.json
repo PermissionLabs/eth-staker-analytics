@@ -1,0 +1,168 @@
+{
+  "portfolio": {
+    "address": "0x3d57adfbf9691a70a46df1abeaba45cf8f1a2b7a",
+    "totalValue": "$8,059",
+    "walletLifetime": "1515 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.5700",
+        "amount": "0.2435",
+        "usdValue": "$769.30"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "190.5308",
+        "usdValue": "$190.51"
+      },
+      {
+        "symbol": "KAP",
+        "chain": "eth",
+        "price": "$0.0003",
+        "amount": "22,463.4617",
+        "usdValue": "$7.80"
+      },
+      {
+        "symbol": "PSTAKE",
+        "chain": "eth",
+        "price": "$0.0043",
+        "amount": "625.0000",
+        "usdValue": "$2.71"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9977",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$7,089"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x3d57adfbf9691a70a46df1abeaba45cf8f1a2b7a",
+    "topProtocols": [
+      {
+        "name": "Rainbow Bridge",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x8648…c15d",
+        "volume": "$22K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$8K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$6K"
+      },
+      {
+        "name": "KAP Games",
+        "volume": "$6K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "Axie Infinity",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5b00…d40f",
+        "volume": "$1K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf4cd…b763",
+        "volume": "$903"
+      },
+      {
+        "name": "Curve",
+        "volume": "$822B"
+      },
+      {
+        "name": "alancer V2",
+        "volume": "$750"
+      },
+      {
+        "name": "0xa94c…b551",
+        "volume": "$370"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$49K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$37K"
+      },
+      {
+        "name": "KAP",
+        "volume": "$12K"
+      },
+      {
+        "name": "AXS",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$664"
+      },
+      {
+        "name": "PSTAKE",
+        "volume": "$370B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:44:14.315Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.105997494273529,
+  "vaultPct": 0.0001581348079060587
+}

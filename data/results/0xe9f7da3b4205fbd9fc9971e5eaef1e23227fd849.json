@@ -1,0 +1,192 @@
+{
+  "portfolio": {
+    "address": "0xe9f7da3b4205fbd9fc9971e5eaef1e23227fd849",
+    "totalValue": "$116,489",
+    "walletLifetime": "732 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.3700",
+        "amount": "21.1824",
+        "usdValue": "$65,821.40"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7904",
+        "amount": "2,930.2907",
+        "usdValue": "$40,409.79"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "eth",
+        "price": "$196.7200",
+        "amount": "23.9097",
+        "usdValue": "$4,703.51"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5973",
+        "amount": "2,970.0000",
+        "usdValue": "$1,773.88"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2760",
+        "amount": "4,611.0000",
+        "usdValue": "$1,272.64"
+      },
+      {
+        "symbol": "WLD",
+        "chain": "op",
+        "price": "$0.5912",
+        "amount": "1,043.0000",
+        "usdValue": "$616.62"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Rocket Pool",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,396"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$488"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe9f7da3b4205fbd9fc9971e5eaef1e23227fd849",
+    "topProtocols": [
+      {
+        "name": "0x51bf…8c19",
+        "volume": "$256K"
+      },
+      {
+        "name": "0x310d…761f",
+        "volume": "$100K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$44K"
+      },
+      {
+        "name": "0xe92c…763e",
+        "volume": "$41K"
+      },
+      {
+        "name": "0x1f8e…ae49",
+        "volume": "$35K"
+      },
+      {
+        "name": "0x2bbe…94a9",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x6cda…3340",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xeee9…14e4",
+        "volume": "$223"
+      },
+      {
+        "name": "0xe40d…adb7",
+        "volume": "$102"
+      },
+      {
+        "name": "0x5479…7b14",
+        "volume": "$40"
+      },
+      {
+        "name": "Gelato",
+        "volume": "$2"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xe9f7…d849",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5be7…1f66",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$333K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$56K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$47K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$20K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$12K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$11K"
+      },
+      {
+        "name": "INDEX",
+        "volume": "$7K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "WAR",
+        "volume": "$4K"
+      },
+      {
+        "name": "WLD",
+        "volume": "$3K"
+      },
+      {
+        "name": "OP",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:16:42.429Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.14000000000000012,
+  "vaultPct": 0.000010512297933424234
+}

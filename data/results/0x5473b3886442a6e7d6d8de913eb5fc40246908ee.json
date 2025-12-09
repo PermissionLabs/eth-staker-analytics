@@ -1,0 +1,88 @@
+{
+  "portfolio": {
+    "address": "0x5473b3886442a6e7d6d8de913eb5fc40246908ee",
+    "totalValue": "$16,869",
+    "walletLifetime": "100 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,159.5700",
+        "amount": "0.0019",
+        "usdValue": "$5.91"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.00001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$16,863"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5473b3886442a6e7d6d8de913eb5fc40246908ee",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$89K"
+      },
+      {
+        "name": "0xeadf…5235",
+        "volume": "$53K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$21K"
+      },
+      {
+        "name": "0x8167…08b9",
+        "volume": "$7K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xbd0a…e977",
+        "volume": "$274"
+      },
+      {
+        "name": "0x8164…08b9",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4ae2…3075",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xc651…f1e9",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$113K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$68K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:04:07.047Z",
+  "source": "base_aave",
+  "vaultBalance": 14.879606698164869,
+  "vaultPct": 0.02188909564289009
+}

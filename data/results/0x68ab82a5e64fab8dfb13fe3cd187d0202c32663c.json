@@ -1,0 +1,153 @@
+{
+  "portfolio": {
+    "address": "0x68ab82a5e64fab8dfb13fe3cd187d0202c32663c",
+    "totalValue": "$412,762",
+    "walletLifetime": "492 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.0000",
+        "amount": "0.0151",
+        "usdValue": "$47.06"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "30.7970",
+        "usdValue": "$3.81"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0289",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "0.0101",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7856",
+        "amount": "2.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$311,039"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$96,123"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "PT-mHYPER-29JAN2026",
+        "usdValue": "$5,549"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x68ab82a5e64fab8dfb13fe3cd187d0202c32663c",
+    "topProtocols": [
+      {
+        "name": "Kiln",
+        "volume": "$887K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$294K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$188K"
+      },
+      {
+        "name": "0x477b…6b6f",
+        "volume": "$143K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$53K"
+      },
+      {
+        "name": "0xc026…578b",
+        "volume": "$26K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$53B"
+      },
+      {
+        "name": "inance",
+        "volume": "$17"
+      },
+      {
+        "name": "0x937b…222c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x82fd…222c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$115K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$21K"
+      },
+      {
+        "name": "lvlUSD",
+        "volume": "$10K"
+      },
+      {
+        "name": "POL",
+        "volume": "$17"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:54:57.820Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 28.3846054637107,
+  "vaultPct": 0.3165902416045893
+}

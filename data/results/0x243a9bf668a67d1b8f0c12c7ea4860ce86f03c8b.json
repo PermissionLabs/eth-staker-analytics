@@ -1,0 +1,179 @@
+{
+  "portfolio": {
+    "address": "0x243a9bf668a67d1b8f0c12c7ea4860ce86f03c8b",
+    "totalValue": "$183,142",
+    "walletLifetime": "259 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,142.0900",
+        "amount": "0.1663",
+        "usdValue": "$522.52"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "12,666.7311",
+        "usdValue": "$99.94"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1666",
+        "amount": "314.2847",
+        "usdValue": "$52.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,142.0900",
+        "amount": "0.0020",
+        "usdValue": "$6.26"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0283",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7942",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$182,348"
+      },
+      {
+        "protocol": "Linea Ignition",
+        "chain": "linea",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "LINEA",
+        "usdValue": "$113"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x243a9bf668a67d1b8f0c12c7ea4860ce86f03c8b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$535K"
+      },
+      {
+        "name": "0x5594…ed53",
+        "volume": "$241K"
+      },
+      {
+        "name": "MegaETH",
+        "volume": "$222K"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$118K"
+      },
+      {
+        "name": "0xacc5…37b9",
+        "volume": "$113K"
+      },
+      {
+        "name": "0xdfbe…e05c",
+        "volume": "$89K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$68K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$65K"
+      },
+      {
+        "name": "0xc068…557c",
+        "volume": "$61K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$57K"
+      },
+      {
+        "name": "0xa1f4…d641",
+        "volume": "$55K"
+      },
+      {
+        "name": "Plasma",
+        "volume": "$41K"
+      },
+      {
+        "name": "0x2ef7…465a",
+        "volume": "$35K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x0ba3…b8eb",
+        "volume": "$28K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$10K"
+      },
+      {
+        "name": "Hourglass",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$847K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$369K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$359K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$647"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:03:31.803Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 22,
+  "vaultPct": 0.004090614710548093
+}

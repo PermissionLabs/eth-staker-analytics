@@ -1,0 +1,251 @@
+{
+  "portfolio": {
+    "address": "0x1b39c5cadcfc073fd0f072387ca89342328cdc95",
+    "totalValue": "$6,158",
+    "walletLifetime": "2386 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.1500",
+        "amount": "0.0419",
+        "usdValue": "$131.06"
+      },
+      {
+        "symbol": "USDe",
+        "chain": "eth",
+        "price": "$0.9991",
+        "amount": "50.0000",
+        "usdValue": "$49.95"
+      },
+      {
+        "symbol": "ENA",
+        "chain": "eth",
+        "price": "$0.2700",
+        "amount": "115.0240",
+        "usdValue": "$31.06"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.4000",
+        "amount": "0.0194",
+        "usdValue": "$17.36"
+      },
+      {
+        "symbol": "KERNEL",
+        "chain": "eth",
+        "price": "$0.0783",
+        "amount": "100.0000",
+        "usdValue": "$7.83"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "0.9609",
+        "usdValue": "$0.96"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0002",
+        "amount": "0.0467",
+        "usdValue": "$0.05"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001007",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7897",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$5,889"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "ENA",
+        "usdValue": "$31"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1b39c5cadcfc073fd0f072387ca89342328cdc95",
+    "topProtocols": [
+      {
+        "name": "Uniswap V2",
+        "volume": "$73K"
+      },
+      {
+        "name": "Syntropy",
+        "volume": "$25K"
+      },
+      {
+        "name": "KuCoin",
+        "volume": "$24K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$6K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x7b5b…0c3c",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xa904…ed36",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xff6e…c102",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5b93…f995",
+        "volume": "$2K"
+      },
+      {
+        "name": "Rarible",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x05ff…f381",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4d8e…8e33",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xbdae…2d15",
+        "volume": "$1K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$876"
+      },
+      {
+        "name": "0x9e99…e9b6",
+        "volume": "$6081"
+      },
+      {
+        "name": "inch",
+        "volume": "$604"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "NOIA",
+        "volume": "$93K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$56K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "RARI",
+        "volume": "$450"
+      },
+      {
+        "name": "ENA",
+        "volume": "$141K"
+      },
+      {
+        "name": "ERNEL",
+        "volume": "$33"
+      },
+      {
+        "name": "FUN",
+        "volume": "$26B"
+      },
+      {
+        "name": "NB",
+        "volume": "$12B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:14:24.947Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.16009285337099893,
+  "vaultPct": 0.000029767190047864867
+}

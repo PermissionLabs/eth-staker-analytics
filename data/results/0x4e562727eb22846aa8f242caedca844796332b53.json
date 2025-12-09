@@ -1,0 +1,231 @@
+{
+  "portfolio": {
+    "address": "0x4e562727eb22846aa8f242caedca844796332b53",
+    "totalValue": "$140",
+    "walletLifetime": "2337 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "56.0212",
+        "usdValue": "$56.02"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "37.4319",
+        "usdValue": "$37.43"
+      },
+      {
+        "symbol": "WXPL",
+        "chain": "plasma",
+        "price": "$0.1685",
+        "amount": "83.4825",
+        "usdValue": "$14.07"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,144.0900",
+        "amount": "0.0026",
+        "usdValue": "$8.32"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,136.9500",
+        "amount": "0.0025",
+        "usdValue": "$7.81"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,003.3400",
+        "amount": "0.00003735",
+        "usdValue": "$3.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,136.9500",
+        "amount": "0.0010",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.2400",
+        "amount": "0.0009",
+        "usdValue": "$2.70"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6668",
+        "amount": "0.3036",
+        "usdValue": "$1.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,136.9500",
+        "amount": "0.0004",
+        "usdValue": "$1.35"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "1.1646",
+        "usdValue": "$1.16"
+      },
+      {
+        "symbol": "WAVAX",
+        "chain": "avax",
+        "price": "$13.7000",
+        "amount": "0.0795",
+        "usdValue": "$1.09"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "mnt",
+        "price": "$30.7300",
+        "amount": "0.0131",
+        "usdValue": "$0.40"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1685",
+        "amount": "1.8362",
+        "usdValue": "$0.31"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "plasma",
+        "price": "$1.0000",
+        "amount": "0.2394",
+        "usdValue": "$0.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4e562727eb22846aa8f242caedca844796332b53",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$6M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$948K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$158K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$103K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$74K"
+      },
+      {
+        "name": "aori",
+        "volume": "$66K"
+      },
+      {
+        "name": "0x8288…4959",
+        "volume": "$64K"
+      },
+      {
+        "name": "Revert",
+        "volume": "$59K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$52K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$46K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$32K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$21K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$20K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$5M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$911K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$410K"
+      },
+      {
+        "name": "KGHO",
+        "volume": "$32K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$15K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:41:39.643Z",
+  "source": "base_aave",
+  "vaultBalance": 8.430983244312388,
+  "vaultPct": 0.012402652996272955
+}

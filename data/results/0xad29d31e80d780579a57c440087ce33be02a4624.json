@@ -1,0 +1,231 @@
+{
+  "portfolio": {
+    "address": "0xad29d31e80d780579a57c440087ce33be02a4624",
+    "totalValue": "$1,488",
+    "walletLifetime": "1183 days",
+    "tokens": [
+      {
+        "symbol": "FLRBRG",
+        "chain": "eth",
+        "price": "$0.0₅2046",
+        "amount": "103,369,456.6699",
+        "usdValue": "$211.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,103.9200",
+        "amount": "0.0265",
+        "usdValue": "$82.30"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "52.5593",
+        "usdValue": "$52.56"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.9000",
+        "amount": "0.0424",
+        "usdValue": "$37.74"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "8.7511",
+        "usdValue": "$8.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,103.9200",
+        "amount": "0.0012",
+        "usdValue": "$3.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,103.9200",
+        "amount": "0.0008",
+        "usdValue": "$2.54"
+      },
+      {
+        "symbol": "EYWA",
+        "chain": "arb",
+        "price": "$0.0018",
+        "amount": "687.1358",
+        "usdValue": "$1.26"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1220",
+        "amount": "9.5454",
+        "usdValue": "$1.16"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "1.1203",
+        "usdValue": "$1.12"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$89,848.1900",
+        "amount": "0.0000111",
+        "usdValue": "$1.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$768"
+      },
+      {
+        "protocol": "TokenSets",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$316"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xad29d31e80d780579a57c440087ce33be02a4624",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$605K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$164K"
+      },
+      {
+        "name": "HTX",
+        "volume": "$119K"
+      },
+      {
+        "name": "0xe5d6…8384",
+        "volume": "$100K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$96K"
+      },
+      {
+        "name": "0x9332…6f17",
+        "volume": "$60K"
+      },
+      {
+        "name": "0x3102…c689",
+        "volume": "$53K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$48K"
+      },
+      {
+        "name": "0xcaf9…538a",
+        "volume": "$36K"
+      },
+      {
+        "name": "0x0cf7…f6e7",
+        "volume": "$34K"
+      },
+      {
+        "name": "0x08e5…f749",
+        "volume": "$34K"
+      },
+      {
+        "name": "0x7564…a03d",
+        "volume": "$30K"
+      },
+      {
+        "name": "0xf878…19be",
+        "volume": "$28K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x93c3…61aa",
+        "volume": "$24K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$583K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$178K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$51K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$45K"
+      },
+      {
+        "name": "MEU",
+        "volume": "$20K"
+      },
+      {
+        "name": "MOST",
+        "volume": "$12K"
+      },
+      {
+        "name": "FLRBRG",
+        "volume": "$7K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$816"
+      },
+      {
+        "name": "POL",
+        "volume": "$8"
+      },
+      {
+        "name": "XDAO",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:14:51.961Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.6525692317857166,
+  "vaultPct": 0.0001213367863269873
+}

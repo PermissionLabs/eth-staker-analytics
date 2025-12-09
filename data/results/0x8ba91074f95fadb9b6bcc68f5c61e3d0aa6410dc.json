@@ -1,0 +1,110 @@
+{
+  "portfolio": {
+    "address": "0x8ba91074f95fadb9b6bcc68f5c61e3d0aa6410dc",
+    "totalValue": "$24,159",
+    "walletLifetime": "1176 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.1800",
+        "amount": "0.9674",
+        "usdValue": "$3,025.35"
+      },
+      {
+        "symbol": "ENS",
+        "chain": "eth",
+        "price": "$11.2000",
+        "amount": "260.1726",
+        "usdValue": "$2,913.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.0900",
+        "amount": "0.3732",
+        "usdValue": "$1,167.13"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2070",
+        "amount": "287.1293",
+        "usdValue": "$346.57"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7810",
+        "amount": "17.5502",
+        "usdValue": "$241.86"
+      },
+      {
+        "symbol": "FWB",
+        "chain": "base",
+        "price": "$0.0373",
+        "amount": "750.0000",
+        "usdValue": "$27.96"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$9,545"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$6,652"
+      },
+      {
+        "protocol": "Ribbon",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$207"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$18"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8ba91074f95fadb9b6bcc68f5c61e3d0aa6410dc",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T23:32:33.705Z",
+  "source": "moonwell",
+  "vaultBalance": 1.1519015054497386,
+  "vaultPct": 0.020898057859112605
+}

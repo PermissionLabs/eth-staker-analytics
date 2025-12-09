@@ -1,0 +1,192 @@
+{
+  "portfolio": {
+    "address": "0x139bd60ed66005c11b0791c3fe559ebcc3c283a3",
+    "totalValue": "$1,148",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "xdai",
+        "price": "$1.0001",
+        "amount": "147.3458",
+        "usdValue": "$147.35"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "bsc",
+        "price": "$0.9999",
+        "amount": "9.9541",
+        "usdValue": "$9.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,115.9300",
+        "amount": "0.0029",
+        "usdValue": "$9.01"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1235",
+        "amount": "18.4662",
+        "usdValue": "$2.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.9300",
+        "amount": "0.0006",
+        "usdValue": "$2.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,115.8400",
+        "amount": "0.00004602",
+        "usdValue": "$0.14"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "0.0099",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MARCO",
+        "chain": "bsc",
+        "price": "$0.0015",
+        "amount": "4.0001",
+        "usdValue": ""
+      },
+      {
+        "symbol": "比特币",
+        "chain": "bsc",
+        "price": "$0.0370",
+        "amount": "0.0214",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MM72",
+        "chain": "bsc",
+        "price": "$0.0₆9496",
+        "amount": "72.0721",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$655"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$157"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT0",
+        "usdValue": "$146"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$19"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x139bd60ed66005c11b0791c3fe559ebcc3c283a3",
+    "topProtocols": [
+      {
+        "name": "0xa3e5…8f40",
+        "volume": "$630"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$627"
+      },
+      {
+        "name": "0x4f15…ee6d",
+        "volume": "$536"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$401"
+      },
+      {
+        "name": "Velora",
+        "volume": "$150"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$150"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$147"
+      },
+      {
+        "name": "GMX",
+        "volume": "$90"
+      },
+      {
+        "name": "0x446b…0821",
+        "volume": "$21"
+      },
+      {
+        "name": "0x17f5…d092",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$147"
+      },
+      {
+        "name": "POL",
+        "volume": "$11"
+      },
+      {
+        "name": "DAI",
+        "volume": "$10"
+      },
+      {
+        "name": "MM",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:13:49.887Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.20443023560406084,
+  "vaultPct": 0.00003801115132012654
+}

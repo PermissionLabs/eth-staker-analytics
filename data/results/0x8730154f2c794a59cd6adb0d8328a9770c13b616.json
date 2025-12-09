@@ -1,0 +1,231 @@
+{
+  "portfolio": {
+    "address": "0x8730154f2c794a59cd6adb0d8328a9770c13b616",
+    "totalValue": "$134,191",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "30,553.6911",
+        "usdValue": "$30,553.69"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.3889",
+        "amount": "4,664.0764",
+        "usdValue": "$11,141.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.4500",
+        "amount": "1.6897",
+        "usdValue": "$5,248.95"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "eth",
+        "price": "$0.4890",
+        "amount": "2,995.4672",
+        "usdValue": "$1,464.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.4500",
+        "amount": "0.0510",
+        "usdValue": "$158.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "mode",
+        "price": "$3,106.7500",
+        "amount": "0.0204",
+        "usdValue": "$63.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zircuit",
+        "price": "$3,106.7500",
+        "amount": "0.0200",
+        "usdValue": "$62.13"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$37,453"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$26,113"
+      },
+      {
+        "protocol": "Contango",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "PENDLE",
+        "usdValue": "$14,334"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "weETH",
+        "usdValue": "$4,410"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,662"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KERNEL",
+        "usdValue": "$399"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x8730154f2c794a59cd6adb0d8328a9770c13b616",
+    "topProtocols": [
+      {
+        "name": "Contango",
+        "volume": "$1M"
+      },
+      {
+        "name": "Kim",
+        "volume": "$213K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$191K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$180K"
+      },
+      {
+        "name": "0x15ab…cde2",
+        "volume": "$179K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$139K"
+      },
+      {
+        "name": "ionic",
+        "volume": "$120K"
+      },
+      {
+        "name": "PRINT3R",
+        "volume": "$109K"
+      },
+      {
+        "name": "LogX",
+        "volume": "$89K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$88K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$81K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$77K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$72K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$65K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$63K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$62K"
+      },
+      {
+        "name": "0x04c0…150a",
+        "volume": "$62K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "METH",
+        "volume": "$953K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$494K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$339K"
+      },
+      {
+        "name": "weETH.mode",
+        "volume": "$227K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$192K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$161K"
+      },
+      {
+        "name": "MODE",
+        "volume": "$157K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$94K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$91K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$73K"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$63K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:00:58.884Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 7.71476104763232,
+  "vaultPct": 0.08604727894189639
+}

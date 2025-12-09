@@ -1,0 +1,264 @@
+{
+  "portfolio": {
+    "address": "0x1299bb2fc9131fd06715a0aa1cc1814ac7239683",
+    "totalValue": "$3,890",
+    "walletLifetime": "862 days",
+    "tokens": [
+      {
+        "symbol": "W",
+        "chain": "op",
+        "price": "$0.0402",
+        "amount": "4,044.3441",
+        "usdValue": "$162.42"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0078",
+        "amount": "13,018.7356",
+        "usdValue": "$101.42"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3848",
+        "amount": "11.2691",
+        "usdValue": "$15.61"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,100.0300",
+        "amount": "0.0028",
+        "usdValue": "$8.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,100.0300",
+        "amount": "0.0020",
+        "usdValue": "$6.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,099.8200",
+        "amount": "0.0004",
+        "usdValue": "$1.24"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$889.4000",
+        "amount": "0.0013",
+        "usdValue": "$1.17"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "1.0966",
+        "usdValue": "$1.10"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1968",
+        "amount": "0.8608",
+        "usdValue": "$1.03"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9738",
+        "amount": "740,000.0000",
+        "usdValue": "$0.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,099.8200",
+        "amount": "0.0002",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "lisk",
+        "price": "$3,099.8200",
+        "amount": "0.0001",
+        "usdValue": "$0.46"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8350",
+        "amount": "0.4613",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0100",
+        "amount": "30.7134",
+        "usdValue": "$0.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,853"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$361"
+      },
+      {
+        "protocol": "Virtuals Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "VIRTUAL",
+        "usdValue": "$316"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$37"
+      },
+      {
+        "protocol": "ionic",
+        "chain": "lisk",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$13"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$4"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1299bb2fc9131fd06715a0aa1cc1814ac7239683",
+    "topProtocols": [
+      {
+        "name": "ZeroLend",
+        "volume": "$22K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$14K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$13K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$6K"
+      },
+      {
+        "name": "Superform",
+        "volume": "$6K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$5K"
+      },
+      {
+        "name": "Core Bridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$4K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$4K"
+      },
+      {
+        "name": "OpenUSDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$4K"
+      },
+      {
+        "name": "Starknet Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ezETH",
+        "volume": "$35K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$14K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "KezETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:12:05.154Z",
+  "source": "moonwell",
+  "vaultBalance": 0.11407614579127301,
+  "vaultPct": 0.002069595259500778
+}

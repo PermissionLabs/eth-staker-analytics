@@ -1,0 +1,223 @@
+{
+  "portfolio": {
+    "address": "0x74443c5d334f30d2f532d1d67e1df1f1bef3b952",
+    "totalValue": "$86,020",
+    "walletLifetime": "971 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,119.8800",
+        "amount": "0.2661",
+        "usdValue": "$830.27"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1993",
+        "amount": "454.3147",
+        "usdValue": "$544.86"
+      },
+      {
+        "symbol": "MAMO",
+        "chain": "base",
+        "price": "$0.0246",
+        "amount": "15,289.4500",
+        "usdValue": "$376.12"
+      },
+      {
+        "symbol": "HIGHER",
+        "chain": "base",
+        "price": "$0.0011",
+        "amount": "206,324.6867",
+        "usdValue": "$221.45"
+      },
+      {
+        "symbol": "BUILD",
+        "chain": "base",
+        "price": "$0.0₆4296",
+        "amount": "422,238,946.3257",
+        "usdValue": "$181.37"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "base",
+        "price": "$31.0600",
+        "amount": "4.1906",
+        "usdValue": "$130.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.0000",
+        "amount": "0.0170",
+        "usdValue": "$53.11"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$63,498"
+      },
+      {
+        "protocol": "Definitive",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$16,907"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WELL",
+        "usdValue": "$2,794"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$479"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x74443c5d334f30d2f532d1d67e1df1f1bef3b952",
+    "topProtocols": [
+      {
+        "name": "Moonwell",
+        "volume": "$498K"
+      },
+      {
+        "name": "CryptoPunks",
+        "volume": "$249K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$236K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$201K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$170K"
+      },
+      {
+        "name": "Definitive",
+        "volume": "$169K"
+      },
+      {
+        "name": "0x838a…b4d9",
+        "volume": "$117K"
+      },
+      {
+        "name": "0x3894…09dc",
+        "volume": "$55K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x03f3…04ab",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x3763…f0f4",
+        "volume": "$12K"
+      },
+      {
+        "name": "Sablier",
+        "volume": "$739M"
+      },
+      {
+        "name": "ultiSender",
+        "volume": "$76"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$641K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$459K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$402K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$192K"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$88K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$45K"
+      },
+      {
+        "name": "HIGHER",
+        "volume": "$21K"
+      },
+      {
+        "name": "KBUILD",
+        "volume": "$8K"
+      },
+      {
+        "name": "MAMO",
+        "volume": "$737M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$596"
+      },
+      {
+        "name": "COMP",
+        "volume": "$253"
+      },
+      {
+        "name": "DUDE",
+        "volume": "$76"
+      },
+      {
+        "name": "STRM",
+        "volume": "$14"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$8B"
+      },
+      {
+        "name": "ENTO",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:24:31.350Z",
+  "source": "moonwell",
+  "vaultBalance": 19.899173270787124,
+  "vaultPct": 0.3610153059041744
+}

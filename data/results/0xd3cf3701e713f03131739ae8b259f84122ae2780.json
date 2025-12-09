@@ -1,0 +1,109 @@
+{
+  "portfolio": {
+    "address": "0xd3cf3701e713f03131739ae8b259f84122ae2780",
+    "totalValue": "$921",
+    "walletLifetime": "352 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.0800",
+        "amount": "0.2857",
+        "usdValue": "$894.25"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "26.6284",
+        "usdValue": "$26.63"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0287",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7907",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xd3cf3701e713f03131739ae8b259f84122ae2780",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$104K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$68K"
+      },
+      {
+        "name": "0xc1c1…e187",
+        "volume": "$24K"
+      },
+      {
+        "name": "0x9391…4862",
+        "volume": "$24K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x7eed…0db6",
+        "volume": "$1K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$796"
+      },
+      {
+        "name": "0x4a3c…9d56",
+        "volume": "$722"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$714"
+      },
+      {
+        "name": "0x1b23…cc15",
+        "volume": "$5"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$155K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$103K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:44:29.592Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 17.42182917354295,
+  "vaultPct": 0.0032393632137250328
+}

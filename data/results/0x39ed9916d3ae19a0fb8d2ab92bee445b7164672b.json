@@ -1,0 +1,307 @@
+{
+  "portfolio": {
+    "address": "0x39ed9916d3ae19a0fb8d2ab92bee445b7164672b",
+    "totalValue": "$131",
+    "walletLifetime": "1488 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,150.8700",
+        "amount": "0.0048",
+        "usdValue": "$15.17"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "base",
+        "price": "$1.0001",
+        "amount": "11.5885",
+        "usdValue": "$11.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,151.6300",
+        "amount": "0.0015",
+        "usdValue": "$4.75"
+      },
+      {
+        "symbol": "PING",
+        "chain": "base",
+        "price": "$0.0088",
+        "amount": "462.1201",
+        "usdValue": "$4.06"
+      },
+      {
+        "symbol": "LUNA (Virtuals Protocol)",
+        "chain": "base",
+        "price": "$0.0165",
+        "amount": "90.4680",
+        "usdValue": "$1.49"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,151.6300",
+        "amount": "0.0004",
+        "usdValue": "$1.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,150.5200",
+        "amount": "0.0004",
+        "usdValue": "$1.20"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9859",
+        "amount": "740,000.0000",
+        "usdValue": "$0.73"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2293",
+        "amount": "0.4539",
+        "usdValue": "$0.56"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,150.8700",
+        "amount": "0.00003796",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0102",
+        "amount": "11.4052",
+        "usdValue": "$0.12"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "base",
+        "price": "$30.7400",
+        "amount": "0.0031",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "SEAM",
+        "chain": "base",
+        "price": "$0.1434",
+        "amount": "0.5500",
+        "usdValue": "$0.08"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1245",
+        "amount": "0.5833",
+        "usdValue": "$0.07"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "5,444.0000",
+        "usdValue": "$0.05"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$82"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "VIRTUAL",
+        "usdValue": "$8"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "SEAM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "aglaMerkl",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x39ed9916d3ae19a0fb8d2ab92bee445b7164672b",
+    "topProtocols": [
+      {
+        "name": "0x2067…21ee",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xbf68…47b4",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$646"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$412"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$393"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$349"
+      },
+      {
+        "name": "Velocore",
+        "volume": "$329"
+      },
+      {
+        "name": "EraLend",
+        "volume": "$325"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$311M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$241"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$239"
+      },
+      {
+        "name": "Yield Protocol",
+        "volume": "$207M"
+      },
+      {
+        "name": "oonwell",
+        "volume": "$200"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$194"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$174B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$159"
+      },
+      {
+        "name": "Seamless Protocol",
+        "volume": "$159"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$153"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$144M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$140"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$791"
+      },
+      {
+        "name": "WETH",
+        "volume": "$337"
+      },
+      {
+        "name": "hUSDC",
+        "volume": "$252"
+      },
+      {
+        "name": "DAI",
+        "volume": "$239"
+      },
+      {
+        "name": "AERO",
+        "volume": "$184"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$180"
+      },
+      {
+        "name": "POL",
+        "volume": "$153"
+      },
+      {
+        "name": "USDT",
+        "volume": "$109"
+      },
+      {
+        "name": "SEAM",
+        "volume": "$53"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:12:46.320Z",
+  "source": "base_aave",
+  "vaultBalance": 0.059370902115828475,
+  "vaultPct": 0.00008733936193208078
+}

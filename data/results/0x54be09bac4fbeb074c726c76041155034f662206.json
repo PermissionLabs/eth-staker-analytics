@@ -1,0 +1,294 @@
+{
+  "portfolio": {
+    "address": "0x54be09bac4fbeb074c726c76041155034f662206",
+    "totalValue": "$45,081",
+    "walletLifetime": "1470 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,144.9500",
+        "amount": "0.1175",
+        "usdValue": "$369.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,145.3100",
+        "amount": "0.1169",
+        "usdValue": "$367.76"
+      },
+      {
+        "symbol": "Metis",
+        "chain": "eth",
+        "price": "$6.5100",
+        "amount": "5.0234",
+        "usdValue": "$32.70"
+      },
+      {
+        "symbol": "WAGMI",
+        "chain": "ftm",
+        "price": "$0.0025",
+        "amount": "4,163.0698",
+        "usdValue": "$10.31"
+      },
+      {
+        "symbol": "UOP",
+        "chain": "eth",
+        "price": "$0.0025",
+        "amount": "2,020.9004",
+        "usdValue": "$5.13"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0328",
+        "amount": "59.1861",
+        "usdValue": "$1.94"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0970",
+        "amount": "19.8998",
+        "usdValue": "$1.93"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "eth",
+        "price": "$0.8350",
+        "amount": "1.8300",
+        "usdValue": "$1.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,144.9500",
+        "amount": "0.0004",
+        "usdValue": "$1.22"
+      },
+      {
+        "symbol": "KAVA",
+        "chain": "kava",
+        "price": "$0.1055",
+        "amount": "9.2459",
+        "usdValue": "$0.98"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0970",
+        "amount": "9.6217",
+        "usdValue": "$0.93"
+      },
+      {
+        "symbol": "FOX",
+        "chain": "eth",
+        "price": "$0.0135",
+        "amount": "62.4396",
+        "usdValue": "$0.84"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$21,249"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$20,574"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$1,674"
+      },
+      {
+        "protocol": "Wagmi",
+        "chain": "sonic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WAGMI",
+        "usdValue": "$321"
+      },
+      {
+        "protocol": "MySonic",
+        "chain": "sonic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "S",
+        "usdValue": "$224"
+      },
+      {
+        "protocol": "Abracadabra",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SPELL",
+        "usdValue": "$200"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SUSHI",
+        "usdValue": "$43"
+      },
+      {
+        "protocol": "Wonderland",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "TIME (Wonderland)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x54be09bac4fbeb074c726c76041155034f662206",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$199K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$74K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$24K"
+      },
+      {
+        "name": "0xfa45…4377",
+        "volume": "$21K"
+      },
+      {
+        "name": "Wagmi",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$13K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$12K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "AutoFarm",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x93f8…5ce1",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$9K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$8K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$8K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$8K"
+      },
+      {
+        "name": "Popsicle",
+        "volume": "$8K"
+      },
+      {
+        "name": "Bitfinex",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xa658…61d9",
+        "volume": "$7K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$262K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$67K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$52K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$37K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$28K"
+      },
+      {
+        "name": "KWAGMI",
+        "volume": "$20K"
+      },
+      {
+        "name": "KUSDT",
+        "volume": "$13K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$11K"
+      },
+      {
+        "name": "WAGMI",
+        "volume": "$9K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "KwMEMO",
+        "volume": "$6K"
+      },
+      {
+        "name": "S",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:59:08.339Z",
+  "source": "lido_steth",
+  "vaultBalance": 6.217004354972334,
+  "vaultPct": 0.0004668214430918934
+}

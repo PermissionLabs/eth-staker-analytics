@@ -1,0 +1,256 @@
+{
+  "portfolio": {
+    "address": "0x63f98306b7c651496d496981606bbcdd912c2bf0",
+    "totalValue": "$1,716",
+    "walletLifetime": "1642 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,115.8300",
+        "amount": "0.0898",
+        "usdValue": "$279.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,115.8300",
+        "amount": "0.0297",
+        "usdValue": "$92.64"
+      },
+      {
+        "symbol": "mUSD",
+        "chain": "linea",
+        "price": "$0.9998",
+        "amount": "54.5364",
+        "usdValue": "$54.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.8300",
+        "amount": "0.0089",
+        "usdValue": "$27.76"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$891.5400",
+        "amount": "0.0085",
+        "usdValue": "$7.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,115.8300",
+        "amount": "0.0020",
+        "usdValue": "$6.16"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1224",
+        "amount": "9.9321",
+        "usdValue": "$1.22"
+      },
+      {
+        "symbol": "EFI",
+        "chain": "matic",
+        "price": "$17.6122",
+        "amount": "0.0100",
+        "usdValue": "$0.18"
+      },
+      {
+        "symbol": "LGNS",
+        "chain": "matic",
+        "price": "$7.6505",
+        "amount": "0.0020",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "POLO",
+        "chain": "matic",
+        "price": "$0.0006",
+        "amount": "2.1000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "0.000066",
+        "usdValue": ""
+      },
+      {
+        "symbol": "DAI",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "0.00005",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Web3",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "3.2165",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "XRP",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "10.2515",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$521"
+      },
+      {
+        "protocol": "MetaMask Swaps",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$313"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$228"
+      },
+      {
+        "protocol": "Etherex",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$184"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x63f98306b7c651496d496981606bbcdd912c2bf0",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Aave",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$2K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$1K"
+      },
+      {
+        "name": "QuickSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$797"
+      },
+      {
+        "name": "OKX",
+        "volume": "$669M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$664"
+      },
+      {
+        "name": "0x66b8…8770",
+        "volume": "$541"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$492M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$451"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$268"
+      },
+      {
+        "name": "Relay",
+        "volume": "$225"
+      },
+      {
+        "name": "Etherex",
+        "volume": "$206"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$113M"
+      },
+      {
+        "name": "inance",
+        "volume": "$16"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "DAI",
+        "volume": "$10K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$3K"
+      },
+      {
+        "name": "POL",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$451"
+      },
+      {
+        "name": "USDC",
+        "volume": "$270m"
+      },
+      {
+        "name": "USD",
+        "volume": "$171"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$106"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:39:16.191Z",
+  "source": "moonwell",
+  "vaultBalance": 0.1636947387239555,
+  "vaultPct": 0.002969787004271616
+}

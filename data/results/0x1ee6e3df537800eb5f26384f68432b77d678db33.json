@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0x1ee6e3df537800eb5f26384f68432b77d678db33",
+    "totalValue": "$9,940",
+    "walletLifetime": "636 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.9200",
+        "amount": "0.5603",
+        "usdValue": "$1,770.01"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.1618",
+        "amount": "46.7741",
+        "usdValue": "$662.41"
+      },
+      {
+        "symbol": "WLD",
+        "chain": "eth",
+        "price": "$0.5932",
+        "amount": "722.7541",
+        "usdValue": "$428.73"
+      },
+      {
+        "symbol": "HOT",
+        "chain": "eth",
+        "price": "$0.0005",
+        "amount": "321,371.5209",
+        "usdValue": "$166.79"
+      },
+      {
+        "symbol": "RXS",
+        "chain": "eth",
+        "price": "$0.0009",
+        "amount": "5,766.2383",
+        "usdValue": "$4.91"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9982",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "LWFI (unknown)",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "1,300.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6,907"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1ee6e3df537800eb5f26384f68432b77d678db33",
+    "topProtocols": [
+      {
+        "name": "0xab78…e1bc",
+        "volume": "$10K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$7K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xd267…9a4b",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xb217…6f98",
+        "volume": "$1K"
+      },
+      {
+        "name": "Rexas Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4a82…444c",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$20K"
+      },
+      {
+        "name": "WLD",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$1K"
+      },
+      {
+        "name": "HOT",
+        "volume": "$771"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:25:04.551Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.129241634402181,
+  "vaultPct": 0.00015988016023633477
+}

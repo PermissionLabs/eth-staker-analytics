@@ -1,0 +1,203 @@
+{
+  "portfolio": {
+    "address": "0x200e5dd048354b3268d87c206951f451d70d2329",
+    "totalValue": "$10,751",
+    "walletLifetime": "1646 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.7000",
+        "amount": "0.7279",
+        "usdValue": "$2,279.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,131.7000",
+        "amount": "0.0289",
+        "usdValue": "$90.58"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.7000",
+        "amount": "0.0186",
+        "usdValue": "$58.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.7000",
+        "amount": "0.0100",
+        "usdValue": "$31.31"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.2000",
+        "amount": "0.0281",
+        "usdValue": "$25.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,131.7000",
+        "amount": "0.0020",
+        "usdValue": "$6.12"
+      },
+      {
+        "symbol": "atUSD",
+        "chain": "gravity",
+        "price": "$1.1053",
+        "amount": "3.1525",
+        "usdValue": "$3.48"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "ink",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$4,605"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1,881"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$972"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$783"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x200e5dd048354b3268d87c206951f451d70d2329",
+    "topProtocols": [
+      {
+        "name": "OKX DEX",
+        "volume": "$118K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$117K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$86K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$54K"
+      },
+      {
+        "name": "Blur",
+        "volume": "$44K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$40K"
+      },
+      {
+        "name": "OpenSea",
+        "volume": "$30K"
+      },
+      {
+        "name": "0xa491…684e",
+        "volume": "$26K"
+      },
+      {
+        "name": "0xe401…dede",
+        "volume": "$22K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$20K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$19K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$17K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$15K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$15K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$15K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$491K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$65K"
+      },
+      {
+        "name": "TRWA",
+        "volume": "$51K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$43K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$33K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$24K"
+      },
+      {
+        "name": "eMDR",
+        "volume": "$24K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$23K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$17K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:13:21.712Z",
+  "source": "moonwell",
+  "vaultBalance": 0.24503041771612794,
+  "vaultPct": 0.004445397303890931
+}

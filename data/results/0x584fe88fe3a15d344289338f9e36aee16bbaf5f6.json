@@ -1,0 +1,186 @@
+{
+  "portfolio": {
+    "address": "0x584fe88fe3a15d344289338f9e36aee16bbaf5f6",
+    "totalValue": "$455",
+    "walletLifetime": "973 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.6300",
+        "amount": "0.0360",
+        "usdValue": "$112.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,119.2900",
+        "amount": "0.0059",
+        "usdValue": "$18.40"
+      },
+      {
+        "symbol": "USDbC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "3.5994",
+        "usdValue": "$3.60"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2014",
+        "amount": "1.8660",
+        "usdValue": "$2.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$318"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x584fe88fe3a15d344289338f9e36aee16bbaf5f6",
+    "topProtocols": [
+      {
+        "name": "OKX",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xe832…2f59",
+        "volume": "$1K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$1K"
+      },
+      {
+        "name": "mellow",
+        "volume": "$995"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$908"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$799"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$697"
+      },
+      {
+        "name": "SushiSwap V3",
+        "volume": "$647"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$505"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$472"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$463"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$432"
+      },
+      {
+        "name": "0xbf39…3f11",
+        "volume": "$323M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$316"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$273"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$917"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$594"
+      },
+      {
+        "name": "WETH",
+        "volume": "$498"
+      },
+      {
+        "name": "SPECTRE",
+        "volume": "$439"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$416B"
+      },
+      {
+        "name": "RETT",
+        "volume": "$47"
+      },
+      {
+        "name": "DEGEN",
+        "volume": "$19M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$5"
+      },
+      {
+        "name": "NATO",
+        "volume": "$3"
+      },
+      {
+        "name": "WELL",
+        "volume": "$3"
+      },
+      {
+        "name": "SKYA",
+        "volume": "$1B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:32:24.794Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09951967955853816,
+  "vaultPct": 0.0018055085540691865
+}

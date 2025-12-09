@@ -1,0 +1,213 @@
+{
+  "portfolio": {
+    "address": "0x5074ae5901f1ee9081029ebb0d60b13ad8b4dfe0",
+    "totalValue": "$4,733",
+    "walletLifetime": "2990 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,137.5200",
+        "amount": "0.1455",
+        "usdValue": "$456.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,137.7500",
+        "amount": "0.0511",
+        "usdValue": "$160.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.5200",
+        "amount": "0.0153",
+        "usdValue": "$47.91"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.5000",
+        "amount": "0.0023",
+        "usdValue": "$2.06"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3184",
+        "amount": "5.1321",
+        "usdValue": "$1.63"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,096"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$818"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$804"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$318"
+      },
+      {
+        "protocol": "Velodrome V2",
+        "chain": "op",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "USDC(Bridged)",
+        "usdValue": "$27"
+      },
+      {
+        "protocol": "Pika Protocol V4",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Juice",
+        "chain": "blast",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5074ae5901f1ee9081029ebb0d60b13ad8b4dfe0",
+    "topProtocols": [
+      {
+        "name": "ReactorFusion",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$5K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$4K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$4K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$3K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$3K"
+      },
+      {
+        "name": "Velodrome V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$2K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$2K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "KZK",
+        "volume": "$5K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$2K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$824"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:29:25.719Z",
+  "source": "moonwell",
+  "vaultBalance": 0.2555500132086126,
+  "vaultPct": 0.0046362461865569644
+}

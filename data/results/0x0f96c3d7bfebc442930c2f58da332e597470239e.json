@@ -1,0 +1,149 @@
+{
+  "portfolio": {
+    "address": "0x0f96c3d7bfebc442930c2f58da332e597470239e",
+    "totalValue": "$34,898",
+    "walletLifetime": "1280 days",
+    "tokens": [
+      {
+        "symbol": "NOTE (Notional)",
+        "chain": "eth",
+        "price": "$0.0084",
+        "amount": "351,000.0000",
+        "usdValue": "$2,948.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.4800",
+        "amount": "0.0578",
+        "usdValue": "$180.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.4800",
+        "amount": "0.00006045",
+        "usdValue": "$0.19"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0278",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7884",
+        "amount": "8.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$31,769"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0f96c3d7bfebc442930c2f58da332e597470239e",
+    "topProtocols": [
+      {
+        "name": "Notional",
+        "volume": "$130K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$96K"
+      },
+      {
+        "name": "0x0247…0909",
+        "volume": "$43K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xa24b…23b3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xfbee…8737",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x424d…6799",
+        "volume": "$811"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$115"
+      },
+      {
+        "name": "0xbc8a…699f",
+        "volume": "$91M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$71"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$70"
+      },
+      {
+        "name": "0x9bf8…82a2",
+        "volume": "$40"
+      },
+      {
+        "name": "0x6bf1…7e95",
+        "volume": "$37"
+      },
+      {
+        "name": "0x3ed4…dc38",
+        "volume": "$37"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x4d46…58cc",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$244K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$16K"
+      },
+      {
+        "name": "NB",
+        "volume": "$74"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:52:12.198Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 10.16940497769923,
+  "vaultPct": 0.0018908689817862488
+}

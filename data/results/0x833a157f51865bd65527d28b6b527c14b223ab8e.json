@@ -1,0 +1,80 @@
+{
+  "portfolio": {
+    "address": "0x833a157f51865bd65527d28b6b527c14b223ab8e",
+    "totalValue": "$5,738",
+    "walletLifetime": "628 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.6400",
+        "amount": "0.1266",
+        "usdValue": "$395.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.6400",
+        "amount": "0.0117",
+        "usdValue": "$36.64"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,305"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x833a157f51865bd65527d28b6b527c14b223ab8e",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xf924…8c9c",
+        "volume": "$5K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$5K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x6edf…5048",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x7d4d…32e4",
+        "volume": "$2K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$330"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$5K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:17:21.944Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.9455177345241472,
+  "vaultPct": 0.000361743793839849
+}

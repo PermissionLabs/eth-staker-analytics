@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0xc0d5b978b9d35fc6c3368265a89f7bf16a29f57c",
+    "totalValue": "$3,791",
+    "walletLifetime": "434 days",
+    "tokens": [
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.8200",
+        "amount": "5.6339",
+        "usdValue": "$77.86"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.8000",
+        "amount": "0.0497",
+        "usdValue": "$45.25"
+      },
+      {
+        "symbol": "KAVA",
+        "chain": "kava",
+        "price": "$0.1059",
+        "amount": "345.0684",
+        "usdValue": "$36.54"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0968",
+        "amount": "293.0000",
+        "usdValue": "$28.36"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "eth",
+        "price": "$1.2281",
+        "amount": "18.6142",
+        "usdValue": "$22.86"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "eth",
+        "price": "$0.2139",
+        "amount": "87.5739",
+        "usdValue": "$18.73"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.2200",
+        "amount": "0.0049",
+        "usdValue": "$15.46"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3266",
+        "amount": "20.0600",
+        "usdValue": "$6.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,160.2100",
+        "amount": "0.0020",
+        "usdValue": "$6.38"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2139",
+        "amount": "14.6313",
+        "usdValue": "$3.13"
+      },
+      {
+        "symbol": "YHDL",
+        "chain": "arb",
+        "price": "$0.0098",
+        "amount": "167.0000",
+        "usdValue": "$1.64"
+      },
+      {
+        "symbol": "GMT (GoMining)",
+        "chain": "bsc",
+        "price": "$0.3660",
+        "amount": "1.6808",
+        "usdValue": "$0.62"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,516"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$10"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc0d5b978b9d35fc6c3368265a89f7bf16a29f57c",
+    "topProtocols": [
+      {
+        "name": "0x6a0d…dc80",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0ba6…696c",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xab9a…63a1",
+        "volume": "$834B"
+      },
+      {
+        "name": "inance",
+        "volume": "$820"
+      },
+      {
+        "name": "Ankr",
+        "volume": "$554"
+      },
+      {
+        "name": "0x573f…949a",
+        "volume": "$454M"
+      },
+      {
+        "name": "EXC",
+        "volume": "$340"
+      },
+      {
+        "name": "ySonic",
+        "volume": "$224M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1001"
+      },
+      {
+        "name": "inch",
+        "volume": "$50"
+      },
+      {
+        "name": "0x06cf…f5ef",
+        "volume": "$48B"
+      },
+      {
+        "name": "itget Wallet",
+        "volume": "$19B"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$10"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$10"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$982"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$488"
+      },
+      {
+        "name": "S",
+        "volume": "$224"
+      },
+      {
+        "name": "ARB",
+        "volume": "$50M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$48"
+      },
+      {
+        "name": "NB",
+        "volume": "$41"
+      },
+      {
+        "name": "OP",
+        "volume": "$34"
+      },
+      {
+        "name": "ETH",
+        "volume": "$23"
+      },
+      {
+        "name": "USDC",
+        "volume": "$21"
+      },
+      {
+        "name": "DOGC",
+        "volume": "$7B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:43:18.676Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.0749614995443026,
+  "vaultPct": 0.0000807165396440727
+}

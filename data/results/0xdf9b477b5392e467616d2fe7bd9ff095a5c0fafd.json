@@ -1,0 +1,71 @@
+{
+  "portfolio": {
+    "address": "0xdf9b477b5392e467616d2fe7bd9ff095a5c0fafd",
+    "totalValue": "$751",
+    "walletLifetime": "265 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0001",
+        "amount": "219.1518",
+        "usdValue": "$219.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.8600",
+        "amount": "0.0198",
+        "usdValue": "$61.86"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8170",
+        "amount": "1.0000",
+        "usdValue": "$13.82"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7918",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$308"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$149"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdf9b477b5392e467616d2fe7bd9ff095a5c0fafd",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T23:10:56.230Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.10092308043209543,
+  "vaultPct": 0.000018765338065879907
+}

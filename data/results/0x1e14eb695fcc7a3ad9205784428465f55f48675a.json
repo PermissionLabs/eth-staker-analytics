@@ -1,0 +1,167 @@
+{
+  "portfolio": {
+    "address": "0x1e14eb695fcc7a3ad9205784428465f55f48675a",
+    "totalValue": "$12",
+    "walletLifetime": "1490 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9600",
+        "amount": "0.0027",
+        "usdValue": "$8.42"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "1.1664",
+        "usdValue": "$1.17"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.9600",
+        "amount": "0.0003",
+        "usdValue": "$1.02"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "93.2044",
+        "usdValue": "$0.74"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6224",
+        "amount": "0.0762",
+        "usdValue": "$0.43"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,125.9600",
+        "amount": "0.00006994",
+        "usdValue": "$0.22"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1e14eb695fcc7a3ad9205784428465f55f48675a",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$322K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$138K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$117K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$68K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$65K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$64K"
+      },
+      {
+        "name": "0x2343…7801",
+        "volume": "$58K"
+      },
+      {
+        "name": "Etherex",
+        "volume": "$43K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$41K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$27K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "mellow",
+        "volume": "$14K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$12K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$663K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$304K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$41K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$40K"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$38K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$20K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "mRe7YIELD",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:47:15.810Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 8.836209020343173,
+  "vaultPct": 0.0016429784820042516
+}

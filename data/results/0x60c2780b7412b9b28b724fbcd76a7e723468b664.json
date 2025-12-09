@@ -1,0 +1,247 @@
+{
+  "portfolio": {
+    "address": "0x60c2780b7412b9b28b724fbcd76a7e723468b664",
+    "totalValue": "$4,015",
+    "walletLifetime": "1675 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.2600",
+        "amount": "0.0782",
+        "usdValue": "$244.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.2600",
+        "amount": "0.0565",
+        "usdValue": "$176.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,127.2600",
+        "amount": "0.0103",
+        "usdValue": "$32.10"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "base",
+        "price": "$1.3969",
+        "amount": "17.0746",
+        "usdValue": "$23.85"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3205",
+        "amount": "53.9615",
+        "usdValue": "$17.29"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "3,238.0321",
+        "usdValue": "$8.57"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.0400",
+        "amount": "0.0015",
+        "usdValue": "$4.74"
+      },
+      {
+        "symbol": "LUNA (Virtuals Protocol)",
+        "chain": "base",
+        "price": "$0.0165",
+        "amount": "137.9971",
+        "usdValue": "$2.28"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$907.3000",
+        "amount": "0.0020",
+        "usdValue": "$1.80"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "reya",
+        "price": "$3,127.0400",
+        "amount": "0.0005",
+        "usdValue": "$1.44"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$30.3480",
+        "amount": "0.0428",
+        "usdValue": "$1.30"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7000",
+        "amount": "0.0736",
+        "usdValue": "$1.01"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9797",
+        "amount": "740,000.0000",
+        "usdValue": "$0.72"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2257",
+        "amount": "0.5663",
+        "usdValue": "$0.69"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1238",
+        "amount": "4.3836",
+        "usdValue": "$0.54"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,133"
+      },
+      {
+        "protocol": "Reya",
+        "chain": "reya",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RUSD",
+        "usdValue": "$245"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$65"
+      },
+      {
+        "protocol": "Voltz",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$36"
+      },
+      {
+        "protocol": "Arbswap",
+        "chain": "nova",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$5"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x60c2780b7412b9b28b724fbcd76a7e723468b664",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$19K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$19K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$17K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$17K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "Pimlico",
+        "volume": "$11K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$9K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x0000…a032",
+        "volume": "$7K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$6K"
+      },
+      {
+        "name": "MegaETH",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$67K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$22K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$20K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$13K"
+      },
+      {
+        "name": "USDt",
+        "volume": "$13K"
+      },
+      {
+        "name": "KUSDT0",
+        "volume": "$9K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:53:36.678Z",
+  "source": "base_aave",
+  "vaultBalance": 1.0008340493986907,
+  "vaultPct": 0.0014723072104218184
+}

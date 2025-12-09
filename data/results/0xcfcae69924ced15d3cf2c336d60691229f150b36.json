@@ -1,0 +1,179 @@
+{
+  "portfolio": {
+    "address": "0xcfcae69924ced15d3cf2c336d60691229f150b36",
+    "totalValue": "$2,610",
+    "walletLifetime": "1410 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "1,032.2697",
+        "usdValue": "$1,032.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.1600",
+        "amount": "0.0314",
+        "usdValue": "$97.95"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,121.1600",
+        "amount": "0.0150",
+        "usdValue": "$46.81"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$762"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$453"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$205"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Human Passport",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GTC",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcfcae69924ced15d3cf2c336d60691229f150b36",
+    "topProtocols": [
+      {
+        "name": "ODOS",
+        "volume": "$243K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$59K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$42K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$26K"
+      },
+      {
+        "name": "Bebop",
+        "volume": "$21K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$20K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$19K"
+      },
+      {
+        "name": "Linea Bridge",
+        "volume": "$18K"
+      },
+      {
+        "name": "Gravita Protocol",
+        "volume": "$18K"
+      },
+      {
+        "name": "Goal3",
+        "volume": "$14K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$13K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$13K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$12K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT0",
+        "volume": "$279K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$232K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$97K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$80K"
+      },
+      {
+        "name": "KweETH",
+        "volume": "$36K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$23K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$19K"
+      },
+      {
+        "name": "zkUSD",
+        "volume": "$14K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$14K"
+      },
+      {
+        "name": "GRAI",
+        "volume": "$12K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:30:02.389Z",
+  "source": "moonwell",
+  "vaultBalance": 0.06440029876118725,
+  "vaultPct": 0.0011683647979346726
+}

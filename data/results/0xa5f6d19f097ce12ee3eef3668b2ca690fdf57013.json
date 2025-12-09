@@ -1,0 +1,254 @@
+{
+  "portfolio": {
+    "address": "0xa5f6d19f097ce12ee3eef3668b2ca690fdf57013",
+    "totalValue": "$6,085",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,130.2800",
+        "amount": "0.0116",
+        "usdValue": "$36.35"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "11.2826",
+        "usdValue": "$11.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "bsc",
+        "price": "$3,131.0400",
+        "amount": "0.0035",
+        "usdValue": "$11.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,131.0400",
+        "amount": "0.0023",
+        "usdValue": "$7.35"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6500",
+        "amount": "0.5378",
+        "usdValue": "$7.34"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.3000",
+        "amount": "0.0048",
+        "usdValue": "$4.34"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.0400",
+        "amount": "0.0010",
+        "usdValue": "$3.15"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.3830",
+        "usdValue": "$0.38"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6314",
+        "amount": "0.0528",
+        "usdValue": "$0.30"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0279",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001003",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7914",
+        "amount": "3.4400",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$3,393"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,580"
+      },
+      {
+        "protocol": "Alchemix V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,030"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa5f6d19f097ce12ee3eef3668b2ca690fdf57013",
+    "topProtocols": [
+      {
+        "name": "Compound V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$8K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$6K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$3K"
+      },
+      {
+        "name": "Alchemix V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x37ba…87b9",
+        "volume": "$2K"
+      },
+      {
+        "name": "squid",
+        "volume": "$2K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$800"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$757M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$648B"
+      },
+      {
+        "name": "inance",
+        "volume": "$494"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$491"
+      },
+      {
+        "name": "0x1a1e…7d31",
+        "volume": "$317"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "WBTC",
+        "volume": "$25K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "alETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$582"
+      },
+      {
+        "name": "USDt",
+        "volume": "$310"
+      },
+      {
+        "name": "USD",
+        "volume": "$100"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$52"
+      },
+      {
+        "name": "WAVAX",
+        "volume": "$11"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:16:04.735Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.485,
+  "vaultPct": 0.00009017946066435569
+}

@@ -1,0 +1,268 @@
+{
+  "portfolio": {
+    "address": "0xf39402fbee20883fe0c23a681e324dce4943ccf4",
+    "totalValue": "$2,115",
+    "walletLifetime": "905 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.9100",
+        "amount": "0.1079",
+        "usdValue": "$338.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.9100",
+        "amount": "0.0745",
+        "usdValue": "$233.45"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6800",
+        "amount": "114.2847",
+        "usdValue": "$77.71"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "6,444.7434",
+        "usdValue": "$65.23"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "1,146.9122",
+        "usdValue": "$9.20"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,132.9100",
+        "amount": "0.0004",
+        "usdValue": "$1.21"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$989"
+      },
+      {
+        "protocol": "Seamless Protocol",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$196"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$189"
+      },
+      {
+        "protocol": "Basilisk",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$11"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "StakeStone",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Mendi Finance",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Shoebill Finance",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Segment Finance",
+        "chain": "bob",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf39402fbee20883fe0c23a681e324dce4943ccf4",
+    "topProtocols": [
+      {
+        "name": "Ambient",
+        "volume": "$51K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$15K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$9K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$6K"
+      },
+      {
+        "name": "Orbiter Finance",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$3K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$1K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$988"
+      },
+      {
+        "name": "0xe5d7…f34f",
+        "volume": "$971"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$936"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$844"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$828"
+      },
+      {
+        "name": "Shoebill Finance",
+        "volume": "$765"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$28K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$6K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$1K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$1K"
+      },
+      {
+        "name": "ANZ",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$978"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$724"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:47:04.065Z",
+  "source": "base_aave",
+  "vaultBalance": 0.0653193045122036,
+  "vaultPct": 0.00009608993925699825
+}

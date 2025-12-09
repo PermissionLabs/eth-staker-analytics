@@ -1,0 +1,193 @@
+{
+  "portfolio": {
+    "address": "0xbbd6fe98df40bc313433be6458f272b5b3a4e7cf",
+    "totalValue": "$784",
+    "walletLifetime": "969 days",
+    "tokens": [
+      {
+        "symbol": "ZRO",
+        "chain": "arb",
+        "price": "$1.4030",
+        "amount": "41.1307",
+        "usdValue": "$57.71"
+      },
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0330",
+        "amount": "1,153.0000",
+        "usdValue": "$38.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,131.1600",
+        "amount": "0.0014",
+        "usdValue": "$4.41"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0910",
+        "amount": "36.4321",
+        "usdValue": "$3.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,131.1600",
+        "amount": "0.0010",
+        "usdValue": "$3.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,131.1600",
+        "amount": "0.0008",
+        "usdValue": "$2.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,131.1600",
+        "amount": "0.0005",
+        "usdValue": "$1.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,131.1600",
+        "amount": "0.00007998",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "FTM",
+        "chain": "ftm",
+        "price": "$0.0970",
+        "amount": "1.8327",
+        "usdValue": "$0.18"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$489"
+      },
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$183"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbbd6fe98df40bc313433be6458f272b5b3a4e7cf",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$3K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$674"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$604"
+      },
+      {
+        "name": "Relay",
+        "volume": "$496"
+      },
+      {
+        "name": "0x1a1e…7d31",
+        "volume": "$372"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$292"
+      },
+      {
+        "name": "Router Protocol",
+        "volume": "$273M"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$992"
+      },
+      {
+        "name": "USDT",
+        "volume": "$847"
+      },
+      {
+        "name": "BTC.b",
+        "volume": "$455"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$378"
+      },
+      {
+        "name": "POL",
+        "volume": "$296"
+      },
+      {
+        "name": "BNB",
+        "volume": "$262"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:05:20.682Z",
+  "source": "base_aave",
+  "vaultBalance": 0.15572634161498328,
+  "vaultPct": 0.00022908594661632734
+}

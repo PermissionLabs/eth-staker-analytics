@@ -1,0 +1,259 @@
+{
+  "portfolio": {
+    "address": "0x21c2b1030f55917c351588f8d3ebc231986cb55d",
+    "totalValue": "$449",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,117.4900",
+        "amount": "0.0667",
+        "usdValue": "$208.02"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.9000",
+        "amount": "0.0130",
+        "usdValue": "$40.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,115.9000",
+        "amount": "0.0115",
+        "usdValue": "$35.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,115.1500",
+        "amount": "0.0065",
+        "usdValue": "$20.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,115.9000",
+        "amount": "0.0065",
+        "usdValue": "$20.19"
+      },
+      {
+        "symbol": "LOUDER",
+        "chain": "base",
+        "price": "$0.0014",
+        "amount": "876.0000",
+        "usdValue": "$1.19"
+      },
+      {
+        "symbol": "ZORA",
+        "chain": "base",
+        "price": "$0.0492",
+        "amount": "23.6355",
+        "usdValue": "$1.16"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,115.9000",
+        "amount": "0.0002",
+        "usdValue": "$0.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,115.9000",
+        "amount": "0.0001",
+        "usdValue": "$0.46"
+      },
+      {
+        "symbol": "frxETH",
+        "chain": "frax",
+        "price": "$3,093.8456",
+        "amount": "0.0001",
+        "usdValue": "$0.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "mode",
+        "price": "$3,115.9000",
+        "amount": "0.0001",
+        "usdValue": "$0.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,115.9000",
+        "amount": "0.0001",
+        "usdValue": "$0.40"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "era",
+        "price": "$0.9998",
+        "amount": "0.3904",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,117.4900",
+        "amount": "0.0001",
+        "usdValue": "$0.38"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$904.3000",
+        "amount": "0.0004",
+        "usdValue": "$0.35"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$116"
+      },
+      {
+        "protocol": "Mendi Finance",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "scrl",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "ZERO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x21c2b1030f55917c351588f8d3ebc231986cb55d",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2f2a…85a7",
+        "volume": "$2K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$2K"
+      },
+      {
+        "name": "Merkly",
+        "volume": "$2K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$1K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$1K"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "USDzC",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH.ETH",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:20:26.951Z",
+  "source": "base_aave",
+  "vaultBalance": 0.07906840819348213,
+  "vaultPct": 0.00011631597423147343
+}

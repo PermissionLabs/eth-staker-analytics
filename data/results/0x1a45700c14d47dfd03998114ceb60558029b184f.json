@@ -1,0 +1,169 @@
+{
+  "portfolio": {
+    "address": "0x1a45700c14d47dfd03998114ceb60558029b184f",
+    "totalValue": "$8,095",
+    "walletLifetime": "1218 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.7600",
+        "amount": "0.0266",
+        "usdValue": "$83.29"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0965",
+        "amount": "1.4556",
+        "usdValue": "$0.14"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7928",
+        "amount": "2.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.4000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$8,011"
+      },
+      {
+        "protocol": "Sonic Airdrop",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "S",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1a45700c14d47dfd03998114ceb60558029b184f",
+    "topProtocols": [
+      {
+        "name": "Silo",
+        "volume": "$64K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$36K"
+      },
+      {
+        "name": "Go",
+        "volume": "$15K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x6744…cd91",
+        "volume": "$13K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$6K"
+      },
+      {
+        "name": "Sonic Gateway",
+        "volume": "$5K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$3K"
+      },
+      {
+        "name": "squid",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf2e0…cc40",
+        "volume": "$457"
+      },
+      {
+        "name": "0x4774…ff1b",
+        "volume": "$378"
+      },
+      {
+        "name": "Fly",
+        "volume": "$288"
+      },
+      {
+        "name": "AltLayer",
+        "volume": "$235"
+      },
+      {
+        "name": "0x874d…530a",
+        "volume": "$235"
+      },
+      {
+        "name": "0x3af1…f1a7",
+        "volume": "$71"
+      },
+      {
+        "name": "0x40a9…9039",
+        "volume": "$56"
+      },
+      {
+        "name": "0xeba8…4cb1",
+        "volume": "$53"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$71K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$29K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$25K"
+      },
+      {
+        "name": "S",
+        "volume": "$5K"
+      },
+      {
+        "name": "wS",
+        "volume": "$832"
+      },
+      {
+        "name": "ALT",
+        "volume": "$470"
+      },
+      {
+        "name": "SILO",
+        "volume": "$6"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:08:00.268Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.9386803448246205,
+  "vaultPct": 0.00017453543759281587
+}

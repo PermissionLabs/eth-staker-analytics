@@ -1,0 +1,195 @@
+{
+  "portfolio": {
+    "address": "0xa7ddd3bf5de4c4e19e5680b1103493e141d555d4",
+    "totalValue": "$4,159",
+    "walletLifetime": "1506 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,148.2900",
+        "amount": "0.2424",
+        "usdValue": "$763.22"
+      },
+      {
+        "symbol": "DOGE",
+        "chain": "bsc",
+        "price": "$0.1439",
+        "amount": "4,009.4111",
+        "usdValue": "$576.87"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7400",
+        "amount": "32.0150",
+        "usdValue": "$439.89"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "bsc",
+        "price": "$13.8854",
+        "amount": "20.0293",
+        "usdValue": "$278.11"
+      },
+      {
+        "symbol": "JASMY",
+        "chain": "bsc",
+        "price": "$0.0070",
+        "amount": "5,728.4358",
+        "usdValue": "$39.93"
+      },
+      {
+        "symbol": "WLD",
+        "chain": "op",
+        "price": "$0.6022",
+        "amount": "18.3047",
+        "usdValue": "$11.02"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$904.7000",
+        "amount": "0.0092",
+        "usdValue": "$8.32"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$2,041"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa7ddd3bf5de4c4e19e5680b1103493e141d555d4",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xd087…7423",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x406c…2a69",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x46f7…1d1d",
+        "volume": "$3K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x9c44…6659",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$993"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$499"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$499"
+      },
+      {
+        "name": "0xa1fa…82ea",
+        "volume": "$313B"
+      },
+      {
+        "name": "inance",
+        "volume": "$2011"
+      },
+      {
+        "name": "inch",
+        "volume": "$69"
+      },
+      {
+        "name": "0x9364…cec1",
+        "volume": "$65"
+      },
+      {
+        "name": "0x0722…7bf1",
+        "volume": "$41"
+      },
+      {
+        "name": "0x36c8…5c82",
+        "volume": "$34M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$30"
+      },
+      {
+        "name": "0x71df…3387",
+        "volume": "$2"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$6K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$964"
+      },
+      {
+        "name": "DOGE",
+        "volume": "$541"
+      },
+      {
+        "name": "LINK",
+        "volume": "$298"
+      },
+      {
+        "name": "CTK",
+        "volume": "$272M"
+      },
+      {
+        "name": "BOX",
+        "volume": "$241"
+      },
+      {
+        "name": "JASMY",
+        "volume": "$196"
+      },
+      {
+        "name": "USDC",
+        "volume": "$60"
+      },
+      {
+        "name": "WLD",
+        "volume": "$30B"
+      },
+      {
+        "name": "NB",
+        "volume": "$13"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T21:59:22.722Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.2924210452689324,
+  "vaultPct": 0.0002403089336363199
+}

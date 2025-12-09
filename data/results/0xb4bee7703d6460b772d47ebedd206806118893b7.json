@@ -1,0 +1,134 @@
+{
+  "portfolio": {
+    "address": "0xb4bee7703d6460b772d47ebedd206806118893b7",
+    "totalValue": "$641",
+    "walletLifetime": "419 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,106.1400",
+        "amount": "0.0056",
+        "usdValue": "$17.33"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,106.1400",
+        "amount": "0.0015",
+        "usdValue": "$4.66"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1.0296",
+        "usdValue": "$1.03"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.1967",
+        "amount": "0.0157",
+        "usdValue": "$0.02"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "0.2777",
+        "usdValue": ""
+      },
+      {
+        "symbol": "ANTHRAX",
+        "chain": "base",
+        "price": "$0.0₆1378",
+        "amount": "2,560.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$616"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb4bee7703d6460b772d47ebedd206806118893b7",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$566B"
+      },
+      {
+        "name": "inance",
+        "volume": "$521"
+      },
+      {
+        "name": "Superform",
+        "volume": "$8"
+      },
+      {
+        "name": "Rango",
+        "volume": "$1"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfef6…6980",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$56"
+      },
+      {
+        "name": "USDC",
+        "volume": "$17"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:20:58.475Z",
+  "source": "moonwell",
+  "vaultBalance": 0.19168549986400352,
+  "vaultPct": 0.003477601728931551
+}

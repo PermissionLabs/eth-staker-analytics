@@ -1,0 +1,329 @@
+{
+  "portfolio": {
+    "address": "0xcc7a56ae599ee670ac0e007bb4a7b7c2713f55a9",
+    "totalValue": "$455,382",
+    "walletLifetime": "460 days",
+    "tokens": [
+      {
+        "symbol": "mHYPER",
+        "chain": "eth",
+        "price": "$1.0604",
+        "amount": "18,911.1210",
+        "usdValue": "$20,052.45"
+      },
+      {
+        "symbol": "mHyperETH",
+        "chain": "eth",
+        "price": "$3,149.9720",
+        "amount": "4.9648",
+        "usdValue": "$15,638.83"
+      },
+      {
+        "symbol": "mEDGE",
+        "chain": "eth",
+        "price": "$1.0800",
+        "amount": "9,308.9535",
+        "usdValue": "$10,053.67"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "917,994.6334",
+        "usdValue": "$7,343.96"
+      },
+      {
+        "symbol": "GRT",
+        "chain": "eth",
+        "price": "$0.0457",
+        "amount": "93,750.0000",
+        "usdValue": "$4,284.38"
+      },
+      {
+        "symbol": "FLUID",
+        "chain": "eth",
+        "price": "$3.2692",
+        "amount": "629.0316",
+        "usdValue": "$2,056.40"
+      },
+      {
+        "symbol": "USUAL",
+        "chain": "eth",
+        "price": "$0.0252",
+        "amount": "33,406.8069",
+        "usdValue": "$841.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.3000",
+        "amount": "0.1192",
+        "usdValue": "$372.58"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,125.1300",
+        "amount": "0.0984",
+        "usdValue": "$307.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.3000",
+        "amount": "0.0801",
+        "usdValue": "$250.47"
+      },
+      {
+        "symbol": "KING",
+        "chain": "arb",
+        "price": "$427.2730",
+        "amount": "0.5635",
+        "usdValue": "$240.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,125.3000",
+        "amount": "0.0715",
+        "usdValue": "$223.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,125.3000",
+        "amount": "0.0521",
+        "usdValue": "$162.71"
+      },
+      {
+        "symbol": "KING",
+        "chain": "base",
+        "price": "$427.2730",
+        "amount": "0.3757",
+        "usdValue": "$160.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,125.3000",
+        "amount": "0.0487",
+        "usdValue": "$152.29"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "eth",
+        "price": "$1.2012",
+        "amount": "113.2635",
+        "usdValue": "$136.05"
+      },
+      {
+        "symbol": "BR",
+        "chain": "bsc",
+        "price": "$0.0504",
+        "amount": "2,649.2600",
+        "usdValue": "$133.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.3000",
+        "amount": "0.0346",
+        "usdValue": "$108.22"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3710",
+        "amount": "43.5599",
+        "usdValue": "$103.28"
+      },
+      {
+        "symbol": "SCR",
+        "chain": "scrl",
+        "price": "$0.0880",
+        "amount": "1,039.7733",
+        "usdValue": "$91.50"
+      },
+      {
+        "symbol": "AAA",
+        "chain": "base",
+        "price": "$0.0525",
+        "amount": "1,608.1170",
+        "usdValue": "$84.40"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$199,145"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "ink",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$66,912"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$62,699"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "plasma",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "sUSDai",
+        "usdValue": "$33,095"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$12,771"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "monad",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "AUSD",
+        "usdValue": "$9,246"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "monad",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$6,588"
+      },
+      {
+        "protocol": "Usual",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USUAL",
+        "usdValue": "$1,623"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcc7a56ae599ee670ac0e007bb4a7b7c2713f55a9",
+    "topProtocols": [
+      {
+        "name": "LI.FI",
+        "volume": "$2M"
+      },
+      {
+        "name": "0xd9d0…5b67",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1M"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$1M"
+      },
+      {
+        "name": "Mendi Finance",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xeebd…3b36",
+        "volume": "$1M"
+      },
+      {
+        "name": "0xcc7a…55a9",
+        "volume": "$975K"
+      },
+      {
+        "name": "0x4902…47f9",
+        "volume": "$764K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$409K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$404K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$288K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$251K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$173K"
+      },
+      {
+        "name": "Superform",
+        "volume": "$111K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4M"
+      },
+      {
+        "name": "weETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$985K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$297K"
+      },
+      {
+        "name": "USR",
+        "volume": "$203K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$191K"
+      },
+      {
+        "name": "superOETHb",
+        "volume": "$152K"
+      },
+      {
+        "name": "uniETH",
+        "volume": "$95K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$86K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:26:05.261Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 18.411511050550715,
+  "vaultPct": 0.20535443901982664
+}

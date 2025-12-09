@@ -1,0 +1,117 @@
+{
+  "portfolio": {
+    "address": "0xdc92be1a9d302824d47291a06e5be481a56b061c",
+    "totalValue": "$2,859",
+    "walletLifetime": "308 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,161.6500",
+        "amount": "0.0530",
+        "usdValue": "$167.70"
+      },
+      {
+        "symbol": "USD1",
+        "chain": "eth",
+        "price": "$0.9991",
+        "amount": "47.0000",
+        "usdValue": "$46.96"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "47",
+        "chain": "bsc",
+        "price": "$0.00008963",
+        "amount": "120.2079",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "USD1DOGE",
+        "chain": "bsc",
+        "price": "$0.00003172",
+        "amount": "47.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "World Liberty Financial",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "WLFI",
+        "usdValue": "$2,323"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$321"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdc92be1a9d302824d47291a06e5be481a56b061c",
+    "topProtocols": [
+      {
+        "name": "Binance",
+        "volume": "$1K"
+      },
+      {
+        "name": "World Liberty Financial",
+        "volume": "$760"
+      },
+      {
+        "name": "0x151b…e96d",
+        "volume": "$232M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$180"
+      },
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$179"
+      },
+      {
+        "name": "0x0eb0…7fa9",
+        "volume": "$47B"
+      },
+      {
+        "name": "inance",
+        "volume": "$5"
+      },
+      {
+        "name": "0x21fe…fb31",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "USD1",
+        "volume": "$4747"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:52:58.066Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.09998374705930055,
+  "vaultPct": 0.000007507563839910682
+}

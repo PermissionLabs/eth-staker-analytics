@@ -1,0 +1,171 @@
+{
+  "portfolio": {
+    "address": "0xdd7333cb011850fd3c4e0c88d2690ab83035929d",
+    "totalValue": "$60,888",
+    "walletLifetime": "1794 days",
+    "tokens": [
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "1,872.6935",
+        "usdValue": "$1,872.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,149.2800",
+        "amount": "0.1081",
+        "usdValue": "$340.48"
+      },
+      {
+        "symbol": "MegaDoge",
+        "chain": "matic",
+        "price": "$0.00009249",
+        "amount": "1,000.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001001",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004698",
+        "amount": "0.0690",
+        "usdValue": ""
+      },
+      {
+        "symbol": "yRise",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "0.0001",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$58,675"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xdd7333cb011850fd3c4e0c88d2690ab83035929d",
+    "topProtocols": [
+      {
+        "name": "Maker",
+        "volume": "$415K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$266K"
+      },
+      {
+        "name": "0xdefc…566e",
+        "volume": "$261K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$148K"
+      },
+      {
+        "name": "Zapper",
+        "volume": "$114K"
+      },
+      {
+        "name": "0x6aa0…6f5a",
+        "volume": "$87K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$84K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$81K"
+      },
+      {
+        "name": "0x",
+        "volume": "$71K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$49K"
+      },
+      {
+        "name": "0x06cc…4b87",
+        "volume": "$37K"
+      },
+      {
+        "name": "0xf65a…7a8b",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x0979…94e3",
+        "volume": "$6K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$5K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x115a…a1e7",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb890…bc6c",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "DAI",
+        "volume": "$458K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$142K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:07:49.867Z",
+  "source": "lido_steth",
+  "vaultBalance": 17.272598659915392,
+  "vaultPct": 0.0012969621656963902
+}

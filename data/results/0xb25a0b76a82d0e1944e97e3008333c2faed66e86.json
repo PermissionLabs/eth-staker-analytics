@@ -1,0 +1,251 @@
+{
+  "portfolio": {
+    "address": "0xb25a0b76a82d0e1944e97e3008333c2faed66e86",
+    "totalValue": "$51,902",
+    "walletLifetime": "360 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "sonic",
+        "price": "$0.9999",
+        "amount": "4,744.9802",
+        "usdValue": "$4,744.51"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,096.8100",
+        "amount": "0.4795",
+        "usdValue": "$1,484.95"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0959",
+        "amount": "1,537.3682",
+        "usdValue": "$147.43"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.0999",
+        "amount": "93.3244",
+        "usdValue": "$102.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,096.1600",
+        "amount": "0.0100",
+        "usdValue": "$30.94"
+      },
+      {
+        "symbol": "BEETS",
+        "chain": "sonic",
+        "price": "$0.0082",
+        "amount": "889.8302",
+        "usdValue": "$7.27"
+      },
+      {
+        "symbol": "wS",
+        "chain": "sonic",
+        "price": "$0.0956",
+        "amount": "30.6800",
+        "usdValue": "$2.93"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0289",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7827",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BeetsFragmentsS1",
+        "chain": "sonic",
+        "price": "$0.0000",
+        "amount": "295.8353",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "PEBOB",
+        "chain": "bob",
+        "price": "$0.0000",
+        "amount": "90,520.3581",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Maple",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$20,424"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$12,851"
+      },
+      {
+        "protocol": "AUTO Finance",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$10,345"
+      },
+      {
+        "protocol": "Mantle Reward Station",
+        "chain": "mnt",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MNT",
+        "usdValue": "$1,760"
+      },
+      {
+        "protocol": "Beets",
+        "chain": "sonic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "wS",
+        "usdValue": "$2"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb25a0b76a82d0e1944e97e3008333c2faed66e86",
+    "topProtocols": [
+      {
+        "name": "Bitrue",
+        "volume": "$88K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$40K"
+      },
+      {
+        "name": "0x6a84…4485",
+        "volume": "$31K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x6409…c307",
+        "volume": "$20K"
+      },
+      {
+        "name": "0xca11…ca11",
+        "volume": "$20K"
+      },
+      {
+        "name": "Maple",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x42ba…787f",
+        "volume": "$16K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$15K"
+      },
+      {
+        "name": "Silo",
+        "volume": "$13K"
+      },
+      {
+        "name": "AUTO Finance",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xe41a…6a61",
+        "volume": "$9K"
+      },
+      {
+        "name": "Trevee",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x7a65…fd38",
+        "volume": "$5K"
+      },
+      {
+        "name": "Beets",
+        "volume": "$4K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mantle Reward Station",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$203K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$70K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$20K"
+      },
+      {
+        "name": "S",
+        "volume": "$9K"
+      },
+      {
+        "name": "MNT",
+        "volume": "$3K"
+      },
+      {
+        "name": "BeetsFragmentsS1",
+        "volume": "$48"
+      },
+      {
+        "name": "EETS",
+        "volume": "$27"
+      },
+      {
+        "name": "PEBOB",
+        "volume": "$20"
+      },
+      {
+        "name": "wS",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:02:09.421Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.9289561457038393,
+  "vaultPct": 0.021514785294225507
+}

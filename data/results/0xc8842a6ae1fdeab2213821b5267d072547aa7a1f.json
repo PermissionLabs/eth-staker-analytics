@@ -1,0 +1,350 @@
+{
+  "portfolio": {
+    "address": "0xc8842a6ae1fdeab2213821b5267d072547aa7a1f",
+    "totalValue": "$308,614",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.3880",
+        "amount": "28,123.4159",
+        "usdValue": "$67,158.19"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3960",
+        "amount": "5,595.3622",
+        "usdValue": "$13,406.49"
+      },
+      {
+        "symbol": "PENDLE(Wormhole)",
+        "chain": "bsc",
+        "price": "$2.3940",
+        "amount": "5,287.7722",
+        "usdValue": "$12,658.93"
+      },
+      {
+        "symbol": "mHYPER",
+        "chain": "eth",
+        "price": "$1.0606",
+        "amount": "3,917.8075",
+        "usdValue": "$4,155.09"
+      },
+      {
+        "symbol": "WBNB",
+        "chain": "bsc",
+        "price": "$897.0000",
+        "amount": "3.7734",
+        "usdValue": "$3,384.73"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,123.5900",
+        "amount": "0.8447",
+        "usdValue": "$2,638.38"
+      },
+      {
+        "symbol": "sdPENDLE",
+        "chain": "eth",
+        "price": "$2.1695",
+        "amount": "1,175.9779",
+        "usdValue": "$2,551.31"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "2,400.1943",
+        "usdValue": "$2,400.19"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.0000",
+        "amount": "1.4157",
+        "usdValue": "$1,269.90"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,320.0900",
+        "amount": "0.0087",
+        "usdValue": "$786.94"
+      },
+      {
+        "symbol": "LBTC",
+        "chain": "eth",
+        "price": "$90,543.6213",
+        "amount": "0.0069",
+        "usdValue": "$626.02"
+      },
+      {
+        "symbol": "PNP",
+        "chain": "arb",
+        "price": "$2.2341",
+        "amount": "249.6227",
+        "usdValue": "$557.69"
+      },
+      {
+        "symbol": "RESOLV",
+        "chain": "eth",
+        "price": "$0.0789",
+        "amount": "6,240.0000",
+        "usdValue": "$492.34"
+      },
+      {
+        "symbol": "FF",
+        "chain": "eth",
+        "price": "$0.1122",
+        "amount": "4,302.6000",
+        "usdValue": "$482.75"
+      },
+      {
+        "symbol": "SPK",
+        "chain": "eth",
+        "price": "$0.0243",
+        "amount": "18,668.7426",
+        "usdValue": "$453.46"
+      },
+      {
+        "symbol": "mMEV",
+        "chain": "eth",
+        "price": "$1.0950",
+        "amount": "268.4095",
+        "usdValue": "$293.91"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Equilibria",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ePendle",
+        "usdValue": "$93,563"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ePendle",
+        "usdValue": "$50,098"
+      },
+      {
+        "protocol": "Dolomite",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$18,814"
+      },
+      {
+        "protocol": "Magpie XYZ",
+        "chain": "arb",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "mPendle",
+        "usdValue": "$13,717"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDe",
+        "usdValue": "$8,054"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$4,080"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "YT-weETH-25JUN2026",
+        "usdValue": "$1,798"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$1,748"
+      },
+      {
+        "protocol": "Almanak",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,072"
+      },
+      {
+        "protocol": "Lista DAO",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "BNB",
+        "usdValue": "$564"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$351"
+      },
+      {
+        "protocol": "Dolomite",
+        "chain": "bera",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "DOLO",
+        "usdValue": "$249"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "bsc",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "YT-ynBNBx-16APR2026",
+        "usdValue": "$215"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc8842a6ae1fdeab2213821b5267d072547aa7a1f",
+    "topProtocols": [
+      {
+        "name": "Equilibria",
+        "volume": "$3M"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$3M"
+      },
+      {
+        "name": "0x3318…3ab2",
+        "volume": "$2M"
+      },
+      {
+        "name": "Dolomite",
+        "volume": "$2M"
+      },
+      {
+        "name": "Magpie XYZ",
+        "volume": "$998K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$961K"
+      },
+      {
+        "name": "Timeswap",
+        "volume": "$880K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$768K"
+      },
+      {
+        "name": "Camelot",
+        "volume": "$661K"
+      },
+      {
+        "name": "Thena",
+        "volume": "$479K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$383K"
+      },
+      {
+        "name": "0xab55…f06c",
+        "volume": "$309K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$273K"
+      },
+      {
+        "name": "Silo",
+        "volume": "$271K"
+      },
+      {
+        "name": "LayerZero Labs",
+        "volume": "$254K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ePendle",
+        "volume": "$6M"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$5M"
+      },
+      {
+        "name": "mPendle",
+        "volume": "$3M"
+      },
+      {
+        "name": "MmPendle",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$1M"
+      },
+      {
+        "name": "sdPENDLE",
+        "volume": "$191K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$110K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$107K"
+      },
+      {
+        "name": "PNP",
+        "volume": "$88K"
+      },
+      {
+        "name": "syrupUSDC",
+        "volume": "$84K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$82K"
+      },
+      {
+        "name": "satUSD",
+        "volume": "$50K"
+      },
+      {
+        "name": "KUSDf",
+        "volume": "$38K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:19:47.037Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 1.1983741820031455,
+  "vaultPct": 0.013366173868371257
+}

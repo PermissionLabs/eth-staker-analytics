@@ -1,0 +1,96 @@
+{
+  "portfolio": {
+    "address": "0x850bc8b82115fd301b334536a09a3503c9eb4205",
+    "totalValue": "$958",
+    "walletLifetime": "256 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.0000",
+        "amount": "0.2974",
+        "usdValue": "$939.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,158.0000",
+        "amount": "0.0060",
+        "usdValue": "$19.02"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0292",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7976",
+        "amount": "6.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x850bc8b82115fd301b334536a09a3503c9eb4205",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$2K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$741"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:49:31.905Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.7961850123088973,
+  "vaultPct": 0.000059783814710844015
+}

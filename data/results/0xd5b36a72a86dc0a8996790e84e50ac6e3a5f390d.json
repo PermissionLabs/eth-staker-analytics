@@ -1,0 +1,233 @@
+{
+  "portfolio": {
+    "address": "0xd5b36a72a86dc0a8996790e84e50ac6e3a5f390d",
+    "totalValue": "$2,335",
+    "walletLifetime": "263 days",
+    "tokens": [
+      {
+        "symbol": "UNI",
+        "chain": "bsc",
+        "price": "$5.4690",
+        "amount": "1.7896",
+        "usdValue": "$9.79"
+      },
+      {
+        "symbol": "MKR",
+        "chain": "bsc",
+        "price": "$1,259.9960",
+        "amount": "0.0051",
+        "usdValue": "$6.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,107.6300",
+        "amount": "0.0013",
+        "usdValue": "$4.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.3500",
+        "amount": "0.0008",
+        "usdValue": "$2.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.1700",
+        "amount": "0.0002",
+        "usdValue": "$0.52"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.2916",
+        "usdValue": "$0.29"
+      },
+      {
+        "symbol": "EURC",
+        "chain": "base",
+        "price": "$1.1641",
+        "amount": "0.1183",
+        "usdValue": "$0.14"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "base",
+        "price": "$2.3062",
+        "amount": "0.0548",
+        "usdValue": "$0.13"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,108.1700",
+        "amount": "0.00002064",
+        "usdValue": "$0.06"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$2,247"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$34"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "LINK",
+        "usdValue": "$21"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WPOL",
+        "usdValue": "$9"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd5b36a72a86dc0a8996790e84e50ac6e3a5f390d",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$12K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$2K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xb611…68e9",
+        "volume": "$1K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$272"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$221"
+      },
+      {
+        "name": "0x84b0…1417",
+        "volume": "$201"
+      },
+      {
+        "name": "Rango",
+        "volume": "$177"
+      },
+      {
+        "name": "EXC",
+        "volume": "$159"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$127"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$123M"
+      },
+      {
+        "name": "ayan",
+        "volume": "$110"
+      },
+      {
+        "name": "0x0506…703e",
+        "volume": "$103"
+      },
+      {
+        "name": "0xdc43…4c04",
+        "volume": "$100B"
+      },
+      {
+        "name": "inance",
+        "volume": "$91M"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$80"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$1K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$710"
+      },
+      {
+        "name": "USDT",
+        "volume": "$260"
+      },
+      {
+        "name": "WETH",
+        "volume": "$140"
+      },
+      {
+        "name": "UNI",
+        "volume": "$85"
+      },
+      {
+        "name": "LINK",
+        "volume": "$63B"
+      },
+      {
+        "name": "NB",
+        "volume": "$50"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$48"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$35"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$32"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:07:31.492Z",
+  "source": "base_aave",
+  "vaultBalance": 0.271152536914616,
+  "vaultPct": 0.00039888714364125796
+}

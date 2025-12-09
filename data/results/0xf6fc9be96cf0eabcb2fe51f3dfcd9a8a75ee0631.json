@@ -1,0 +1,107 @@
+{
+  "portfolio": {
+    "address": "0xf6fc9be96cf0eabcb2fe51f3dfcd9a8a75ee0631",
+    "totalValue": "$538,570",
+    "walletLifetime": "136 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.4000",
+        "amount": "2.0620",
+        "usdValue": "$6,434.34"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0282",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.4000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Eth2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$299,391"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$176,346"
+      },
+      {
+        "protocol": "StakeWise",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$56,399"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xf6fc9be96cf0eabcb2fe51f3dfcd9a8a75ee0631",
+    "topProtocols": [
+      {
+        "name": "Bybit",
+        "volume": "$637K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$454K"
+      },
+      {
+        "name": "P2P.org",
+        "volume": "$248K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$219K"
+      },
+      {
+        "name": "Figment",
+        "volume": "$144K"
+      },
+      {
+        "name": "StakeWise",
+        "volume": "$81K"
+      },
+      {
+        "name": "0xbf5a…6a6c",
+        "volume": "$5"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0055…1a31",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:12:56.821Z",
+  "source": "lido_steth",
+  "vaultBalance": 56.00974678641707,
+  "vaultPct": 0.004205651038531902
+}

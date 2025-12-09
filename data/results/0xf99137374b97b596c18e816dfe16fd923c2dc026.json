@@ -1,0 +1,70 @@
+{
+  "portfolio": {
+    "address": "0xf99137374b97b596c18e816dfe16fd923c2dc026",
+    "totalValue": "$7",
+    "walletLifetime": "55 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.7800",
+        "amount": "0.0010",
+        "usdValue": "$3.03"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.7800",
+        "amount": "0.0007",
+        "usdValue": "$2.24"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "2.0000",
+        "usdValue": "$2.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xf99137374b97b596c18e816dfe16fd923c2dc026",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xbc65…5490",
+        "volume": "$3K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "Mucho Finance",
+        "volume": "$10"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$6"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:38:33.213Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.1482598724984516,
+  "vaultPct": 0.0002135040329988293
+}

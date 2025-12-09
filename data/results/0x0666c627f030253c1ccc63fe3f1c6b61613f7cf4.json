@@ -1,0 +1,160 @@
+{
+  "portfolio": {
+    "address": "0x0666c627f030253c1ccc63fe3f1c6b61613f7cf4",
+    "totalValue": "$738,466",
+    "walletLifetime": "363 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.4800",
+        "amount": "0.0052",
+        "usdValue": "$16.13"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.4800",
+        "amount": "0.0005",
+        "usdValue": "$1.43"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$734,818"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "MORPHO",
+        "usdValue": "$3,471"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$96"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$62"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0666c627f030253c1ccc63fe3f1c6b61613f7cf4",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$2M"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$2M"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$483K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$203K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$190K"
+      },
+      {
+        "name": "0xd86c…2805",
+        "volume": "$144K"
+      },
+      {
+        "name": "0xdacd…ab93",
+        "volume": "$89K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$50K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x54be…c734",
+        "volume": "$27K"
+      },
+      {
+        "name": "0x5b14…fb53",
+        "volume": "$6K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase Wallet",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$3M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "EURC",
+        "volume": "$840K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$75K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$8K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$7K"
+      },
+      {
+        "name": "COMP",
+        "volume": "$63"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:35:39.178Z",
+  "source": "moonwell",
+  "vaultBalance": 219.3313370868833,
+  "vaultPct": 3.9791587658083984
+}

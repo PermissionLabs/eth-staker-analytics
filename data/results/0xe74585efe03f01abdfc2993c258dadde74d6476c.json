@@ -1,0 +1,153 @@
+{
+  "portfolio": {
+    "address": "0xe74585efe03f01abdfc2993c258dadde74d6476c",
+    "totalValue": "$433,805",
+    "walletLifetime": "174 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,107.7900",
+        "amount": "0.2363",
+        "usdValue": "$734.40"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0266",
+        "amount": "1,500.0000",
+        "usdValue": "$39.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,107.7900",
+        "amount": "0.0055",
+        "usdValue": "$17.04"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "0.0048",
+        "usdValue": ""
+      },
+      {
+        "symbol": "MONKA",
+        "chain": "monad",
+        "price": "$0.0₅7193",
+        "amount": "100.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$332,159"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$100,787"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$68"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xe74585efe03f01abdfc2993c258dadde74d6476c",
+    "topProtocols": [
+      {
+        "name": "Hyperliquid",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$977K"
+      },
+      {
+        "name": "0x2820…8e98",
+        "volume": "$479K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$459K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$123K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$115K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$108K"
+      },
+      {
+        "name": "0x6fed…7b5c",
+        "volume": "$97K"
+      },
+      {
+        "name": "0xe745…476c",
+        "volume": "$97K"
+      },
+      {
+        "name": "aori",
+        "volume": "$58K"
+      },
+      {
+        "name": "0x95dd…20f2",
+        "volume": "$58K"
+      },
+      {
+        "name": "0xb37c…8568",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xb370…8568",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6d15…b7ea",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x6d1b…b7ea",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$421K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:34:09.087Z",
+  "source": "base_aave",
+  "vaultBalance": 152.69692951679014,
+  "vaultPct": 0.22462943828890922
+}

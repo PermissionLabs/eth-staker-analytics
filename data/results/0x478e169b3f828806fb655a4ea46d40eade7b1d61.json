@@ -1,0 +1,399 @@
+{
+  "portfolio": {
+    "address": "0x478e169b3f828806fb655a4ea46d40eade7b1d61",
+    "totalValue": "$8,589",
+    "walletLifetime": "117 days",
+    "tokens": [
+      {
+        "symbol": "ONDO",
+        "chain": "eth",
+        "price": "$0.4745",
+        "amount": "4,174.1620",
+        "usdValue": "$1,980.56"
+      },
+      {
+        "symbol": "EDEN",
+        "chain": "eth",
+        "price": "$0.0721",
+        "amount": "1,607.9394",
+        "usdValue": "$115.93"
+      },
+      {
+        "symbol": "ZRO",
+        "chain": "eth",
+        "price": "$1.3730",
+        "amount": "69.3637",
+        "usdValue": "$95.24"
+      },
+      {
+        "symbol": "KTA",
+        "chain": "base",
+        "price": "$0.2284",
+        "amount": "412.4499",
+        "usdValue": "$94.22"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "74.4407",
+        "usdValue": "$74.44"
+      },
+      {
+        "symbol": "IMX",
+        "chain": "eth",
+        "price": "$0.2889",
+        "amount": "210.6653",
+        "usdValue": "$60.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,123.4400",
+        "amount": "0.0139",
+        "usdValue": "$43.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.4400",
+        "amount": "0.0099",
+        "usdValue": "$30.95"
+      },
+      {
+        "symbol": "sUSDai",
+        "chain": "base",
+        "price": "$1.0545",
+        "amount": "14.1810",
+        "usdValue": "$14.95"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "eth",
+        "price": "$0.2113",
+        "amount": "60.7850",
+        "usdValue": "$12.84"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,109.4600",
+        "amount": "0.0001",
+        "usdValue": "$12.69"
+      },
+      {
+        "symbol": "USDT (from Solana via Wormhole)",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "10.9991",
+        "usdValue": "$11.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,123.4400",
+        "amount": "0.0028",
+        "usdValue": "$8.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,123.4400",
+        "amount": "0.0028",
+        "usdValue": "$8.83"
+      },
+      {
+        "symbol": "GIZA",
+        "chain": "base",
+        "price": "$0.0452",
+        "amount": "137.3931",
+        "usdValue": "$6.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,123.5600",
+        "amount": "0.0018",
+        "usdValue": "$5.64"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6652",
+        "amount": "7.6276",
+        "usdValue": "$5.07"
+      },
+      {
+        "symbol": "GIZA",
+        "chain": "arb",
+        "price": "$0.0452",
+        "amount": "89.4918",
+        "usdValue": "$4.05"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "3.9901",
+        "usdValue": "$3.99"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Autopilot",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AERO",
+        "usdValue": "$1,556"
+      },
+      {
+        "protocol": "ARMA",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,027"
+      },
+      {
+        "protocol": "Arcadia Finance",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AERO",
+        "usdValue": "$609"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$588"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "Locked",
+        "token": "PENDLE",
+        "usdValue": "$557"
+      },
+      {
+        "protocol": "Curvance",
+        "chain": "monad",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "MON",
+        "usdValue": "$312"
+      },
+      {
+        "protocol": "OpenEden",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDO",
+        "usdValue": "$267"
+      },
+      {
+        "protocol": "Solv",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "SolvBTC",
+        "usdValue": "$256"
+      },
+      {
+        "protocol": "Giza",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GIZA",
+        "usdValue": "$148"
+      },
+      {
+        "protocol": "USD.AI",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDai",
+        "usdValue": "$73"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "plasma",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "YT-sUSDai-19MAR2026",
+        "usdValue": "$71"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "sUSDai",
+        "usdValue": "$65"
+      },
+      {
+        "protocol": "Almanak",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$57"
+      },
+      {
+        "protocol": "Velora",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "VLR",
+        "usdValue": "$22"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x478e169b3f828806fb655a4ea46d40eade7b1d61",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$6K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$5K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$4K"
+      },
+      {
+        "name": "Arcadia Finance",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$3K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$2K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x58a3…fcdb",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x804d…667b",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "ARMA",
+        "volume": "$1K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$838K"
+      },
+      {
+        "name": "elp DAO",
+        "volume": "$832"
+      },
+      {
+        "name": "Relay",
+        "volume": "$786"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$622"
+      },
+      {
+        "name": "0x5bab…23a1",
+        "volume": "$607"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$577"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "EDGE",
+        "volume": "$6K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$2K"
+      },
+      {
+        "name": "LCX",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "TURBO",
+        "volume": "$1K"
+      },
+      {
+        "name": "AIOZ",
+        "volume": "$1K"
+      },
+      {
+        "name": "GIZA",
+        "volume": "$946K"
+      },
+      {
+        "name": "TA",
+        "volume": "$874"
+      },
+      {
+        "name": "POL",
+        "volume": "$777"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:52:25.500Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.17278240915512372,
+  "vaultPct": 0.0019271440897559184
+}

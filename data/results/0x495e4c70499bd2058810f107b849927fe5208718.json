@@ -1,0 +1,215 @@
+{
+  "portfolio": {
+    "address": "0x495e4c70499bd2058810f107b849927fe5208718",
+    "totalValue": "$1,668",
+    "walletLifetime": "1326 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,155.9000",
+        "amount": "0.5193",
+        "usdValue": "$1,639.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,155.7900",
+        "amount": "0.0060",
+        "usdValue": "$18.91"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$910.0000",
+        "amount": "0.0104",
+        "usdValue": "$9.46"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Pika Protocol",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Silo",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x495e4c70499bd2058810f107b849927fe5208718",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$3K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$3K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$3K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$2K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$2K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$2K"
+      },
+      {
+        "name": "Superfluid",
+        "volume": "$2K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xf281…95b0",
+        "volume": "$2K"
+      },
+      {
+        "name": "Hop Protocol",
+        "volume": "$925M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$714"
+      },
+      {
+        "name": "FTX",
+        "volume": "$621"
+      },
+      {
+        "name": "GMX",
+        "volume": "$619"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$590"
+      },
+      {
+        "name": "0x83f6…b30e",
+        "volume": "$583"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$6K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$2K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$656B"
+      },
+      {
+        "name": "RETT",
+        "volume": "$580"
+      },
+      {
+        "name": "USDC",
+        "volume": "$452"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$327"
+      },
+      {
+        "name": "sUSD",
+        "volume": "$317"
+      },
+      {
+        "name": "AERO",
+        "volume": "$309"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:47:14.017Z",
+  "source": "base_aave",
+  "vaultBalance": 0.4636001589483375,
+  "vaultPct": 0.0006819930408866757
+}

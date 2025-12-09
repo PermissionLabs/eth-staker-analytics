@@ -1,0 +1,150 @@
+{
+  "portfolio": {
+    "address": "0x02db800e16e0fc181c07d64b84c94ee890478492",
+    "totalValue": "$171,346",
+    "walletLifetime": "1746 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,108.0000",
+        "amount": "0.0008",
+        "usdValue": "$2.52"
+      },
+      {
+        "symbol": "VSP",
+        "chain": "eth",
+        "price": "$0.2566",
+        "amount": "0.1539",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.0055",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7844",
+        "amount": "2.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$170,090"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,171"
+      },
+      {
+        "protocol": "Vesper",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "VSP",
+        "usdValue": "$83"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x02db800e16e0fc181c07d64b84c94ee890478492",
+    "topProtocols": [
+      {
+        "name": "0xb6ef…e888",
+        "volume": "$617K"
+      },
+      {
+        "name": "Aave V2",
+        "volume": "$607K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$504K"
+      },
+      {
+        "name": "Bittrex",
+        "volume": "$141K"
+      },
+      {
+        "name": "0x87ca…6a60",
+        "volume": "$111K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$105K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$6K"
+      },
+      {
+        "name": "Vesper",
+        "volume": "$6K"
+      },
+      {
+        "name": "inance",
+        "volume": "$134"
+      },
+      {
+        "name": "0x20cb…cb8f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x5e76…bf39",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x80ac…9fe6",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2M"
+      },
+      {
+        "name": "TUSD",
+        "volume": "$282K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$210K"
+      },
+      {
+        "name": "VSP",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:32:22.239Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 88.66746202678925,
+  "vaultPct": 0.016486564750624936
+}

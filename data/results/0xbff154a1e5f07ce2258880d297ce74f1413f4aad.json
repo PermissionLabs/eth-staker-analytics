@@ -1,0 +1,399 @@
+{
+  "portfolio": {
+    "address": "0xbff154a1e5f07ce2258880d297ce74f1413f4aad",
+    "totalValue": "$4,762",
+    "walletLifetime": "1541 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,136.8900",
+        "amount": "0.6015",
+        "usdValue": "$1,886.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,136.8900",
+        "amount": "0.0136",
+        "usdValue": "$42.69"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1,007.4121",
+        "usdValue": "$28.23"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,136.8900",
+        "amount": "0.0053",
+        "usdValue": "$16.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,136.6400",
+        "amount": "0.0042",
+        "usdValue": "$13.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "ink",
+        "price": "$3,136.6400",
+        "amount": "0.0029",
+        "usdValue": "$8.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,136.6400",
+        "amount": "0.0029",
+        "usdValue": "$8.98"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1243",
+        "amount": "44.0650",
+        "usdValue": "$5.48"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.4000",
+        "amount": "0.0047",
+        "usdValue": "$4.21"
+      },
+      {
+        "symbol": "pUSD",
+        "chain": "plume",
+        "price": "$0.9978",
+        "amount": "2.9194",
+        "usdValue": "$2.91"
+      },
+      {
+        "symbol": "USDC.e",
+        "chain": "plume",
+        "price": "$0.9998",
+        "amount": "2.5548",
+        "usdValue": "$2.55"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$318"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "ink",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$318"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$315"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "soneium",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$315"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$314"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "base",
+        "category": "Yield",
+        "label": "Claimable",
+        "token": "WETH",
+        "usdValue": "$314"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$314"
+      },
+      {
+        "protocol": "Layer3",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "L3",
+        "usdValue": "$130"
+      },
+      {
+        "protocol": "ARMA",
+        "chain": "base",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$112"
+      },
+      {
+        "protocol": "Superfluid",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SUP",
+        "usdValue": "$68"
+      },
+      {
+        "protocol": "Cypher",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "CYPR",
+        "usdValue": "$43"
+      },
+      {
+        "protocol": "DuckChain",
+        "chain": "duck",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "DUCK",
+        "usdValue": "$37"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$30"
+      },
+      {
+        "protocol": "HARVEST FLOW",
+        "chain": "plume",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "pUSD",
+        "usdValue": "$15"
+      },
+      {
+        "protocol": "NOYA.ai",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WETH",
+        "usdValue": "$13"
+      },
+      {
+        "protocol": "CARV",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "CARV",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Recall",
+        "chain": "base",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "RECALL",
+        "usdValue": "$8"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "AERO",
+        "usdValue": "$7"
+      },
+      {
+        "protocol": "Sentiment",
+        "chain": "hyper",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WHYPE",
+        "usdValue": "$6"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "katana",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "vbUSDC",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Plasma",
+        "chain": "plasma",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT0",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xbff154a1e5f07ce2258880d297ce74f1413f4aad",
+    "topProtocols": [
+      {
+        "name": "Bungee",
+        "volume": "$107K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$32K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$26K"
+      },
+      {
+        "name": "squid",
+        "volume": "$26K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Blueprint",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x2257…d9da",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5367…6ce1",
+        "volume": "$1K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$1K"
+      },
+      {
+        "name": "Avantis",
+        "volume": "$1K"
+      },
+      {
+        "name": "Impermax V3",
+        "volume": "$779"
+      },
+      {
+        "name": "Enso",
+        "volume": "$746"
+      },
+      {
+        "name": "Vexy.fi",
+        "volume": "$727"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$661"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$135K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$107K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$51K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$4K"
+      },
+      {
+        "name": "CREATE",
+        "volume": "$2K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$1K"
+      },
+      {
+        "name": "L3",
+        "volume": "$875"
+      },
+      {
+        "name": "Q",
+        "volume": "$844"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$416M"
+      },
+      {
+        "name": "etalos",
+        "volume": "$412"
+      },
+      {
+        "name": "CYPR",
+        "volume": "$344"
+      },
+      {
+        "name": "WETH",
+        "volume": "$256"
+      },
+      {
+        "name": "PLUME",
+        "volume": "$220"
+      },
+      {
+        "name": "ERA",
+        "volume": "$166"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:28:11.830Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09808345381802622,
+  "vaultPct": 0.0017794522215772459
+}

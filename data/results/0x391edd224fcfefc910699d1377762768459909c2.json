@@ -1,0 +1,286 @@
+{
+  "portfolio": {
+    "address": "0x391edd224fcfefc910699d1377762768459909c2",
+    "totalValue": "$8,742",
+    "walletLifetime": "294 days",
+    "tokens": [
+      {
+        "symbol": "WLD",
+        "chain": "eth",
+        "price": "$0.6131",
+        "amount": "681.5126",
+        "usdValue": "$417.84"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5999",
+        "amount": "455.1799",
+        "usdValue": "$273.04"
+      },
+      {
+        "symbol": "ARKM",
+        "chain": "eth",
+        "price": "$0.2250",
+        "amount": "991.4247",
+        "usdValue": "$223.07"
+      },
+      {
+        "symbol": "VELO(v2)",
+        "chain": "op",
+        "price": "$0.0286",
+        "amount": "2,874.3677",
+        "usdValue": "$82.06"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "arb",
+        "price": "$2.3217",
+        "amount": "13.0166",
+        "usdValue": "$30.22"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3190",
+        "amount": "85.0782",
+        "usdValue": "$27.14"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,135.3000",
+        "amount": "0.0080",
+        "usdValue": "$25.21"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6661",
+        "amount": "17.6707",
+        "usdValue": "$11.77"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "op",
+        "price": "$3,135.1300",
+        "amount": "0.0031",
+        "usdValue": "$9.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,135.3000",
+        "amount": "0.0026",
+        "usdValue": "$8.01"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,133.9700",
+        "amount": "0.0019",
+        "usdValue": "$5.94"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,135.3000",
+        "amount": "0.0018",
+        "usdValue": "$5.66"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,135.3000",
+        "amount": "0.0015",
+        "usdValue": "$4.67"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2138",
+        "amount": "17.9336",
+        "usdValue": "$3.83"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.1000",
+        "amount": "0.0037",
+        "usdValue": "$3.33"
+      },
+      {
+        "symbol": "EIGEN",
+        "chain": "base",
+        "price": "$0.4790",
+        "amount": "5.2099",
+        "usdValue": "$2.50"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,423"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$930"
+      },
+      {
+        "protocol": "Velodrome V3",
+        "chain": "op",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$685"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$568"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x391edd224fcfefc910699d1377762768459909c2",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$41K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$20K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$16K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$16K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$12K"
+      },
+      {
+        "name": "Fuel",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xf09c…cb4f",
+        "volume": "$11K"
+      },
+      {
+        "name": "0xd70d…6091",
+        "volume": "$11K"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$9K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$7K"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x2b3b…7921",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xa9ac…4573",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$6K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$57K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$53K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$50K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDtb",
+        "volume": "$7K"
+      },
+      {
+        "name": "OP",
+        "volume": "$7K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$5K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$3K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$3K"
+      },
+      {
+        "name": "MNT",
+        "volume": "$1K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$1K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$795"
+      },
+      {
+        "name": "WLD",
+        "volume": "$575B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:19:01.816Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2.6000140301028365,
+  "vaultPct": 0.0004834388926895498
+}

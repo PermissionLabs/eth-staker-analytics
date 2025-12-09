@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x2782085ca511b0e254a77b15ea76b3c0b9d455fd",
+    "totalValue": "$928",
+    "walletLifetime": "40 days",
+    "tokens": [
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$92,023.8900",
+        "amount": "0.0011",
+        "usdValue": "$100.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,158.0700",
+        "amount": "0.0258",
+        "usdValue": "$81.47"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,158.0700",
+        "amount": "0.0129",
+        "usdValue": "$40.82"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6860",
+        "amount": "2.3081",
+        "usdValue": "$1.58"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "base",
+        "price": "$2.3032",
+        "amount": "0.5040",
+        "usdValue": "$1.16"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0972",
+        "amount": "4.0313",
+        "usdValue": "$0.39"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,157.3900",
+        "amount": "0.00006677",
+        "usdValue": "$0.21"
+      },
+      {
+        "symbol": "GHO",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.1151",
+        "usdValue": "$0.12"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$484"
+      },
+      {
+        "protocol": "Beefy",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "GHO",
+        "usdValue": "$203"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$15"
+      },
+      {
+        "protocol": "SwapX",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "SWPx",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2782085ca511b0e254a77b15ea76b3c0b9d455fd",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$951B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$717"
+      },
+      {
+        "name": "ICHI",
+        "volume": "$715B"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$578"
+      },
+      {
+        "name": "vfat.io",
+        "volume": "$381"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$335B"
+      },
+      {
+        "name": "alancer V3",
+        "volume": "$316"
+      },
+      {
+        "name": "eefy",
+        "volume": "$204"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$65"
+      },
+      {
+        "name": "0x9b35…5e15",
+        "volume": "$60"
+      },
+      {
+        "name": "0xd86c…2805",
+        "volume": "$51"
+      },
+      {
+        "name": "ayan",
+        "volume": "$45M"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$24"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$403"
+      },
+      {
+        "name": "WETH",
+        "volume": "$402"
+      },
+      {
+        "name": "GHO",
+        "volume": "$267"
+      },
+      {
+        "name": "wS",
+        "volume": "$79"
+      },
+      {
+        "name": "S",
+        "volume": "$16"
+      },
+      {
+        "name": "SWPx",
+        "volume": "$8"
+      },
+      {
+        "name": "Cake",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T11:06:50.382Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1555788860996702,
+  "vaultPct": 0.00022886902771899128
+}

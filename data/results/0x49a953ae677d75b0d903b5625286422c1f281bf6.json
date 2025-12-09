@@ -1,0 +1,224 @@
+{
+  "portfolio": {
+    "address": "0x49a953ae677d75b0d903b5625286422c1f281bf6",
+    "totalValue": "$2,785",
+    "walletLifetime": "1253 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,145.6000",
+        "amount": "0.1932",
+        "usdValue": "$607.74"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "op",
+        "price": "$0.9998",
+        "amount": "177.5348",
+        "usdValue": "$177.50"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.7300",
+        "amount": "7.5130",
+        "usdValue": "$103.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,145.6000",
+        "amount": "0.0184",
+        "usdValue": "$58.03"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3216",
+        "amount": "118.3446",
+        "usdValue": "$38.06"
+      },
+      {
+        "symbol": "GNS",
+        "chain": "arb",
+        "price": "$1.4060",
+        "amount": "25.4000",
+        "usdValue": "$35.71"
+      },
+      {
+        "symbol": "GMX",
+        "chain": "arb",
+        "price": "$9.0365",
+        "amount": "3.6600",
+        "usdValue": "$33.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,145.6000",
+        "amount": "0.0097",
+        "usdValue": "$30.47"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1242",
+        "amount": "113.4257",
+        "usdValue": "$14.09"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "3.4499",
+        "usdValue": "$3.45"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$777"
+      },
+      {
+        "protocol": "gTrade",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "DAI",
+        "usdValue": "$503"
+      },
+      {
+        "protocol": "Livepeer",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LPT",
+        "usdValue": "$338"
+      },
+      {
+        "protocol": "Polygon Staking",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "POL",
+        "usdValue": "$67"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x49a953ae677d75b0d903b5625286422c1f281bf6",
+    "topProtocols": [
+      {
+        "name": "Gemini",
+        "volume": "$1K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$646"
+      },
+      {
+        "name": "Polygon Staking",
+        "volume": "$532"
+      },
+      {
+        "name": "0x5aba…2d07",
+        "volume": "$433"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$409"
+      },
+      {
+        "name": "Livepeer",
+        "volume": "$399"
+      },
+      {
+        "name": "0x8188…19cc",
+        "volume": "$326"
+      },
+      {
+        "name": "Gains Network",
+        "volume": "$298"
+      },
+      {
+        "name": "0xf517…5d82",
+        "volume": "$270K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$256K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$209"
+      },
+      {
+        "name": "Optimism Bridge",
+        "volume": "$204"
+      },
+      {
+        "name": "gTrade",
+        "volume": "$200"
+      },
+      {
+        "name": "0xea34…c72d",
+        "volume": "$6"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$952"
+      },
+      {
+        "name": "GNS",
+        "volume": "$504"
+      },
+      {
+        "name": "LPT",
+        "volume": "$403"
+      },
+      {
+        "name": "DAI",
+        "volume": "$403"
+      },
+      {
+        "name": "FTM",
+        "volume": "$352"
+      },
+      {
+        "name": "OP",
+        "volume": "$256"
+      },
+      {
+        "name": "GMX",
+        "volume": "$255"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$125"
+      },
+      {
+        "name": "POL",
+        "volume": "$52"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$6"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:04:21.916Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.2256459292457278,
+  "vaultPct": 0.000016943265969253237
+}

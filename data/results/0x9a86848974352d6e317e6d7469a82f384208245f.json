@@ -1,0 +1,242 @@
+{
+  "portfolio": {
+    "address": "0x9a86848974352d6e317e6d7469a82f384208245f",
+    "totalValue": "$1,025",
+    "walletLifetime": "1410 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.2700",
+        "amount": "0.0772",
+        "usdValue": "$241.16"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "177.8738",
+        "usdValue": "$177.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.2700",
+        "amount": "0.0010",
+        "usdValue": "$3.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.2700",
+        "amount": "0.0001",
+        "usdValue": "$0.43"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$407"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$191"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Superfluid",
+        "chain": "arb",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "OP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Radiant Capital",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Treasure DAO",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MAGIC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "RDNT(old)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9a86848974352d6e317e6d7469a82f384208245f",
+    "topProtocols": [
+      {
+        "name": "Aboard",
+        "volume": "$17K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$15K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$13K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$10K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$10K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$8K"
+      },
+      {
+        "name": "Goal3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$6K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$4K"
+      },
+      {
+        "name": "iZUMi Finance",
+        "volume": "$4K"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$52K"
+      },
+      {
+        "name": "KBUSD",
+        "volume": "$11K"
+      },
+      {
+        "name": "zkUSD",
+        "volume": "$8K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$4K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "KLBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$619"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:36:14.648Z",
+  "source": "moonwell",
+  "vaultBalance": 0.05969522791572851,
+  "vaultPct": 0.0010830043376050104
+}

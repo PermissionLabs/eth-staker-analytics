@@ -1,0 +1,164 @@
+{
+  "portfolio": {
+    "address": "0x31edeac27d7227029336e0d3cd5138ad9d746a1c",
+    "totalValue": "$70,470",
+    "walletLifetime": "1539 days",
+    "tokens": [
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8342",
+        "amount": "318.1400",
+        "usdValue": "$265.39"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "46.9700",
+        "usdValue": "$46.97"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,663.5000",
+        "amount": "0.0005",
+        "usdValue": "$45.60"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "25.1804",
+        "usdValue": "$25.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.1400",
+        "amount": "0.0032",
+        "usdValue": "$9.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.1500",
+        "amount": "0.0020",
+        "usdValue": "$6.37"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$70,070"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x31edeac27d7227029336e0d3cd5138ad9d746a1c",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$200K"
+      },
+      {
+        "name": "0xfde3…3ba7",
+        "volume": "$166K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$138K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$110K"
+      },
+      {
+        "name": "0x03ba…75b7",
+        "volume": "$99K"
+      },
+      {
+        "name": "0x5849…50a4",
+        "volume": "$75K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$47K"
+      },
+      {
+        "name": "0x1826…224b",
+        "volume": "$29K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$27K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$20K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x31e9…bde6",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x242e…a788",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xab78…e1bc",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x6e03…4fe6",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$512K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$75K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$34K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$988"
+      },
+      {
+        "name": "CEL",
+        "volume": "$28"
+      },
+      {
+        "name": "USDS",
+        "volume": "$10"
+      },
+      {
+        "name": "sUSDS",
+        "volume": "$10"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:05:59.545Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.270090826471818,
+  "vaultPct": 0.0007939680159155493
+}

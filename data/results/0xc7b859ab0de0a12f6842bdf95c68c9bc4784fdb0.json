@@ -1,0 +1,209 @@
+{
+  "portfolio": {
+    "address": "0xc7b859ab0de0a12f6842bdf95c68c9bc4784fdb0",
+    "totalValue": "$219",
+    "walletLifetime": "379 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,108.4200",
+        "amount": "0.0136",
+        "usdValue": "$42.21"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.2000",
+        "amount": "0.0437",
+        "usdValue": "$39.29"
+      },
+      {
+        "symbol": "SOL(Wormhole)",
+        "chain": "matic",
+        "price": "$135.9585",
+        "amount": "0.2712",
+        "usdValue": "$36.87"
+      },
+      {
+        "symbol": "VSN",
+        "chain": "arb",
+        "price": "$0.0944",
+        "amount": "63.5101",
+        "usdValue": "$6.00"
+      },
+      {
+        "symbol": "COW",
+        "chain": "base",
+        "price": "$0.1940",
+        "amount": "29.4794",
+        "usdValue": "$5.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,108.4200",
+        "amount": "0.0010",
+        "usdValue": "$3.08"
+      },
+      {
+        "symbol": "USDbC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "0.5762",
+        "usdValue": "$0.58"
+      },
+      {
+        "symbol": "USDT0",
+        "chain": "matic",
+        "price": "$1.0000",
+        "amount": "0.3310",
+        "usdValue": "$0.33"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "0.2599",
+        "usdValue": "$0.26"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$84"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc7b859ab0de0a12f6842bdf95c68c9bc4784fdb0",
+    "topProtocols": [
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$703"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$660B"
+      },
+      {
+        "name": "inance",
+        "volume": "$655"
+      },
+      {
+        "name": "0xba05…97b6",
+        "volume": "$603"
+      },
+      {
+        "name": "x",
+        "volume": "$409"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$268"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$234B"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$124"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$124"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$117"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$116"
+      },
+      {
+        "name": "Velora",
+        "volume": "$89M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$79"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$50B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$961"
+      },
+      {
+        "name": "USDT",
+        "volume": "$801"
+      },
+      {
+        "name": "WETH",
+        "volume": "$531"
+      },
+      {
+        "name": "AIFUN",
+        "volume": "$425"
+      },
+      {
+        "name": "XRP",
+        "volume": "$377"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$368"
+      },
+      {
+        "name": "SIMMI",
+        "volume": "$240"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$240"
+      },
+      {
+        "name": "Anon",
+        "volume": "$176"
+      },
+      {
+        "name": "GAME",
+        "volume": "$145B"
+      },
+      {
+        "name": "NB",
+        "volume": "$102"
+      },
+      {
+        "name": "VET",
+        "volume": "$76"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$59"
+      },
+      {
+        "name": "NEAR",
+        "volume": "$54"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:55:33.403Z",
+  "source": "base_aave",
+  "vaultBalance": 0.05289591274153514,
+  "vaultPct": 0.00007781413290045027
+}

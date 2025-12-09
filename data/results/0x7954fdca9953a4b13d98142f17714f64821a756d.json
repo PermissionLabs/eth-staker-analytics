@@ -1,0 +1,203 @@
+{
+  "portfolio": {
+    "address": "0x7954fdca9953a4b13d98142f17714f64821a756d",
+    "totalValue": "$2,215",
+    "walletLifetime": "1265 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,102.1900",
+        "amount": "0.4169",
+        "usdValue": "$1,293.42"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,102.1900",
+        "amount": "0.0080",
+        "usdValue": "$24.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "soneium",
+        "price": "$3,102.1900",
+        "amount": "0.0077",
+        "usdValue": "$23.95"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.2000",
+        "amount": "0.0162",
+        "usdValue": "$14.50"
+      },
+      {
+        "symbol": "nUSD",
+        "chain": "op",
+        "price": "$1.0012",
+        "amount": "7.7339",
+        "usdValue": "$7.74"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "7.0765",
+        "usdValue": "$7.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,102.1900",
+        "amount": "0.0014",
+        "usdValue": "$4.49"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$89,868.0500",
+        "amount": "0.00004932",
+        "usdValue": "$4.43"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,101.3300",
+        "amount": "0.0014",
+        "usdValue": "$4.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,102.1900",
+        "amount": "0.0013",
+        "usdValue": "$3.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,102.1900",
+        "amount": "0.0012",
+        "usdValue": "$3.58"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2116",
+        "amount": "16.1830",
+        "usdValue": "$3.42"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.5800",
+        "amount": "0.2136",
+        "usdValue": "$2.90"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "2.5334",
+        "usdValue": "$2.53"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$895.8800",
+        "amount": "0.0028",
+        "usdValue": "$2.50"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "19.2052",
+        "usdValue": "$2.37"
+      },
+      {
+        "symbol": "axlUSDC",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "1.9964",
+        "usdValue": "$2.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$778"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "matic",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7954fdca9953a4b13d98142f17714f64821a756d",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-08T16:01:35.040Z",
+  "source": "base_aave",
+  "vaultBalance": 0.25,
+  "vaultPct": 0.00036777006420454837
+}

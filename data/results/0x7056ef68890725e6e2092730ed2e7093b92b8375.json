@@ -1,0 +1,279 @@
+{
+  "portfolio": {
+    "address": "0x7056ef68890725e6e2092730ed2e7093b92b8375",
+    "totalValue": "$4,022",
+    "walletLifetime": "1537 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9400",
+        "amount": "0.0217",
+        "usdValue": "$67.84"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.9400",
+        "amount": "0.0142",
+        "usdValue": "$44.45"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$897.3000",
+        "amount": "0.0106",
+        "usdValue": "$9.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.9400",
+        "amount": "0.0022",
+        "usdValue": "$6.74"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$897.4700",
+        "amount": "0.0015",
+        "usdValue": "$1.36"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.0939",
+        "amount": "1.2002",
+        "usdValue": "$1.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "nova",
+        "price": "$3,125.9400",
+        "amount": "0.0003",
+        "usdValue": "$1.07"
+      },
+      {
+        "symbol": "SPA",
+        "chain": "arb",
+        "price": "$0.0054",
+        "amount": "86.7965",
+        "usdValue": "$0.47"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.9400",
+        "amount": "0.0001",
+        "usdValue": "$0.44"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "manta",
+        "price": "$3,125.9400",
+        "amount": "0.00008016",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.9400",
+        "amount": "0.00007999",
+        "usdValue": "$0.25"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$3,883"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Hop Protocol",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Camelot",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "GRAIL",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "manta",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "STONE",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Radiant Capital",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "GMX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Vesta Finance",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "VST",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7056ef68890725e6e2092730ed2e7093b92b8375",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$53K"
+      },
+      {
+        "name": "0x3c69…3fbb",
+        "volume": "$35K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$18K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$17K"
+      },
+      {
+        "name": "0x7354…19b8",
+        "volume": "$11K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$9K"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$9K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$9K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$9K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xef04…567f",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xccb1…a073",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x2fc6…befe",
+        "volume": "$7K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$99K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$59K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$52K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "STONE",
+        "volume": "$11K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$10K"
+      },
+      {
+        "name": "MANTA",
+        "volume": "$9K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$7K"
+      },
+      {
+        "name": "KDYDX",
+        "volume": "$5K"
+      },
+      {
+        "name": "xcMANTA",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:02:25.916Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 2,
+  "vaultPct": 0.00037187406459528123
+}

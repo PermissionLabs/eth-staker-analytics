@@ -1,0 +1,153 @@
+{
+  "portfolio": {
+    "address": "0x5c186ddcb5d3e4d366f43a2989e5388be120c509",
+    "totalValue": "$224,942",
+    "walletLifetime": "533 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,120.6800",
+        "amount": "0.9765",
+        "usdValue": "$3,047.24"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2014",
+        "amount": "604.9992",
+        "usdValue": "$726.85"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "44,453.7716",
+        "usdValue": "$448.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.6800",
+        "amount": "0.0583",
+        "usdValue": "$182.02"
+      },
+      {
+        "symbol": "EURC",
+        "chain": "base",
+        "price": "$1.1642",
+        "amount": "40.0542",
+        "usdValue": "$46.63"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EURC",
+        "usdValue": "$220,419"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$65"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5c186ddcb5d3e4d366f43a2989e5388be120c509",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$227K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$106K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$60K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$58K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$58K"
+      },
+      {
+        "name": "0x8696…4a4f",
+        "volume": "$26K"
+      },
+      {
+        "name": "0xdacd…ab93",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$2K"
+      },
+      {
+        "name": "Merkl",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$518"
+      },
+      {
+        "name": "0xad95…079c",
+        "volume": "$354"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "EURC",
+        "volume": "$385K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$180K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$8K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$5K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$3K"
+      },
+      {
+        "name": "feesh",
+        "volume": "$829"
+      },
+      {
+        "name": "TURBO",
+        "volume": "$290"
+      },
+      {
+        "name": "NATO",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:33:33.735Z",
+  "source": "moonwell",
+  "vaultBalance": 13.428478669795076,
+  "vaultPct": 0.24362249973071318
+}

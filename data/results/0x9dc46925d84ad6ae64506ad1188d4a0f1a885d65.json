@@ -1,0 +1,145 @@
+{
+  "portfolio": {
+    "address": "0x9dc46925d84ad6ae64506ad1188d4a0f1a885d65",
+    "totalValue": "$12,678",
+    "walletLifetime": "1199 days",
+    "tokens": [
+      {
+        "symbol": "EURe",
+        "chain": "matic",
+        "price": "$1.1649",
+        "amount": "11.9409",
+        "usdValue": "$13.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,134.2500",
+        "amount": "0.0013",
+        "usdValue": "$4.10"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "1.3341",
+        "usdValue": "$1.33"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.0364",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "EURe",
+        "chain": "xdai",
+        "price": "$1.1649",
+        "amount": "0.0093",
+        "usdValue": "$0.01"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$12,499"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$160"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9dc46925d84ad6ae64506ad1188d4a0f1a885d65",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$119K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$49K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x420c…3430",
+        "volume": "$14K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x988a…db57",
+        "volume": "$14"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$6"
+      },
+      {
+        "name": "0xcdc8…ca15",
+        "volume": "$1"
+      },
+      {
+        "name": "0xf2cc…cdff",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x9da8…2c69",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfaf8…db84",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x19a1…abcb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcb44…c56e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$157K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$82K"
+      },
+      {
+        "name": "EURe",
+        "volume": "$28K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$26K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$27"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:27:29.665Z",
+  "source": "base_aave",
+  "vaultBalance": 10.641505833389195,
+  "vaultPct": 0.01565450913431448
+}

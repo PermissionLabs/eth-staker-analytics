@@ -1,0 +1,141 @@
+{
+  "portfolio": {
+    "address": "0x5531cc0ba7c92e73cb88495fab562801556cb0be",
+    "totalValue": "$102,243",
+    "walletLifetime": "621 days",
+    "tokens": [
+      {
+        "symbol": "GRT",
+        "chain": "matic",
+        "price": "$0.0456",
+        "amount": "1,003.4950",
+        "usdValue": "$45.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.9900",
+        "amount": "0.0073",
+        "usdValue": "$22.69"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.5000",
+        "usdValue": "$0.50"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.6676",
+        "amount": "0.0010",
+        "usdValue": "$0.01"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "350.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$102,174"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5531cc0ba7c92e73cb88495fab562801556cb0be",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$423K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$64K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x9514…9dd9",
+        "volume": "$35K"
+      },
+      {
+        "name": "0xa8dc…479b",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x132b…d8ac",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x5a10…e7c1",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x598e…45d7",
+        "volume": "$11K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xab5b…daa9",
+        "volume": "$207"
+      },
+      {
+        "name": "0x9efd…eca6",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x18dc…479b",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa0b8…eb48",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$276K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$217K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$164K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$64K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$43K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$270"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:05:14.960Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 6.101012943820249,
+  "vaultPct": 0.001134404240783429
+}

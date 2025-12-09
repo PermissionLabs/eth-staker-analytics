@@ -1,0 +1,185 @@
+{
+  "portfolio": {
+    "address": "0x97124f6f5f96393465a945db89d86e98ecb94e6b",
+    "totalValue": "$11,771",
+    "walletLifetime": "360 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,115.0700",
+        "amount": "0.1071",
+        "usdValue": "$333.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,115.0700",
+        "amount": "0.0250",
+        "usdValue": "$77.81"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2004",
+        "amount": "37.6921",
+        "usdValue": "$45.25"
+      },
+      {
+        "symbol": "eUSD",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "3.1983",
+        "usdValue": "$3.20"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "197.0952",
+        "usdValue": "$1.99"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$11,283"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$26"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x97124f6f5f96393465a945db89d86e98ecb94e6b",
+    "topProtocols": [
+      {
+        "name": "0xc88c…c787",
+        "volume": "$33K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$16K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$13K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$13K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$5K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$976"
+      },
+      {
+        "name": "0x5393…fc25",
+        "volume": "$202"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$186"
+      },
+      {
+        "name": "0x1057…8943",
+        "volume": "$19"
+      },
+      {
+        "name": "gaslite",
+        "volume": "$15"
+      },
+      {
+        "name": "0x72fe…cd58",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x17f5…d092",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x688c…bc96",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x46f8…878a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xf25f…fb03",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7a5c…3c3f",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x25eb…a9ef",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$31K"
+      },
+      {
+        "name": "AIXBT",
+        "volume": "$11K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$9K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$6K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$44"
+      },
+      {
+        "name": "SANTA",
+        "volume": "$32"
+      },
+      {
+        "name": "TAOCAT",
+        "volume": "$19"
+      },
+      {
+        "name": "WELL",
+        "volume": "$3"
+      },
+      {
+        "name": "eUSD",
+        "volume": "$3"
+      },
+      {
+        "name": "J3FF",
+        "volume": "$1M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:04:26.625Z",
+  "source": "moonwell",
+  "vaultBalance": 2.536561376928208,
+  "vaultPct": 0.04601887068247174
+}

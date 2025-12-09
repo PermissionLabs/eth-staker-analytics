@@ -1,0 +1,76 @@
+{
+  "portfolio": {
+    "address": "0xa301ba64e1fcc884b6a032808053fa64856ca5f9",
+    "totalValue": "$12,968",
+    "walletLifetime": "280 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.2400",
+        "amount": "0.0100",
+        "usdValue": "$31.27"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7906",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "stETH",
+        "usdValue": "$8,822"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "stETH",
+        "usdValue": "$4,115"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa301ba64e1fcc884b6a032808053fa64856ca5f9",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$15K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$13K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xe2ce…dbe6",
+        "volume": "$4"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$30K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:13:53.742Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.3727297179631597,
+  "vaultPct": 0.0000693042576072065
+}

@@ -1,0 +1,247 @@
+{
+  "portfolio": {
+    "address": "0xcf26ae325bd1e4c35bf6983fbdbd6d4158fc9774",
+    "totalValue": "$30,193",
+    "walletLifetime": "1754 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7993",
+        "amount": "669.4849",
+        "usdValue": "$9,238.41"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6261",
+        "amount": "422.5352",
+        "usdValue": "$2,377.22"
+      },
+      {
+        "symbol": "FLAY",
+        "chain": "eth",
+        "price": "$0.0098",
+        "amount": "123,180.0601",
+        "usdValue": "$1,207.04"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.6000",
+        "amount": "0.2090",
+        "usdValue": "$653.09"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "182.2566",
+        "usdValue": "$182.24"
+      },
+      {
+        "symbol": "RVST",
+        "chain": "eth",
+        "price": "$0.0027",
+        "amount": "26,344.9206",
+        "usdValue": "$70.31"
+      },
+      {
+        "symbol": "CVX",
+        "chain": "eth",
+        "price": "$1.8355",
+        "amount": "29.5225",
+        "usdValue": "$54.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$9,584"
+      },
+      {
+        "protocol": "Convex",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "cvxCRV",
+        "usdValue": "$3,420"
+      },
+      {
+        "protocol": "Curve",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "CRV",
+        "usdValue": "$3,309"
+      },
+      {
+        "protocol": "revest",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "RVST",
+        "usdValue": "$87"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xcf26ae325bd1e4c35bf6983fbdbd6d4158fc9774",
+    "topProtocols": [
+      {
+        "name": "0x6fb1…4875",
+        "volume": "$36"
+      },
+      {
+        "name": "launch",
+        "volume": "$18K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$16K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$15K"
+      },
+      {
+        "name": "Nexus Mutual",
+        "volume": "$9K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x0000…0e49",
+        "volume": "$7K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$6K"
+      },
+      {
+        "name": "Convex",
+        "volume": "$6K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xeff6…a167",
+        "volume": "$5K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xb34e…e4e9",
+        "volume": "$4K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xbeef…c555",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x297a…a90a",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$60K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$45K"
+      },
+      {
+        "name": "FLAY",
+        "volume": "$17K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$15K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "AGIX",
+        "volume": "$13K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$12K"
+      },
+      {
+        "name": "cvxCRV",
+        "volume": "$11K"
+      },
+      {
+        "name": "NFTX",
+        "volume": "$9K"
+      },
+      {
+        "name": "NXM",
+        "volume": "$8K"
+      },
+      {
+        "name": "wNXM",
+        "volume": "$7K"
+      },
+      {
+        "name": "POL",
+        "volume": "$6K"
+      },
+      {
+        "name": "RVST",
+        "volume": "$6K"
+      },
+      {
+        "name": "KLIMA",
+        "volume": "$5K"
+      },
+      {
+        "name": "wTAO",
+        "volume": "$4K"
+      },
+      {
+        "name": "ORAI",
+        "volume": "$4K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$3K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$3K"
+      },
+      {
+        "name": "QANX",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:20:16.015Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 4.537479683873159,
+  "vaultPct": 0.0008436855065302117
+}

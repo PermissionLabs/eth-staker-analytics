@@ -1,0 +1,217 @@
+{
+  "portfolio": {
+    "address": "0x806f153c5bffedadd812a96162ecccd66866c8ce",
+    "totalValue": "$299,422",
+    "walletLifetime": "2868 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,104.0600",
+        "amount": "0.4630",
+        "usdValue": "$1,437.10"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2811",
+        "amount": "3,688.5770",
+        "usdValue": "$1,036.86"
+      },
+      {
+        "symbol": "SYN",
+        "chain": "base",
+        "price": "$0.0604",
+        "amount": "3,219.0923",
+        "usdValue": "$194.43"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$890.6000",
+        "amount": "0.0426",
+        "usdValue": "$37.91"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "blast",
+        "price": "$3,104.0600",
+        "amount": "0.0050",
+        "usdValue": "$15.40"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$296,693"
+      },
+      {
+        "protocol": "Synapse",
+        "chain": "avax",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "nUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Balancer V2",
+        "chain": "eth",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "SYN",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "PancakeSwap",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "Cake",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Synapse",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "nUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Synapse",
+        "chain": "boba",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "nUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Synapse",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "nUSD",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x806f153c5bffedadd812a96162ecccd66866c8ce",
+    "topProtocols": [
+      {
+        "name": "Synapse",
+        "volume": "$3M"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$955K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$954K"
+      },
+      {
+        "name": "Balancer V2",
+        "volume": "$583K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$495K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$486K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$456K"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$447K"
+      },
+      {
+        "name": "Nerve",
+        "volume": "$391K"
+      },
+      {
+        "name": "0xa4bd…ac9c",
+        "volume": "$289K"
+      },
+      {
+        "name": "0x0ef8…2f3a",
+        "volume": "$287K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$231K"
+      },
+      {
+        "name": "0x749f…3697",
+        "volume": "$210K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT.e",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "SYN",
+        "volume": "$2M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDt",
+        "volume": "$878K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$765K"
+      },
+      {
+        "name": "USDC.e",
+        "volume": "$748K"
+      },
+      {
+        "name": "NRV",
+        "volume": "$693K"
+      },
+      {
+        "name": "nETH",
+        "volume": "$618K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$467K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$447K"
+      },
+      {
+        "name": "nUSD",
+        "volume": "$430K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:26:33.261Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 55.9997069313073,
+  "vaultPct": 0.010412419316344896
+}

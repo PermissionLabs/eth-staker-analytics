@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0xea78a5b3c9e45308398155c40acf60f88668f775",
+    "totalValue": "$10,593",
+    "walletLifetime": "220 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "378.2001",
+        "usdValue": "$378.16"
+      },
+      {
+        "symbol": "VIRTUAL",
+        "chain": "base",
+        "price": "$0.8355",
+        "amount": "380.1650",
+        "usdValue": "$317.63"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.6200",
+        "amount": "0.0276",
+        "usdValue": "$85.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,106.6200",
+        "amount": "0.0133",
+        "usdValue": "$41.20"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0941",
+        "amount": "43.8588",
+        "usdValue": "$4.13"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "sonic",
+        "price": "$0.9999",
+        "amount": "1.0000",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0274",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001002",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "RICKY",
+        "chain": "base",
+        "price": "$0.0₅4518",
+        "amount": "6.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SQUID",
+        "chain": "base",
+        "price": "$0.0001",
+        "amount": "0.0269",
+        "usdValue": ""
+      },
+      {
+        "symbol": "IDG",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "20.6325",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$9,765"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xea78a5b3c9e45308398155c40acf60f88668f775",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$85K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$30K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$21K"
+      },
+      {
+        "name": "0xa322…59b3",
+        "volume": "$17K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$15K"
+      },
+      {
+        "name": "Arbitrum Bridge",
+        "volume": "$10K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$8K"
+      },
+      {
+        "name": "Bitget",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xa4e4…3267",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x0000…006e",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$78K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$49K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$28K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$14K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "S",
+        "volume": "$2K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$734"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:25:13.569Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.2832268174522607,
+  "vaultPct": 0.00005266235390417896
+}

@@ -1,0 +1,150 @@
+{
+  "portfolio": {
+    "address": "0x820987dc796a9a9bce4f1822aaf004505529ab8c",
+    "totalValue": "$1,064",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$91,525.8200",
+        "amount": "0.0083",
+        "usdValue": "$760.46"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,442.0000",
+        "amount": "0.0027",
+        "usdValue": "$242.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,138.2000",
+        "amount": "0.0065",
+        "usdValue": "$20.30"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,138.2000",
+        "amount": "0.0063",
+        "usdValue": "$19.80"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "op",
+        "price": "$0.9999",
+        "amount": "16.3576",
+        "usdValue": "$16.36"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,134.3900",
+        "amount": "0.0009",
+        "usdValue": "$2.89"
+      },
+      {
+        "symbol": "MNT",
+        "chain": "mnt",
+        "price": "$1.1243",
+        "amount": "0.9710",
+        "usdValue": "$1.09"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x820987dc796a9a9bce4f1822aaf004505529ab8c",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$989"
+      },
+      {
+        "name": "0x0d4d…ca48",
+        "volume": "$913B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$847"
+      },
+      {
+        "name": "squid",
+        "volume": "$809"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$565"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$442"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$287"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$202"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$156"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$112"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$103"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$3K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$823"
+      },
+      {
+        "name": "WETH",
+        "volume": "$810"
+      },
+      {
+        "name": "USDT",
+        "volume": "$312"
+      },
+      {
+        "name": "NT",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:43:01.145Z",
+  "source": "base_aave",
+  "vaultBalance": 0.13928995292106328,
+  "vaultPct": 0.00020490669971531185
+}

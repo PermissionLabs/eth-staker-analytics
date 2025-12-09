@@ -1,0 +1,73 @@
+{
+  "portfolio": {
+    "address": "0xd818bda4ea23e800dd9915350d8dcf3443184fc8",
+    "totalValue": "$815",
+    "walletLifetime": "626 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,105.1100",
+        "amount": "0.0006",
+        "usdValue": "$1.76"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$813"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xd818bda4ea23e800dd9915350d8dcf3443184fc8",
+    "topProtocols": [
+      {
+        "name": "mimic",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xaf8d…25fa",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "SatoshiDEX",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xc725…9022",
+        "volume": "$73"
+      },
+      {
+        "name": "0xd6da…4745",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa7ca…b22a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T05:28:18.899Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 0.99,
+  "vaultPct": 0.0001840776619746642
+}

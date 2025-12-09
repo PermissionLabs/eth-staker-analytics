@@ -1,0 +1,172 @@
+{
+  "portfolio": {
+    "address": "0x70506e4e63fc7ba56ae659157e9039ac814ec4b0",
+    "totalValue": "$18,646",
+    "walletLifetime": "203 days",
+    "tokens": [
+      {
+        "symbol": "WLFI",
+        "chain": "eth",
+        "price": "$0.1507",
+        "amount": "4,940.4906",
+        "usdValue": "$744.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,119.1600",
+        "amount": "0.0438",
+        "usdValue": "$136.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,119.1600",
+        "amount": "0.0017",
+        "usdValue": "$5.20"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1236",
+        "amount": "28.9378",
+        "usdValue": "$3.58"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,119.1600",
+        "amount": "0.0007",
+        "usdValue": "$2.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,119.1600",
+        "amount": "0.0004",
+        "usdValue": "$1.10"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$14,628"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,091"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "VIRTUAL",
+        "usdValue": "$1,034"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x70506e4e63fc7ba56ae659157e9039ac814ec4b0",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$37K"
+      },
+      {
+        "name": "0x8dd7…ff38",
+        "volume": "$16K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$15K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$9K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$6K"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$6K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x225a…dc17",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xbeef…c555",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$50K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$10K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$9K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "WLFI",
+        "volume": "$2K"
+      },
+      {
+        "name": "WLD",
+        "volume": "$1K"
+      },
+      {
+        "name": "USD1",
+        "volume": "$1K"
+      },
+      {
+        "name": "POL",
+        "volume": "$5"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T00:59:44.109Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 9.002700510953307,
+  "vaultPct": 0.0016739354156711105
+}

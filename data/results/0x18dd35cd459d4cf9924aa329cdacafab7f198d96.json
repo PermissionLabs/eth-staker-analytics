@@ -1,0 +1,253 @@
+{
+  "portfolio": {
+    "address": "0x18dd35cd459d4cf9924aa329cdacafab7f198d96",
+    "totalValue": "$87,412",
+    "walletLifetime": "672 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "12,146.5943",
+        "usdValue": "$12,146.59"
+      },
+      {
+        "symbol": "W",
+        "chain": "eth",
+        "price": "$0.0404",
+        "amount": "56,721.1367",
+        "usdValue": "$2,291.53"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "1,997.2705",
+        "usdValue": "$1,997.27"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.1600",
+        "amount": "0.5106",
+        "usdValue": "$1,590.02"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,113.4200",
+        "amount": "0.0100",
+        "usdValue": "$31.16"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$67,671"
+      },
+      {
+        "protocol": "Mamo",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MAMO",
+        "usdValue": "$998"
+      },
+      {
+        "protocol": "Ethena",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ENA",
+        "usdValue": "$489"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$89"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "Locked",
+        "token": "DOLA",
+        "usdValue": "$85"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Upshift",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Little Pepe",
+        "chain": "eth",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "LILPEPE",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x18dd35cd459d4cf9924aa329cdacafab7f198d96",
+    "topProtocols": [
+      {
+        "name": "0x9f03…44e8",
+        "volume": "$215K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$106K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$99K"
+      },
+      {
+        "name": "0x133e…11d7",
+        "volume": "$70K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$68K"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$63K"
+      },
+      {
+        "name": "0x1808…3a88",
+        "volume": "$63K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$59K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$40K"
+      },
+      {
+        "name": "0xe3cc…d68d",
+        "volume": "$40K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$28K"
+      },
+      {
+        "name": "0x60c2…5302",
+        "volume": "$25K"
+      },
+      {
+        "name": "0x03b8…45ed",
+        "volume": "$16K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x77d5…031b",
+        "volume": "$10K"
+      },
+      {
+        "name": "Little Pepe",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x881b…17ae",
+        "volume": "$4K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$4K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$603K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$252K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$126K"
+      },
+      {
+        "name": "MUSD",
+        "volume": "$79K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$60K"
+      },
+      {
+        "name": "FET",
+        "volume": "$12K"
+      },
+      {
+        "name": "GTC",
+        "volume": "$8K"
+      },
+      {
+        "name": "W",
+        "volume": "$5K"
+      },
+      {
+        "name": "MAMO",
+        "volume": "$5K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$2K"
+      },
+      {
+        "name": "DOLA",
+        "volume": "$56"
+      },
+      {
+        "name": "WETH",
+        "volume": "$27"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$12"
+      },
+      {
+        "name": "DRV",
+        "volume": "$2"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T07:11:37.057Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 19.94244024371873,
+  "vaultPct": 0.22242979501743715
+}

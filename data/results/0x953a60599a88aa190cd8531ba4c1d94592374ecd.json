@@ -1,0 +1,246 @@
+{
+  "portfolio": {
+    "address": "0x953a60599a88aa190cd8531ba4c1d94592374ecd",
+    "totalValue": "$4,005",
+    "walletLifetime": "1826 days",
+    "tokens": [
+      {
+        "symbol": "USD₮0",
+        "chain": "hyper",
+        "price": "$1.0002",
+        "amount": "7.8333",
+        "usdValue": "$7.83"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.4900",
+        "amount": "0.0010",
+        "usdValue": "$3.11"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$30.3750",
+        "amount": "0.1012",
+        "usdValue": "$3.07"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.4900",
+        "amount": "0.0007",
+        "usdValue": "$2.27"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$907.0000",
+        "amount": "0.0018",
+        "usdValue": "$1.59"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1237",
+        "amount": "8.5596",
+        "usdValue": "$1.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.4900",
+        "amount": "0.00007139",
+        "usdValue": "$0.22"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,126.4900",
+        "amount": "0.00005972",
+        "usdValue": "$0.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$2,726"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$560"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "bsc",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$324"
+      },
+      {
+        "protocol": "Project X",
+        "chain": "hyper",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$278"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "matic",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$98"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDT",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Revert",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x953a60599a88aa190cd8531ba4c1d94592374ecd",
+    "topProtocols": [
+      {
+        "name": "Relay",
+        "volume": "$9K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$5K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$4K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$2K"
+      },
+      {
+        "name": "Revert",
+        "volume": "$2K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x0fc6…fd70",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4e3a…1b60",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$1K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x2135…f679",
+        "volume": "$1K"
+      },
+      {
+        "name": "inance",
+        "volume": "$810"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$805"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$14K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$13K"
+      },
+      {
+        "name": "BTCB",
+        "volume": "$10K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$2K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$698"
+      },
+      {
+        "name": "PAXG",
+        "volume": "$630"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:52:59.064Z",
+  "source": "base_aave",
+  "vaultBalance": 0.2096470642055901,
+  "vaultPct": 0.00030840765705273976
+}

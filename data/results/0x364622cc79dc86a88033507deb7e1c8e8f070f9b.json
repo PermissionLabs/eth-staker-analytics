@@ -1,0 +1,68 @@
+{
+  "portfolio": {
+    "address": "0x364622cc79dc86a88033507deb7e1c8e8f070f9b",
+    "totalValue": "$16,115",
+    "walletLifetime": "28 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,114.1800",
+        "amount": "0.0008",
+        "usdValue": "$2.43"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9999",
+        "amount": "0.0001",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$16,112"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x364622cc79dc86a88033507deb7e1c8e8f070f9b",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$51K"
+      },
+      {
+        "name": "0x7f4b…d5b6",
+        "volume": "$36K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$15K"
+      },
+      {
+        "name": "0x09af…a610",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$71K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$30K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:10:53.689Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 10,
+  "vaultPct": 0.001859370322976406
+}

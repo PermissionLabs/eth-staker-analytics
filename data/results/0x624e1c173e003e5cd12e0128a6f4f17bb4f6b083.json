@@ -1,0 +1,306 @@
+{
+  "portfolio": {
+    "address": "0x624e1c173e003e5cd12e0128a6f4f17bb4f6b083",
+    "totalValue": "$12,250",
+    "walletLifetime": "1768 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.1900",
+        "amount": "0.0438",
+        "usdValue": "$136.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,111.1900",
+        "amount": "0.0144",
+        "usdValue": "$44.87"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "10.0000",
+        "usdValue": "$10.00"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1649",
+        "amount": "30.6684",
+        "usdValue": "$5.06"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$894.8000",
+        "amount": "0.0054",
+        "usdValue": "$4.82"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,110.4200",
+        "amount": "0.0010",
+        "usdValue": "$3.12"
+      },
+      {
+        "symbol": "WXPL",
+        "chain": "plasma",
+        "price": "$0.1649",
+        "amount": "4.4899",
+        "usdValue": "$0.74"
+      },
+      {
+        "symbol": "xSILO",
+        "chain": "arb",
+        "price": "$0.0123",
+        "amount": "33.3456",
+        "usdValue": "$0.41"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Equilibria",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$2,953"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$1,720"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$1,695"
+      },
+      {
+        "protocol": "Equilibria",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "weETH",
+        "usdValue": "$1,018"
+      },
+      {
+        "protocol": "Equilibria",
+        "chain": "plasma",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDT0",
+        "usdValue": "$1,008"
+      },
+      {
+        "protocol": "Camelot",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "WBTC",
+        "usdValue": "$930"
+      },
+      {
+        "protocol": "MUX",
+        "chain": "arb",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "MUXLP",
+        "usdValue": "$792"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$625"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$439"
+      },
+      {
+        "protocol": "Kernel DAO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$353"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "wstETH",
+        "usdValue": "$312"
+      },
+      {
+        "protocol": "Silo",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$94"
+      },
+      {
+        "protocol": "THORSwap",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "THOR",
+        "usdValue": "$90"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x624e1c173e003e5cd12e0128a6f4f17bb4f6b083",
+    "topProtocols": [
+      {
+        "name": "Silo",
+        "volume": "$111K"
+      },
+      {
+        "name": "Camelot V3",
+        "volume": "$55K"
+      },
+      {
+        "name": "Equilibria",
+        "volume": "$49K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$39K"
+      },
+      {
+        "name": "Camelot",
+        "volume": "$27K"
+      },
+      {
+        "name": "THORChain",
+        "volume": "$12K"
+      },
+      {
+        "name": "MUX",
+        "volume": "$12K"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$11K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "OmniBridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "DESK",
+        "volume": "$3K"
+      },
+      {
+        "name": "CacaoSwap",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x2475…a926",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x2697…f02d",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xda16…f344",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$144K"
+      },
+      {
+        "name": "KWBTC",
+        "volume": "$46K"
+      },
+      {
+        "name": "weETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$21K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$18K"
+      },
+      {
+        "name": "MUXLP",
+        "volume": "$16K"
+      },
+      {
+        "name": "uniETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "rETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "rsETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "KTHOR",
+        "volume": "$4K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$3K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:54:22.452Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.5000622731089754,
+  "vaultPct": 0.005577489391681482
+}

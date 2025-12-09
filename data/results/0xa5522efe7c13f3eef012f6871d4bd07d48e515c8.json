@@ -1,0 +1,283 @@
+{
+  "portfolio": {
+    "address": "0xa5522efe7c13f3eef012f6871d4bd07d48e515c8",
+    "totalValue": "$65,275",
+    "walletLifetime": "3027 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.0000",
+        "amount": "0.5472",
+        "usdValue": "$1,712.78"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,130.0000",
+        "amount": "0.1089",
+        "usdValue": "$340.72"
+      },
+      {
+        "symbol": "WCT",
+        "chain": "op",
+        "price": "$0.0885",
+        "amount": "150.0588",
+        "usdValue": "$13.28"
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0341",
+        "amount": "127.6961",
+        "usdValue": "$4.35"
+      },
+      {
+        "symbol": "RADAR",
+        "chain": "eth",
+        "price": "$0.0006",
+        "amount": "5,798.0000",
+        "usdValue": "$3.21"
+      },
+      {
+        "symbol": "PAXG",
+        "chain": "eth",
+        "price": "$4,195.4295",
+        "amount": "0.0007",
+        "usdValue": "$2.86"
+      },
+      {
+        "symbol": "FOX",
+        "chain": "eth",
+        "price": "$0.0133",
+        "amount": "200.0000",
+        "usdValue": "$2.66"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$62,904"
+      },
+      {
+        "protocol": "Aave V2",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "AAVE",
+        "usdValue": "$176"
+      },
+      {
+        "protocol": "Tokenlon",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "LON",
+        "usdValue": "$86"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "SUSHI",
+        "usdValue": "$17"
+      },
+      {
+        "protocol": "Convex",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$8"
+      },
+      {
+        "protocol": "Compound",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Harvest",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "FARM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Yearn V3",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "yveCRV-DAO",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa5522efe7c13f3eef012f6871d4bd07d48e515c8",
+    "topProtocols": [
+      {
+        "name": "Aave V2",
+        "volume": "$1M"
+      },
+      {
+        "name": "Curve",
+        "volume": "$1M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$907K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$378K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$230K"
+      },
+      {
+        "name": "Yearn V2",
+        "volume": "$159K"
+      },
+      {
+        "name": "Compound",
+        "volume": "$148K"
+      },
+      {
+        "name": "0xffec…8ba4",
+        "volume": "$146K"
+      },
+      {
+        "name": "0x477b…6b6f",
+        "volume": "$139K"
+      },
+      {
+        "name": "0xf518…3fec",
+        "volume": "$119K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$117K"
+      },
+      {
+        "name": "Zapper",
+        "volume": "$110K"
+      },
+      {
+        "name": "Maker",
+        "volume": "$95K"
+      },
+      {
+        "name": "Pickle",
+        "volume": "$94K"
+      },
+      {
+        "name": "Harvest",
+        "volume": "$93K"
+      },
+      {
+        "name": "0xa824…810d",
+        "volume": "$84K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$78K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$567K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$289K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$157K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$109K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$47K"
+      },
+      {
+        "name": "CRV",
+        "volume": "$14K"
+      },
+      {
+        "name": "CVX",
+        "volume": "$13K"
+      },
+      {
+        "name": "yveCRV-DAO",
+        "volume": "$6K"
+      },
+      {
+        "name": "COMP",
+        "volume": "$5K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$5K"
+      },
+      {
+        "name": "FEI",
+        "volume": "$4K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$2K"
+      },
+      {
+        "name": "PICKLE",
+        "volume": "$2K"
+      },
+      {
+        "name": "LON",
+        "volume": "$2K"
+      },
+      {
+        "name": "ALCX",
+        "volume": "$1K"
+      },
+      {
+        "name": "imBTC",
+        "volume": "$1K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$1K"
+      },
+      {
+        "name": "DAO",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:00:19.741Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 19.99999999999999,
+  "vaultPct": 0.00371874064595281
+}

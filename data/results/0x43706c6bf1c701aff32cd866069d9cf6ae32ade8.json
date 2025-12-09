@@ -1,0 +1,35 @@
+{
+  "portfolio": {
+    "address": "0x43706c6bf1c701aff32cd866069d9cf6ae32ade8",
+    "totalValue": "$0",
+    "walletLifetime": "246 days",
+    "tokens": [
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "176.5698",
+        "usdValue": "$176.57"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$504,189"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x43706c6bf1c701aff32cd866069d9cf6ae32ade8",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T03:13:25.061Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 231.00566841648373,
+  "vaultPct": 0.04295250842929379
+}

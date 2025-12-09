@@ -1,0 +1,186 @@
+{
+  "portfolio": {
+    "address": "0x9c8b53efafdb3ed9804bd198a7f705f36569a492",
+    "totalValue": "$126,698",
+    "walletLifetime": "1115 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,112.6000",
+        "amount": "6.3663",
+        "usdValue": "$19,815.67"
+      },
+      {
+        "symbol": "BAT",
+        "chain": "eth",
+        "price": "$0.2556",
+        "amount": "34,674.5141",
+        "usdValue": "$8,862.11"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.7382",
+        "amount": "421.3151",
+        "usdValue": "$5,788.12"
+      },
+      {
+        "symbol": "SD",
+        "chain": "eth",
+        "price": "$0.2460",
+        "amount": "8.4782",
+        "usdValue": "$2.09"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0280",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7872",
+        "amount": "8.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "UCAP",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "1.4000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$44,243"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$32,236"
+      },
+      {
+        "protocol": "Stader",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$15,751"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9c8b53efafdb3ed9804bd198a7f705f36569a492",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$60K"
+      },
+      {
+        "name": "0xf517…5d82",
+        "volume": "$51K"
+      },
+      {
+        "name": "0x31e9…bde6",
+        "volume": "$13K"
+      },
+      {
+        "name": "Stader",
+        "volume": "$12K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$10K"
+      },
+      {
+        "name": "Gemini",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x463e…9094",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4d7f…9abb",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xffec…8ba4",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x585b…3427",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x1ebe…db2b",
+        "volume": "$63"
+      },
+      {
+        "name": "disperse",
+        "volume": "$6"
+      },
+      {
+        "name": "0xb1c5…bbc1",
+        "volume": "$3"
+      },
+      {
+        "name": "0xdac6…a712",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x647c…c209",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$156K"
+      },
+      {
+        "name": "BAT",
+        "volume": "$7K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      },
+      {
+        "name": "SD",
+        "volume": "$6"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:56:49.225Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 9.50506754675831,
+  "vaultPct": 0.10601562297363573
+}

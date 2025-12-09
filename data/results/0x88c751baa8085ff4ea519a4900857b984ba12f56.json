@@ -1,0 +1,145 @@
+{
+  "portfolio": {
+    "address": "0x88c751baa8085ff4ea519a4900857b984ba12f56",
+    "totalValue": "$6,351",
+    "walletLifetime": "68 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9999",
+        "amount": "4,729.0247",
+        "usdValue": "$4,728.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,113.8800",
+        "amount": "0.0238",
+        "usdValue": "$74.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,113.6000",
+        "amount": "0.0100",
+        "usdValue": "$30.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,113.6000",
+        "amount": "0.0081",
+        "usdValue": "$25.11"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,493"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x88c751baa8085ff4ea519a4900857b984ba12f56",
+    "topProtocols": [
+      {
+        "name": "Coinbase",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x414d…cb81",
+        "volume": "$4K"
+      },
+      {
+        "name": "Hyperlane",
+        "volume": "$3K"
+      },
+      {
+        "name": "lighter",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xb162…f31d",
+        "volume": "$2K"
+      },
+      {
+        "name": "Relay",
+        "volume": "$2K"
+      },
+      {
+        "name": "Cytonic",
+        "volume": "$2K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$1K"
+      },
+      {
+        "name": "000Coinbase",
+        "volume": "$435"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$304"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$298"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$117"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$100"
+      },
+      {
+        "name": "0x961f…2c50",
+        "volume": "$5"
+      },
+      {
+        "name": "0xb162…031d",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x2df1…3df7",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$19K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:42:26.156Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.4631212368129292,
+  "vaultPct": 0.005165464231739017
+}

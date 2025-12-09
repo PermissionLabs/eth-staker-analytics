@@ -1,0 +1,109 @@
+{
+  "portfolio": {
+    "address": "0xd73eda325811cfd773849c1d5cf71dd6aa2f81c0",
+    "totalValue": "$3",
+    "walletLifetime": "1650 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,118.8200",
+        "amount": "0.0009",
+        "usdValue": "$2.78"
+      },
+      {
+        "symbol": "MegaDoge",
+        "chain": "matic",
+        "price": "$0.0000915",
+        "amount": "1,000.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9901",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0xd73eda325811cfd773849c1d5cf71dd6aa2f81c0",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$393K"
+      },
+      {
+        "name": "MetaMask Swaps",
+        "volume": "$125K"
+      },
+      {
+        "name": "0x1f66…c7d0",
+        "volume": "$48K"
+      },
+      {
+        "name": "0xea67…8ec8",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x7960…97e8",
+        "volume": "$13K"
+      },
+      {
+        "name": "0xfec9…d000",
+        "volume": "$10K"
+      },
+      {
+        "name": "Orbit Bridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4904…e1c1",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x66ce…30c6",
+        "volume": "$131"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xcbf4…1fe3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$442K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$285K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:34:30.948Z",
+  "source": "lido_steth",
+  "vaultBalance": 13.8421816705242,
+  "vaultPct": 0.001039379555493816
+}

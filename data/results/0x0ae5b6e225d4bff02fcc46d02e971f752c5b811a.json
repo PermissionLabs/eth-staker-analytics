@@ -1,0 +1,113 @@
+{
+  "portfolio": {
+    "address": "0x0ae5b6e225d4bff02fcc46d02e971f752c5b811a",
+    "totalValue": "$6,772",
+    "walletLifetime": "1181 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,095.5400",
+        "amount": "0.0139",
+        "usdValue": "$43.07"
+      },
+      {
+        "symbol": "LTO",
+        "chain": "eth",
+        "price": "$0.0024",
+        "amount": "764.7728",
+        "usdValue": "$1.84"
+      },
+      {
+        "symbol": "NCASH",
+        "chain": "arb",
+        "price": "$0.0055",
+        "amount": "1.0500",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9783",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$6,727"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0ae5b6e225d4bff02fcc46d02e971f752c5b811a",
+    "topProtocols": [
+      {
+        "name": "0x11af…4204",
+        "volume": "$5K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5ca3…7d1c",
+        "volume": "$653"
+      },
+      {
+        "name": "0xa810…452d",
+        "volume": "$615"
+      },
+      {
+        "name": "0xc519…c9a0",
+        "volume": "$286"
+      },
+      {
+        "name": "0x2a54…27e2",
+        "volume": "$207"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$89"
+      },
+      {
+        "name": "0x2555…ad74",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "QNT",
+        "volume": "$990"
+      },
+      {
+        "name": "LTO",
+        "volume": "$82"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T19:05:06.746Z",
+  "source": "lido_steth",
+  "vaultBalance": 1.9914971652511775,
+  "vaultPct": 0.00014953722524778683
+}

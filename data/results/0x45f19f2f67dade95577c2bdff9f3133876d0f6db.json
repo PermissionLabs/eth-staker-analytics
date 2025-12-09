@@ -1,0 +1,124 @@
+{
+  "portfolio": {
+    "address": "0x45f19f2f67dade95577c2bdff9f3133876d0f6db",
+    "totalValue": "$35,391",
+    "walletLifetime": "657 days",
+    "tokens": [
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9964",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$35,391"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x45f19f2f67dade95577c2bdff9f3133876d0f6db",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$116K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$58K"
+      },
+      {
+        "name": "0x2d58…631a",
+        "volume": "$50K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$33K"
+      },
+      {
+        "name": "0x4b72…d431",
+        "volume": "$31K"
+      },
+      {
+        "name": "Beefy",
+        "volume": "$30K"
+      },
+      {
+        "name": "0x8ff3…62be",
+        "volume": "$20K"
+      },
+      {
+        "name": "0x88dc…b6dc",
+        "volume": "$17K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$14K"
+      },
+      {
+        "name": "0xee7d…0e56",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x5381…6e63",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x3890…0f28",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xf30b…0eb0",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$329K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$51K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$30K"
+      },
+      {
+        "name": "ACH",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T02:15:11.995Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 5.000000905653593,
+  "vaultPct": 0.0009296853298827444
+}

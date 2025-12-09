@@ -1,0 +1,59 @@
+{
+  "portfolio": {
+    "address": "0x352662bf2f106074846732adef269939f9376cb0",
+    "totalValue": "$32",
+    "walletLifetime": "90 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.2600",
+        "amount": "0.0102",
+        "usdValue": "$31.82"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "0.000099",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x352662bf2f106074846732adef269939f9376cb0",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$27K"
+      },
+      {
+        "name": "Bridgers",
+        "volume": "$26K"
+      },
+      {
+        "name": "Tokenlon",
+        "volume": "$26K"
+      },
+      {
+        "name": "0xa633…c3f3",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$53K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$53K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:28:34.188Z",
+  "source": "lido_steth",
+  "vaultBalance": 5.8870968837269295,
+  "vaultPct": 0.00044204940289050565
+}

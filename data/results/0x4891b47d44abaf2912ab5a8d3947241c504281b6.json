@@ -1,0 +1,284 @@
+{
+  "portfolio": {
+    "address": "0x4891b47d44abaf2912ab5a8d3947241c504281b6",
+    "totalValue": "$45,552",
+    "walletLifetime": "1658 days",
+    "tokens": [
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1228",
+        "amount": "28,838.6941",
+        "usdValue": "$3,541.39"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.5010",
+        "amount": "373.9082",
+        "usdValue": "$2,056.85"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9405",
+        "amount": "529.2067",
+        "usdValue": "$497.72"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.3800",
+        "amount": "0.0825",
+        "usdValue": "$257.64"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,124.3800",
+        "amount": "0.0643",
+        "usdValue": "$200.76"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "matic",
+        "price": "$0.5972",
+        "amount": "231.0120",
+        "usdValue": "$137.96"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "66.1959",
+        "usdValue": "$66.21"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$892.8000",
+        "amount": "0.0412",
+        "usdValue": "$36.77"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "matic",
+        "price": "$3,125.1100",
+        "amount": "0.0111",
+        "usdValue": "$34.64"
+      },
+      {
+        "symbol": "BITCOIN (HPOS10I)",
+        "chain": "eth",
+        "price": "$0.0407",
+        "amount": "590.0289",
+        "usdValue": "$24.02"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,124.3800",
+        "amount": "0.0070",
+        "usdValue": "$21.87"
+      },
+      {
+        "symbol": "CVX",
+        "chain": "eth",
+        "price": "$1.8276",
+        "amount": "9.8880",
+        "usdValue": "$18.07"
+      },
+      {
+        "symbol": "COMP",
+        "chain": "eth",
+        "price": "$31.1500",
+        "amount": "0.5114",
+        "usdValue": "$15.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.1300",
+        "amount": "0.0030",
+        "usdValue": "$9.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$28,366"
+      },
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$6,380"
+      },
+      {
+        "protocol": "Avantis",
+        "chain": "base",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$3,776"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDT",
+        "usdValue": "$101"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x4891b47d44abaf2912ab5a8d3947241c504281b6",
+    "topProtocols": [
+      {
+        "name": "Balancer V2",
+        "volume": "$101K"
+      },
+      {
+        "name": "Polygon Staking",
+        "volume": "$63K"
+      },
+      {
+        "name": "0x162b…a356",
+        "volume": "$37K"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$23K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$22K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x306d…ed8e",
+        "volume": "$16K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$8K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$7K"
+      },
+      {
+        "name": "Index Coop",
+        "volume": "$6K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "Crypto.com",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x3bdb…3fd1",
+        "volume": "$4K"
+      },
+      {
+        "name": "Avantis",
+        "volume": "$4K"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$4K"
+      },
+      {
+        "name": "PancakeSwap V4",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xacc5…37b9",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "MATIC",
+        "volume": "$130K"
+      },
+      {
+        "name": "stMATIC",
+        "volume": "$91K"
+      },
+      {
+        "name": "POL",
+        "volume": "$43K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$39K"
+      },
+      {
+        "name": "WPOL",
+        "volume": "$32K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$22K"
+      },
+      {
+        "name": "BXC",
+        "volume": "$7K"
+      },
+      {
+        "name": "wNXM",
+        "volume": "$3K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$3K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$2K"
+      },
+      {
+        "name": "AVNT",
+        "volume": "$1K"
+      },
+      {
+        "name": "BOND",
+        "volume": "$1K"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$1K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$507"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:25:30.797Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.9450460151948146,
+  "vaultPct": 0.010540655450028845
+}

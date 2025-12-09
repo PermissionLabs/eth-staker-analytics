@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0x7abeefa78e54e69e095c8eaced1d5f83903533c1",
+    "totalValue": "$6,054,597",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "104,970.3536",
+        "usdValue": "$104,971.40"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.7300",
+        "amount": "0.5521",
+        "usdValue": "$1,726.21"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0000",
+        "amount": "1,345.5015",
+        "usdValue": "$1,345.51"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1,317.1102",
+        "usdValue": "$1,316.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,126.7300",
+        "amount": "0.2667",
+        "usdValue": "$834.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,126.7300",
+        "amount": "0.2197",
+        "usdValue": "$687.06"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2073",
+        "amount": "514.8843",
+        "usdValue": "$621.62"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "op",
+        "price": "$1.0000",
+        "amount": "557.0273",
+        "usdValue": "$557.03"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "46,702.0198",
+        "usdValue": "$472.43"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.3910",
+        "amount": "106.5203",
+        "usdValue": "$254.69"
+      },
+      {
+        "symbol": "SEAM",
+        "chain": "base",
+        "price": "$0.1424",
+        "amount": "960.5626",
+        "usdValue": "$136.78"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDT",
+        "usdValue": "$1,745,079"
+      },
+      {
+        "protocol": "Pendle V2",
+        "chain": "eth",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "stETH",
+        "usdValue": "$1,589,844"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1,434,050"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USD₮0",
+        "usdValue": "$865,546"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$306,820"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$107"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "COMP",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7abeefa78e54e69e095c8eaced1d5f83903533c1",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$3M"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2M"
+      },
+      {
+        "name": "Pendle V2",
+        "volume": "$2M"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2M"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$651K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$484K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$360K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$6M"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4M"
+      },
+      {
+        "name": "MUSDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "USD0",
+        "volume": "$654K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$358K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$314K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$114K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$50K"
+      },
+      {
+        "name": "PENDLE",
+        "volume": "$39K"
+      },
+      {
+        "name": "OP",
+        "volume": "$34K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$26K"
+      },
+      {
+        "name": "WELL",
+        "volume": "$8K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:17:52.830Z",
+  "source": "moonwell",
+  "vaultBalance": 21.851075437608905,
+  "vaultPct": 0.3964271568520059
+}

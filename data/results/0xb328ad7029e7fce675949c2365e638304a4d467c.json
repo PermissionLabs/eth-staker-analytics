@@ -1,0 +1,257 @@
+{
+  "portfolio": {
+    "address": "0xb328ad7029e7fce675949c2365e638304a4d467c",
+    "totalValue": "$3,382",
+    "walletLifetime": "1479 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,127.9600",
+        "amount": "0.0751",
+        "usdValue": "$235.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.0200",
+        "amount": "0.0311",
+        "usdValue": "$97.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.9600",
+        "amount": "0.0112",
+        "usdValue": "$35.06"
+      },
+      {
+        "symbol": "OP",
+        "chain": "op",
+        "price": "$0.3188",
+        "amount": "10.0216",
+        "usdValue": "$3.19"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "matic",
+        "price": "$0.9999",
+        "amount": "1.0122",
+        "usdValue": "$1.01"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$2,258"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$314"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$313"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$120"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "matic",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$2"
+      },
+      {
+        "protocol": "Velodrome V2",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "VELO(v2)",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "Aster",
+        "chain": "bsc",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "BNB",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "ZeroLend",
+        "chain": "era",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Pika Protocol V4",
+        "chain": "op",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC(Bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Beets",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb328ad7029e7fce675949c2365e638304a4d467c",
+    "topProtocols": [
+      {
+        "name": "Slingshot",
+        "volume": "$14K"
+      },
+      {
+        "name": "0x583b…8b0d",
+        "volume": "$12K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$12K"
+      },
+      {
+        "name": "0x",
+        "volume": "$10K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$9K"
+      },
+      {
+        "name": "cBridge",
+        "volume": "$9K"
+      },
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$8K"
+      },
+      {
+        "name": "DefiLlama",
+        "volume": "$8K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$8K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$7K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$7K"
+      },
+      {
+        "name": "xBank",
+        "volume": "$6K"
+      },
+      {
+        "name": "ReactorFusion",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V1",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xf2e4…171c",
+        "volume": "$5K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$5K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$45K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$30K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$24K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$17K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$15K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$13K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$12K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$12K"
+      },
+      {
+        "name": "KWETH",
+        "volume": "$10K"
+      },
+      {
+        "name": "POL",
+        "volume": "$7K"
+      },
+      {
+        "name": "KBUSD",
+        "volume": "$6K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:17:30.456Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09817912529383752,
+  "vaultPct": 0.001781187915147844
+}

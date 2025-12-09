@@ -1,0 +1,214 @@
+{
+  "portfolio": {
+    "address": "0xa552afd7f65fd4921c4d1a285e5c3beb404b1aab",
+    "totalValue": "$23,542",
+    "walletLifetime": "752 days",
+    "tokens": [
+      {
+        "symbol": "SYRUP",
+        "chain": "eth",
+        "price": "$0.2642",
+        "amount": "2,000.5298",
+        "usdValue": "$528.54"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,111.7100",
+        "amount": "0.0167",
+        "usdValue": "$51.93"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9987",
+        "amount": "9,222.0000",
+        "usdValue": "$0.09"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0277",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7868",
+        "amount": "6.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "p e p e",
+        "chain": "eth",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "LYD",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "19,000.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "ITRUMP",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "80.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$22,961"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa552afd7f65fd4921c4d1a285e5c3beb404b1aab",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$178K"
+      },
+      {
+        "name": "0x2715…59df",
+        "volume": "$18K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$14K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$12K"
+      },
+      {
+        "name": "0xced9…1ce0",
+        "volume": "$10K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$8K"
+      },
+      {
+        "name": "0xbee3…a000",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xa69b…e78c",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4a57…a073",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xc6ac…da27",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x809d…7b01",
+        "volume": "$3K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$2K"
+      },
+      {
+        "name": "Kraken",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x3478…6e02",
+        "volume": "$2K"
+      },
+      {
+        "name": "0xfbee…8737",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x4666…a107",
+        "volume": "$1K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$158K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$69K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$64K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$4K"
+      },
+      {
+        "name": "POL",
+        "volume": "$3K"
+      },
+      {
+        "name": "IMX",
+        "volume": "$3K"
+      },
+      {
+        "name": "LDO",
+        "volume": "$2K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$2K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$1K"
+      },
+      {
+        "name": "KSYRUP",
+        "volume": "$977"
+      },
+      {
+        "name": "CPOOL",
+        "volume": "$788"
+      },
+      {
+        "name": "ARB",
+        "volume": "$732"
+      },
+      {
+        "name": "SDAO",
+        "volume": "$517"
+      },
+      {
+        "name": "ENA",
+        "volume": "$303"
+      },
+      {
+        "name": "NB",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T01:09:42.174Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 10.565346574235393,
+  "vaultPct": 0.001964489187209373
+}

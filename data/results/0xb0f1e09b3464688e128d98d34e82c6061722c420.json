@@ -1,0 +1,92 @@
+{
+  "portfolio": {
+    "address": "0xb0f1e09b3464688e128d98d34e82c6061722c420",
+    "totalValue": "$1,219",
+    "walletLifetime": "862 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,137.9000",
+        "amount": "0.1205",
+        "usdValue": "$378.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,138.6400",
+        "amount": "0.0074",
+        "usdValue": "$23.32"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.5000",
+        "amount": "0.0188",
+        "usdValue": "$16.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,137.9000",
+        "amount": "0.0011",
+        "usdValue": "$3.59"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,137.9000",
+        "amount": "0.0006",
+        "usdValue": "$1.89"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,137.9000",
+        "amount": "0.0006",
+        "usdValue": "$1.82"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1.0167",
+        "usdValue": "$1.02"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1243",
+        "amount": "6.3902",
+        "usdValue": "$0.79"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$790"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb0f1e09b3464688e128d98d34e82c6061722c420",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T00:23:52.302Z",
+  "source": "moonwell",
+  "vaultBalance": 0.24682253489584627,
+  "vaultPct": 0.004477910299433411
+}

@@ -1,0 +1,322 @@
+{
+  "portfolio": {
+    "address": "0x9f66a7c30a50d085abef7fecfa9f2c0ac0e23a73",
+    "totalValue": "$39,772",
+    "walletLifetime": "3816 days",
+    "tokens": [
+      {
+        "symbol": "tBTC",
+        "chain": "eth",
+        "price": "$90,856.0513",
+        "amount": "0.1653",
+        "usdValue": "$15,018.51"
+      },
+      {
+        "symbol": "cbETH",
+        "chain": "base",
+        "price": "$3,476.2967",
+        "amount": "0.9088",
+        "usdValue": "$3,159.24"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "eth",
+        "price": "$90,936.1200",
+        "amount": "0.0129",
+        "usdValue": "$1,175.74"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.2400",
+        "amount": "0.3495",
+        "usdValue": "$1,092.12"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.2400",
+        "amount": "0.2893",
+        "usdValue": "$904.09"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "655.1805",
+        "usdValue": "$655.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.2400",
+        "amount": "0.0984",
+        "usdValue": "$307.41"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.2400",
+        "amount": "0.0858",
+        "usdValue": "$268.14"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$899.1000",
+        "amount": "0.1773",
+        "usdValue": "$159.37"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.6000",
+        "amount": "0.0491",
+        "usdValue": "$153.40"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2098",
+        "amount": "100.9916",
+        "usdValue": "$122.18"
+      },
+      {
+        "symbol": "MX",
+        "chain": "bsc",
+        "price": "$2.1552",
+        "amount": "38.5900",
+        "usdValue": "$83.17"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,125.2400",
+        "amount": "0.0247",
+        "usdValue": "$77.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "dbk",
+        "price": "$3,125.2400",
+        "amount": "0.0144",
+        "usdValue": "$45.00"
+      },
+      {
+        "symbol": "SHIB",
+        "chain": "eth",
+        "price": "$0.0₅857",
+        "amount": "4,465,637.3940",
+        "usdValue": "$38.27"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6700",
+        "amount": "1.7782",
+        "usdValue": "$24.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USDC",
+        "usdValue": "$10,283"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EURC",
+        "usdValue": "$5,291"
+      },
+      {
+        "protocol": "Aerodrome",
+        "chain": "base",
+        "category": "Farming",
+        "label": "Locked",
+        "token": "USDC",
+        "usdValue": "$550"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "AERO",
+        "usdValue": "$124"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "AERO",
+        "usdValue": "$54"
+      },
+      {
+        "protocol": "Extra Finance",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "Locked",
+        "token": "EXTRA",
+        "usdValue": "$12"
+      },
+      {
+        "protocol": "MySonic",
+        "chain": "sonic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "S",
+        "usdValue": "$9"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$7"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x9f66a7c30a50d085abef7fecfa9f2c0ac0e23a73",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$46K"
+      },
+      {
+        "name": "Base Swap",
+        "volume": "$31K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$25K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$24K"
+      },
+      {
+        "name": "Threshold",
+        "volume": "$23K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$16K"
+      },
+      {
+        "name": "0x0995…9eab",
+        "volume": "$12K"
+      },
+      {
+        "name": "Portal",
+        "volume": "$12K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$10K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$9K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x914e…7d04",
+        "volume": "$6K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x4200…0006",
+        "volume": "$5K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$5K"
+      },
+      {
+        "name": "OmniBridge",
+        "volume": "$5K"
+      },
+      {
+        "name": "ARMA",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aerodrome",
+        "volume": "$751"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "tBTC",
+        "volume": "$85K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$78K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$23K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$11K"
+      },
+      {
+        "name": "EURC",
+        "volume": "$5K"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "KWELL",
+        "volume": "$1K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$1K"
+      },
+      {
+        "name": "MORPHO",
+        "volume": "$652"
+      },
+      {
+        "name": "TITANX",
+        "volume": "$633"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$549"
+      },
+      {
+        "name": "SAVM",
+        "volume": "$39"
+      },
+      {
+        "name": "xBSX",
+        "volume": "$357K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T22:36:23.109Z",
+  "source": "moonwell",
+  "vaultBalance": 0.5092574536336234,
+  "vaultPct": 0.009239064000584541
+}

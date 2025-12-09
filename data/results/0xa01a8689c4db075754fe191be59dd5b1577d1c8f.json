@@ -1,0 +1,57 @@
+{
+  "portfolio": {
+    "address": "0xa01a8689c4db075754fe191be59dd5b1577d1c8f",
+    "totalValue": "$7,399",
+    "walletLifetime": "78 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,106.4500",
+        "amount": "0.0040",
+        "usdValue": "$12.42"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$7,386"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa01a8689c4db075754fe191be59dd5b1577d1c8f",
+    "topProtocols": [
+      {
+        "name": "0x242a…37bc",
+        "volume": "$10K"
+      },
+      {
+        "name": "mellow",
+        "volume": "$10K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:58:36.056Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 2.18227769649048,
+  "vaultPct": 0.024340229920176894
+}

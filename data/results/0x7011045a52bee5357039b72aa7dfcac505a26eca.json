@@ -1,0 +1,70 @@
+{
+  "portfolio": {
+    "address": "0x7011045a52bee5357039b72aa7dfcac505a26eca",
+    "totalValue": "$16",
+    "walletLifetime": "214 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,115.3500",
+        "amount": "0.0035",
+        "usdValue": "$11.01"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "uni",
+        "price": "$90,242.7900",
+        "amount": "0.00005",
+        "usdValue": "$4.51"
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7883",
+        "amount": "1.5000",
+        "usdValue": ""
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x7011045a52bee5357039b72aa7dfcac505a26eca",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$4K"
+      },
+      {
+        "name": "Kiln",
+        "volume": "$2K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x9a8d…8dbe",
+        "volume": "$6"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$6"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T16:26:16.909Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.82,
+  "vaultPct": 0.00006157203075291332
+}

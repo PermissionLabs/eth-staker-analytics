@@ -1,0 +1,88 @@
+{
+  "portfolio": {
+    "address": "0xb129943717c463c480f6941e08c977cc5c237323",
+    "totalValue": "$941",
+    "walletLifetime": "39 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,146.6400",
+        "amount": "0.0008",
+        "usdValue": "$2.54"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "1.8782",
+        "usdValue": "$1.88"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$510"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$426"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb129943717c463c480f6941e08c977cc5c237323",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$1K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$760K"
+      },
+      {
+        "name": "yberSwap",
+        "volume": "$508"
+      },
+      {
+        "name": "0xe0fb…33bd",
+        "volume": "$2941"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$1K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T14:03:17.453Z",
+  "source": "base_aave",
+  "vaultBalance": 0.17003687843146562,
+  "vaultPct": 0.0002501378947915244
+}

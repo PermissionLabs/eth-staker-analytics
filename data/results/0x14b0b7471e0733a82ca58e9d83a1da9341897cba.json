@@ -1,0 +1,147 @@
+{
+  "portfolio": {
+    "address": "0x14b0b7471e0733a82ca58e9d83a1da9341897cba",
+    "totalValue": "$612",
+    "walletLifetime": "264 days",
+    "tokens": [
+      {
+        "symbol": "ZORA",
+        "chain": "base",
+        "price": "$0.0506",
+        "amount": "5,179.5999",
+        "usdValue": "$261.97"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "65.0547",
+        "usdValue": "$65.05"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,130.4000",
+        "amount": "0.0047",
+        "usdValue": "$14.79"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,129.5600",
+        "amount": "0.0015",
+        "usdValue": "$4.59"
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BRM",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "10.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$264"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x14b0b7471e0733a82ca58e9d83a1da9341897cba",
+    "topProtocols": [
+      {
+        "name": "Aave V3",
+        "volume": "$549"
+      },
+      {
+        "name": "0x5b14…fb53",
+        "volume": "$452"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$442B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$442M"
+      },
+      {
+        "name": "etaMask Swaps",
+        "volume": "$313"
+      },
+      {
+        "name": "gTrade",
+        "volume": "$195"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe8b…aa45",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x04d7…0b33",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x7eef…99fe",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfaf8…db84",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$894"
+      },
+      {
+        "name": "ZORA",
+        "volume": "$313"
+      },
+      {
+        "name": "USDC",
+        "volume": "$305"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T07:47:06.069Z",
+  "source": "base_aave",
+  "vaultBalance": 0.1210002156513372,
+  "vaultPct": 0.0001780010283154259
+}

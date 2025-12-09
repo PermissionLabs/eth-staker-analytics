@@ -1,0 +1,189 @@
+{
+  "portfolio": {
+    "address": "0x7df7b2cf382156aea1332a558fadc77eba1b30a2",
+    "totalValue": "$2,496",
+    "walletLifetime": "1666 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,147.1400",
+        "amount": "0.2628",
+        "usdValue": "$827.03"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$91,828.4300",
+        "amount": "0.0010",
+        "usdValue": "$91.83"
+      },
+      {
+        "symbol": "DUSD",
+        "chain": "bsc",
+        "price": "$0.9996",
+        "amount": "5.8334",
+        "usdValue": "$5.83"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9732",
+        "amount": "3.0263",
+        "usdValue": "$2.95"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$907.6000",
+        "amount": "0.0018",
+        "usdValue": "$1.61"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Polymarket",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$961"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$602"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7df7b2cf382156aea1332a558fadc77eba1b30a2",
+    "topProtocols": [
+      {
+        "name": "Uniswap V3",
+        "volume": "$99K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$92K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$88K"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$77K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$76K"
+      },
+      {
+        "name": "0x902f…528f",
+        "volume": "$65K"
+      },
+      {
+        "name": "0x6e66…4057",
+        "volume": "$56K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$48K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$29K"
+      },
+      {
+        "name": "Zapper",
+        "volume": "$25K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$25K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$23K"
+      },
+      {
+        "name": "Extra Finance",
+        "volume": "$22K"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$22K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$22K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$20K"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$19K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$495K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$71K"
+      },
+      {
+        "name": "USDT0",
+        "volume": "$50K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$44K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$42K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$40K"
+      },
+      {
+        "name": "BUSD",
+        "volume": "$39K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$38K"
+      },
+      {
+        "name": "DUSD",
+        "volume": "$20K"
+      },
+      {
+        "name": "ENS",
+        "volume": "$17K"
+      },
+      {
+        "name": "KARB",
+        "volume": "$13K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$12K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:02:14.319Z",
+  "source": "base_aave",
+  "vaultBalance": 0.22015571977938536,
+  "vaultPct": 0.00032386673279305244
+}

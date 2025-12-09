@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "address": "0x0d9371e562890d9789fad5f3f50a844fc8e0b9cc",
+    "totalValue": "$452,628",
+    "walletLifetime": "512 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.8700",
+        "amount": "0.0271",
+        "usdValue": "$84.76"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0283",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$452,510"
+      },
+      {
+        "protocol": "ether.fi",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$33"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x0d9371e562890d9789fad5f3f50a844fc8e0b9cc",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$936K"
+      },
+      {
+        "name": "ether.fi",
+        "volume": "$481K"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$481K"
+      },
+      {
+        "name": "0xb6db…8962",
+        "volume": "$454K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$384K"
+      },
+      {
+        "name": "Kelp DAO",
+        "volume": "$377K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x0f57…237a",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x6f7e…f945",
+        "volume": "$2K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5cf3…6988",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x42ab…17b5",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x5450…3252",
+        "volume": "$9971"
+      },
+      {
+        "name": "inch",
+        "volume": "$986"
+      },
+      {
+        "name": "0x8f02…bb1e",
+        "volume": "$968"
+      },
+      {
+        "name": "0x5285…5afa",
+        "volume": "$949"
+      },
+      {
+        "name": "0x759f…edde",
+        "volume": "$948"
+      },
+      {
+        "name": "0x5b85…5486",
+        "volume": "$889"
+      },
+      {
+        "name": "0xf400…ac90",
+        "volume": "$597"
+      },
+      {
+        "name": "0x4fb2…56a5",
+        "volume": "$545"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$3M"
+      },
+      {
+        "name": "WETH",
+        "volume": "$970K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$429"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$58M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:13:38.766Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 132.98786442235038,
+  "vaultPct": 1.4832920676589254
+}

@@ -1,0 +1,112 @@
+{
+  "portfolio": {
+    "address": "0x45f11e01116598cbf7ef64342c4960509e41c010",
+    "totalValue": "$777",
+    "walletLifetime": "3014 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,120.4500",
+        "amount": "0.0112",
+        "usdValue": "$34.85"
+      },
+      {
+        "symbol": "ZRC",
+        "chain": "zircuit",
+        "price": "$0.0070",
+        "amount": "748.0000",
+        "usdValue": "$5.21"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$680"
+      },
+      {
+        "protocol": "EigenLayer",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$57"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x45f11e01116598cbf7ef64342c4960509e41c010",
+    "topProtocols": [
+      {
+        "name": "Anchor",
+        "volume": "$238"
+      },
+      {
+        "name": "0x6361…5484",
+        "volume": "$129"
+      },
+      {
+        "name": "P2P.org",
+        "volume": "$67K"
+      },
+      {
+        "name": "elp DAO",
+        "volume": "$52"
+      },
+      {
+        "name": "EigenLayer",
+        "volume": "$17"
+      },
+      {
+        "name": "0x2e7b…7f38",
+        "volume": "$11"
+      },
+      {
+        "name": "0xe9db…05d0",
+        "volume": "$6"
+      },
+      {
+        "name": "0x119a…782a",
+        "volume": "$5"
+      },
+      {
+        "name": "0x2cb4…86a5",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$506"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$19"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T20:01:17.239Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 0.19999490992428573,
+  "vaultPct": 0.002230661156575413
+}

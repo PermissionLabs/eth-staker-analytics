@@ -1,0 +1,72 @@
+{
+  "portfolio": {
+    "address": "0xb6bbc9eaa72ff7155344762665a593585af8d141",
+    "totalValue": "$386",
+    "walletLifetime": "341 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,132.2000",
+        "amount": "0.0319",
+        "usdValue": "$99.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.2000",
+        "amount": "0.0229",
+        "usdValue": "$71.72"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$215"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb6bbc9eaa72ff7155344762665a593585af8d141",
+    "topProtocols": [
+      {
+        "name": "Fuel",
+        "volume": "$2K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$1K"
+      },
+      {
+        "name": "Eclipse Bridge",
+        "volume": "$538"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$294"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$231"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$176B"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$4K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:02:45.138Z",
+  "source": "base_aave",
+  "vaultBalance": 0.068,
+  "vaultPct": 0.00010003345746363717
+}

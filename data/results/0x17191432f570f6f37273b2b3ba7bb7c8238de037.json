@@ -1,0 +1,218 @@
+{
+  "portfolio": {
+    "address": "0x17191432f570f6f37273b2b3ba7bb7c8238de037",
+    "totalValue": "$76,293",
+    "walletLifetime": "3119 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,158.3600",
+        "amount": "0.0894",
+        "usdValue": "$282.33"
+      },
+      {
+        "symbol": "DAI",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "46.2076",
+        "usdValue": "$46.21"
+      },
+      {
+        "symbol": "TRX(legacy)",
+        "chain": "eth",
+        "price": "$0.2866",
+        "amount": "57.0000",
+        "usdValue": "$16.34"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1255",
+        "amount": "3.7582",
+        "usdValue": "$0.47"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$46,263"
+      },
+      {
+        "protocol": "Olympus",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "OHM",
+        "usdValue": "$29,684"
+      },
+      {
+        "protocol": "Rari Capital",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "OHM",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Wonderland",
+        "chain": "avax",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "TIME (Wonderland)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Klima DAO",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "KLIMA",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x17191432f570f6f37273b2b3ba7bb7c8238de037",
+    "topProtocols": [
+      {
+        "name": "Olympus",
+        "volume": "$351K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$291K"
+      },
+      {
+        "name": "Uniswap V2",
+        "volume": "$290K"
+      },
+      {
+        "name": "0xa31f…aeb4",
+        "volume": "$173K"
+      },
+      {
+        "name": "0xf775…fcef",
+        "volume": "$116K"
+      },
+      {
+        "name": "LFJ",
+        "volume": "$91K"
+      },
+      {
+        "name": "Rari Capital",
+        "volume": "$88K"
+      },
+      {
+        "name": "0xc602…cc27",
+        "volume": "$70K"
+      },
+      {
+        "name": "0x6098…3f1e",
+        "volume": "$66K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$64K"
+      },
+      {
+        "name": "0xd982…2548",
+        "volume": "$59K"
+      },
+      {
+        "name": "0xcb8b…d45c",
+        "volume": "$57K"
+      },
+      {
+        "name": "Boba Network Gateway",
+        "volume": "$52K"
+      },
+      {
+        "name": "0xf787…2f47",
+        "volume": "$52K"
+      },
+      {
+        "name": "0xb263…8a4a",
+        "volume": "$51K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$48K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$47K"
+      },
+      {
+        "name": "0xca76…3e65",
+        "volume": "$45K"
+      },
+      {
+        "name": "Multichain",
+        "volume": "$45K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$1M"
+      },
+      {
+        "name": "KOMG",
+        "volume": "$379K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$226K"
+      },
+      {
+        "name": "FOX",
+        "volume": "$190K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$164K"
+      },
+      {
+        "name": "wsOHM",
+        "volume": "$89K"
+      },
+      {
+        "name": "OHM",
+        "volume": "$76K"
+      },
+      {
+        "name": "KWETH.e",
+        "volume": "$34K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$34K"
+      },
+      {
+        "name": "KgOHM",
+        "volume": "$22K"
+      },
+      {
+        "name": "KDAI.e",
+        "volume": "$9K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$8K"
+      },
+      {
+        "name": "V1",
+        "volume": "$unknown"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:24:30.898Z",
+  "source": "lido_steth",
+  "vaultBalance": 14.092324712698236,
+  "vaultPct": 0.0010581622568174344
+}

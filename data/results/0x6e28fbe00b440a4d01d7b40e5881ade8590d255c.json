@@ -1,0 +1,73 @@
+{
+  "portfolio": {
+    "address": "0x6e28fbe00b440a4d01d7b40e5881ade8590d255c",
+    "totalValue": "$3,115",
+    "walletLifetime": "1409 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1,200.2983",
+        "usdValue": "$1,200.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,110.5800",
+        "amount": "0.3220",
+        "usdValue": "$1,001.48"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,110.5800",
+        "amount": "0.0313",
+        "usdValue": "$97.39"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$387"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$313"
+      },
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$113"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USD₮0",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6e28fbe00b440a4d01d7b40e5881ade8590d255c",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T01:40:54.956Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09871263549299675,
+  "vaultPct": 0.0017908669779476648
+}

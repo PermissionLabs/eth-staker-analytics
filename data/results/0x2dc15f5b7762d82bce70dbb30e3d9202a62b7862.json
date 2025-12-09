@@ -1,0 +1,212 @@
+{
+  "portfolio": {
+    "address": "0x2dc15f5b7762d82bce70dbb30e3d9202a62b7862",
+    "totalValue": "$424",
+    "walletLifetime": "888 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,109.5700",
+        "amount": "0.0109",
+        "usdValue": "$34.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,107.1500",
+        "amount": "0.0108",
+        "usdValue": "$33.64"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$891.3000",
+        "amount": "0.0157",
+        "usdValue": "$13.98"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.5700",
+        "amount": "0.0018",
+        "usdValue": "$5.59"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0079",
+        "amount": "436.0840",
+        "usdValue": "$3.46"
+      },
+      {
+        "symbol": "AVAX",
+        "chain": "avax",
+        "price": "$13.6900",
+        "amount": "0.2264",
+        "usdValue": "$3.10"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "1.1517",
+        "usdValue": "$1.15"
+      },
+      {
+        "symbol": "NATO",
+        "chain": "base",
+        "price": "$0.0₆9749",
+        "amount": "740,000.0000",
+        "usdValue": "$0.72"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1225",
+        "amount": "4.5192",
+        "usdValue": "$0.55"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,109.5700",
+        "amount": "0.00003549",
+        "usdValue": "$0.11"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$175"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$150"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "arb",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "STG",
+        "usdValue": "$3"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2dc15f5b7762d82bce70dbb30e3d9202a62b7862",
+    "topProtocols": [
+      {
+        "name": "Stargate",
+        "volume": "$17K"
+      },
+      {
+        "name": "Mugen Finance",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$6K"
+      },
+      {
+        "name": "Radiant Capital V2",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x326d…f03b",
+        "volume": "$4K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$4K"
+      },
+      {
+        "name": "0xa5b3…9e9a",
+        "volume": "$2K"
+      },
+      {
+        "name": "OmniBTC",
+        "volume": "$2K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$529"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$496"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$275"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$33K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$8K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$561"
+      },
+      {
+        "name": "MATIC",
+        "volume": "$255"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$215B"
+      },
+      {
+        "name": "NB",
+        "volume": "$127"
+      },
+      {
+        "name": "POL",
+        "volume": "$100"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$61"
+      },
+      {
+        "name": "STG",
+        "volume": "$26"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$11"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T04:41:57.758Z",
+  "source": "base_aave",
+  "vaultBalance": 0.056,
+  "vaultPct": 0.00008238049438181884
+}

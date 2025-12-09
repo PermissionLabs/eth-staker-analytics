@@ -1,0 +1,198 @@
+{
+  "portfolio": {
+    "address": "0x85ba377a068afd8c077550ad9fd106d0dc897e99",
+    "totalValue": "$459",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,156.6600",
+        "amount": "0.0126",
+        "usdValue": "$39.70"
+      },
+      {
+        "symbol": "LINEA",
+        "chain": "linea",
+        "price": "$0.0080",
+        "amount": "4,719.9132",
+        "usdValue": "$37.71"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,156.4100",
+        "amount": "0.0044",
+        "usdValue": "$13.75"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,156.6600",
+        "amount": "0.0002",
+        "usdValue": "$0.77"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,156.6600",
+        "amount": "0.0002",
+        "usdValue": "$0.56"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,156.4100",
+        "amount": "0.0001",
+        "usdValue": "$0.42"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.8000",
+        "amount": "0.0003",
+        "usdValue": "$0.32"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "scrl",
+        "price": "$3,156.4100",
+        "amount": "0.0000721",
+        "usdValue": "$0.23"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$361"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x85ba377a068afd8c077550ad9fd106d0dc897e99",
+    "topProtocols": [
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$3K"
+      },
+      {
+        "name": "Ambient",
+        "volume": "$3K"
+      },
+      {
+        "name": "Zebra V3",
+        "volume": "$3K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x80c6…bcf8",
+        "volume": "$2K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$2K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aptos Bridge",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x8c82…7ba1",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf924…8c9c",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$976M"
+      },
+      {
+        "name": "endi Finance",
+        "volume": "$909"
+      },
+      {
+        "name": "SwapBased",
+        "volume": "$796"
+      },
+      {
+        "name": "0x5e80…6284",
+        "volume": "$775"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$4K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$1K"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$523"
+      },
+      {
+        "name": "axlUSDC",
+        "volume": "$513"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$496"
+      },
+      {
+        "name": "STONE",
+        "volume": "$492"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:53:18.940Z",
+  "source": "base_aave",
+  "vaultBalance": 0.11399999999999999,
+  "vaultPct": 0.00016770314927727403
+}

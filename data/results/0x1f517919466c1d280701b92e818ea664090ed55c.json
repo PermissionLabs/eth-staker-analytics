@@ -1,0 +1,215 @@
+{
+  "portfolio": {
+    "address": "0x1f517919466c1d280701b92e818ea664090ed55c",
+    "totalValue": "$7,500",
+    "walletLifetime": "217 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,142.5500",
+        "amount": "0.0055",
+        "usdValue": "$17.21"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "uni",
+        "price": "$3,142.6000",
+        "amount": "0.0020",
+        "usdValue": "$6.28"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,142.5500",
+        "amount": "0.0012",
+        "usdValue": "$3.76"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$906.6000",
+        "amount": "0.0016",
+        "usdValue": "$1.41"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "uni",
+        "price": "$0.9998",
+        "amount": "0.9996",
+        "usdValue": "$1.00"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "0.9498",
+        "usdValue": "$0.95"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "arb",
+        "price": "$2.3088",
+        "amount": "0.2777",
+        "usdValue": "$0.64"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "eth",
+        "price": "$2.3040",
+        "amount": "0.1806",
+        "usdValue": "$0.42"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "0.2618",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "bsc",
+        "price": "$2.3088",
+        "amount": "0.0580",
+        "usdValue": "$0.13"
+      },
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0001",
+        "amount": "0.0791",
+        "usdValue": "$0.08"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$5,658"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$1,809"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "arb",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "SUSHI",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1f517919466c1d280701b92e818ea664090ed55c",
+    "topProtocols": [
+      {
+        "name": "Revert",
+        "volume": "$20K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$18K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$14K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x9390…e49e",
+        "volume": "$10K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xf1ca…df7f",
+        "volume": "$7K"
+      },
+      {
+        "name": "0x0166…49ee",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x18be…63dd",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xa644…32d2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x58a3…65d1",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$42K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$26K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$16K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$14K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$6K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$4K"
+      },
+      {
+        "name": "KPEPE",
+        "volume": "$1K"
+      },
+      {
+        "name": "WBNB",
+        "volume": "$993"
+      },
+      {
+        "name": "Cake",
+        "volume": "$886"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T08:59:13.895Z",
+  "source": "base_aave",
+  "vaultBalance": 0.20873917541760778,
+  "vaultPct": 0.0003070720797813524
+}

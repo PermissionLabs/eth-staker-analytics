@@ -1,0 +1,89 @@
+{
+  "portfolio": {
+    "address": "0x8f3e16dd4967618194ec8000926c48832711cdda",
+    "totalValue": "$5",
+    "walletLifetime": "1888 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,132.7400",
+        "amount": "0.0012",
+        "usdValue": "$3.70"
+      },
+      {
+        "symbol": "ZIL",
+        "chain": "bsc",
+        "price": "$0.0054",
+        "amount": "260.4512",
+        "usdValue": "$1.40"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9896",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": []
+  },
+  "analysis": {
+    "address": "0x8f3e16dd4967618194ec8000926c48832711cdda",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$3K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x793e…b5f4",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x187f…2386",
+        "volume": "$545"
+      },
+      {
+        "name": "0x40c3…d9c0",
+        "volume": "$277B"
+      },
+      {
+        "name": "inance",
+        "volume": "$168B"
+      },
+      {
+        "name": "0x74e4…2147",
+        "volume": "$6"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$7K"
+      },
+      {
+        "name": "ZIL",
+        "volume": "$9B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T18:22:38.325Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.35590769264236,
+  "vaultPct": 0.00002672434072752904
+}

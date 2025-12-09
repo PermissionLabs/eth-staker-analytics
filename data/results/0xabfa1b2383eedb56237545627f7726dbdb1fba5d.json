@@ -1,0 +1,245 @@
+{
+  "portfolio": {
+    "address": "0xabfa1b2383eedb56237545627f7726dbdb1fba5d",
+    "totalValue": "$63,599",
+    "walletLifetime": "1664 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$1.0000",
+        "amount": "10,000.0000",
+        "usdValue": "$10,000.00"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,109.9900",
+        "amount": "0.0813",
+        "usdValue": "$252.95"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.6820",
+        "amount": "5.3505",
+        "usdValue": "$158.81"
+      },
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2123",
+        "amount": "500.0000",
+        "usdValue": "$106.15"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,109.9900",
+        "amount": "0.0128",
+        "usdValue": "$39.79"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "USDC",
+        "usdValue": "$36,790"
+      },
+      {
+        "protocol": "Project X",
+        "chain": "hyper",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$10,560"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$3,174"
+      },
+      {
+        "protocol": "HyperLend",
+        "chain": "hyper",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "USD₮0",
+        "usdValue": "$2,501"
+      },
+      {
+        "protocol": "KittenSwap",
+        "chain": "hyper",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "KITTEN",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "Felix",
+        "chain": "hyper",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "feUSD",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Hyperbeat",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WHYPE",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Kinetiq",
+        "chain": "hyper",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "vkHYPE",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "hyper",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "HypurrFi-Catchup-2",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xabfa1b2383eedb56237545627f7726dbdb1fba5d",
+    "topProtocols": [
+      {
+        "name": "Hyperliquid",
+        "volume": "$208K"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$70K"
+      },
+      {
+        "name": "0x18cf…8f43",
+        "volume": "$44K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$40K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$35K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$20K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$20K"
+      },
+      {
+        "name": "Aster",
+        "volume": "$19K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$19K"
+      },
+      {
+        "name": "0xa8c1…1185",
+        "volume": "$11K"
+      },
+      {
+        "name": "Mayan",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xc6a1…b655",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$10K"
+      },
+      {
+        "name": "0x0eea…67c1",
+        "volume": "$10K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xd3d2…0967",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xa413…9ea1",
+        "volume": "$6K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$357K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$107K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$69K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$29K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$24K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$10K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$6K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$4K"
+      },
+      {
+        "name": "ANIME",
+        "volume": "$891M"
+      },
+      {
+        "name": "ORPHO",
+        "volume": "$23"
+      },
+      {
+        "name": "HYPE",
+        "volume": "$9B"
+      },
+      {
+        "name": "NB",
+        "volume": "$8"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T17:55:20.548Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.9836809258458625,
+  "vaultPct": 0.00007386247831370206
+}

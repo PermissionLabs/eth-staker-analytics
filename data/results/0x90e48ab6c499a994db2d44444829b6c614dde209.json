@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0x90e48ab6c499a994db2d44444829b6c614dde209",
+    "totalValue": "$6,914",
+    "walletLifetime": "144 days",
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "chain": "bsc",
+        "price": "$1.0002",
+        "amount": "2,245.5543",
+        "usdValue": "$2,245.94"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$0.9998",
+        "amount": "1,613.5259",
+        "usdValue": "$1,613.20"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "eth",
+        "price": "$0.9998",
+        "amount": "443.7620",
+        "usdValue": "$443.67"
+      },
+      {
+        "symbol": "ADA(Binance-Peg)",
+        "chain": "bsc",
+        "price": "$0.4334",
+        "amount": "1,000.0000",
+        "usdValue": "$433.43"
+      },
+      {
+        "symbol": "USD₮0",
+        "chain": "arb",
+        "price": "$1.0002",
+        "amount": "384.4700",
+        "usdValue": "$384.54"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$909.1000",
+        "amount": "0.2859",
+        "usdValue": "$259.87"
+      },
+      {
+        "symbol": "WBTC",
+        "chain": "arb",
+        "price": "$91,611.9800",
+        "amount": "0.0022",
+        "usdValue": "$203.15"
+      },
+      {
+        "symbol": "ASTER",
+        "chain": "bsc",
+        "price": "$0.9678",
+        "amount": "185.1418",
+        "usdValue": "$179.19"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,140.1900",
+        "amount": "0.0409",
+        "usdValue": "$128.41"
+      },
+      {
+        "symbol": "BGB",
+        "chain": "eth",
+        "price": "$3.5700",
+        "amount": "11.9787",
+        "usdValue": "$42.76"
+      },
+      {
+        "symbol": "XPL",
+        "chain": "plasma",
+        "price": "$0.1701",
+        "amount": "114.0000",
+        "usdValue": "$19.39"
+      },
+      {
+        "symbol": "WSEI",
+        "chain": "sei",
+        "price": "$0.1323",
+        "amount": "145.2606",
+        "usdValue": "$19.22"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9998",
+        "amount": "18.3797",
+        "usdValue": "$18.38"
+      },
+      {
+        "symbol": "AERO",
+        "chain": "base",
+        "price": "$0.6793",
+        "amount": "19.9099",
+        "usdValue": "$13.53"
+      },
+      {
+        "symbol": "XRP",
+        "chain": "bsc",
+        "price": "$2.0942",
+        "amount": "3.4324",
+        "usdValue": "$7.19"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$895"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x90e48ab6c499a994db2d44444829b6c614dde209",
+    "topProtocols": [
+      {
+        "name": "Uniswap V4",
+        "volume": "$7K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$7K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xec6d…9b72",
+        "volume": "$4K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Bitget Wallet",
+        "volume": "$1K"
+      },
+      {
+        "name": "ERC 4337",
+        "volume": "$1K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$1K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$999"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$691"
+      },
+      {
+        "name": "0xb141…0e49",
+        "volume": "$600B"
+      },
+      {
+        "name": "itget Wallet",
+        "volume": "$600"
+      },
+      {
+        "name": "0x4bab…8f1b",
+        "volume": "$495"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$19K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$15K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ASTER",
+        "volume": "$1K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$445"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$247"
+      },
+      {
+        "name": "OSK",
+        "volume": "$61B"
+      },
+      {
+        "name": "GB",
+        "volume": "$4"
+      },
+      {
+        "name": "AERO",
+        "volume": "$21"
+      },
+      {
+        "name": "DOGE",
+        "volume": "$10"
+      },
+      {
+        "name": "XRP",
+        "volume": "$1"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T13:26:55.597Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.16283973000000002,
+  "vaultPct": 0.000012227283979702563
+}

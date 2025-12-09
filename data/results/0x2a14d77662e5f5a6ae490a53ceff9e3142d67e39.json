@@ -1,0 +1,237 @@
+{
+  "portfolio": {
+    "address": "0x2a14d77662e5f5a6ae490a53ceff9e3142d67e39",
+    "totalValue": "$222",
+    "walletLifetime": "653 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,159.7700",
+        "amount": "0.00006449",
+        "usdValue": "$0.20"
+      },
+      {
+        "symbol": "DOG (Own The Doge)",
+        "chain": "base",
+        "price": "$0.0009",
+        "amount": "41.7493",
+        "usdValue": "$0.04"
+      },
+      {
+        "symbol": "weirdo",
+        "chain": "base",
+        "price": "$0.0₅4827",
+        "amount": "420.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOOMER (baseboomer.com)",
+        "chain": "base",
+        "price": "$0.0008",
+        "amount": "0.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GOOFS",
+        "chain": "base",
+        "price": "$0.0005",
+        "amount": "1.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "POV",
+        "chain": "base",
+        "price": "$0.0₇1779",
+        "amount": "15,420.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BERF",
+        "chain": "base",
+        "price": "$0.0002",
+        "amount": "1.1000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "PAW",
+        "chain": "base",
+        "price": "$0.00002052",
+        "amount": "8.8889",
+        "usdValue": ""
+      },
+      {
+        "symbol": "BOYS",
+        "chain": "base",
+        "price": "$0.0007",
+        "amount": "0.2000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Boe",
+        "chain": "base",
+        "price": "$0.00002725",
+        "amount": "0.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "Blue",
+        "chain": "base",
+        "price": "$0.00001288",
+        "amount": "0.6900",
+        "usdValue": ""
+      },
+      {
+        "symbol": "9MM",
+        "chain": "base",
+        "price": "$0.00004711",
+        "amount": "0.0690",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "matic",
+        "price": "$0.0000",
+        "amount": "21,500.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$221"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL (wormhole)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Sonne Finance",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "SONNE",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x2a14d77662e5f5a6ae490a53ceff9e3142d67e39",
+    "topProtocols": [
+      {
+        "name": "0x4200…0006",
+        "volume": "$2K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$1K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x",
+        "volume": "$1K"
+      },
+      {
+        "name": "KyberSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Moonwell",
+        "volume": "$706"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$505"
+      },
+      {
+        "name": "Sonne Finance",
+        "volume": "$477"
+      },
+      {
+        "name": "Seamless Protocol",
+        "volume": "$467B"
+      },
+      {
+        "name": "itget",
+        "volume": "$316B"
+      },
+      {
+        "name": "alancer V2",
+        "volume": "$278B"
+      },
+      {
+        "name": "ase Bridge",
+        "volume": "$269"
+      },
+      {
+        "name": "Velora",
+        "volume": "$263"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$239"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$2301"
+      },
+      {
+        "name": "inch",
+        "volume": "$213B"
+      },
+      {
+        "name": "0x9d70…7afd",
+        "volume": "$3"
+      },
+      {
+        "name": "0xf167…6b1b",
+        "volume": "$2"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$9K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$3K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "rETH",
+        "volume": "$541"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$360"
+      },
+      {
+        "name": "cbETH",
+        "volume": "$224"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T10:47:30.040Z",
+  "source": "base_aave",
+  "vaultBalance": 0.06886440646457616,
+  "vaultPct": 0.00010130506874754114
+}

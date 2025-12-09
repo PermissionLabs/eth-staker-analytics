@@ -1,0 +1,117 @@
+{
+  "portfolio": {
+    "address": "0x5852e46af532c9a29fda8250406ce5fda50dfc42",
+    "totalValue": "$10,216",
+    "walletLifetime": "1517 days",
+    "tokens": [
+      {
+        "symbol": "QNT",
+        "chain": "eth",
+        "price": "$91.4100",
+        "amount": "4.7784",
+        "usdValue": "$436.79"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$14.1618",
+        "amount": "4.2969",
+        "usdValue": "$60.85"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,160.9700",
+        "amount": "0.0101",
+        "usdValue": "$31.81"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9994",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SNL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "15,000.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$9,686"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5852e46af532c9a29fda8250406ce5fda50dfc42",
+    "topProtocols": [
+      {
+        "name": "LIDO",
+        "volume": "$10K"
+      },
+      {
+        "name": "Binance",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x3fda…be6d",
+        "volume": "$753B"
+      },
+      {
+        "name": "inance",
+        "volume": "$454B"
+      },
+      {
+        "name": "Velora",
+        "volume": "$172"
+      },
+      {
+        "name": "FTX",
+        "volume": "$106"
+      },
+      {
+        "name": "0xa07d…6a5a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$19K"
+      },
+      {
+        "name": "AVAX",
+        "volume": "$1K"
+      },
+      {
+        "name": "BNB",
+        "volume": "$965"
+      },
+      {
+        "name": "QNT",
+        "volume": "$511"
+      },
+      {
+        "name": "LINK",
+        "volume": "$106B"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T09:18:11.499Z",
+  "source": "lido_steth",
+  "vaultBalance": 2.983253944874526,
+  "vaultPct": 0.00022400610199702962
+}

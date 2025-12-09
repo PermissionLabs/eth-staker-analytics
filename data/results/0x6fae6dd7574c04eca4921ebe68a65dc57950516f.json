@@ -1,0 +1,72 @@
+{
+  "portfolio": {
+    "address": "0x6fae6dd7574c04eca4921ebe68a65dc57950516f",
+    "totalValue": "$18,791",
+    "walletLifetime": "2882 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.8300",
+        "amount": "0.0169",
+        "usdValue": "$52.78"
+      },
+      {
+        "symbol": "ZAP",
+        "chain": "eth",
+        "price": "$0.0007",
+        "amount": "69,855.0000",
+        "usdValue": "$48.93"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1231",
+        "amount": "31.6487",
+        "usdValue": "$3.90"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.8300",
+        "amount": "0.0010",
+        "usdValue": "$3.11"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$13,391"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$5,116"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$175"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x6fae6dd7574c04eca4921ebe68a65dc57950516f",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T04:22:41.349Z",
+  "source": "base_aave",
+  "vaultBalance": 0.2036641179793127,
+  "vaultPct": 0.00029960626298165816
+}

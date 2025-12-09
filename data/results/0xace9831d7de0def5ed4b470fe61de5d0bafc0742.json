@@ -1,0 +1,151 @@
+{
+  "portfolio": {
+    "address": "0xace9831d7de0def5ed4b470fe61de5d0bafc0742",
+    "totalValue": "$13,327",
+    "walletLifetime": "1583 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.7500",
+        "amount": "0.0958",
+        "usdValue": "$299.54"
+      },
+      {
+        "symbol": "FET",
+        "chain": "eth",
+        "price": "$0.2391",
+        "amount": "755.8118",
+        "usdValue": "$180.71"
+      },
+      {
+        "symbol": "MON",
+        "chain": "monad",
+        "price": "$0.0285",
+        "amount": "1.0000",
+        "usdValue": "$0.03"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.0₅9884",
+        "amount": "375.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "GLMR",
+        "chain": "mobm",
+        "price": "$0.0396",
+        "amount": "0.0005",
+        "usdValue": ""
+      },
+      {
+        "symbol": "FOFAR",
+        "chain": "base",
+        "price": "$0.0₅7905",
+        "amount": "1.5000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SWOL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "200.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$12,847"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xace9831d7de0def5ed4b470fe61de5d0bafc0742",
+    "topProtocols": [
+      {
+        "name": "THORChain",
+        "volume": "$18K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$10K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$4K"
+      },
+      {
+        "name": "0x08a1…6176",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x7c96…9804",
+        "volume": "$1K"
+      },
+      {
+        "name": "zkSync Lite",
+        "volume": "$524K"
+      },
+      {
+        "name": "uCoin",
+        "volume": "$523K"
+      },
+      {
+        "name": "0x411d…f55a",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xfe17…f2b0",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…0000",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0xdf74…32bb",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x8658…4935",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…0804",
+        "volume": "$unknown"
+      },
+      {
+        "name": "0x0000…0801",
+        "volume": "$unknown"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$21K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$20K"
+      },
+      {
+        "name": "FET",
+        "volume": "$523"
+      },
+      {
+        "name": "GLMR",
+        "volume": "$11"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:52:40.921Z",
+  "source": "lido_steth",
+  "vaultBalance": 3.88657375291736,
+  "vaultPct": 0.0002918344373635285
+}

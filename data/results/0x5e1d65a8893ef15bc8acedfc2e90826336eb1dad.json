@@ -1,0 +1,190 @@
+{
+  "portfolio": {
+    "address": "0x5e1d65a8893ef15bc8acedfc2e90826336eb1dad",
+    "totalValue": "$8,001",
+    "walletLifetime": "1672 days",
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "chain": "eth",
+        "price": "$3,124.1700",
+        "amount": "0.5285",
+        "usdValue": "$1,651.18"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,124.1700",
+        "amount": "0.0180",
+        "usdValue": "$56.24"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,124.1700",
+        "amount": "0.0010",
+        "usdValue": "$3.03"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$0.9999",
+        "amount": "1.9422",
+        "usdValue": "$1.94"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$2,860"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "eth",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$1,881"
+      },
+      {
+        "protocol": "Aerodrome V3",
+        "chain": "base",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "AERO",
+        "usdValue": "$1,510"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$37"
+      },
+      {
+        "protocol": "Venus",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5e1d65a8893ef15bc8acedfc2e90826336eb1dad",
+    "topProtocols": [
+      {
+        "name": "Aerodrome V3",
+        "volume": "$34K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$33K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$30K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$22K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$13K"
+      },
+      {
+        "name": "0x8877…45b1",
+        "volume": "$5K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$5K"
+      },
+      {
+        "name": "Venus",
+        "volume": "$5K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x36b5…5f93",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xc5d5…e1b2",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x8ed4…0e35",
+        "volume": "$3K"
+      },
+      {
+        "name": "0x82af…bab1",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x7ebe…27a9",
+        "volume": "$2K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "cbBTC",
+        "volume": "$61K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$38K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$26K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$26K"
+      },
+      {
+        "name": "ARB",
+        "volume": "$20K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$13K"
+      },
+      {
+        "name": "NEXO",
+        "volume": "$2K"
+      },
+      {
+        "name": "VIRTUAL",
+        "volume": "$2K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$2K"
+      },
+      {
+        "name": "INCH",
+        "volume": "$2K"
+      },
+      {
+        "name": "DeFAI",
+        "volume": "$15"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T23:58:17.812Z",
+  "source": "aave_mainnet",
+  "vaultBalance": 1.57036628,
+  "vaultPct": 0.00029198924572348576
+}

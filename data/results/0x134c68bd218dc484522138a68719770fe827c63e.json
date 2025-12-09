@@ -1,0 +1,253 @@
+{
+  "portfolio": {
+    "address": "0x134c68bd218dc484522138a68719770fe827c63e",
+    "totalValue": "$73,777",
+    "walletLifetime": "1413 days",
+    "tokens": [
+      {
+        "symbol": "LINK",
+        "chain": "eth",
+        "price": "$13.8778",
+        "amount": "1,267.3895",
+        "usdValue": "$17,588.58"
+      },
+      {
+        "symbol": "UNI",
+        "chain": "eth",
+        "price": "$5.6395",
+        "amount": "2,166.7336",
+        "usdValue": "$12,219.39"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "arb",
+        "price": "$2.4180",
+        "amount": "1,963.7696",
+        "usdValue": "$4,748.46"
+      },
+      {
+        "symbol": "LDO",
+        "chain": "eth",
+        "price": "$0.5948",
+        "amount": "6,575.5764",
+        "usdValue": "$3,911.01"
+      },
+      {
+        "symbol": "PENDLE",
+        "chain": "eth",
+        "price": "$2.4290",
+        "amount": "674.8926",
+        "usdValue": "$1,639.31"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,126.0900",
+        "amount": "0.5051",
+        "usdValue": "$1,579.05"
+      },
+      {
+        "symbol": "GALAXIS",
+        "chain": "eth",
+        "price": "$0.0002",
+        "amount": "5,226,666.1200",
+        "usdValue": "$1,066.26"
+      },
+      {
+        "symbol": "MOR",
+        "chain": "arb",
+        "price": "$1.7650",
+        "amount": "211.6216",
+        "usdValue": "$373.52"
+      },
+      {
+        "symbol": "UDS",
+        "chain": "eth",
+        "price": "$2.3584",
+        "amount": "22.7996",
+        "usdValue": "$53.77"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpheus",
+        "chain": "eth",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "stETH",
+        "usdValue": "$30,034"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$320"
+      },
+      {
+        "protocol": "Felix",
+        "chain": "hyper",
+        "category": "Farming",
+        "label": "unknown",
+        "token": "feUSD",
+        "usdValue": "$162"
+      },
+      {
+        "protocol": "Hyperstable",
+        "chain": "hyper",
+        "category": "unknown",
+        "label": "Locked",
+        "token": "PEG",
+        "usdValue": "$8"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$3"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x134c68bd218dc484522138a68719770fe827c63e",
+    "topProtocols": [
+      {
+        "name": "0xbb3b…58ec",
+        "volume": "$273K"
+      },
+      {
+        "name": "0x",
+        "volume": "$233K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$209K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$132K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$77K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$74K"
+      },
+      {
+        "name": "UniswapX",
+        "volume": "$71K"
+      },
+      {
+        "name": "0x77d5…031b",
+        "volume": "$69K"
+      },
+      {
+        "name": "squid",
+        "volume": "$69K"
+      },
+      {
+        "name": "0xa47c…1acd",
+        "volume": "$66K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$58K"
+      },
+      {
+        "name": "0xbeb5…26d7",
+        "volume": "$48K"
+      },
+      {
+        "name": "LIDO",
+        "volume": "$45K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$43K"
+      },
+      {
+        "name": "FTX",
+        "volume": "$41K"
+      },
+      {
+        "name": "MEXC",
+        "volume": "$36K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$33K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDT",
+        "volume": "$1M"
+      },
+      {
+        "name": "USDC",
+        "volume": "$324K"
+      },
+      {
+        "name": "LINK",
+        "volume": "$176K"
+      },
+      {
+        "name": "UST",
+        "volume": "$132K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$115K"
+      },
+      {
+        "name": "AERO",
+        "volume": "$92K"
+      },
+      {
+        "name": "TOKE",
+        "volume": "$60K"
+      },
+      {
+        "name": "UNI",
+        "volume": "$56K"
+      },
+      {
+        "name": "ONDO",
+        "volume": "$55K"
+      },
+      {
+        "name": "MKR",
+        "volume": "$48K"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$43K"
+      },
+      {
+        "name": "KUSDbC",
+        "volume": "$40K"
+      },
+      {
+        "name": "FET",
+        "volume": "$36K"
+      },
+      {
+        "name": "GRT",
+        "volume": "$36K"
+      },
+      {
+        "name": "ZRO",
+        "volume": "$35K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T12:52:06.092Z",
+  "source": "lido_steth",
+  "vaultBalance": 0.09952873170249177,
+  "vaultPct": 0.000007473397718517417
+}

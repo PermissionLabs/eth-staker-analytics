@@ -1,0 +1,226 @@
+{
+  "portfolio": {
+    "address": "0x5f16f8fe3cb7470fd65614c8db0546e61d1f0982",
+    "totalValue": "$5,524",
+    "walletLifetime": "369 days",
+    "tokens": [
+      {
+        "symbol": "USD₮0",
+        "chain": "hyper",
+        "price": "$0.9999",
+        "amount": "270.9636",
+        "usdValue": "$270.93"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,096.7000",
+        "amount": "0.0099",
+        "usdValue": "$30.53"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,096.7000",
+        "amount": "0.0076",
+        "usdValue": "$23.51"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$896.9000",
+        "amount": "0.0168",
+        "usdValue": "$15.07"
+      },
+      {
+        "symbol": "COOKIE",
+        "chain": "bsc",
+        "price": "$0.0524",
+        "amount": "147.0010",
+        "usdValue": "$7.70"
+      },
+      {
+        "symbol": "WHYPE",
+        "chain": "hyper",
+        "price": "$29.4670",
+        "amount": "0.1009",
+        "usdValue": "$2.97"
+      },
+      {
+        "symbol": "HYPE",
+        "chain": "hyper",
+        "price": "$29.4670",
+        "amount": "0.0585",
+        "usdValue": "$1.72"
+      },
+      {
+        "symbol": "WLD",
+        "chain": "world",
+        "price": "$0.5882",
+        "amount": "1.5151",
+        "usdValue": "$0.89"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "HYPE",
+        "usdValue": "$4,930"
+      },
+      {
+        "protocol": "Lighter",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$240"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x5f16f8fe3cb7470fd65614c8db0546e61d1f0982",
+    "topProtocols": [
+      {
+        "name": "Lombard",
+        "volume": "$11K"
+      },
+      {
+        "name": "ZEROBASE",
+        "volume": "$6K"
+      },
+      {
+        "name": "Bybit",
+        "volume": "$6K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$5K"
+      },
+      {
+        "name": "0xeb6c…5383",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x370d…f876",
+        "volume": "$4K"
+      },
+      {
+        "name": "SOON Bridge",
+        "volume": "$3K"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x11b6…e433",
+        "volume": "$1K"
+      },
+      {
+        "name": "SushiSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Decubate",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x49f3…102d",
+        "volume": "$1K"
+      },
+      {
+        "name": "0x43d4…4712",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$997"
+      },
+      {
+        "name": "Resolv",
+        "volume": "$993"
+      },
+      {
+        "name": "deBridge",
+        "volume": "$813B"
+      },
+      {
+        "name": "ybit",
+        "volume": "$804"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$692"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$17K"
+      },
+      {
+        "name": "LBTC",
+        "volume": "$15K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$12K"
+      },
+      {
+        "name": "DUSD",
+        "volume": "$3K"
+      },
+      {
+        "name": "COOKIE",
+        "volume": "$3K"
+      },
+      {
+        "name": "USR",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$856"
+      },
+      {
+        "name": "RESOLV",
+        "volume": "$173"
+      },
+      {
+        "name": "ZBT",
+        "volume": "$122B"
+      },
+      {
+        "name": "ARD",
+        "volume": "$55B"
+      },
+      {
+        "name": "NB",
+        "volume": "$32"
+      },
+      {
+        "name": "STO",
+        "volume": "$5M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-08T15:50:08.125Z",
+  "source": "base_aave",
+  "vaultBalance": 0.21,
+  "vaultPct": 0.0003089268539318206
+}
