@@ -1,0 +1,235 @@
+{
+  "portfolio": {
+    "address": "0x7727dba040af7e3c3927c74603d26565509ad694",
+    "totalValue": "$23,468",
+    "walletLifetime": "1626 days",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "sonic",
+        "price": "$1.0000",
+        "amount": "5,031.6315",
+        "usdValue": "$5,031.63"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2035",
+        "amount": "274.6010",
+        "usdValue": "$330.48"
+      },
+      {
+        "symbol": "EQUAL",
+        "chain": "sonic",
+        "price": "$0.2324",
+        "amount": "872.6969",
+        "usdValue": "$202.83"
+      },
+      {
+        "symbol": "S",
+        "chain": "sonic",
+        "price": "$0.0941",
+        "amount": "1,302.9173",
+        "usdValue": "$122.60"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.8700",
+        "amount": "0.0231",
+        "usdValue": "$72.03"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "1,663.3534",
+        "usdValue": "$16.81"
+      },
+      {
+        "symbol": "ODOS",
+        "chain": "base",
+        "price": "$0.0026",
+        "amount": "3,932.8825",
+        "usdValue": "$10.36"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$17,644"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$16"
+      },
+      {
+        "protocol": "Sonic Airdrop",
+        "chain": "sonic",
+        "category": "unknown",
+        "label": "Claimable",
+        "token": "S",
+        "usdValue": "$10"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "op",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "OP",
+        "usdValue": "$4"
+      },
+      {
+        "protocol": "The Granary",
+        "chain": "ftm",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "SD(Wormhole)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "QuickSwap",
+        "chain": "matic",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "QUICK(old)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7727dba040af7e3c3927c74603d26565509ad694",
+    "topProtocols": [
+      {
+        "name": "Equalizer",
+        "volume": "$82K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$33K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$27K"
+      },
+      {
+        "name": "0x5f08…f0d6",
+        "volume": "$27K"
+      },
+      {
+        "name": "squid",
+        "volume": "$17K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$11K"
+      },
+      {
+        "name": "0x4652…a058",
+        "volume": "$11K"
+      },
+      {
+        "name": "Eliteness",
+        "volume": "$8K"
+      },
+      {
+        "name": "OpenOcean",
+        "volume": "$8K"
+      },
+      {
+        "name": "Beets",
+        "volume": "$7K"
+      },
+      {
+        "name": "0xd15f…80e3",
+        "volume": "$6K"
+      },
+      {
+        "name": "0x4496…2408",
+        "volume": "$5K"
+      },
+      {
+        "name": "Sonic Goat",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x21be…4c83",
+        "volume": "$5K"
+      },
+      {
+        "name": "0x38d6…b603",
+        "volume": "$3K"
+      },
+      {
+        "name": "disperse",
+        "volume": "$3K"
+      },
+      {
+        "name": "Equity V2",
+        "volume": "$3K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "EQUAL",
+        "volume": "$84K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$50K"
+      },
+      {
+        "name": "axlUSDC",
+        "volume": "$44K"
+      },
+      {
+        "name": "KWFTM",
+        "volume": "$37K"
+      },
+      {
+        "name": "FTM",
+        "volume": "$20K"
+      },
+      {
+        "name": "TRENCHES",
+        "volume": "$12K"
+      },
+      {
+        "name": "sGOAT",
+        "volume": "$10K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$8K"
+      },
+      {
+        "name": "SCALE",
+        "volume": "$6K"
+      },
+      {
+        "name": "HOOPS",
+        "volume": "$6K"
+      },
+      {
+        "name": "DAI",
+        "volume": "$4K"
+      },
+      {
+        "name": "KUSDC",
+        "volume": "$3K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:23:56.274Z",
+  "source": "moonwell",
+  "vaultBalance": 0.9909961929994417,
+  "vaultPct": 0.017978877257719066
+}

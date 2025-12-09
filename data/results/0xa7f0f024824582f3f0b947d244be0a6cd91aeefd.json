@@ -1,0 +1,210 @@
+{
+  "portfolio": {
+    "address": "0xa7f0f024824582f3f0b947d244be0a6cd91aeefd",
+    "totalValue": "$151,835",
+    "walletLifetime": "1764 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.3700",
+        "amount": "30.6599",
+        "usdValue": "$95,884.75"
+      },
+      {
+        "symbol": "TOKE",
+        "chain": "eth",
+        "price": "$0.1395",
+        "amount": "11,828.8589",
+        "usdValue": "$1,650.39"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "443.1852",
+        "usdValue": "$443.19"
+      },
+      {
+        "symbol": "TOKE",
+        "chain": "base",
+        "price": "$0.1395",
+        "amount": "1,377.3704",
+        "usdValue": "$192.17"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$33,461"
+      },
+      {
+        "protocol": "Euler",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$20,065"
+      },
+      {
+        "protocol": "Ambient",
+        "chain": "scrl",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$65"
+      },
+      {
+        "protocol": "LIDO",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xa7f0f024824582f3f0b947d244be0a6cd91aeefd",
+    "topProtocols": [
+      {
+        "name": "Ambient",
+        "volume": "$731K"
+      },
+      {
+        "name": "AUTO Finance",
+        "volume": "$287K"
+      },
+      {
+        "name": "Scroll Bridge",
+        "volume": "$110K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$89K"
+      },
+      {
+        "name": "Ethena",
+        "volume": "$60K"
+      },
+      {
+        "name": "0xea2e…2acc",
+        "volume": "$57K"
+      },
+      {
+        "name": "0xb0ed…f2de",
+        "volume": "$54K"
+      },
+      {
+        "name": "Velora",
+        "volume": "$52K"
+      },
+      {
+        "name": "Swell",
+        "volume": "$48K"
+      },
+      {
+        "name": "1inch",
+        "volume": "$46K"
+      },
+      {
+        "name": "Base Bridge",
+        "volume": "$43K"
+      },
+      {
+        "name": "0x4200…0007",
+        "volume": "$43K"
+      },
+      {
+        "name": "Curve",
+        "volume": "$42K"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$38K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$32K"
+      },
+      {
+        "name": "Euler",
+        "volume": "$30K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$25K"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$25K"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$626K"
+      },
+      {
+        "name": "wrsETH",
+        "volume": "$363K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$278K"
+      },
+      {
+        "name": "USDe",
+        "volume": "$96K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$64K"
+      },
+      {
+        "name": "ENA",
+        "volume": "$51K"
+      },
+      {
+        "name": "mkUSD",
+        "volume": "$49K"
+      },
+      {
+        "name": "TOKE",
+        "volume": "$15K"
+      },
+      {
+        "name": "GRAI",
+        "volume": "$8K"
+      },
+      {
+        "name": "R",
+        "volume": "$6K"
+      },
+      {
+        "name": "EIGEN",
+        "volume": "$4K"
+      },
+      {
+        "name": "LUSD",
+        "volume": "$4K"
+      },
+      {
+        "name": "SCR",
+        "volume": "$3K"
+      },
+      {
+        "name": "SWELL",
+        "volume": "$2K"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:21:33.137Z",
+  "source": "base_aave",
+  "vaultBalance": 17.117461552838172,
+  "vaultPct": 0.02518115973722473
+}

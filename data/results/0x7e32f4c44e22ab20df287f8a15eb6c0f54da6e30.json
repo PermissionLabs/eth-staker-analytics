@@ -1,0 +1,80 @@
+{
+  "portfolio": {
+    "address": "0x7e32f4c44e22ab20df287f8a15eb6c0f54da6e30",
+    "totalValue": "$0",
+    "walletLifetime": "558 days",
+    "tokens": [
+      {
+        "symbol": "ARB",
+        "chain": "arb",
+        "price": "$0.2143",
+        "amount": "5,980.2986",
+        "usdValue": "$1,281.58"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001008",
+        "amount": "777.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SALUKI",
+        "chain": "base",
+        "price": "$0.0₅532",
+        "amount": "25.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "WGC",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "50.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "BitFi",
+        "chain": "hemi",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "hemiBTC",
+        "usdValue": "$39,664,251"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$33,503"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$386"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$138"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x7e32f4c44e22ab20df287f8a15eb6c0f54da6e30",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T08:19:12.040Z",
+  "source": "moonwell",
+  "vaultBalance": 9.946273594556814,
+  "vaultPct": 0.1804475470152789
+}

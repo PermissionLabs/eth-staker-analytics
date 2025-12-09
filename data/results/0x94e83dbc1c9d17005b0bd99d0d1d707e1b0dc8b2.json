@@ -1,0 +1,302 @@
+{
+  "portfolio": {
+    "address": "0x94e83dbc1c9d17005b0bd99d0d1d707e1b0dc8b2",
+    "totalValue": "$1,052",
+    "walletLifetime": "1170 days",
+    "tokens": [
+      {
+        "symbol": "ZK",
+        "chain": "era",
+        "price": "$0.0327",
+        "amount": "1,072.4406",
+        "usdValue": "$35.06"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,125.9600",
+        "amount": "0.0086",
+        "usdValue": "$26.78"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$887.3000",
+        "amount": "0.0222",
+        "usdValue": "$19.67"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "op",
+        "price": "$3,125.9600",
+        "amount": "0.0060",
+        "usdValue": "$18.86"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,125.9600",
+        "amount": "0.0042",
+        "usdValue": "$13.08"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,125.9600",
+        "amount": "0.0026",
+        "usdValue": "$8.11"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "opbnb",
+        "price": "$887.5100",
+        "amount": "0.0075",
+        "usdValue": "$6.65"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,125.9600",
+        "amount": "0.0017",
+        "usdValue": "$5.28"
+      },
+      {
+        "symbol": "SWELL",
+        "chain": "eth",
+        "price": "$0.0022",
+        "amount": "1,025.8555",
+        "usdValue": "$2.26"
+      },
+      {
+        "symbol": "Cake",
+        "chain": "base",
+        "price": "$2.3163",
+        "amount": "0.7279",
+        "usdValue": "$1.69"
+      },
+      {
+        "symbol": "USDC(Bridged)",
+        "chain": "arb",
+        "price": "$1.0000",
+        "amount": "1.6483",
+        "usdValue": "$1.65"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2035",
+        "amount": "1.1089",
+        "usdValue": "$1.33"
+      },
+      {
+        "symbol": "xDai",
+        "chain": "xdai",
+        "price": "$0.9999",
+        "amount": "0.4197",
+        "usdValue": "$0.42"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1232",
+        "amount": "2.4117",
+        "usdValue": "$0.30"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "25.2062",
+        "usdValue": "$0.26"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "arb",
+        "price": "$3,127.0400",
+        "amount": "0.00005909",
+        "usdValue": "$0.18"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Swell",
+        "chain": "eth",
+        "category": "Staked",
+        "label": "Staked",
+        "token": "ETH",
+        "usdValue": "$700"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$210"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$1"
+      },
+      {
+        "protocol": "SushiSwap",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "JONES",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "eth",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "EIGEN",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x94e83dbc1c9d17005b0bd99d0d1d707e1b0dc8b2",
+    "topProtocols": [
+      {
+        "name": "Arbitrum DAO",
+        "volume": "$2K"
+      },
+      {
+        "name": "0x",
+        "volume": "$2K"
+      },
+      {
+        "name": "000zkSync Era",
+        "volume": "$673"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$657B"
+      },
+      {
+        "name": "inance",
+        "volume": "$567"
+      },
+      {
+        "name": "Swell",
+        "volume": "$529"
+      },
+      {
+        "name": "PancakeSwap V3",
+        "volume": "$379"
+      },
+      {
+        "name": "orpho",
+        "volume": "$244"
+      },
+      {
+        "name": "ZK Nation",
+        "volume": "$228"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$223"
+      },
+      {
+        "name": "0x5aea…9a91",
+        "volume": "$167B"
+      },
+      {
+        "name": "ungee",
+        "volume": "$146"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$137"
+      },
+      {
+        "name": "0x29f5…a8a7",
+        "volume": "$114"
+      },
+      {
+        "name": "Slingshot",
+        "volume": "$112"
+      },
+      {
+        "name": "0x3fad…8269",
+        "volume": "$104"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$101"
+      },
+      {
+        "name": "PancakeSwap",
+        "volume": "$99"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ARB",
+        "volume": "$3K"
+      },
+      {
+        "name": "KETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "ZK",
+        "volume": "$592"
+      },
+      {
+        "name": "HOOK",
+        "volume": "$284"
+      },
+      {
+        "name": "USD",
+        "volume": "$266"
+      },
+      {
+        "name": "WETH",
+        "volume": "$206"
+      },
+      {
+        "name": "AIDOGE",
+        "volume": "$116"
+      },
+      {
+        "name": "SWELL",
+        "volume": "$43"
+      },
+      {
+        "name": "USDC",
+        "volume": "$34"
+      },
+      {
+        "name": "POL",
+        "volume": "$25"
+      },
+      {
+        "name": "CYBER",
+        "volume": "$17B"
+      },
+      {
+        "name": "NB",
+        "volume": "$14"
+      },
+      {
+        "name": "AISHIB",
+        "volume": "$4"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:22:10.113Z",
+  "source": "moonwell",
+  "vaultBalance": 0.06566022581163865,
+  "vaultPct": 0.0011912226796841321
+}

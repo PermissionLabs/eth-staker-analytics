@@ -1,0 +1,212 @@
+{
+  "portfolio": {
+    "address": "0x1e085d0eb930fbeb0d90c488ae4c10b6b8482aaa",
+    "totalValue": "$952",
+    "walletLifetime": "867 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,128.2600",
+        "amount": "0.1199",
+        "usdValue": "$375.01"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.9900",
+        "amount": "0.0082",
+        "usdValue": "$25.70"
+      },
+      {
+        "symbol": "BNB",
+        "chain": "bsc",
+        "price": "$888.0000",
+        "amount": "0.0120",
+        "usdValue": "$10.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "linea",
+        "price": "$3,128.2600",
+        "amount": "0.0012",
+        "usdValue": "$3.83"
+      },
+      {
+        "symbol": "POL",
+        "chain": "matic",
+        "price": "$0.1234",
+        "amount": "8.6647",
+        "usdValue": "$1.07"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0000",
+        "amount": "0.8889",
+        "usdValue": "$0.89"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$534"
+      },
+      {
+        "protocol": "SkateFi",
+        "chain": "zeta",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WZETA",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "LayerBank",
+        "chain": "linea",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "vooi",
+        "chain": "linea",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x1e085d0eb930fbeb0d90c488ae4c10b6b8482aaa",
+    "topProtocols": [
+      {
+        "name": "0xd709…bca7",
+        "volume": "$68K"
+      },
+      {
+        "name": "LayerBank",
+        "volume": "$37K"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$22K"
+      },
+      {
+        "name": "EraLend Classic",
+        "volume": "$16K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$10K"
+      },
+      {
+        "name": "0xf8a1…315e",
+        "volume": "$9K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x8882…31d6",
+        "volume": "$9K"
+      },
+      {
+        "name": "0xbf39…3f11",
+        "volume": "$9K"
+      },
+      {
+        "name": "0x3959…0454",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xc5f3…a71d",
+        "volume": "$1K"
+      },
+      {
+        "name": "Morpho",
+        "volume": "$685"
+      },
+      {
+        "name": "zkLink Nova Bridge",
+        "volume": "$644"
+      },
+      {
+        "name": "Renzo",
+        "volume": "$638"
+      },
+      {
+        "name": "ZeroLend",
+        "volume": "$622"
+      },
+      {
+        "name": "OKX DEX",
+        "volume": "$599"
+      },
+      {
+        "name": "oi",
+        "volume": "$372"
+      },
+      {
+        "name": "StakeStone",
+        "volume": "$335"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "ETH",
+        "volume": "$97K"
+      },
+      {
+        "name": "ezETH",
+        "volume": "$2K"
+      },
+      {
+        "name": "ALT",
+        "volume": "$562"
+      },
+      {
+        "name": "LINEA",
+        "volume": "$432"
+      },
+      {
+        "name": "USDC",
+        "volume": "$318"
+      },
+      {
+        "name": "wstETH",
+        "volume": "$57"
+      },
+      {
+        "name": "ERA",
+        "volume": "$13"
+      },
+      {
+        "name": "ZKPEPE",
+        "volume": "$12"
+      },
+      {
+        "name": "ZETA",
+        "volume": "$12"
+      },
+      {
+        "name": "SAHARA",
+        "volume": "$8"
+      },
+      {
+        "name": "POL",
+        "volume": "$6"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:20:21.352Z",
+  "source": "moonwell",
+  "vaultBalance": 0.16716483700541057,
+  "vaultPct": 0.0030327423127937117
+}

@@ -1,0 +1,225 @@
+{
+  "portfolio": {
+    "address": "0xb21356148246f5ae6395a7942fb8f2c46ccdc03f",
+    "totalValue": "$2,914",
+    "walletLifetime": "675 days",
+    "tokens": [
+      {
+        "symbol": "OVER",
+        "chain": "base",
+        "price": "$0.2994",
+        "amount": "499.0725",
+        "usdValue": "$149.43"
+      },
+      {
+        "symbol": "AAVE",
+        "chain": "base",
+        "price": "$189.9724",
+        "amount": "0.7477",
+        "usdValue": "$142.04"
+      },
+      {
+        "symbol": "ETHFI",
+        "chain": "base",
+        "price": "$0.8283",
+        "amount": "167.8047",
+        "usdValue": "$138.99"
+      },
+      {
+        "symbol": "LINK",
+        "chain": "base",
+        "price": "$13.8294",
+        "amount": "9.9426",
+        "usdValue": "$137.50"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,127.7200",
+        "amount": "0.0432",
+        "usdValue": "$134.97"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.7200",
+        "amount": "0.0007",
+        "usdValue": "$2.13"
+      },
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2025",
+        "amount": "0.3637",
+        "usdValue": "$0.44"
+      },
+      {
+        "symbol": "SLAP",
+        "chain": "base",
+        "price": "$0.0002",
+        "amount": "16.6600",
+        "usdValue": ""
+      },
+      {
+        "symbol": "SALUKI",
+        "chain": "base",
+        "price": "$0.0₅532",
+        "amount": "33.0000",
+        "usdValue": ""
+      },
+      {
+        "symbol": "HAIR",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "12.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "Mog",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "25.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "AXOME",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "160.0000",
+        "usdValue": "$0.00"
+      },
+      {
+        "symbol": "BULL",
+        "chain": "base",
+        "price": "$0.0000",
+        "amount": "111.0000",
+        "usdValue": "$0.00"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$2,207"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Staked",
+        "token": "WELL",
+        "usdValue": "$1"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xb21356148246f5ae6395a7942fb8f2c46ccdc03f",
+    "topProtocols": [
+      {
+        "name": "Morpho",
+        "volume": "$2K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Bungee",
+        "volume": "$566"
+      },
+      {
+        "name": "Across V2",
+        "volume": "$566"
+      },
+      {
+        "name": "ungee",
+        "volume": "$499"
+      },
+      {
+        "name": "amo",
+        "volume": "$480"
+      },
+      {
+        "name": "0x0000…441c",
+        "volume": "$351"
+      },
+      {
+        "name": "Uniswap V4",
+        "volume": "$3271"
+      },
+      {
+        "name": "inch",
+        "volume": "$312"
+      },
+      {
+        "name": "0x26b6…7419",
+        "volume": "$230"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$119"
+      },
+      {
+        "name": "0x1921…77de",
+        "volume": "$60"
+      },
+      {
+        "name": "CoW Swap",
+        "volume": "$59"
+      },
+      {
+        "name": "Wrapped Ether",
+        "volume": "$58"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$5K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$5K"
+      },
+      {
+        "name": "GHO",
+        "volume": "$237"
+      },
+      {
+        "name": "OVER",
+        "volume": "$182"
+      },
+      {
+        "name": "LINK",
+        "volume": "$168"
+      },
+      {
+        "name": "AAVE",
+        "volume": "$167"
+      },
+      {
+        "name": "ETHFI",
+        "volume": "$159"
+      },
+      {
+        "name": "WETH",
+        "volume": "$115"
+      },
+      {
+        "name": "WELL",
+        "volume": "$2M"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:18:02.310Z",
+  "source": "moonwell",
+  "vaultBalance": 0.491121275853738,
+  "vaultPct": 0.00891003335795228
+}

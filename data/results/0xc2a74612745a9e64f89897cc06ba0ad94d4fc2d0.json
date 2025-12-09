@@ -1,0 +1,57 @@
+{
+  "portfolio": {
+    "address": "0xc2a74612745a9e64f89897cc06ba0ad94d4fc2d0",
+    "totalValue": "$0",
+    "walletLifetime": "311 days",
+    "tokens": [
+      {
+        "symbol": "MORPHO",
+        "chain": "base",
+        "price": "$1.2025",
+        "amount": "8.8461",
+        "usdValue": "$10.64"
+      },
+      {
+        "symbol": "WELL",
+        "chain": "base",
+        "price": "$0.0101",
+        "amount": "715.8486",
+        "usdValue": "$7.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,127.7500",
+        "amount": "0.0004",
+        "usdValue": "$1.31"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$7,686"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "MORPHO",
+        "usdValue": "$16"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xc2a74612745a9e64f89897cc06ba0ad94d4fc2d0",
+    "topProtocols": [],
+    "topTokens": []
+  },
+  "scrapedAt": "2025-12-09T08:18:37.245Z",
+  "source": "moonwell",
+  "vaultBalance": 2.407571597758677,
+  "vaultPct": 0.04367870891033606
+}

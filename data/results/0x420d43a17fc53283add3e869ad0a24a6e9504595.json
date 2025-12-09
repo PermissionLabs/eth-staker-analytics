@@ -1,0 +1,256 @@
+{
+  "portfolio": {
+    "address": "0x420d43a17fc53283add3e869ad0a24a6e9504595",
+    "totalValue": "$20,573",
+    "walletLifetime": "unknown",
+    "tokens": [
+      {
+        "symbol": "USDC",
+        "chain": "arb",
+        "price": "$1.0001",
+        "amount": "71.7536",
+        "usdValue": "$71.76"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "base",
+        "price": "$1.0001",
+        "amount": "57.6118",
+        "usdValue": "$57.62"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,121.6100",
+        "amount": "0.0134",
+        "usdValue": "$41.69"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,122.5500",
+        "amount": "0.0028",
+        "usdValue": "$8.76"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,122.5500",
+        "amount": "0.0024",
+        "usdValue": "$7.56"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "base",
+        "price": "$90,592.1400",
+        "amount": "0.00007547",
+        "usdValue": "$6.84"
+      },
+      {
+        "symbol": "cbBTC",
+        "chain": "eth",
+        "price": "$90,592.1400",
+        "amount": "0.00003394",
+        "usdValue": "$3.07"
+      },
+      {
+        "symbol": "WETH",
+        "chain": "base",
+        "price": "$3,122.5500",
+        "amount": "0.0007",
+        "usdValue": "$2.29"
+      },
+      {
+        "symbol": "USDC",
+        "chain": "matic",
+        "price": "$1.0001",
+        "amount": "1.1500",
+        "usdValue": "$1.15"
+      },
+      {
+        "symbol": "BASED",
+        "chain": "base",
+        "price": "$0.00001006",
+        "amount": "375.0000",
+        "usdValue": ""
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Kelp DAO",
+        "chain": "eth",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "ETH",
+        "usdValue": "$8,255"
+      },
+      {
+        "protocol": "GMX V2",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$7,893"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "cbBTC",
+        "usdValue": "$2,171"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "base",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$930"
+      },
+      {
+        "protocol": "Compound V3",
+        "chain": "arb",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WBTC",
+        "usdValue": "$809"
+      },
+      {
+        "protocol": "Uniswap V3",
+        "chain": "arb",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WBTC",
+        "usdValue": "$307"
+      },
+      {
+        "protocol": "Merkl",
+        "chain": "base",
+        "category": "Rewards",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$8"
+      },
+      {
+        "protocol": "Hyperliquid",
+        "chain": "unknown",
+        "category": "Deposit",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Ostium",
+        "chain": "arb",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "USDC",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0x420d43a17fc53283add3e869ad0a24a6e9504595",
+    "topProtocols": [
+      {
+        "name": "0xf77d…07c7",
+        "volume": "$25K"
+      },
+      {
+        "name": "Orderly Network",
+        "volume": "$15K"
+      },
+      {
+        "name": "Hyperlane",
+        "volume": "$13K"
+      },
+      {
+        "name": "GMX V2",
+        "volume": "$10K"
+      },
+      {
+        "name": "Compound V3",
+        "volume": "$10K"
+      },
+      {
+        "name": "Upshift",
+        "volume": "$9K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$8K"
+      },
+      {
+        "name": "Ostium",
+        "volume": "$7K"
+      },
+      {
+        "name": "Gelato",
+        "volume": "$6K"
+      },
+      {
+        "name": "Coinbase",
+        "volume": "$3K"
+      },
+      {
+        "name": "Hyperliquid",
+        "volume": "$3K"
+      },
+      {
+        "name": "0xfa3f…a884",
+        "volume": "$3K"
+      },
+      {
+        "name": "Symbiosis",
+        "volume": "$3K"
+      },
+      {
+        "name": "LI.FI",
+        "volume": "$3K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "Circle CCTP",
+        "volume": "$1K"
+      },
+      {
+        "name": "rhino.fi",
+        "volume": "$6"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "USDC",
+        "volume": "$60K"
+      },
+      {
+        "name": "WBTC",
+        "volume": "$30K"
+      },
+      {
+        "name": "tBTC",
+        "volume": "$12K"
+      },
+      {
+        "name": "cbBTC",
+        "volume": "$11K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$1K"
+      },
+      {
+        "name": "WETH",
+        "volume": "$99"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:25:07.849Z",
+  "source": "high_growth_eth",
+  "vaultBalance": 2.426954756839307,
+  "vaultPct": 0.02706925744708652
+}

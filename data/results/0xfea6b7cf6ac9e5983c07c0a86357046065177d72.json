@@ -1,0 +1,221 @@
+{
+  "portfolio": {
+    "address": "0xfea6b7cf6ac9e5983c07c0a86357046065177d72",
+    "totalValue": "$980",
+    "walletLifetime": "1410 days",
+    "tokens": [
+      {
+        "symbol": "ETH",
+        "chain": "eth",
+        "price": "$3,122.7100",
+        "amount": "0.0371",
+        "usdValue": "$115.81"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "base",
+        "price": "$3,123.4500",
+        "amount": "0.0321",
+        "usdValue": "$100.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "zora",
+        "price": "$3,124.2100",
+        "amount": "0.00007961",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "arb",
+        "price": "$3,123.4500",
+        "amount": "0.00007952",
+        "usdValue": "$0.25"
+      },
+      {
+        "symbol": "ETH",
+        "chain": "era",
+        "price": "$3,122.7100",
+        "amount": "0.00007579",
+        "usdValue": "$0.24"
+      }
+    ],
+    "positions": [
+      {
+        "protocol": "Fluid",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "ETH",
+        "usdValue": "$359"
+      },
+      {
+        "protocol": "Morpho",
+        "chain": "base",
+        "category": "Yield",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$317"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "base",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "WETH",
+        "usdValue": "$87"
+      },
+      {
+        "protocol": "Moonwell",
+        "chain": "base",
+        "category": "Lending",
+        "label": "unknown",
+        "token": "WELL",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "SyncSwap",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Stargate",
+        "chain": "op",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "WETH",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Aave V3",
+        "chain": "op",
+        "category": "Lending",
+        "label": "Supplied",
+        "token": "OP",
+        "usdValue": "$0"
+      },
+      {
+        "protocol": "Koi",
+        "chain": "era",
+        "category": "Liquidity Pool",
+        "label": "unknown",
+        "token": "USDC(bridged)",
+        "usdValue": "$0"
+      }
+    ]
+  },
+  "analysis": {
+    "address": "0xfea6b7cf6ac9e5983c07c0a86357046065177d72",
+    "topProtocols": [
+      {
+        "name": "EraLend Classic",
+        "volume": "$61K"
+      },
+      {
+        "name": "ODOS",
+        "volume": "$25K"
+      },
+      {
+        "name": "OKX",
+        "volume": "$8K"
+      },
+      {
+        "name": "Stargate",
+        "volume": "$8K"
+      },
+      {
+        "name": "Maverick",
+        "volume": "$7K"
+      },
+      {
+        "name": "zkSync Era",
+        "volume": "$7K"
+      },
+      {
+        "name": "XY Finance",
+        "volume": "$7K"
+      },
+      {
+        "name": "Aave V3",
+        "volume": "$4K"
+      },
+      {
+        "name": "Fluid",
+        "volume": "$1K"
+      },
+      {
+        "name": "Uniswap V3",
+        "volume": "$1K"
+      },
+      {
+        "name": "0xf70d…dbef",
+        "volume": "$1K"
+      },
+      {
+        "name": "SyncSwap",
+        "volume": "$1K"
+      },
+      {
+        "name": "Aerodrome V3",
+        "volume": "$999M"
+      },
+      {
+        "name": "orpho",
+        "volume": "$820"
+      },
+      {
+        "name": "0xe4ed…bce8",
+        "volume": "$695"
+      },
+      {
+        "name": "Eclipse Bridge",
+        "volume": "$657"
+      }
+    ],
+    "topTokens": [
+      {
+        "name": "KETH",
+        "volume": "$44K"
+      },
+      {
+        "name": "ETH",
+        "volume": "$17K"
+      },
+      {
+        "name": "USDC",
+        "volume": "$2K"
+      },
+      {
+        "name": "USDbC",
+        "volume": "$1K"
+      },
+      {
+        "name": "USDT",
+        "volume": "$662"
+      },
+      {
+        "name": "WETH",
+        "volume": "$413"
+      },
+      {
+        "name": "ZK",
+        "volume": "$399"
+      },
+      {
+        "name": "NB",
+        "volume": "$245"
+      },
+      {
+        "name": "USD1",
+        "volume": "$222"
+      }
+    ]
+  },
+  "scrapedAt": "2025-12-09T08:23:21.177Z",
+  "source": "moonwell",
+  "vaultBalance": 0.09942463508017352,
+  "vaultPct": 0.0018037842356281946
+}
